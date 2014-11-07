@@ -1,0 +1,16 @@
+---
+---
+
+@import "bootstrap";
+
+.footer {
+
+	border-top: 1px solid $page-header-border-color;
+	text-align: center;
+	margin-top: $line-height-computed * 2;
+
+	img {
+		height: 32px;
+		margin: 16px;
+	}
+}
