@@ -18,12 +18,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "428", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Andrew Miller", 
-    "slug": "andrew-miller"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "andrew-miller", 
+    "id": "428"
 }

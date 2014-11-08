@@ -21,12 +21,10 @@
             "name": "Selection Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4037", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Tom Blenkinsop", 
-    "slug": "tom-blenkinsop"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "tom-blenkinsop", 
+    "id": "4037"
 }

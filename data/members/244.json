@@ -4,12 +4,10 @@
         "Health"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "244", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Robert Walter", 
-    "slug": "mr-robert-walter"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-robert-walter", 
+    "id": "244"
 }

@@ -10,12 +10,10 @@
             "name": "Defence Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3917", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "John Woodcock", 
-    "slug": "john-woodcock"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "john-woodcock", 
+    "id": "3917"
 }

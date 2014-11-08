@@ -10,12 +10,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4062", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Zac Goldsmith", 
-    "slug": "zac-goldsmith"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "zac-goldsmith", 
+    "id": "4062"
 }

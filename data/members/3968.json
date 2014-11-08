@@ -8,12 +8,10 @@
         "Microfinance"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3968", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Stephen Lloyd", 
-    "slug": "stephen-lloyd"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "stephen-lloyd", 
+    "id": "3968"
 }

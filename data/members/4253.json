@@ -11,12 +11,10 @@
         "Equalities"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4253", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Seema Malhotra", 
-    "slug": "seema-malhotra"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "seema-malhotra", 
+    "id": "4253"
 }

@@ -18,12 +18,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1386", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "David Heyes", 
-    "slug": "david-heyes"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "david-heyes", 
+    "id": "1386"
 }

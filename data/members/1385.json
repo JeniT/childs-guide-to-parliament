@@ -18,12 +18,10 @@
             "name": "Scottish Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1385", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Mr Alan Reid", 
-    "slug": "mr-alan-reid"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-alan-reid", 
+    "id": "1385"
 }

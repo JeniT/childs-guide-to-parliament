@@ -5,12 +5,10 @@
         "Regeneration"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3915", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Gloria De Piero", 
-    "slug": "gloria-de-piero"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "gloria-de-piero", 
+    "id": "3915"
 }

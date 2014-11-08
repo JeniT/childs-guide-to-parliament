@@ -28,12 +28,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "384", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Miss Anne McIntosh", 
-    "slug": "miss-anne-mcintosh"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "miss-anne-mcintosh", 
+    "id": "384"
 }

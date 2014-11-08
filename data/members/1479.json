@@ -5,12 +5,10 @@
         "The Economy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1479", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Nick Herbert", 
-    "slug": "nick-herbert"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nick-herbert", 
+    "id": "1479"
 }

@@ -5,12 +5,10 @@
         "Unemployment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "514", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Ronnie Campbell", 
-    "slug": "mr-ronnie-campbell"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-ronnie-campbell", 
+    "id": "514"
 }

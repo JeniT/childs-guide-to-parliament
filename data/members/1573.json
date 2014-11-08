@@ -14,12 +14,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1573", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mrs Si\u00e2n C. James", 
-    "slug": "mrs-sian-c-james"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mrs-sian-c-james", 
+    "id": "1573"
 }

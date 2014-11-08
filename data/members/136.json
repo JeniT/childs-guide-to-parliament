@@ -28,12 +28,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "136", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Tim Yeo", 
-    "slug": "mr-tim-yeo"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-tim-yeo", 
+    "id": "136"
 }

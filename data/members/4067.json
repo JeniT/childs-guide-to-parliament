@@ -12,12 +12,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4067", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Steve Brine", 
-    "slug": "steve-brine"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "steve-brine", 
+    "id": "4067"
 }

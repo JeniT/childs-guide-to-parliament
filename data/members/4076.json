@@ -22,12 +22,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4076", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Valerie Vaz", 
-    "slug": "valerie-vaz"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "valerie-vaz", 
+    "id": "4076"
 }

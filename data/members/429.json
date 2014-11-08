@@ -17,12 +17,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "429", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Derek Twigg", 
-    "slug": "derek-twigg"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "derek-twigg", 
+    "id": "429"
 }

@@ -11,12 +11,10 @@
         "Agriculture"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1220", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Charles Hendry", 
-    "slug": "charles-hendry"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "charles-hendry", 
+    "id": "1220"
 }

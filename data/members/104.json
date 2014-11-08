@@ -6,12 +6,10 @@
         "Energy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "104", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Crispin Blunt", 
-    "slug": "crispin-blunt"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "crispin-blunt", 
+    "id": "104"
 }

@@ -15,12 +15,10 @@
             "name": "Members' Expenses Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1492", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Stephen Williams", 
-    "slug": "stephen-williams"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "stephen-williams", 
+    "id": "1492"
 }

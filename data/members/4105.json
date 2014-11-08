@@ -13,12 +13,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "4105", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Justin Tomlinson", 
-    "slug": "justin-tomlinson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "justin-tomlinson", 
+    "id": "4105"
 }

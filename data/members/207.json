@@ -7,12 +7,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "207", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Vince Cable", 
-    "slug": "vince-cable"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "vince-cable", 
+    "id": "207"
 }

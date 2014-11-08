@@ -27,12 +27,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1590", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Katy Clark", 
-    "slug": "katy-clark"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "katy-clark", 
+    "id": "1590"
 }

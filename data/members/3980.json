@@ -1,12 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3980", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Sam Gyimah", 
-    "slug": "mr-sam-gyimah"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-sam-gyimah", 
+    "id": "3980"
 }

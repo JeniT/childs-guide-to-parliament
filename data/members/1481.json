@@ -12,12 +12,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "female", 
-    "id": "1481", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Nadine Dorries", 
-    "slug": "nadine-dorries"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nadine-dorries", 
+    "id": "1481"
 }

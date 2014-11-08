@@ -20,12 +20,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3977", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Chris Heaton-Harris", 
-    "slug": "chris-heaton-harris"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "chris-heaton-harris", 
+    "id": "3977"
 }

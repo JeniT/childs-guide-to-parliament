@@ -22,12 +22,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4116", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Michael Ellis", 
-    "slug": "michael-ellis"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "michael-ellis", 
+    "id": "4116"
 }

@@ -8,12 +8,10 @@
         "Health"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4051", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "John Glen", 
-    "slug": "john-glen"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "john-glen", 
+    "id": "4051"
 }

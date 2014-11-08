@@ -11,12 +11,10 @@
             "name": "Regulatory Reform"
         }
     ], 
-    "gender": "male", 
-    "id": "4050", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Gordon Henderson", 
-    "slug": "gordon-henderson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "gordon-henderson", 
+    "id": "4050"
 }

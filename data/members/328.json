@@ -9,12 +9,10 @@
             "name": "National Security Strategy (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "328", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Margaret Beckett", 
-    "slug": "margaret-beckett"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "margaret-beckett", 
+    "id": "328"
 }

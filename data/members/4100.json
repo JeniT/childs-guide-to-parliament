@@ -11,12 +11,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4100", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sheryll Murray", 
-    "slug": "sheryll-murray"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sheryll-murray", 
+    "id": "4100"
 }

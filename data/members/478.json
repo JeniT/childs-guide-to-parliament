@@ -10,12 +10,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "478", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Frank Field", 
-    "slug": "mr-frank-field"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-frank-field", 
+    "id": "478"
 }

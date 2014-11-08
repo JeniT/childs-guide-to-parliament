@@ -6,12 +6,10 @@
         "Europe"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1529", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr David Gauke", 
-    "slug": "mr-david-gauke"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-gauke", 
+    "id": "1529"
 }

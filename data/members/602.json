@@ -15,12 +15,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "602", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Michael Connarty", 
-    "slug": "michael-connarty"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "michael-connarty", 
+    "id": "602"
 }

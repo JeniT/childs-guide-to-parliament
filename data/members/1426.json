@@ -22,12 +22,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "1426", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Andrew Turner", 
-    "slug": "mr-andrew-turner"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-andrew-turner", 
+    "id": "1426"
 }

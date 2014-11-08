@@ -6,12 +6,10 @@
         "Local And Regional Government"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "422", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Chris Leslie", 
-    "slug": "chris-leslie"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "chris-leslie", 
+    "id": "422"
 }

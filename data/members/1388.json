@@ -5,12 +5,10 @@
         "Social Policy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1388", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Democratic Unionist"
-    }, 
     "display_name": "Mr Nigel Dodds", 
-    "slug": "mr-nigel-dodds"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "mr-nigel-dodds", 
+    "id": "1388"
 }

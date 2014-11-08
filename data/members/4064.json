@@ -15,12 +15,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4064", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Steve Baker", 
-    "slug": "steve-baker"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "steve-baker", 
+    "id": "4064"
 }

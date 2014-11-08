@@ -4,12 +4,10 @@
         "Finance"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4039", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Joseph Johnson", 
-    "slug": "joseph-johnson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "joseph-johnson", 
+    "id": "4039"
 }

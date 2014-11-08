@@ -6,12 +6,10 @@
         "Information Economy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1446", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Chris Bryant", 
-    "slug": "chris-bryant"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "chris-bryant", 
+    "id": "1446"
 }

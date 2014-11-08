@@ -17,12 +17,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "237", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Mr Adrian Sanders", 
-    "slug": "mr-adrian-sanders"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-adrian-sanders", 
+    "id": "237"
 }

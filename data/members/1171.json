@@ -7,12 +7,10 @@
         "Youth Policy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1171", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Liam Byrne", 
-    "slug": "mr-liam-byrne"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-liam-byrne", 
+    "id": "1171"
 }

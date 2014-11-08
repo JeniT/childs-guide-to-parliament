@@ -22,12 +22,10 @@
             "name": "Committee on Standards: Standards Review Sub-Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4106", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Robert Buckland", 
-    "slug": "mr-robert-buckland"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-robert-buckland", 
+    "id": "4106"
 }

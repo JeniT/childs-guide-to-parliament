@@ -5,12 +5,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1416", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Sinn Fein"
-    }, 
     "display_name": "Michelle Gildernew", 
-    "slug": "michelle-gildernew"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Sinn Fein", 
+    "slug": "michelle-gildernew", 
+    "id": "1416"
 }

@@ -1,12 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1496", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Shailesh Vara", 
-    "slug": "mr-shailesh-vara"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-shailesh-vara", 
+    "id": "1496"
 }

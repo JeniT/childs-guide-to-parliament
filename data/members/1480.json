@@ -5,12 +5,10 @@
         "Media"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1480", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Maria Miller", 
-    "slug": "maria-miller"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "maria-miller", 
+    "id": "1480"
 }

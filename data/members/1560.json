@@ -5,12 +5,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1560", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Jeremy Wright", 
-    "slug": "jeremy-wright"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jeremy-wright", 
+    "id": "1560"
 }

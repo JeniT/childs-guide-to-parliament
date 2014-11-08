@@ -1,12 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4021", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Chris Skidmore", 
-    "slug": "chris-skidmore"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "chris-skidmore", 
+    "id": "4021"
 }

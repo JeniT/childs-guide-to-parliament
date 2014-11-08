@@ -10,12 +10,10 @@
         "Dance"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1462", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Dame  Angela Watkinson", 
-    "slug": "dame-angela-watkinson"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dame-angela-watkinson", 
+    "id": "1462"
 }

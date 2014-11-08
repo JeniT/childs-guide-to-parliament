@@ -16,12 +16,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "489", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Dave Watts", 
-    "slug": "mr-dave-watts"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-dave-watts", 
+    "id": "489"
 }

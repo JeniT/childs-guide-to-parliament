@@ -7,12 +7,10 @@
         "Adoption And Fostering"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1605", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Edward Timpson", 
-    "slug": "mr-edward-timpson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-edward-timpson", 
+    "id": "1605"
 }

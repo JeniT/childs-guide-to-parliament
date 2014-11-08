@@ -10,12 +10,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1498", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Mr Mark Williams", 
-    "slug": "mr-mark-williams"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-mark-williams", 
+    "id": "1498"
 }

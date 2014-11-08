@@ -14,12 +14,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4130", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Social Democratic & Labour Party"
-    }, 
     "display_name": "Ms Margaret Ritchie", 
-    "slug": "ms-margaret-ritchie"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Social Democratic & Labour Party", 
+    "slug": "ms-margaret-ritchie", 
+    "id": "4130"
 }

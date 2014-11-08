@@ -1,12 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "15", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr David Lidington", 
-    "slug": "mr-david-lidington"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-lidington", 
+    "id": "15"
 }

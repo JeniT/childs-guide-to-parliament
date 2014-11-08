@@ -7,12 +7,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4320", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Robert Jenrick", 
-    "slug": "robert-jenrick"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "robert-jenrick", 
+    "id": "4320"
 }

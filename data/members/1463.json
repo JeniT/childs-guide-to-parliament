@@ -8,12 +8,10 @@
         "Technology"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1463", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Tom Watson", 
-    "slug": "mr-tom-watson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-tom-watson", 
+    "id": "1463"
 }

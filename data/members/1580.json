@@ -7,12 +7,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1580", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Edward Vaizey", 
-    "slug": "mr-edward-vaizey"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-edward-vaizey", 
+    "id": "1580"
 }

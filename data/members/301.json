@@ -11,12 +11,10 @@
         "Community Empowerment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "301", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Richard Burden", 
-    "slug": "richard-burden"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "richard-burden", 
+    "id": "301"
 }

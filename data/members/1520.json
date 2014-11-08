@@ -13,12 +13,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1520", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Mark Harper", 
-    "slug": "mr-mark-harper"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-mark-harper", 
+    "id": "1520"
 }

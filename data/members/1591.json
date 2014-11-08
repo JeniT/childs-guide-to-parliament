@@ -8,12 +8,10 @@
         "Social Care"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1591", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Tim Farron", 
-    "slug": "tim-farron"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "tim-farron", 
+    "id": "1591"
 }

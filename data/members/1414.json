@@ -6,12 +6,10 @@
         "Health"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1414", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Mark Hoban", 
-    "slug": "mr-mark-hoban"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-mark-hoban", 
+    "id": "1414"
 }

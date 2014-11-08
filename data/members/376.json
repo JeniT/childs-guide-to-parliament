@@ -6,12 +6,10 @@
         "Post Office"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "376", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Alan Johnson", 
-    "slug": "alan-johnson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "alan-johnson", 
+    "id": "376"
 }

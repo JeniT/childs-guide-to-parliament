@@ -17,12 +17,10 @@
             "name": "Public Administration Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3965", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Sheila Gilmore", 
-    "slug": "sheila-gilmore"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sheila-gilmore", 
+    "id": "3965"
 }

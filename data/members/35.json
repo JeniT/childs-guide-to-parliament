@@ -21,12 +21,10 @@
             "name": "Defence Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "35", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Sir Bob Russell", 
-    "slug": "sir-bob-russell"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-bob-russell", 
+    "id": "35"
 }

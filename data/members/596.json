@@ -7,12 +7,10 @@
         "Constitution"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "596", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Alistair Darling", 
-    "slug": "mr-alistair-darling"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-alistair-darling", 
+    "id": "596"
 }

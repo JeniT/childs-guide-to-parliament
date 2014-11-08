@@ -1,12 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "161", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Stephen Pound", 
-    "slug": "stephen-pound"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "stephen-pound", 
+    "id": "161"
 }

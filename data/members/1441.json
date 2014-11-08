@@ -13,12 +13,10 @@
             "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "1441", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Henry Bellingham", 
-    "slug": "mr-henry-bellingham"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-henry-bellingham", 
+    "id": "1441"
 }

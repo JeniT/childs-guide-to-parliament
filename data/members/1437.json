@@ -13,12 +13,10 @@
             "name": "Northern Ireland Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1437", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Independent"
-    }, 
     "display_name": "Lady Hermon", 
-    "slug": "lady-hermon"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Independent", 
+    "slug": "lady-hermon", 
+    "id": "1437"
 }

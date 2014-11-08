@@ -6,12 +6,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1582", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Grant Shapps", 
-    "slug": "grant-shapps"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "grant-shapps", 
+    "id": "1582"
 }

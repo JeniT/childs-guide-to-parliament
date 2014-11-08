@@ -7,12 +7,10 @@
         "Fruit Farming"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1415", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir Hugh Robertson", 
-    "slug": "sir-hugh-robertson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-hugh-robertson", 
+    "id": "1415"
 }

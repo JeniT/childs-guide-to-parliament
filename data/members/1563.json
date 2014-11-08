@@ -13,12 +13,10 @@
             "name": "Speaker's Committee on the Electoral Commission"
         }
     ], 
-    "gender": "male", 
-    "id": "1563", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Mr Nick Clegg", 
-    "slug": "mr-nick-clegg"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-nick-clegg", 
+    "id": "1563"
 }

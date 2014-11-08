@@ -11,12 +11,10 @@
             "name": "International Development Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3958", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Fiona Bruce", 
-    "slug": "fiona-bruce"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "fiona-bruce", 
+    "id": "3958"
 }

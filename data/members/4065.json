@@ -14,12 +14,10 @@
             "name": "Public Accounts Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4065", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Jackie Doyle-Price", 
-    "slug": "jackie-doyle-price"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jackie-doyle-price", 
+    "id": "4065"
 }

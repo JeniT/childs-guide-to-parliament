@@ -17,12 +17,10 @@
             "name": "Backbench Business Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4000", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Ian Mearns", 
-    "slug": "ian-mearns"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ian-mearns", 
+    "id": "4000"
 }

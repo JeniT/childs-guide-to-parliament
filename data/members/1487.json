@@ -6,12 +6,10 @@
         "Tourism"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1487", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Tobias Ellwood", 
-    "slug": "mr-tobias-ellwood"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-tobias-ellwood", 
+    "id": "1487"
 }

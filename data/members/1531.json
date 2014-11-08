@@ -4,12 +4,10 @@
         "Policing"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1531", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Lynne Featherstone", 
-    "slug": "lynne-featherstone"
+    "gender": "female", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "lynne-featherstone", 
+    "id": "1531"
 }

@@ -12,12 +12,10 @@
             "name": "House of Commons Governance Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "69", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir Oliver Heald", 
-    "slug": "sir-oliver-heald"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-oliver-heald", 
+    "id": "69"
 }

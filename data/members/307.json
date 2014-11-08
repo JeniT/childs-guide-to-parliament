@@ -5,12 +5,10 @@
         "New Technology"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "307", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Geoffrey Robinson", 
-    "slug": "mr-geoffrey-robinson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-geoffrey-robinson", 
+    "id": "307"
 }

@@ -6,12 +6,10 @@
         "Science And Engineering"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4098", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Dr Th\u00e9r\u00e8se Coffey", 
-    "slug": "dr-therese-coffey"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-therese-coffey", 
+    "id": "4098"
 }

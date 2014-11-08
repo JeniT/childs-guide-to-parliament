@@ -14,12 +14,10 @@
         "Constitutional Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "427", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Stephen O'Brien", 
-    "slug": "mr-stephen-obrien"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-stephen-obrien", 
+    "id": "427"
 }

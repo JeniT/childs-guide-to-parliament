@@ -9,12 +9,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4103", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Pat Glass", 
-    "slug": "pat-glass"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "pat-glass", 
+    "id": "4103"
 }

@@ -6,12 +6,10 @@
         "International Development"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3981", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Anas Sarwar", 
-    "slug": "anas-sarwar"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "anas-sarwar", 
+    "id": "3981"
 }

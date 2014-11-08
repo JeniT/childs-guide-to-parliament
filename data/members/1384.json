@@ -16,12 +16,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "1384", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Scottish National"
-    }, 
     "display_name": "Mr Mike Weir", 
-    "slug": "mr-mike-weir"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Scottish National", 
+    "slug": "mr-mike-weir", 
+    "id": "1384"
 }

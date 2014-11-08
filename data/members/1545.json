@@ -23,12 +23,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "1545", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "David T. C. Davies", 
-    "slug": "david-t-c-davies"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "david-t-c-davies", 
+    "id": "1545"
 }

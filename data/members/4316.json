@@ -7,12 +7,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4316", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mike Kane", 
-    "slug": "mike-kane"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mike-kane", 
+    "id": "4316"
 }

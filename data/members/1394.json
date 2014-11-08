@@ -11,12 +11,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1394", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Roger Williams", 
-    "slug": "roger-williams"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "roger-williams", 
+    "id": "1394"
 }

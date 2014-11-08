@@ -5,12 +5,10 @@
         "Tax Reform"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3988", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Ben Gummer", 
-    "slug": "ben-gummer"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "ben-gummer", 
+    "id": "3988"
 }

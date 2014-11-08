@@ -5,12 +5,10 @@
         "Law And Order"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1530", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "James Brokenshire", 
-    "slug": "james-brokenshire"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "james-brokenshire", 
+    "id": "1530"
 }

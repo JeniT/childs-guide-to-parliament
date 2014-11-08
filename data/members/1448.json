@@ -10,12 +10,10 @@
         "Child Protection"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1448", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Meg Munn", 
-    "slug": "meg-munn"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "meg-munn", 
+    "id": "1448"
 }

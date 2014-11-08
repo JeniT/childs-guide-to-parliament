@@ -12,12 +12,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "193", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Siobhain McDonagh", 
-    "slug": "siobhain-mcdonagh"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "siobhain-mcdonagh", 
+    "id": "193"
 }

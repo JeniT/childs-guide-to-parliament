@@ -12,12 +12,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "437", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr David Crausby", 
-    "slug": "mr-david-crausby"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-david-crausby", 
+    "id": "437"
 }

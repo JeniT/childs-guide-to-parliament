@@ -18,12 +18,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4055", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Mark Spencer", 
-    "slug": "mr-mark-spencer"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-mark-spencer", 
+    "id": "4055"
 }

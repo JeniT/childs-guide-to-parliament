@@ -8,12 +8,10 @@
         "Skills"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4077", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Emma Reynolds", 
-    "slug": "emma-reynolds"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "emma-reynolds", 
+    "id": "4077"
 }

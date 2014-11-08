@@ -12,12 +12,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4002", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Nick de Bois", 
-    "slug": "nick-de-bois"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nick-de-bois", 
+    "id": "4002"
 }

@@ -5,12 +5,10 @@
         "Community Empowerment"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "159", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Dame  Tessa Jowell", 
-    "slug": "dame-tessa-jowell"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "dame-tessa-jowell", 
+    "id": "159"
 }

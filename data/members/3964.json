@@ -27,12 +27,10 @@
             "name": "Committee on Standards: Standards Review Sub-Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3964", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Fiona O'Donnell", 
-    "slug": "fiona-odonnell"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "fiona-odonnell", 
+    "id": "3964"
 }

@@ -25,12 +25,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "361", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Sir Alan Meale", 
-    "slug": "sir-alan-meale"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sir-alan-meale", 
+    "id": "361"
 }

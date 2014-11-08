@@ -22,12 +22,10 @@
             "name": "Defence Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4137", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Rory Stewart", 
-    "slug": "rory-stewart"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "rory-stewart", 
+    "id": "4137"
 }

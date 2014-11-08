@@ -14,12 +14,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "178", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "John McDonnell", 
-    "slug": "john-mcdonnell"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "john-mcdonnell", 
+    "id": "178"
 }

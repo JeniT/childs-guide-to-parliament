@@ -5,12 +5,10 @@
         "Voluntary Sector"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1523", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Anne Milton", 
-    "slug": "anne-milton"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "anne-milton", 
+    "id": "1523"
 }

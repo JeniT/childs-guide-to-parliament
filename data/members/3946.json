@@ -6,12 +6,10 @@
         "Business"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3946", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Gordon Birtwistle", 
-    "slug": "gordon-birtwistle"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "gordon-birtwistle", 
+    "id": "3946"
 }

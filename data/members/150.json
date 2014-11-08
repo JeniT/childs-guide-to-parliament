@@ -8,12 +8,10 @@
         "Civil Liberties"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "150", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Ms Harriet Harman", 
-    "slug": "ms-harriet-harman"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ms-harriet-harman", 
+    "id": "150"
 }

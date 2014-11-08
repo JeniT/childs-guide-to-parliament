@@ -5,12 +5,10 @@
         "Human Rights And Equalities Issues"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "98", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Shaun Woodward", 
-    "slug": "mr-shaun-woodward"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-shaun-woodward", 
+    "id": "98"
 }

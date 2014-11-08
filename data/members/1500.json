@@ -11,12 +11,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1500", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mrs Theresa Villiers", 
-    "slug": "mrs-theresa-villiers"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mrs-theresa-villiers", 
+    "id": "1500"
 }

@@ -9,12 +9,10 @@
         "Social Enterprise And Entrepreneurship"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "411", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Mr Barry Sheerman", 
-    "slug": "mr-barry-sheerman"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mr-barry-sheerman", 
+    "id": "411"
 }

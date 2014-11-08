@@ -6,12 +6,10 @@
         "Transport"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1564", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Angela Smith", 
-    "slug": "angela-smith"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "angela-smith", 
+    "id": "1564"
 }

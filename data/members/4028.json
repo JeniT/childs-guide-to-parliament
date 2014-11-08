@@ -14,12 +14,10 @@
             "name": "Transport Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4028", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Karl McCartney", 
-    "slug": "karl-mccartney"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "karl-mccartney", 
+    "id": "4028"
 }

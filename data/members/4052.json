@@ -12,12 +12,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4052", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mark Pawsey", 
-    "slug": "mark-pawsey"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mark-pawsey", 
+    "id": "4052"
 }

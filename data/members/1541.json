@@ -20,12 +20,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1541", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Nia Griffith", 
-    "slug": "nia-griffith"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "nia-griffith", 
+    "id": "1541"
 }

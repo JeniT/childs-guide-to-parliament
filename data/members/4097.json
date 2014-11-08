@@ -5,12 +5,10 @@
         "Food"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4097", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Elizabeth Truss", 
-    "slug": "elizabeth-truss"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "elizabeth-truss", 
+    "id": "4097"
 }

@@ -14,12 +14,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "655", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Democratic Unionist"
-    }, 
     "display_name": "Dr William McCrea", 
-    "slug": "dr-william-mccrea"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "dr-william-mccrea", 
+    "id": "655"
 }

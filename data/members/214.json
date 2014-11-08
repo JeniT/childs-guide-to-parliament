@@ -8,12 +8,10 @@
         "Sport And Tourism"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "214", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Mr Don Foster", 
-    "slug": "mr-don-foster"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-don-foster", 
+    "id": "214"
 }

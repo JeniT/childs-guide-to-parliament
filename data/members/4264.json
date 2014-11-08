@@ -7,12 +7,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4264", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Stephen Doughty", 
-    "slug": "stephen-doughty"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "stephen-doughty", 
+    "id": "4264"
 }

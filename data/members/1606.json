@@ -12,12 +12,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1606", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "John Howell", 
-    "slug": "john-howell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "john-howell", 
+    "id": "1606"
 }

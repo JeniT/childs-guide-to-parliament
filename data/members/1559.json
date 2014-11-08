@@ -4,12 +4,10 @@
         "Pensions"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1559", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "James Duddridge", 
-    "slug": "james-duddridge"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "james-duddridge", 
+    "id": "1559"
 }

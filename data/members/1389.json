@@ -5,12 +5,10 @@
         "Overseas Development"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1389", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Gregory Barker", 
-    "slug": "gregory-barker"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "gregory-barker", 
+    "id": "1389"
 }

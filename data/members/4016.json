@@ -13,12 +13,10 @@
             "name": "Speaker's Advisory Committee on Works of Art"
         }
     ], 
-    "gender": "male", 
-    "id": "4016", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "George Hollingbery", 
-    "slug": "george-hollingbery"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "george-hollingbery", 
+    "id": "4016"
 }

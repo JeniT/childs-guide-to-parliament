@@ -11,12 +11,10 @@
             "name": "Selection Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "529", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Alan Campbell", 
-    "slug": "mr-alan-campbell"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-alan-campbell", 
+    "id": "529"
 }

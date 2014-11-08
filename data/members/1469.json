@@ -13,12 +13,10 @@
             "name": "International Development Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1469", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Sir Tony Cunningham", 
-    "slug": "sir-tony-cunningham"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sir-tony-cunningham", 
+    "id": "1469"
 }

@@ -12,12 +12,10 @@
             "name": "Procedure Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4047", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Tom Greatrex", 
-    "slug": "tom-greatrex"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "tom-greatrex", 
+    "id": "4047"
 }

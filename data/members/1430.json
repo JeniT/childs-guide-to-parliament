@@ -18,12 +18,10 @@
             "name": "Defence Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1430", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Dai Havard", 
-    "slug": "mr-dai-havard"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-dai-havard", 
+    "id": "1430"
 }

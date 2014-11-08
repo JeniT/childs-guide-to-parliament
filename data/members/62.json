@@ -35,12 +35,10 @@
             "name": "Committee on Standards: Standards Review Sub-Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "62", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Dr Alan Whitehead", 
-    "slug": "dr-alan-whitehead"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "dr-alan-whitehead", 
+    "id": "62"
 }

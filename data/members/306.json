@@ -7,12 +7,10 @@
         "Foreign Policy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "306", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Bob Ainsworth", 
-    "slug": "mr-bob-ainsworth"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-bob-ainsworth", 
+    "id": "306"
 }

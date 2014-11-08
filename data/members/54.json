@@ -18,12 +18,10 @@
             "name": "Defence Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "54", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Dr Julian Lewis", 
-    "slug": "dr-julian-lewis"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-julian-lewis", 
+    "id": "54"
 }

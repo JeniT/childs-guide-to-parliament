@@ -5,12 +5,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "223", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Dr Liam Fox", 
-    "slug": "dr-liam-fox"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-liam-fox", 
+    "id": "223"
 }

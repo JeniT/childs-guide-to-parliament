@@ -7,12 +7,10 @@
         "Crime"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1427", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Andy Burnham", 
-    "slug": "andy-burnham"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "andy-burnham", 
+    "id": "1427"
 }

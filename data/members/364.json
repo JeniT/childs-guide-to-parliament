@@ -21,12 +21,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "364", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Graham Allen", 
-    "slug": "mr-graham-allen"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-graham-allen", 
+    "id": "364"
 }

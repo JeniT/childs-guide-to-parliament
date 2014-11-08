@@ -8,12 +8,10 @@
         "Social Policy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "152", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Iain Duncan Smith", 
-    "slug": "mr-iain-duncan-smith"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-iain-duncan-smith", 
+    "id": "152"
 }

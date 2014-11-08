@@ -7,12 +7,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3975", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Chris Kelly", 
-    "slug": "chris-kelly"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "chris-kelly", 
+    "id": "3975"
 }

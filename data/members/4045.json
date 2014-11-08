@@ -9,12 +9,10 @@
         "Social Justice"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4045", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Ian Swales", 
-    "slug": "ian-swales"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "ian-swales", 
+    "id": "4045"
 }

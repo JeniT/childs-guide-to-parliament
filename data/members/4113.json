@@ -20,12 +20,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4113", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Nadhim Zahawi", 
-    "slug": "nadhim-zahawi"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nadhim-zahawi", 
+    "id": "4113"
 }

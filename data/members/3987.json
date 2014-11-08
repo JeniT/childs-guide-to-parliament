@@ -12,12 +12,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3987", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Rehman Chishti", 
-    "slug": "rehman-chishti"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "rehman-chishti", 
+    "id": "3987"
 }

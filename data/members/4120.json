@@ -7,12 +7,10 @@
         "Justice"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4120", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Kate Green", 
-    "slug": "kate-green"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "kate-green", 
+    "id": "4120"
 }

@@ -10,12 +10,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3943", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Plaid Cymru"
-    }, 
     "display_name": "Jonathan Edwards", 
-    "slug": "jonathan-edwards"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Plaid Cymru", 
+    "slug": "jonathan-edwards", 
+    "id": "3943"
 }

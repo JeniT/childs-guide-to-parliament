@@ -3,12 +3,10 @@
         "Health"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "46", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Simon Burns", 
-    "slug": "mr-simon-burns"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-simon-burns", 
+    "id": "46"
 }

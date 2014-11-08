@@ -9,12 +9,10 @@
         "Community And Youth Engagement"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4128", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Chuka Umunna", 
-    "slug": "mr-chuka-umunna"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-chuka-umunna", 
+    "id": "4128"
 }

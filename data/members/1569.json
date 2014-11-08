@@ -15,12 +15,10 @@
             "name": "Finance and Services Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1569", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Robert Flello", 
-    "slug": "robert-flello"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "robert-flello", 
+    "id": "1569"
 }

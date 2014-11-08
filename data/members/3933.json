@@ -15,12 +15,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3933", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Charlotte Leslie", 
-    "slug": "charlotte-leslie"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "charlotte-leslie", 
+    "id": "3933"
 }

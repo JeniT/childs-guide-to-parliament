@@ -17,12 +17,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "2", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Kelvin Hopkins", 
-    "slug": "kelvin-hopkins"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "kelvin-hopkins", 
+    "id": "2"
 }

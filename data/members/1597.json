@@ -7,12 +7,10 @@
             "name": "Northern Ireland Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1597", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Democratic Unionist"
-    }, 
     "display_name": "David Simpson", 
-    "slug": "david-simpson"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "david-simpson", 
+    "id": "1597"
 }

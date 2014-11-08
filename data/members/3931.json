@@ -20,12 +20,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3931", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Dr Julian Huppert", 
-    "slug": "dr-julian-huppert"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "dr-julian-huppert", 
+    "id": "3931"
 }

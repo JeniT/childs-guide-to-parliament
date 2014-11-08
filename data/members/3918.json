@@ -5,12 +5,10 @@
         "Public Services"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3918", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Jane Ellison", 
-    "slug": "jane-ellison"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jane-ellison", 
+    "id": "3918"
 }

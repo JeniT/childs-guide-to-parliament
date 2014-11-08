@@ -22,12 +22,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "1436", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Paul Farrelly", 
-    "slug": "paul-farrelly"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "paul-farrelly", 
+    "id": "1436"
 }

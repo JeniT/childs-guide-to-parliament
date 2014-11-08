@@ -6,12 +6,10 @@
         "Equality"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1536", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Emily Thornberry", 
-    "slug": "emily-thornberry"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "emily-thornberry", 
+    "id": "1536"
 }

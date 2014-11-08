@@ -7,12 +7,10 @@
         "Space"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4017", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Penny Mordaunt", 
-    "slug": "penny-mordaunt"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "penny-mordaunt", 
+    "id": "4017"
 }

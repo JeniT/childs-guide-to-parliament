@@ -12,12 +12,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3921", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Dr Phillip Lee", 
-    "slug": "dr-phillip-lee"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-phillip-lee", 
+    "id": "3921"
 }

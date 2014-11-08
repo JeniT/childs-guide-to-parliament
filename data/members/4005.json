@@ -21,12 +21,10 @@
             "name": "Backbench Business Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4005", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Bob Blackman", 
-    "slug": "bob-blackman"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "bob-blackman", 
+    "id": "4005"
 }

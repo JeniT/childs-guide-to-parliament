@@ -6,12 +6,10 @@
         "Regeneration"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4063", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Gemma Doyle", 
-    "slug": "gemma-doyle"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "gemma-doyle", 
+    "id": "4063"
 }

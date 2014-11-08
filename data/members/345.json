@@ -22,12 +22,10 @@
             "name": "Members' Expenses Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "345", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir Edward Leigh", 
-    "slug": "sir-edward-leigh"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-edward-leigh", 
+    "id": "345"
 }

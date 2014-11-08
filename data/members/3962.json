@@ -17,12 +17,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3962", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Thomas Docherty", 
-    "slug": "thomas-docherty"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "thomas-docherty", 
+    "id": "3962"
 }

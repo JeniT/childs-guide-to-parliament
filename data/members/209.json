@@ -24,12 +24,10 @@
             "name": "Joint Committee on Security"
         }
     ], 
-    "gender": "male", 
-    "id": "209", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir John Randall", 
-    "slug": "sir-john-randall"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-john-randall", 
+    "id": "209"
 }

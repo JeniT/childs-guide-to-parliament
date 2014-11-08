@@ -13,12 +13,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3923", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Mr David Ward", 
-    "slug": "mr-david-ward"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-david-ward", 
+    "id": "3923"
 }

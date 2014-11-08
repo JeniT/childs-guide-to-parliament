@@ -13,12 +13,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1548", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Jessica Morden", 
-    "slug": "jessica-morden"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jessica-morden", 
+    "id": "1548"
 }

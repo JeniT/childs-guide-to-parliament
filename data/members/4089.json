@@ -14,12 +14,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4089", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Tessa Munt", 
-    "slug": "tessa-munt"
+    "gender": "female", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "tessa-munt", 
+    "id": "4089"
 }

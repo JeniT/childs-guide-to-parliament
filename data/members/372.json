@@ -24,12 +24,10 @@
             "name": "Public Accounts Commission"
         }
     ], 
-    "gender": "male", 
-    "id": "372", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Austin Mitchell", 
-    "slug": "austin-mitchell"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "austin-mitchell", 
+    "id": "372"
 }

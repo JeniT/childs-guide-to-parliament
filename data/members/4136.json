@@ -23,12 +23,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4136", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Nigel Mills", 
-    "slug": "nigel-mills"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nigel-mills", 
+    "id": "4136"
 }

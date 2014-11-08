@@ -10,12 +10,10 @@
             "name": "International Development Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4025", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Pauline Latham", 
-    "slug": "pauline-latham"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "pauline-latham", 
+    "id": "4025"
 }

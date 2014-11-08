@@ -6,12 +6,10 @@
         "Local And Regional Government"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "33", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Eric Pickles", 
-    "slug": "mr-eric-pickles"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-eric-pickles", 
+    "id": "33"
 }

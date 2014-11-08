@@ -12,12 +12,10 @@
             "name": "Northern Ireland Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "210", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Kate Hoey", 
-    "slug": "kate-hoey"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "kate-hoey", 
+    "id": "210"
 }

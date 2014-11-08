@@ -5,12 +5,10 @@
         "Private Occupational Pensions"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4080", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "David Mowat", 
-    "slug": "david-mowat"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "david-mowat", 
+    "id": "4080"
 }

@@ -17,12 +17,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "4034", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Yvonne Fovargue", 
-    "slug": "yvonne-fovargue"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "yvonne-fovargue", 
+    "id": "4034"
 }

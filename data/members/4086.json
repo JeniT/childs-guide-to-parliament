@@ -9,12 +9,10 @@
         "Defence"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4086", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Alun Cairns", 
-    "slug": "alun-cairns"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "alun-cairns", 
+    "id": "4086"
 }

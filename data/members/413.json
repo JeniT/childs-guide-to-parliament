@@ -10,12 +10,10 @@
         "Local Government"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "413", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Hilary Benn", 
-    "slug": "hilary-benn"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "hilary-benn", 
+    "id": "413"
 }

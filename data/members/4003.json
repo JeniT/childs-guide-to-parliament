@@ -15,12 +15,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4003", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Teresa Pearce", 
-    "slug": "teresa-pearce"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "teresa-pearce", 
+    "id": "4003"
 }

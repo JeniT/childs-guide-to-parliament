@@ -6,12 +6,10 @@
         "Trade And Industry"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "123", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Andrew Lansley", 
-    "slug": "mr-andrew-lansley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-andrew-lansley", 
+    "id": "123"
 }

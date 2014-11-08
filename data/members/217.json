@@ -14,12 +14,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "female", 
-    "id": "217", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Dame Dawn Primarolo", 
-    "slug": "dame-dawn-primarolo"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "dame-dawn-primarolo", 
+    "id": "217"
 }

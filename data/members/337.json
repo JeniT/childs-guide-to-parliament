@@ -13,12 +13,10 @@
             "name": "Human Rights (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "337", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir Edward Garnier", 
-    "slug": "sir-edward-garnier"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-edward-garnier", 
+    "id": "337"
 }

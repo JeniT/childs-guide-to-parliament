@@ -6,12 +6,10 @@
         "Public Services"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1577", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Sadiq Khan", 
-    "slug": "sadiq-khan"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sadiq-khan", 
+    "id": "1577"
 }

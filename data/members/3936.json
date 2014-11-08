@@ -6,12 +6,10 @@
         "Brewery And Pub Industry"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3936", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Andrew Griffiths", 
-    "slug": "andrew-griffiths"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-griffiths", 
+    "id": "3936"
 }

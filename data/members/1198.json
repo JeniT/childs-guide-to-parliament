@@ -17,12 +17,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1198", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr David Evennett", 
-    "slug": "mr-david-evennett"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-evennett", 
+    "id": "1198"
 }

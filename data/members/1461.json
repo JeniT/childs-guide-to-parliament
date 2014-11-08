@@ -13,12 +13,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1461", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "David Wright", 
-    "slug": "david-wright"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "david-wright", 
+    "id": "1461"
 }

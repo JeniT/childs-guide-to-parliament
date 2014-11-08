@@ -5,12 +5,10 @@
         "Intellectual Property"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1440", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Scottish National"
-    }, 
     "display_name": "Pete Wishart", 
-    "slug": "pete-wishart"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Scottish National", 
+    "slug": "pete-wishart", 
+    "id": "1440"
 }

@@ -10,12 +10,10 @@
         "Civil Liberties"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4013", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Gavin Shuker", 
-    "slug": "gavin-shuker"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "gavin-shuker", 
+    "id": "4013"
 }

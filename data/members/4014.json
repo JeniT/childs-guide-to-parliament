@@ -11,12 +11,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4014", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Alok Sharma", 
-    "slug": "alok-sharma"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "alok-sharma", 
+    "id": "4014"
 }

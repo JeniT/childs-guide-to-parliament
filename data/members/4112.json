@@ -12,12 +12,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4112", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Dan Byles", 
-    "slug": "dan-byles"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dan-byles", 
+    "id": "4112"
 }

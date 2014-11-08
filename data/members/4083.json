@@ -14,12 +14,10 @@
             "name": "Speaker's Advisory Committee on Works of Art"
         }
     ], 
-    "gender": "female", 
-    "id": "4083", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Alison McGovern", 
-    "slug": "alison-mcgovern"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "alison-mcgovern", 
+    "id": "4083"
 }

@@ -13,12 +13,10 @@
             "name": "Parliamentary Privilege (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "4111", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Tristram Hunt", 
-    "slug": "tristram-hunt"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "tristram-hunt", 
+    "id": "4111"
 }

@@ -13,12 +13,10 @@
             "name": "Parliamentary Privilege (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "36", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mrs Eleanor Laing", 
-    "slug": "mrs-eleanor-laing"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mrs-eleanor-laing", 
+    "id": "36"
 }

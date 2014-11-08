@@ -10,12 +10,10 @@
         "Personal Debt"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1567", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Lorely Burt", 
-    "slug": "lorely-burt"
+    "gender": "female", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "lorely-burt", 
+    "id": "1567"
 }

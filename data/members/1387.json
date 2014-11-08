@@ -13,12 +13,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1387", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "John Mann", 
-    "slug": "john-mann"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "john-mann", 
+    "id": "1387"
 }

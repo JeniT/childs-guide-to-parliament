@@ -25,12 +25,10 @@
             "name": "Culture, Media and Sport Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3950", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Tracey Crouch", 
-    "slug": "tracey-crouch"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "tracey-crouch", 
+    "id": "3950"
 }

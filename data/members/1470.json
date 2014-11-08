@@ -8,12 +8,10 @@
         "Manufacturing"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1470", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Ian Lucas", 
-    "slug": "ian-lucas"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ian-lucas", 
+    "id": "1470"
 }

@@ -7,12 +7,10 @@
             "name": "Political and Constitutional Reform Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1594", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Social Democratic & Labour Party"
-    }, 
     "display_name": "Mark Durkan", 
-    "slug": "mark-durkan"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Social Democratic & Labour Party", 
+    "slug": "mark-durkan", 
+    "id": "1594"
 }

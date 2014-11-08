@@ -13,12 +13,10 @@
             "name": "Speaker's Committee on the Electoral Commission"
         }
     ], 
-    "gender": "female", 
-    "id": "4046", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Bridget Phillipson", 
-    "slug": "bridget-phillipson"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "bridget-phillipson", 
+    "id": "4046"
 }

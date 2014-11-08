@@ -34,12 +34,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "394", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Clive Betts", 
-    "slug": "mr-clive-betts"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-clive-betts", 
+    "id": "394"
 }

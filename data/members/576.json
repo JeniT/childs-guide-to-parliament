@@ -15,12 +15,10 @@
             "name": "Foreign Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "576", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Sandra Osborne", 
-    "slug": "sandra-osborne"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sandra-osborne", 
+    "id": "576"
 }

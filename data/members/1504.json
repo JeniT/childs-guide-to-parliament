@@ -18,12 +18,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1504", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Dan Rogerson", 
-    "slug": "dan-rogerson"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "dan-rogerson", 
+    "id": "1504"
 }

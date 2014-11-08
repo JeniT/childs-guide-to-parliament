@@ -5,12 +5,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1398", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Wayne David", 
-    "slug": "wayne-david"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "wayne-david", 
+    "id": "1398"
 }

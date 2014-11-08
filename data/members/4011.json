@@ -15,12 +15,10 @@
             "name": "Members' Expenses Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4011", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Cathy Jamieson", 
-    "slug": "cathy-jamieson"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "cathy-jamieson", 
+    "id": "4011"
 }

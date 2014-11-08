@@ -5,12 +5,10 @@
         "Criminal Justice System"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3955", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Gavin Barwell", 
-    "slug": "gavin-barwell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "gavin-barwell", 
+    "id": "3955"
 }

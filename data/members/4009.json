@@ -13,12 +13,10 @@
             "name": "Speaker's Committee on the Electoral Commission"
         }
     ], 
-    "gender": "male", 
-    "id": "4009", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Brandon Lewis", 
-    "slug": "brandon-lewis"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "brandon-lewis", 
+    "id": "4009"
 }

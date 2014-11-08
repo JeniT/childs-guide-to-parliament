@@ -7,12 +7,10 @@
         "Transport"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1506", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Andrew Gwynne", 
-    "slug": "andrew-gwynne"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "andrew-gwynne", 
+    "id": "1506"
 }

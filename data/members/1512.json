@@ -5,12 +5,10 @@
         "Rural Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1512", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "David Mundell", 
-    "slug": "david-mundell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "david-mundell", 
+    "id": "1512"
 }

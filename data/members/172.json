@@ -4,12 +4,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "172", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Ms Diane Abbott", 
-    "slug": "ms-diane-abbott"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ms-diane-abbott", 
+    "id": "172"
 }

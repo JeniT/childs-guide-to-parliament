@@ -6,12 +6,10 @@
         "Voluntary Sector"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1554", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Stephen Crabb", 
-    "slug": "stephen-crabb"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stephen-crabb", 
+    "id": "1554"
 }

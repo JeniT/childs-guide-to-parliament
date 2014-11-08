@@ -5,12 +5,10 @@
         "Hiv And Aids"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3929", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Simon Kirby", 
-    "slug": "simon-kirby"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "simon-kirby", 
+    "id": "3929"
 }

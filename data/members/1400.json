@@ -5,12 +5,10 @@
         "Creative Industries"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1400", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Kevin Brennan", 
-    "slug": "kevin-brennan"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "kevin-brennan", 
+    "id": "1400"
 }

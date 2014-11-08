@@ -5,12 +5,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1593", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Democratic Unionist"
-    }, 
     "display_name": "Sammy Wilson", 
-    "slug": "sammy-wilson"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "sammy-wilson", 
+    "id": "1593"
 }

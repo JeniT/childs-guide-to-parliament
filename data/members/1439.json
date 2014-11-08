@@ -8,12 +8,10 @@
         "International Development"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1439", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Norman Lamb", 
-    "slug": "norman-lamb"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "norman-lamb", 
+    "id": "1439"
 }

@@ -6,12 +6,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1428", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Bill Wiggin", 
-    "slug": "bill-wiggin"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "bill-wiggin", 
+    "id": "1428"
 }

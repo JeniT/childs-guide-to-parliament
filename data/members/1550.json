@@ -11,12 +11,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1550", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mr Brian Binley", 
-    "slug": "mr-brian-binley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-brian-binley", 
+    "id": "1550"
 }

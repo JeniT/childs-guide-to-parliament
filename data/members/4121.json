@@ -12,12 +12,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4121", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Lorraine Fullbrook", 
-    "slug": "lorraine-fullbrook"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "lorraine-fullbrook", 
+    "id": "4121"
 }

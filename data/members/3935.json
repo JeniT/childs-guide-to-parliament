@@ -5,12 +5,10 @@
         "Social Justice"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3935", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mel Stride", 
-    "slug": "mel-stride"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mel-stride", 
+    "id": "3935"
 }

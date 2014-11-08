@@ -11,12 +11,10 @@
             "name": "Scottish Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3998", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mark Menzies", 
-    "slug": "mark-menzies"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mark-menzies", 
+    "id": "3998"
 }

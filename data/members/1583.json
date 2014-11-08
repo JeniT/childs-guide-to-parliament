@@ -8,12 +8,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1583", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Lyn Brown", 
-    "slug": "lyn-brown"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "lyn-brown", 
+    "id": "1583"
 }

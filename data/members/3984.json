@@ -6,12 +6,10 @@
         "Intellectual Property"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3984", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Mike Weatherley", 
-    "slug": "mike-weatherley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mike-weatherley", 
+    "id": "3984"
 }

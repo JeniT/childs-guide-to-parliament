@@ -8,7 +8,7 @@ $('#hansardSearchForm').submit(
 			$.each( data.Results, function( key, val ) {
 			    items.push( "<li class='list-group-item'>" + val.ContributionText + "</li>" );
 			  });
-			 
+
 			  $('#hansardSearchResults').html($( "<ul />", {
 			  	class: 'list-group',
 			    html: items.join( "" )

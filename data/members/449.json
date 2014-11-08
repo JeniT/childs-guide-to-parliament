@@ -24,12 +24,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "449", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Graham Stringer", 
-    "slug": "graham-stringer"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "graham-stringer", 
+    "id": "449"
 }

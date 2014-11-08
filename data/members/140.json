@@ -24,12 +24,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "female", 
-    "id": "140", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Margaret Hodge", 
-    "slug": "margaret-hodge"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "margaret-hodge", 
+    "id": "140"
 }

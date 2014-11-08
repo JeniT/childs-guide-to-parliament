@@ -7,12 +7,10 @@
         "Privatisation"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "47", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir Gerald Howarth", 
-    "slug": "sir-gerald-howarth"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-gerald-howarth", 
+    "id": "47"
 }

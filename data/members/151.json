@@ -13,12 +13,10 @@
             "name": "Selection Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "151", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Tom Brake", 
-    "slug": "tom-brake"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "tom-brake", 
+    "id": "151"
 }

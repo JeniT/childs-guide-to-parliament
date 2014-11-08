@@ -16,12 +16,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4122", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Alex Cunningham", 
-    "slug": "alex-cunningham"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "alex-cunningham", 
+    "id": "4122"
 }

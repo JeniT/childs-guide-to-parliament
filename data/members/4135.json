@@ -16,12 +16,10 @@
             "name": "Political and Constitutional Reform Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4135", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "David Morris", 
-    "slug": "david-morris"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "david-morris", 
+    "id": "4135"
 }

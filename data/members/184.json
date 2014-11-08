@@ -19,12 +19,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "184", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Mike Gapes", 
-    "slug": "mike-gapes"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mike-gapes", 
+    "id": "184"
 }

@@ -16,12 +16,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1383", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mark Tami", 
-    "slug": "mark-tami"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mark-tami", 
+    "id": "1383"
 }

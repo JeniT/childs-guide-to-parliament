@@ -18,12 +18,10 @@
             "name": "House of Commons Governance Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4129", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Democratic Unionist"
-    }, 
     "display_name": "Ian Paisley", 
-    "slug": "ian-paisley"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "ian-paisley", 
+    "id": "4129"
 }

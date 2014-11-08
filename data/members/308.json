@@ -6,12 +6,10 @@
         "Nhs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "308", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Jim Cunningham", 
-    "slug": "mr-jim-cunningham"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-jim-cunningham", 
+    "id": "308"
 }

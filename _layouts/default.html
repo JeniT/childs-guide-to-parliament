@@ -42,5 +42,26 @@
       <!-- Include all compiled plugins (below), or include individual files as needed -->
       <script src="{{site.baseurl}}/assets/javascripts/bootstrap.js"></script>
       <script src="{{site.baseurl}}/assets/javascripts/application.js"></script>
+
+      {% if page.footer-js == 'interests' %}
+      <script>
+
+        var jqxhr = $.get( "data/interests/map.json", function(data) {
+          $.each(data, function( key, val ) {
+            $('#interests').append('<li><a href=\"interest.html#' + encodeURIComponent(key) + '">' + key + '</li>' );
+          });
+        })
+          .done(function() {
+            $('#interests').show();
+          })
+          .fail(function() {
+            $('#error').show();
+          })
+          .always(function() {
+            $('#loader').hide();
+          });
+
+      </script>
+      {% endif %}
     </body>
 </html>

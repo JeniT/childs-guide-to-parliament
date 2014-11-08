@@ -16,12 +16,10 @@
             "name": "Able Marine Energy Park Development Consent Order 2014"
         }
     ], 
-    "gender": "male", 
-    "id": "3940", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Craig Whittaker", 
-    "slug": "craig-whittaker"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "craig-whittaker", 
+    "id": "3940"
 }

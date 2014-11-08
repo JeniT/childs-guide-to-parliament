@@ -6,12 +6,10 @@
         "Equal Opportunities"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "420", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Yvette Cooper", 
-    "slug": "yvette-cooper"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "yvette-cooper", 
+    "id": "420"
 }

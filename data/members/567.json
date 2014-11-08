@@ -7,12 +7,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "567", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Peter Hain", 
-    "slug": "mr-peter-hain"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-peter-hain", 
+    "id": "567"
 }

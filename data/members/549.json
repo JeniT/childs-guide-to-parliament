@@ -12,12 +12,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "549", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Plaid Cymru"
-    }, 
     "display_name": "Mr Elfyn Llwyd", 
-    "slug": "mr-elfyn-llwyd"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Plaid Cymru", 
+    "slug": "mr-elfyn-llwyd", 
+    "id": "549"
 }

@@ -15,12 +15,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3976", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Chris Williamson", 
-    "slug": "chris-williamson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "chris-williamson", 
+    "id": "3976"
 }

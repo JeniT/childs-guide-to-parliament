@@ -9,12 +9,10 @@
         "Sustainable Development And Youth Issues"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1433", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Scottish National"
-    }, 
     "display_name": "Angus Robertson", 
-    "slug": "angus-robertson"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Scottish National", 
+    "slug": "angus-robertson", 
+    "id": "1433"
 }

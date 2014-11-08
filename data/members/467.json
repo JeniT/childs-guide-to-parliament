@@ -18,12 +18,10 @@
             "name": "Finance and Services Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "467", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Lindsay Hoyle", 
-    "slug": "mr-lindsay-hoyle"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-lindsay-hoyle", 
+    "id": "467"
 }

@@ -8,12 +8,10 @@
         "Defence"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1438", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Kevan Jones", 
-    "slug": "mr-kevan-jones"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-kevan-jones", 
+    "id": "1438"
 }

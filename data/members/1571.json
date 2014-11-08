@@ -5,12 +5,10 @@
         "Terrorism"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1571", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Michael Gove", 
-    "slug": "michael-gove"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "michael-gove", 
+    "id": "1571"
 }

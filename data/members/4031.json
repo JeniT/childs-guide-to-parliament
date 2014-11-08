@@ -4,12 +4,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4031", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Rachel Reeves", 
-    "slug": "rachel-reeves"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "rachel-reeves", 
+    "id": "4031"
 }

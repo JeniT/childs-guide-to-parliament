@@ -10,12 +10,10 @@
             "name": "Transport Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1609", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Chloe Smith", 
-    "slug": "chloe-smith"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "chloe-smith", 
+    "id": "1609"
 }

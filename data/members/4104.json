@@ -18,12 +18,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4104", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Neil Carmichael", 
-    "slug": "neil-carmichael"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "neil-carmichael", 
+    "id": "4104"
 }

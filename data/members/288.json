@@ -25,12 +25,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "288", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Sir William Cash", 
-    "slug": "sir-william-cash"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-william-cash", 
+    "id": "288"
 }

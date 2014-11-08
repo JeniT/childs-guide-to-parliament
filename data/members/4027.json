@@ -9,12 +9,10 @@
         "Heritage Railways"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4027", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Nicky Morgan", 
-    "slug": "nicky-morgan"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nicky-morgan", 
+    "id": "4027"
 }

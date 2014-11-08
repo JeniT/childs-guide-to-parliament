@@ -12,12 +12,10 @@
             "name": "Regulatory Reform"
         }
     ], 
-    "gender": "male", 
-    "id": "4133", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Andrew Bridgen", 
-    "slug": "andrew-bridgen"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-bridgen", 
+    "id": "4133"
 }

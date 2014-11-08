@@ -10,12 +10,10 @@
         "Direct Democracy And Localism"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1527", 
-    "party": {
-        "colour": "#999999", 
-        "name": "UK Independence Party"
-    }, 
     "display_name": "Mr Douglas Carswell", 
-    "slug": "mr-douglas-carswell"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "UK Independence Party", 
+    "slug": "mr-douglas-carswell", 
+    "id": "1527"
 }

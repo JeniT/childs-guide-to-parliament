@@ -13,12 +13,10 @@
             "name": "Science and Technology Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "4092", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Stephen Metcalfe", 
-    "slug": "stephen-metcalfe"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stephen-metcalfe", 
+    "id": "4092"
 }

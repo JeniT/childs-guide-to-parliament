@@ -17,12 +17,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "3919", 
-    "party": {
-        "colour": "#333399", 
-        "name": "Conservative"
-    }, 
     "display_name": "Bob Stewart", 
-    "slug": "bob-stewart"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "bob-stewart", 
+    "id": "3919"
 }

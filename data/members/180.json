@@ -7,12 +7,10 @@
         "Government Reform"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "180", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Frank Dobson", 
-    "slug": "frank-dobson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "frank-dobson", 
+    "id": "180"
 }

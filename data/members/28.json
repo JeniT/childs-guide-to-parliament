@@ -4,12 +4,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "28", 
-    "party": {
-        "colour": "#f1cc0a", 
-        "name": "Liberal Democrat"
-    }, 
     "display_name": "Norman Baker", 
-    "slug": "norman-baker"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "norman-baker", 
+    "id": "28"
 }

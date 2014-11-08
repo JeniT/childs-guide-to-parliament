@@ -10,12 +10,10 @@
             "name": "Culture, Media and Sport Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "403", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Mr Gerry Sutcliffe", 
-    "slug": "mr-gerry-sutcliffe"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-gerry-sutcliffe", 
+    "id": "403"
 }

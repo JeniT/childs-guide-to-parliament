@@ -8,12 +8,10 @@
         "Food Policy"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1491", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Kerry McCarthy", 
-    "slug": "kerry-mccarthy"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "kerry-mccarthy", 
+    "id": "1491"
 }

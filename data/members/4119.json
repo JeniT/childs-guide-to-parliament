@@ -5,12 +5,10 @@
         "Business"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4119", 
-    "party": {
-        "colour": "#999999", 
-        "name": "Labour (Co-op)"
-    }, 
     "display_name": "Jonathan Reynolds", 
-    "slug": "jonathan-reynolds"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "jonathan-reynolds", 
+    "id": "4119"
 }

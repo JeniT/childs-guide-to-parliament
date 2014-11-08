@@ -13,12 +13,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4059", 
-    "party": {
-        "colour": "#cc0000", 
-        "name": "Labour"
-    }, 
     "display_name": "Simon Danczuk", 
-    "slug": "simon-danczuk"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "simon-danczuk", 
+    "id": "4059"
 }
