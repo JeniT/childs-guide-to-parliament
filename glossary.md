@@ -5,9 +5,12 @@ Chamber
 House
 
 Lord
-MP
 
-Hon
-Rt Hon
+MP=Member of Parliment(/The house of comm
+ons)
+
+Hon=Honourable
+
+Rt Hon=Right Honourable
 
 
