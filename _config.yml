@@ -1,3 +1,4 @@
 name: Child's Guide to Parliament
 markdown: redcarpet
 highlighter: pygments
+baseurl: http://jenit.github.io/childs-guide-to-parliament
