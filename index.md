@@ -24,6 +24,6 @@ title: Child's Guide to Parliament
   >Of those, 507 were men and 143 were women.
   >That's only 22% of the Mps, but the highest proportion of Women ever elected as MPs!
   
-  ##What does Parliment do?
+##What does Parliment do?
   
-  [![How is a Law made?](http://img.youtube.com/vi/1KFGt9M-j28/0.jpg)](http://www.youtube.com/watch?v=1KFGt9M-j28)
+[![How is a Law made?](http://img.youtube.com/vi/1KFGt9M-j28/0.jpg)](http://www.youtube.com/watch?v=1KFGt9M-j28)
