@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "180", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Frank Dobson", 
     "slug": "frank-dobson"
 }

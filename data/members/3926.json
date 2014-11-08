@@ -12,7 +12,10 @@
     ], 
     "gender": "male", 
     "id": "3926", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Paul Maynard", 
     "slug": "paul-maynard"
 }

@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4051", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "John Glen", 
     "slug": "john-glen"
 }

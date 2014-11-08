@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "3996", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Andrew Jones", 
     "slug": "andrew-jones"
 }

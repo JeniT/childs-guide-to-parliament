@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "1606", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "John Howell", 
     "slug": "john-howell"
 }

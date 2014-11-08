@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "1394", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Roger Williams", 
     "slug": "roger-williams"
 }

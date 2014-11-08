@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "1594", 
-    "party": "Social Democratic & Labour Party", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Social Democratic & Labour Party"
+    }, 
     "display_name": "Mark Durkan", 
     "slug": "mark-durkan"
 }

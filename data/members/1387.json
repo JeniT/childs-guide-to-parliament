@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1387", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "John Mann", 
     "slug": "john-mann"
 }

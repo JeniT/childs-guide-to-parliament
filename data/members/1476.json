@@ -11,7 +11,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1476", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Huw Irranca-Davies", 
     "slug": "huw-irranca-davies"
 }

@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "634", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Charles Kennedy", 
     "slug": "mr-charles-kennedy"
 }

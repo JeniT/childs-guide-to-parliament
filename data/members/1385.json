@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "1385", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Alan Reid", 
     "slug": "mr-alan-reid"
 }

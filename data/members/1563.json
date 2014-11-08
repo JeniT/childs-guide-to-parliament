@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1563", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Nick Clegg", 
     "slug": "mr-nick-clegg"
 }

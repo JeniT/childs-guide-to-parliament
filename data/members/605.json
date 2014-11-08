@@ -23,7 +23,10 @@
     ], 
     "gender": "male", 
     "id": "605", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "John Robertson", 
     "slug": "john-robertson"
 }

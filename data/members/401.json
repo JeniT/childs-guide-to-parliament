@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "401", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mike Wood", 
     "slug": "mike-wood"
 }

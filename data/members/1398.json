@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1398", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Wayne David", 
     "slug": "wayne-david"
 }

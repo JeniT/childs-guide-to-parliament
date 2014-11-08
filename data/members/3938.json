@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "3938", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Anna Soubry", 
     "slug": "anna-soubry"
 }

@@ -22,7 +22,10 @@
     ], 
     "gender": "female", 
     "id": "312", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mrs Caroline Spelman", 
     "slug": "mrs-caroline-spelman"
 }

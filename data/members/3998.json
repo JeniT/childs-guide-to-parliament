@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "3998", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mark Menzies", 
     "slug": "mark-menzies"
 }

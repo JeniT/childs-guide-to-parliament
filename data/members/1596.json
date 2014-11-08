@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1596", 
-    "party": "Social Democratic & Labour Party", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Social Democratic & Labour Party"
+    }, 
     "display_name": "Dr Alasdair McDonnell", 
     "slug": "dr-alasdair-mcdonnell"
 }

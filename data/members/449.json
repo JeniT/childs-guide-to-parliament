@@ -26,7 +26,10 @@
     ], 
     "gender": "male", 
     "id": "449", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Graham Stringer", 
     "slug": "graham-stringer"
 }

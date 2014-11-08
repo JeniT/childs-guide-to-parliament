@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "8", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mrs Theresa May", 
     "slug": "mrs-theresa-may"
 }

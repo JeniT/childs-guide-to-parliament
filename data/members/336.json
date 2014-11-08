@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "336", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Stephen Dorrell", 
     "slug": "mr-stephen-dorrell"
 }

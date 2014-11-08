@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4044", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Andrew Stephenson", 
     "slug": "andrew-stephenson"
 }

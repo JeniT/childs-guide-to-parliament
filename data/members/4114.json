@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "4114", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Chris White", 
     "slug": "chris-white"
 }

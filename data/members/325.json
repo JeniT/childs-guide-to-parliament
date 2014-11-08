@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "325", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Dennis Skinner", 
     "slug": "mr-dennis-skinner"
 }

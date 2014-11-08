@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "1464", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Jim Sheridan", 
     "slug": "jim-sheridan"
 }

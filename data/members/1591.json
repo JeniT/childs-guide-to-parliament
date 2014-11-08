@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1591", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Tim Farron", 
     "slug": "tim-farron"
 }

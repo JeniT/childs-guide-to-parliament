@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "1504", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Dan Rogerson", 
     "slug": "dan-rogerson"
 }

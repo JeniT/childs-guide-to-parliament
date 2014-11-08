@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "4000", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Ian Mearns", 
     "slug": "ian-mearns"
 }

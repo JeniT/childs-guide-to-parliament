@@ -24,7 +24,10 @@
     ], 
     "gender": "male", 
     "id": "414", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr George Mudie", 
     "slug": "mr-george-mudie"
 }

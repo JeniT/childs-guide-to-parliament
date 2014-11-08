@@ -9,7 +9,10 @@
     ], 
     "gender": "female", 
     "id": "4088", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Stella Creasy", 
     "slug": "stella-creasy"
 }

@@ -24,7 +24,10 @@
     ], 
     "gender": "male", 
     "id": "481", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr George Howarth", 
     "slug": "mr-george-howarth"
 }

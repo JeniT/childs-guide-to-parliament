@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1516", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Andy Slaughter", 
     "slug": "andy-slaughter"
 }

@@ -27,7 +27,10 @@
     ], 
     "gender": "male", 
     "id": "288", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir William Cash", 
     "slug": "sir-william-cash"
 }

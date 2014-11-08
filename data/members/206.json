@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "206", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr David Lammy", 
     "slug": "mr-david-lammy"
 }

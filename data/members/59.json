@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "59", 
-    "party": "Independent", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Independent"
+    }, 
     "display_name": "Mr Mike Hancock", 
     "slug": "mr-mike-hancock"
 }

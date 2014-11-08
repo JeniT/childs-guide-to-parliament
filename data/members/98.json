@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "98", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Shaun Woodward", 
     "slug": "mr-shaun-woodward"
 }

@@ -14,7 +14,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4142", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Guy Opperman", 
     "slug": "guy-opperman"
 }

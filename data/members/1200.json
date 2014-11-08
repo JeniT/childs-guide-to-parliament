@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "1200", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Greg Knight", 
     "slug": "sir-greg-knight"
 }

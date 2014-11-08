@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "47", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Gerald Howarth", 
     "slug": "sir-gerald-howarth"
 }

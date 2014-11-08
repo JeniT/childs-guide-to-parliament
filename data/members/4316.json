@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "4316", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mike Kane", 
     "slug": "mike-kane"
 }

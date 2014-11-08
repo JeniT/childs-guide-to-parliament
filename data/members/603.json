@@ -12,7 +12,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "603", 
-    "party": "Independent", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Independent"
+    }, 
     "display_name": "Eric Joyce", 
     "slug": "eric-joyce"
 }

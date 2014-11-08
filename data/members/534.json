@@ -17,7 +17,10 @@
     ], 
     "gender": "male", 
     "id": "534", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Chris Ruane", 
     "slug": "chris-ruane"
 }

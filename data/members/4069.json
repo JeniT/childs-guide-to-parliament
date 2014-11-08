@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "4069", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Peter Aldous", 
     "slug": "peter-aldous"
 }

@@ -30,7 +30,10 @@
     ], 
     "gender": "male", 
     "id": "627", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Sir Menzies Campbell", 
     "slug": "sir-menzies-campbell"
 }

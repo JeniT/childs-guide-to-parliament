@@ -15,7 +15,10 @@
     ], 
     "gender": "female", 
     "id": "1437", 
-    "party": "Independent", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Independent"
+    }, 
     "display_name": "Lady Hermon", 
     "slug": "lady-hermon"
 }

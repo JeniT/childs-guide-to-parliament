@@ -11,7 +11,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4084", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Esther McVey", 
     "slug": "esther-mcvey"
 }

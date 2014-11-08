@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "4041", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Glyn Davies", 
     "slug": "glyn-davies"
 }

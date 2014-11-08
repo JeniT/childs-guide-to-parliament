@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1392", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Khalid Mahmood", 
     "slug": "mr-khalid-mahmood"
 }

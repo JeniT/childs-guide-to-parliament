@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1529", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr David Gauke", 
     "slug": "mr-david-gauke"
 }

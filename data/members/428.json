@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "428", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Andrew Miller", 
     "slug": "andrew-miller"
 }

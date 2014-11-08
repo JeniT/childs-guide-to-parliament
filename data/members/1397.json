@@ -21,7 +21,10 @@
     ], 
     "gender": "male", 
     "id": "1397", 
-    "party": "Plaid Cymru", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Plaid Cymru"
+    }, 
     "display_name": "Hywel Williams", 
     "slug": "hywel-williams"
 }

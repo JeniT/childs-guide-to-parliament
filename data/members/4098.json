@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4098", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Dr Th\u00e9r\u00e8se Coffey", 
     "slug": "dr-therese-coffey"
 }

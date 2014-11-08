@@ -11,7 +11,10 @@
     ], 
     "gender": "male", 
     "id": "4061", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Bill Esterson", 
     "slug": "bill-esterson"
 }

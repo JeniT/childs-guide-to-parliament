@@ -20,7 +20,10 @@
     ], 
     "gender": "female", 
     "id": "4126", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mrs Mary Glindon", 
     "slug": "mrs-mary-glindon"
 }

@@ -23,7 +23,10 @@
     ], 
     "gender": "male", 
     "id": "35", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Sir Bob Russell", 
     "slug": "sir-bob-russell"
 }

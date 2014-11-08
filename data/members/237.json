@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "237", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Adrian Sanders", 
     "slug": "mr-adrian-sanders"
 }

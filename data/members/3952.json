@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "3952", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Toby Perkins", 
     "slug": "toby-perkins"
 }

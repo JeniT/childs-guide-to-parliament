@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1390", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr John Baron", 
     "slug": "mr-john-baron"
 }

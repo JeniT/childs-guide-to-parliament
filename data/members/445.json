@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "445", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Sir Andrew Stunell", 
     "slug": "sir-andrew-stunell"
 }

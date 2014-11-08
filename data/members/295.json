@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "295", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Richard Shepherd", 
     "slug": "sir-richard-shepherd"
 }

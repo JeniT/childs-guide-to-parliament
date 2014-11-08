@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4095", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Stephen Barclay", 
     "slug": "stephen-barclay"
 }

@@ -25,7 +25,10 @@
     ], 
     "gender": "male", 
     "id": "1399", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "John Thurso", 
     "slug": "john-thurso"
 }

@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "360", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Vernon Coaker", 
     "slug": "vernon-coaker"
 }

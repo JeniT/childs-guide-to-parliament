@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "650", 
-    "party": "Democratic Unionist", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Democratic Unionist"
+    }, 
     "display_name": "Mr Jeffrey M. Donaldson", 
     "slug": "mr-jeffrey-m-donaldson"
 }

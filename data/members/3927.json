@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "3927", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mary Macleod", 
     "slug": "mary-macleod"
 }

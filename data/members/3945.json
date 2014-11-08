@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3945", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sajid Javid", 
     "slug": "sajid-javid"
 }

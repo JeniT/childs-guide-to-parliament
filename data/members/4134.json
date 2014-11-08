@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "4134", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Kwasi Kwarteng", 
     "slug": "kwasi-kwarteng"
 }

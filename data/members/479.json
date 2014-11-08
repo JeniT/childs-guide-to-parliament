@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "479", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Joe Benton", 
     "slug": "mr-joe-benton"
 }

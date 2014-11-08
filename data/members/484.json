@@ -25,7 +25,10 @@
     ], 
     "gender": "female", 
     "id": "484", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mrs Louise Ellman", 
     "slug": "mrs-louise-ellman"
 }

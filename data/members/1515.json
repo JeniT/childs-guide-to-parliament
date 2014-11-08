@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "1515", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Jim McGovern", 
     "slug": "jim-mcgovern"
 }

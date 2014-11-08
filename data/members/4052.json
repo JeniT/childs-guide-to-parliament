@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "4052", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mark Pawsey", 
     "slug": "mark-pawsey"
 }

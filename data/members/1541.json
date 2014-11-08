@@ -22,7 +22,10 @@
     ], 
     "gender": "female", 
     "id": "1541", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Nia Griffith", 
     "slug": "nia-griffith"
 }

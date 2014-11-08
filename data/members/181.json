@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "181", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "John Cryer", 
     "slug": "john-cryer"
 }

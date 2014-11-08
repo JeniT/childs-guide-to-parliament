@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4110", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Karen Bradley", 
     "slug": "karen-bradley"
 }

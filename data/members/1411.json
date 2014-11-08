@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "1411", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mark Lazarowicz", 
     "slug": "mark-lazarowicz"
 }

@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3999", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Graham Jones", 
     "slug": "graham-jones"
 }

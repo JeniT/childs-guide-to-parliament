@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1444", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Mark Francois", 
     "slug": "mr-mark-francois"
 }

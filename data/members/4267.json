@@ -9,7 +9,10 @@
     ], 
     "gender": "female", 
     "id": "4267", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Sarah Champion", 
     "slug": "sarah-champion"
 }

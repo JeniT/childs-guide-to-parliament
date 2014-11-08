@@ -11,7 +11,10 @@
     ], 
     "gender": "male", 
     "id": "4132", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Richard Drax", 
     "slug": "richard-drax"
 }

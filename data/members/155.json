@@ -23,7 +23,10 @@
     ], 
     "gender": "male", 
     "id": "155", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Geraint Davies", 
     "slug": "geraint-davies"
 }

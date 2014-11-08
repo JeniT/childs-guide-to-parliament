@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3988", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Ben Gummer", 
     "slug": "ben-gummer"
 }

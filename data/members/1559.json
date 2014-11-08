@@ -6,7 +6,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1559", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "James Duddridge", 
     "slug": "james-duddridge"
 }

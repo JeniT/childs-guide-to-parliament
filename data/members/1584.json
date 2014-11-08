@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1584", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "John Penrose", 
     "slug": "john-penrose"
 }

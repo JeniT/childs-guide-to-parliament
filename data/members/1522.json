@@ -12,7 +12,10 @@
     ], 
     "gender": "male", 
     "id": "1522", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Adam Holloway", 
     "slug": "mr-adam-holloway"
 }

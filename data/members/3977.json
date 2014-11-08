@@ -22,7 +22,10 @@
     ], 
     "gender": "male", 
     "id": "3977", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Chris Heaton-Harris", 
     "slug": "chris-heaton-harris"
 }

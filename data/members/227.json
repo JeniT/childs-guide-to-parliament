@@ -27,7 +27,10 @@
     ], 
     "gender": "male", 
     "id": "227", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Andrew George", 
     "slug": "andrew-george"
 }

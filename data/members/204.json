@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "204", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Paul Burstow", 
     "slug": "paul-burstow"
 }

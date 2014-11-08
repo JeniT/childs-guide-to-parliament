@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "473", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mark Hendrick", 
     "slug": "mark-hendrick"
 }

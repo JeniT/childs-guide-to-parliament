@@ -12,7 +12,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1539", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Ben Wallace", 
     "slug": "mr-ben-wallace"
 }

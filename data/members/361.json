@@ -27,7 +27,10 @@
     ], 
     "gender": "male", 
     "id": "361", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Sir Alan Meale", 
     "slug": "sir-alan-meale"
 }

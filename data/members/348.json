@@ -6,7 +6,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "348", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Peter Tapsell", 
     "slug": "sir-peter-tapsell"
 }

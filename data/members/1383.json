@@ -18,7 +18,10 @@
     ], 
     "gender": "male", 
     "id": "1383", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mark Tami", 
     "slug": "mark-tami"
 }

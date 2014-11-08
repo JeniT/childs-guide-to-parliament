@@ -25,7 +25,10 @@
     ], 
     "gender": "male", 
     "id": "157", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Richard Ottaway", 
     "slug": "sir-richard-ottaway"
 }

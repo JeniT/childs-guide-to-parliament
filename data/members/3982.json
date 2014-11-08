@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "3982", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Margaret Curran", 
     "slug": "margaret-curran"
 }

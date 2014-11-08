@@ -13,7 +13,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "301", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Richard Burden", 
     "slug": "richard-burden"
 }

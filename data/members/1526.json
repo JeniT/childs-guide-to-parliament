@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "1526", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Greg Hands", 
     "slug": "greg-hands"
 }

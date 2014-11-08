@@ -12,7 +12,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "1462", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Dame  Angela Watkinson", 
     "slug": "dame-angela-watkinson"
 }

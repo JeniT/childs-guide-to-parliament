@@ -17,7 +17,10 @@
     ], 
     "gender": "female", 
     "id": "576", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Sandra Osborne", 
     "slug": "sandra-osborne"
 }

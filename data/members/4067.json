@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "4067", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Steve Brine", 
     "slug": "steve-brine"
 }

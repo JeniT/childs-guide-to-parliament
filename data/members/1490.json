@@ -19,7 +19,10 @@
     ], 
     "gender": "female", 
     "id": "1490", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mrs Madeleine Moon", 
     "slug": "mrs-madeleine-moon"
 }

@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4063", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Gemma Doyle", 
     "slug": "gemma-doyle"
 }

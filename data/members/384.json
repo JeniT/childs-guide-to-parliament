@@ -30,7 +30,10 @@
     ], 
     "gender": "female", 
     "id": "384", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Miss Anne McIntosh", 
     "slug": "miss-anne-mcintosh"
 }

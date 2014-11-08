@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "3923", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr David Ward", 
     "slug": "mr-david-ward"
 }

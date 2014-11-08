@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "4092", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Stephen Metcalfe", 
     "slug": "stephen-metcalfe"
 }

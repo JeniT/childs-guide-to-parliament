@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "3918", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Jane Ellison", 
     "slug": "jane-ellison"
 }

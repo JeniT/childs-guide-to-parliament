@@ -29,7 +29,10 @@
     ], 
     "gender": "male", 
     "id": "545", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Paul Flynn", 
     "slug": "paul-flynn"
 }

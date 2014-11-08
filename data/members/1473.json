@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1473", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr David Laws", 
     "slug": "mr-david-laws"
 }

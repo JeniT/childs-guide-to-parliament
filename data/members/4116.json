@@ -24,7 +24,10 @@
     ], 
     "gender": "male", 
     "id": "4116", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Michael Ellis", 
     "slug": "michael-ellis"
 }

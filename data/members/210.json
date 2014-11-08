@@ -14,7 +14,10 @@
     ], 
     "gender": "female", 
     "id": "210", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Kate Hoey", 
     "slug": "kate-hoey"
 }

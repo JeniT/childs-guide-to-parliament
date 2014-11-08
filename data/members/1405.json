@@ -17,7 +17,10 @@
     ], 
     "gender": "male", 
     "id": "1405", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mark Field", 
     "slug": "mark-field"
 }

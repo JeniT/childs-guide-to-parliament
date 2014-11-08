@@ -22,7 +22,10 @@
     ], 
     "gender": "male", 
     "id": "4139", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Ian Lavery", 
     "slug": "ian-lavery"
 }

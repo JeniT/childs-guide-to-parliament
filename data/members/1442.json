@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1442", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Alistair Carmichael", 
     "slug": "mr-alistair-carmichael"
 }

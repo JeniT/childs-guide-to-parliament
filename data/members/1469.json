@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1469", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Sir Tony Cunningham", 
     "slug": "sir-tony-cunningham"
 }

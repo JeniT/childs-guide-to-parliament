@@ -13,7 +13,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1220", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Charles Hendry", 
     "slug": "charles-hendry"
 }

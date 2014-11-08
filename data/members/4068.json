@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4068", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Richard Harrington", 
     "slug": "richard-harrington"
 }

@@ -18,7 +18,10 @@
     ], 
     "gender": "female", 
     "id": "3920", 
-    "party": "Alliance", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Alliance"
+    }, 
     "display_name": "Naomi Long", 
     "slug": "naomi-long"
 }

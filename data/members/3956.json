@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "3956", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Susan Elan Jones", 
     "slug": "susan-elan-jones"
 }

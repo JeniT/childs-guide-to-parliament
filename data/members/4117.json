@@ -13,7 +13,10 @@
     ], 
     "gender": "female", 
     "id": "4117", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Andrea Leadsom", 
     "slug": "andrea-leadsom"
 }

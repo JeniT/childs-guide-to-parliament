@@ -13,7 +13,10 @@
     ], 
     "gender": "female", 
     "id": "3911", 
-    "party": "Scottish National", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Scottish National"
+    }, 
     "display_name": "Dr Eilidh Whiteford", 
     "slug": "dr-eilidh-whiteford"
 }

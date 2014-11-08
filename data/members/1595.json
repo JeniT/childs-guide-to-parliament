@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1595", 
-    "party": "Sinn Fein", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Sinn Fein"
+    }, 
     "display_name": "Conor Murphy", 
     "slug": "conor-murphy"
 }

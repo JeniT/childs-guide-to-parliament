@@ -27,7 +27,10 @@
     ], 
     "gender": "male", 
     "id": "513", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Sir Alan Beith", 
     "slug": "sir-alan-beith"
 }

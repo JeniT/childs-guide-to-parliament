@@ -5,7 +5,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1465", 
-    "party": "Sinn Fein", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Sinn Fein"
+    }, 
     "display_name": "Mr Pat Doherty", 
     "slug": "mr-pat-doherty"
 }

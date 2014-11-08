@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "3974", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Claire Perry", 
     "slug": "claire-perry"
 }

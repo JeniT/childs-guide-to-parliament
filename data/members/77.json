@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "77", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Julian Brazier", 
     "slug": "mr-julian-brazier"
 }

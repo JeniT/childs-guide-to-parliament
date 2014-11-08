@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "151", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Tom Brake", 
     "slug": "tom-brake"
 }

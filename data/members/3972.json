@@ -21,7 +21,10 @@
     ], 
     "gender": "female", 
     "id": "3972", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Jenny Chapman", 
     "slug": "jenny-chapman"
 }

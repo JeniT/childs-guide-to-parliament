@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "1416", 
-    "party": "Sinn Fein", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Sinn Fein"
+    }, 
     "display_name": "Michelle Gildernew", 
     "slug": "michelle-gildernew"
 }

@@ -22,7 +22,10 @@
     ], 
     "gender": "male", 
     "id": "3931", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Dr Julian Huppert", 
     "slug": "dr-julian-huppert"
 }

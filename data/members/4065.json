@@ -16,7 +16,10 @@
     ], 
     "gender": "female", 
     "id": "4065", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Jackie Doyle-Price", 
     "slug": "jackie-doyle-price"
 }

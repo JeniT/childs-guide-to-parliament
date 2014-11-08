@@ -6,7 +6,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1466", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Dr Andrew Murrison", 
     "slug": "dr-andrew-murrison"
 }

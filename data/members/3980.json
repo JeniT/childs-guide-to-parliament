@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3980", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Sam Gyimah", 
     "slug": "mr-sam-gyimah"
 }

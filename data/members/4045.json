@@ -11,7 +11,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4045", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Ian Swales", 
     "slug": "ian-swales"
 }

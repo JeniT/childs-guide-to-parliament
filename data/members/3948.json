@@ -18,7 +18,10 @@
     ], 
     "gender": "female", 
     "id": "3948", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Rebecca Harris", 
     "slug": "rebecca-harris"
 }

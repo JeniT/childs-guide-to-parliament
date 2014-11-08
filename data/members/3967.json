@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "3967", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mike Crockart", 
     "slug": "mike-crockart"
 }

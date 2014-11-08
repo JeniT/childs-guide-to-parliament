@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4017", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Penny Mordaunt", 
     "slug": "penny-mordaunt"
 }

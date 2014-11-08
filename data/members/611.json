@@ -26,7 +26,10 @@
     ], 
     "gender": "male", 
     "id": "611", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mr Ian Davidson", 
     "slug": "mr-ian-davidson"
 }

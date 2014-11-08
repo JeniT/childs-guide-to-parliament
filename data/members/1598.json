@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "1598", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mark Hunter", 
     "slug": "mark-hunter"
 }

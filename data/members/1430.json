@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "1430", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Dai Havard", 
     "slug": "mr-dai-havard"
 }

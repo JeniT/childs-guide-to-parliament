@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "4273", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Mike Thornton", 
     "slug": "mr-mike-thornton"
 }

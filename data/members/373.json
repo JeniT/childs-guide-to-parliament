@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "373", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr David Davis", 
     "slug": "mr-david-davis"
 }

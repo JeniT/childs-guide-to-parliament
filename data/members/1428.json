@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1428", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Bill Wiggin", 
     "slug": "bill-wiggin"
 }

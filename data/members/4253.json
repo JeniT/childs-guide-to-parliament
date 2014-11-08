@@ -13,7 +13,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4253", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Seema Malhotra", 
     "slug": "seema-malhotra"
 }

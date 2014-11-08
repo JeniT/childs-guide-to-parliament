@@ -19,7 +19,10 @@
     ], 
     "gender": "female", 
     "id": "1525", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mrs Linda Riordan", 
     "slug": "mrs-linda-riordan"
 }

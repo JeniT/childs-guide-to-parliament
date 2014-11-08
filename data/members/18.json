@@ -17,7 +17,10 @@
     ], 
     "gender": "female", 
     "id": "18", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mrs Cheryl Gillan", 
     "slug": "mrs-cheryl-gillan"
 }

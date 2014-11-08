@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "546", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Paul Murphy", 
     "slug": "paul-murphy"
 }

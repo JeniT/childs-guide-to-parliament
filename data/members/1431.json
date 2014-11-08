@@ -13,7 +13,10 @@
     ], 
     "gender": "female", 
     "id": "1431", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Annette Brooke", 
     "slug": "annette-brooke"
 }

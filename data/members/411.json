@@ -11,7 +11,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "411", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mr Barry Sheerman", 
     "slug": "mr-barry-sheerman"
 }

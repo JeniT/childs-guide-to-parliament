@@ -17,7 +17,10 @@
     ], 
     "gender": "male", 
     "id": "602", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Michael Connarty", 
     "slug": "michael-connarty"
 }

@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "441", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Ivan Lewis", 
     "slug": "mr-ivan-lewis"
 }

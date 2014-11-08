@@ -9,7 +9,10 @@
     ], 
     "gender": "female", 
     "id": "1524", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Meg Hillier", 
     "slug": "meg-hillier"
 }

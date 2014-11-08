@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1438", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Kevan Jones", 
     "slug": "mr-kevan-jones"
 }

@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "1552", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Alison Seabeck", 
     "slug": "alison-seabeck"
 }

@@ -24,7 +24,10 @@
     ], 
     "gender": "male", 
     "id": "231", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Sir Nick Harvey", 
     "slug": "sir-nick-harvey"
 }

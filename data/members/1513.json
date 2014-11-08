@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "1513", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Jo Swinson", 
     "slug": "jo-swinson"
 }

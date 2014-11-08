@@ -18,7 +18,10 @@
     ], 
     "gender": "male", 
     "id": "1384", 
-    "party": "Scottish National", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Scottish National"
+    }, 
     "display_name": "Mr Mike Weir", 
     "slug": "mr-mike-weir"
 }

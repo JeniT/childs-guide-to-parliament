@@ -18,7 +18,10 @@
     ], 
     "gender": "male", 
     "id": "4135", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "David Morris", 
     "slug": "david-morris"
 }

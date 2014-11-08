@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "316", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr David Winnick", 
     "slug": "mr-david-winnick"
 }

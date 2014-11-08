@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "1597", 
-    "party": "Democratic Unionist", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Democratic Unionist"
+    }, 
     "display_name": "David Simpson", 
     "slug": "david-simpson"
 }

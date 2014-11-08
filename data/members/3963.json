@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "3963", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Michael McCann", 
     "slug": "mr-michael-mccann"
 }

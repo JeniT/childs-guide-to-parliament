@@ -27,7 +27,10 @@
     ], 
     "gender": "male", 
     "id": "3910", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Guto Bebb", 
     "slug": "guto-bebb"
 }

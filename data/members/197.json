@@ -21,7 +21,10 @@
     ], 
     "gender": "male", 
     "id": "197", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Jim Fitzpatrick", 
     "slug": "jim-fitzpatrick"
 }

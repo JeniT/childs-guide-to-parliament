@@ -34,7 +34,10 @@
     ], 
     "gender": "male", 
     "id": "1483", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "John Hemming", 
     "slug": "john-hemming"
 }

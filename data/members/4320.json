@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "4320", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Robert Jenrick", 
     "slug": "robert-jenrick"
 }

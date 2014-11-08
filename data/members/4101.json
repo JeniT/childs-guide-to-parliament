@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "4101", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Stephen Gilbert", 
     "slug": "stephen-gilbert"
 }

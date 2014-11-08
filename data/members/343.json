@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "343", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Alan Duncan", 
     "slug": "sir-alan-duncan"
 }

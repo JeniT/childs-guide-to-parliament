@@ -16,7 +16,10 @@
     ], 
     "gender": "female", 
     "id": "217", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Dame Dawn Primarolo", 
     "slug": "dame-dawn-primarolo"
 }

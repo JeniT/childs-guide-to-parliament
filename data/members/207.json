@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "207", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Vince Cable", 
     "slug": "vince-cable"
 }

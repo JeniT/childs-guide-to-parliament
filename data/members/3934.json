@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3934", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "George Eustice", 
     "slug": "george-eustice"
 }

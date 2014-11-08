@@ -15,7 +15,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4020", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "George Freeman", 
     "slug": "george-freeman"
 }

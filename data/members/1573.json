@@ -16,7 +16,10 @@
     ], 
     "gender": "female", 
     "id": "1573", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mrs Si\u00e2n C. James", 
     "slug": "mrs-sian-c-james"
 }

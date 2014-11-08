@@ -16,7 +16,10 @@
     ], 
     "gender": "female", 
     "id": "4089", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Tessa Munt", 
     "slug": "tessa-munt"
 }

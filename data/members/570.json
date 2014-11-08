@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "570", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Frank Doran", 
     "slug": "mr-frank-doran"
 }

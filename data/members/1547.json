@@ -15,7 +15,10 @@
     ], 
     "gender": "male", 
     "id": "1547", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Richard Benyon", 
     "slug": "richard-benyon"
 }

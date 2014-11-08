@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "4077", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Emma Reynolds", 
     "slug": "emma-reynolds"
 }

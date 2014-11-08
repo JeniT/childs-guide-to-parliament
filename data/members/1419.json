@@ -19,7 +19,10 @@
     ], 
     "gender": "female", 
     "id": "1419", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Ann McKechin", 
     "slug": "ann-mckechin"
 }

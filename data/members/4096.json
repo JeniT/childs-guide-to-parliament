@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "4096", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Simon Wright", 
     "slug": "simon-wright"
 }

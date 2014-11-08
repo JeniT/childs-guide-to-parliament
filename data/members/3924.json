@@ -23,7 +23,10 @@
     ], 
     "gender": "female", 
     "id": "3924", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Yasmin Qureshi", 
     "slug": "yasmin-qureshi"
 }

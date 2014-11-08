@@ -18,7 +18,10 @@
     ], 
     "gender": "male", 
     "id": "4122", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Alex Cunningham", 
     "slug": "alex-cunningham"
 }

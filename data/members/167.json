@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "167", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Stephen Twigg", 
     "slug": "stephen-twigg"
 }

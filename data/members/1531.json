@@ -6,7 +6,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "1531", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Lynne Featherstone", 
     "slug": "lynne-featherstone"
 }

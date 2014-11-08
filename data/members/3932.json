@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3932", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Dr Daniel Poulter", 
     "slug": "dr-daniel-poulter"
 }

@@ -22,7 +22,10 @@
     ], 
     "gender": "male", 
     "id": "4113", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Nadhim Zahawi", 
     "slug": "nadhim-zahawi"
 }

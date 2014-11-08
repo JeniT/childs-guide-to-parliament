@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1393", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mark Simmonds", 
     "slug": "mark-simmonds"
 }

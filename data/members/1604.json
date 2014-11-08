@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "1604", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Virendra Sharma", 
     "slug": "mr-virendra-sharma"
 }

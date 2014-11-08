@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "1537", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Philip Hollobone", 
     "slug": "mr-philip-hollobone"
 }

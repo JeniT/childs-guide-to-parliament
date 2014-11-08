@@ -16,7 +16,10 @@
     ], 
     "gender": "male", 
     "id": "124", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir James Paice", 
     "slug": "sir-james-paice"
 }

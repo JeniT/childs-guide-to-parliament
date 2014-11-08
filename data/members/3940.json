@@ -18,7 +18,10 @@
     ], 
     "gender": "male", 
     "id": "3940", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Craig Whittaker", 
     "slug": "craig-whittaker"
 }

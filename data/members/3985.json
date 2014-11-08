@@ -17,7 +17,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3985", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Robert Halfon", 
     "slug": "robert-halfon"
 }

@@ -14,7 +14,10 @@
     ], 
     "gender": "female", 
     "id": "4127", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Julie Elliott", 
     "slug": "julie-elliott"
 }

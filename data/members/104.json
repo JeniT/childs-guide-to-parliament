@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "104", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Crispin Blunt", 
     "slug": "crispin-blunt"
 }

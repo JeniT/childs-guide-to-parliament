@@ -17,7 +17,10 @@
     ], 
     "gender": "male", 
     "id": "379", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr William Hague", 
     "slug": "mr-william-hague"
 }

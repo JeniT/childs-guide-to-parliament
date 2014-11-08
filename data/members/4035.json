@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "4035", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Steve Rotheram", 
     "slug": "steve-rotheram"
 }

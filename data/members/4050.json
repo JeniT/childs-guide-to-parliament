@@ -13,7 +13,10 @@
     ], 
     "gender": "male", 
     "id": "4050", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Gordon Henderson", 
     "slug": "gordon-henderson"
 }

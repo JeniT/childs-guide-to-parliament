@@ -21,7 +21,10 @@
     ], 
     "gender": "male", 
     "id": "3991", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Jesse Norman", 
     "slug": "jesse-norman"
 }

@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4033", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "David Rutley", 
     "slug": "david-rutley"
 }

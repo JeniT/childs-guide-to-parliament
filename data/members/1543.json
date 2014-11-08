@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "1543", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr John Leech", 
     "slug": "mr-john-leech"
 }

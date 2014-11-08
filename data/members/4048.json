@@ -23,7 +23,10 @@
     ], 
     "gender": "female", 
     "id": "4048", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Caroline Nokes", 
     "slug": "caroline-nokes"
 }

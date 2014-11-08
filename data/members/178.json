@@ -16,7 +16,10 @@
     ], 
     "gender": "male", 
     "id": "178", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "John McDonnell", 
     "slug": "john-mcdonnell"
 }

@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1506", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Andrew Gwynne", 
     "slug": "andrew-gwynne"
 }

@@ -6,7 +6,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "28", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Norman Baker", 
     "slug": "norman-baker"
 }

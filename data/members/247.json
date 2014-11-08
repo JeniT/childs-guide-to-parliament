@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "247", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mr Oliver Letwin", 
     "slug": "mr-oliver-letwin"
 }

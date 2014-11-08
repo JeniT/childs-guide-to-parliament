@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "3919", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Bob Stewart", 
     "slug": "bob-stewart"
 }

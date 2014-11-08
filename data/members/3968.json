@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3968", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Stephen Lloyd", 
     "slug": "stephen-lloyd"
 }

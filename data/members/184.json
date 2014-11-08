@@ -21,7 +21,10 @@
     ], 
     "gender": "male", 
     "id": "184", 
-    "party": "Labour (Co-op)", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Labour (Co-op)"
+    }, 
     "display_name": "Mike Gapes", 
     "slug": "mike-gapes"
 }

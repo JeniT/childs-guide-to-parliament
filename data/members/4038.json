@@ -19,7 +19,10 @@
     ], 
     "gender": "female", 
     "id": "4038", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Heidi Alexander", 
     "slug": "heidi-alexander"
 }

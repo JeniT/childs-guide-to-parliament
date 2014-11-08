@@ -35,7 +35,10 @@
     ], 
     "gender": "male", 
     "id": "415", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Fabian Hamilton", 
     "slug": "fabian-hamilton"
 }

@@ -11,7 +11,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1433", 
-    "party": "Scottish National", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Scottish National"
+    }, 
     "display_name": "Angus Robertson", 
     "slug": "angus-robertson"
 }

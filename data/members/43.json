@@ -37,7 +37,10 @@
     ], 
     "gender": "male", 
     "id": "43", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sir Alan Haselhurst", 
     "slug": "sir-alan-haselhurst"
 }

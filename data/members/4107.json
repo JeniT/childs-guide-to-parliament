@@ -18,7 +18,10 @@
     ], 
     "gender": "female", 
     "id": "4107", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Harriett Baldwin", 
     "slug": "harriett-baldwin"
 }

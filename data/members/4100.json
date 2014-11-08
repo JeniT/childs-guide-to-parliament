@@ -13,7 +13,10 @@
     ], 
     "gender": "female", 
     "id": "4100", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Sheryll Murray", 
     "slug": "sheryll-murray"
 }

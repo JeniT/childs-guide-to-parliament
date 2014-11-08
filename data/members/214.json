@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "214", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Don Foster", 
     "slug": "mr-don-foster"
 }

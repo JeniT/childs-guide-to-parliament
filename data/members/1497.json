@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "female", 
     "id": "1497", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Jenny Willott", 
     "slug": "jenny-willott"
 }

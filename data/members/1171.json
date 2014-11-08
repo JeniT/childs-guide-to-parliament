@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1171", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Liam Byrne", 
     "slug": "mr-liam-byrne"
 }

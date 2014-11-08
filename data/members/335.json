@@ -23,7 +23,10 @@
     ], 
     "gender": "male", 
     "id": "335", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "David Tredinnick", 
     "slug": "david-tredinnick"
 }

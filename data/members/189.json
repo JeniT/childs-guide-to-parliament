@@ -19,7 +19,10 @@
     ], 
     "gender": "male", 
     "id": "189", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Jim Dowd", 
     "slug": "jim-dowd"
 }

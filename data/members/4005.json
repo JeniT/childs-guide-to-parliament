@@ -23,7 +23,10 @@
     ], 
     "gender": "male", 
     "id": "4005", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Bob Blackman", 
     "slug": "bob-blackman"
 }

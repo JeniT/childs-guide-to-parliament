@@ -5,7 +5,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1546", 
-    "party": "Scottish National", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Scottish National"
+    }, 
     "display_name": "Mr Angus Brendan MacNeil", 
     "slug": "mr-angus-brendan-macneil"
 }

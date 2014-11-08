@@ -24,7 +24,10 @@
     ], 
     "gender": "male", 
     "id": "4099", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Jacob Rees-Mogg", 
     "slug": "jacob-rees-mogg"
 }

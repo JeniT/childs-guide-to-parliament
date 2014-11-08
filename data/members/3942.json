@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "3942", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "John Stevenson", 
     "slug": "john-stevenson"
 }

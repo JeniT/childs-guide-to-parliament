@@ -11,7 +11,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "638", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Michael Moore", 
     "slug": "michael-moore"
 }

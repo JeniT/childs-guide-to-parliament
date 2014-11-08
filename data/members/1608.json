@@ -20,7 +20,10 @@
     ], 
     "gender": "male", 
     "id": "1608", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Lindsay Roy", 
     "slug": "lindsay-roy"
 }

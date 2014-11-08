@@ -48,7 +48,14 @@ def parse_gender(gender):
     return {
         'M': 'male',
         'F': 'female',
-        }.get(gender, 'unknown')
+    }.get(gender, 'unknown')
+
+def get_colour(party):
+    return {
+        'Conservative': '#333399',
+        'Labour': '#cc0000',
+        'Liberal Democrat': '#f1cc0a'
+    }.get(party, '#999999')
 
 INTERESTS_MAP = {}
 MEMBER_SLUG_MAP = {}
@@ -88,14 +95,17 @@ for member in MEMBERS:
                 member_interests.append(interest_clean_name)
                 if not interest_clean_name in INTERESTS_MAP:
                     INTERESTS_MAP[interest_clean_name] = []
-                INTERESTS_MAP[interest_clean_name].append(member_slug)
+                INTERESTS_MAP[interest_clean_name].append(member_id)
 
     member_data = {
         'slug': member_slug,
         'id': member_id,
         'display_name': member.find('DisplayAs').text,
         'gender': parse_gender(member.find('Gender').text),
-        'party': member.find('Party').text,
+        'party': {
+            'name': member.find('Party').text,
+            'colour': get_colour(member.find('Party').text)
+        },
         'committees': member_committees,
         'interests': member_interests
     }

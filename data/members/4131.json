@@ -10,7 +10,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4131", 
-    "party": "Democratic Unionist", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Democratic Unionist"
+    }, 
     "display_name": "Jim Shannon", 
     "slug": "jim-shannon"
 }

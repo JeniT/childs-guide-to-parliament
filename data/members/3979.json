@@ -16,7 +16,10 @@
     ], 
     "gender": "female", 
     "id": "3979", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Angie Bray", 
     "slug": "angie-bray"
 }

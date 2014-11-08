@@ -7,7 +7,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "632", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Douglas Alexander", 
     "slug": "mr-douglas-alexander"
 }

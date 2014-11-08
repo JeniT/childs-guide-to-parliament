@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "567", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Mr Peter Hain", 
     "slug": "mr-peter-hain"
 }

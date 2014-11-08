@@ -16,7 +16,10 @@
     ], 
     "gender": "male", 
     "id": "1586", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Adam Afriyie", 
     "slug": "adam-afriyie"
 }

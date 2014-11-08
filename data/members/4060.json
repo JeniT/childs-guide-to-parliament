@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "4060", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Jake Berry", 
     "slug": "jake-berry"
 }

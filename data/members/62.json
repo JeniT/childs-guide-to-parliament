@@ -37,7 +37,10 @@
     ], 
     "gender": "male", 
     "id": "62", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Dr Alan Whitehead", 
     "slug": "dr-alan-whitehead"
 }

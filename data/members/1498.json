@@ -12,7 +12,10 @@
     ], 
     "gender": "male", 
     "id": "1498", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Mr Mark Williams", 
     "slug": "mr-mark-williams"
 }

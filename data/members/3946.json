@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3946", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Gordon Birtwistle", 
     "slug": "gordon-birtwistle"
 }

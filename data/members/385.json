@@ -21,7 +21,10 @@
     ], 
     "gender": "male", 
     "id": "385", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Hugh Bayley", 
     "slug": "hugh-bayley"
 }

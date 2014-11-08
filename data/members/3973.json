@@ -14,7 +14,10 @@
     ], 
     "gender": "male", 
     "id": "3973", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Grahame M. Morris", 
     "slug": "grahame-m-morris"
 }

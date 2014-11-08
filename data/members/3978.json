@@ -9,7 +9,10 @@
     ], 
     "gender": "male", 
     "id": "3978", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Simon Reevell", 
     "slug": "simon-reevell"
 }

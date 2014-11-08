@@ -16,7 +16,10 @@
     ], 
     "gender": "male", 
     "id": "1540", 
-    "party": "Liberal Democrat", 
+    "party": {
+        "colour": "#f1cc0a", 
+        "name": "Liberal Democrat"
+    }, 
     "display_name": "Greg Mulholland", 
     "slug": "greg-mulholland"
 }

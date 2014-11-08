@@ -9,7 +9,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1528", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Mike Penning", 
     "slug": "mike-penning"
 }

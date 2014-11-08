@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "609", 
-    "party": "Respect", 
+    "party": {
+        "colour": "#999999", 
+        "name": "Respect"
+    }, 
     "display_name": "Mr George Galloway", 
     "slug": "mr-george-galloway"
 }

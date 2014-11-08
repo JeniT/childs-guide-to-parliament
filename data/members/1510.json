@@ -3,7 +3,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "1510", 
-    "party": "Labour", 
+    "party": {
+        "colour": "#cc0000", 
+        "name": "Labour"
+    }, 
     "display_name": "Edward Miliband", 
     "slug": "edward-miliband"
 }

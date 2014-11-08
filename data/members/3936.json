@@ -8,7 +8,10 @@
     "committees": [], 
     "gender": "male", 
     "id": "3936", 
-    "party": "Conservative", 
+    "party": {
+        "colour": "#333399", 
+        "name": "Conservative"
+    }, 
     "display_name": "Andrew Griffiths", 
     "slug": "andrew-griffiths"
 }
