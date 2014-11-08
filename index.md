@@ -11,4 +11,4 @@ title: Child's Guide to Parliament
 ##What does Parliament do?
 
 <a href="http://www.youtube.com/watch?v=1KFGt9M-j28" target="_blank">How is a Law made?</a>  
-[![How is a Law made?](http://img.youtube.com/vi/1KFGt9M-j28/0.jpg)](http://www.youtube.com/watch?v=1KFGt9M-j28)
+<iframe width="560" height="315" src="//www.youtube.com/embed/1KFGt9M-j28" frameborder="0" allowfullscreen></iframe>
