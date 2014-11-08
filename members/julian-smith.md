@@ -9,8 +9,6 @@ title: "Julian Smith"
 
 ---
 
-## Julian Smith
-
 **Julian Smith** is an MP in the **Conservative** party.
 
 {% include members/julian-smith.md %}

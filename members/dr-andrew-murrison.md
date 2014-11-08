@@ -9,8 +9,6 @@ title: "Dr Andrew Murrison"
 
 ---
 
-## Dr Andrew Murrison
-
 **Dr Andrew Murrison** is an MP in the **Conservative** party.
 
 {% include members/dr-andrew-murrison.md %}

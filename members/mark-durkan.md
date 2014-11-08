@@ -9,8 +9,6 @@ title: "Mark Durkan"
 
 ---
 
-## Mark Durkan
-
 **Mark Durkan** is an MP in the **Social Democratic & Labour Party** party.
 
 {% include members/mark-durkan.md %}

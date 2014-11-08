@@ -9,8 +9,6 @@ title: "Welfare Of The Elderly And Disabled People"
 
 ---
 
-## Welfare Of The Elderly And Disabled People
-
 {% include interests/welfare-of-the-elderly-and-disabled-people.md %}
 
 ### Who is interested in Welfare Of The Elderly And Disabled People?

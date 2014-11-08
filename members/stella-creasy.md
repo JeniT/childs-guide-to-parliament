@@ -9,8 +9,6 @@ title: "Stella Creasy"
 
 ---
 
-## Stella Creasy
-
 **Stella Creasy** is an MP in the **Labour (Co-op)** party.
 
 {% include members/stella-creasy.md %}

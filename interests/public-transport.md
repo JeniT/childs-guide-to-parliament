@@ -9,8 +9,6 @@ title: "Public Transport"
 
 ---
 
-## Public Transport
-
 {% include interests/public-transport.md %}
 
 ### Who is interested in Public Transport?

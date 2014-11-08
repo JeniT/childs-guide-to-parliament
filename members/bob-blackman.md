@@ -9,8 +9,6 @@ title: "Bob Blackman"
 
 ---
 
-## Bob Blackman
-
 **Bob Blackman** is an MP in the **Conservative** party.
 
 {% include members/bob-blackman.md %}

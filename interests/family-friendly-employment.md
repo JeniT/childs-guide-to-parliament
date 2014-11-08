@@ -9,8 +9,6 @@ title: "Family Friendly Employment"
 
 ---
 
-## Family Friendly Employment
-
 {% include interests/family-friendly-employment.md %}
 
 ### Who is interested in Family Friendly Employment?

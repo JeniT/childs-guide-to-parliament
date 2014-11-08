@@ -9,8 +9,6 @@ title: "Fiona O'Donnell"
 
 ---
 
-## Fiona O'Donnell
-
 **Fiona O'Donnell** is an MP in the **Labour** party.
 
 {% include members/fiona-odonnell.md %}

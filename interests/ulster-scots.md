@@ -9,8 +9,6 @@ title: "Ulster-Scots"
 
 ---
 
-## Ulster-Scots
-
 {% include interests/ulster-scots.md %}
 
 ### Who is interested in Ulster-Scots?

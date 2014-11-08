@@ -9,8 +9,6 @@ title: "Human Rights"
 
 ---
 
-## Human Rights
-
 {% include interests/human-rights.md %}
 
 ### Who is interested in Human Rights?

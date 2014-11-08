@@ -9,8 +9,6 @@ title: "Government Efficiency"
 
 ---
 
-## Government Efficiency
-
 {% include interests/government-efficiency.md %}
 
 ### Who is interested in Government Efficiency?

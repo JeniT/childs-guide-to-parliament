@@ -9,8 +9,6 @@ title: "Mr Stewart Jackson"
 
 ---
 
-## Mr Stewart Jackson
-
 **Mr Stewart Jackson** is an MP in the **Conservative** party.
 
 {% include members/mr-stewart-jackson.md %}

@@ -9,8 +9,6 @@ title: "Workers' Rights"
 
 ---
 
-## Workers' Rights
-
 {% include interests/workers-rights.md %}
 
 ### Who is interested in Workers' Rights?

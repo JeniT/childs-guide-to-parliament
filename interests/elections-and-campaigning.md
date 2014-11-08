@@ -9,8 +9,6 @@ title: "Elections And Campaigning"
 
 ---
 
-## Elections And Campaigning
-
 {% include interests/elections-and-campaigning.md %}
 
 ### Who is interested in Elections And Campaigning?

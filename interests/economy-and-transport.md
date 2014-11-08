@@ -9,8 +9,6 @@ title: "Economy And Transport"
 
 ---
 
-## Economy And Transport
-
 {% include interests/economy-and-transport.md %}
 
 ### Who is interested in Economy And Transport?

@@ -9,8 +9,6 @@ title: "Jobs And Economy"
 
 ---
 
-## Jobs And Economy
-
 {% include interests/jobs-and-economy.md %}
 
 ### Who is interested in Jobs And Economy?

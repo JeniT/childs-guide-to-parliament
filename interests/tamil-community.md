@@ -9,8 +9,6 @@ title: "Tamil Community"
 
 ---
 
-## Tamil Community
-
 {% include interests/tamil-community.md %}
 
 ### Who is interested in Tamil Community?

@@ -9,8 +9,6 @@ title: "Graham Stringer"
 
 ---
 
-## Graham Stringer
-
 **Graham Stringer** is an MP in the **Labour** party.
 
 {% include members/graham-stringer.md %}

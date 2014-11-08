@@ -9,8 +9,6 @@ title: "Mr Peter Bone"
 
 ---
 
-## Mr Peter Bone
-
 **Mr Peter Bone** is an MP in the **Conservative** party.
 
 {% include members/mr-peter-bone.md %}

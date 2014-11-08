@@ -9,8 +9,6 @@ title: "Fishing Industry"
 
 ---
 
-## Fishing Industry
-
 {% include interests/fishing-industry.md %}
 
 ### Who is interested in Fishing Industry?

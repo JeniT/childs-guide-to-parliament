@@ -9,8 +9,6 @@ title: "Universities And Innovation"
 
 ---
 
-## Universities And Innovation
-
 {% include interests/universities-and-innovation.md %}
 
 ### Who is interested in Universities And Innovation?

@@ -9,8 +9,6 @@ title: "Energy Efficiency"
 
 ---
 
-## Energy Efficiency
-
 {% include interests/energy-efficiency.md %}
 
 ### Who is interested in Energy Efficiency?

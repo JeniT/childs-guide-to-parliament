@@ -9,8 +9,6 @@ title: "Economic And Monetary Affairs"
 
 ---
 
-## Economic And Monetary Affairs
-
 {% include interests/economic-and-monetary-affairs.md %}
 
 ### Who is interested in Economic And Monetary Affairs?

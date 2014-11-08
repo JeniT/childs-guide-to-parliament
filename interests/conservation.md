@@ -9,8 +9,6 @@ title: "Conservation"
 
 ---
 
-## Conservation
-
 {% include interests/conservation.md %}
 
 ### Who is interested in Conservation?

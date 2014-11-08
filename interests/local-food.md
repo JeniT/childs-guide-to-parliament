@@ -9,8 +9,6 @@ title: "Local Food"
 
 ---
 
-## Local Food
-
 {% include interests/local-food.md %}
 
 ### Who is interested in Local Food?

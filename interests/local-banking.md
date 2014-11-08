@@ -9,8 +9,6 @@ title: "Local Banking"
 
 ---
 
-## Local Banking
-
 {% include interests/local-banking.md %}
 
 ### Who is interested in Local Banking?

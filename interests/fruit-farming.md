@@ -9,8 +9,6 @@ title: "Fruit Farming"
 
 ---
 
-## Fruit Farming
-
 {% include interests/fruit-farming.md %}
 
 ### Who is interested in Fruit Farming?

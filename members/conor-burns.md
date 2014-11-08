@@ -9,8 +9,6 @@ title: "Conor Burns"
 
 ---
 
-## Conor Burns
-
 **Conor Burns** is an MP in the **Conservative** party.
 
 {% include members/conor-burns.md %}

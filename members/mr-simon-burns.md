@@ -9,8 +9,6 @@ title: "Mr Simon Burns"
 
 ---
 
-## Mr Simon Burns
-
 **Mr Simon Burns** is an MP in the **Conservative** party.
 
 {% include members/mr-simon-burns.md %}

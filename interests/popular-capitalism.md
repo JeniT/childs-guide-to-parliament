@@ -9,8 +9,6 @@ title: "Popular Capitalism"
 
 ---
 
-## Popular Capitalism
-
 {% include interests/popular-capitalism.md %}
 
 ### Who is interested in Popular Capitalism?

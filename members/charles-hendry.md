@@ -9,8 +9,6 @@ title: "Charles Hendry"
 
 ---
 
-## Charles Hendry
-
 **Charles Hendry** is an MP in the **Conservative** party.
 
 {% include members/charles-hendry.md %}

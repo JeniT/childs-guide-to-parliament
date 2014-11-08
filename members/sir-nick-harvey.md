@@ -9,8 +9,6 @@ title: "Sir Nick Harvey"
 
 ---
 
-## Sir Nick Harvey
-
 **Sir Nick Harvey** is an MP in the **Liberal Democrat** party.
 
 {% include members/sir-nick-harvey.md %}

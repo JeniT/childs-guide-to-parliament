@@ -9,8 +9,6 @@ title: "Textiles"
 
 ---
 
-## Textiles
-
 {% include interests/textiles.md %}
 
 ### Who is interested in Textiles?

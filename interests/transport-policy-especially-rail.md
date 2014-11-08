@@ -9,8 +9,6 @@ title: "Transport Policy (Especially Rail)"
 
 ---
 
-## Transport Policy (Especially Rail)
-
 {% include interests/transport-policy-especially-rail.md %}
 
 ### Who is interested in Transport Policy (Especially Rail)?

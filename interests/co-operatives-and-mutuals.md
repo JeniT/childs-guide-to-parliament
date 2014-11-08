@@ -9,8 +9,6 @@ title: "Co-Operatives And Mutuals"
 
 ---
 
-## Co-Operatives And Mutuals
-
 {% include interests/co-operatives-and-mutuals.md %}
 
 ### Who is interested in Co-Operatives And Mutuals?

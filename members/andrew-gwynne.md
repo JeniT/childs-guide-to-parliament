@@ -9,8 +9,6 @@ title: "Andrew Gwynne"
 
 ---
 
-## Andrew Gwynne
-
 **Andrew Gwynne** is an MP in the **Labour** party.
 
 {% include members/andrew-gwynne.md %}

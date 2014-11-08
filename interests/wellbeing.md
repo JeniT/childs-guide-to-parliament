@@ -9,8 +9,6 @@ title: "Wellbeing"
 
 ---
 
-## Wellbeing
-
 {% include interests/wellbeing.md %}
 
 ### Who is interested in Wellbeing?

@@ -9,8 +9,6 @@ title: "Nuclear Energy"
 
 ---
 
-## Nuclear Energy
-
 {% include interests/nuclear-energy.md %}
 
 ### Who is interested in Nuclear Energy?

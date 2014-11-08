@@ -9,8 +9,6 @@ title: "Mrs Cheryl Gillan"
 
 ---
 
-## Mrs Cheryl Gillan
-
 **Mrs Cheryl Gillan** is an MP in the **Conservative** party.
 
 {% include members/mrs-cheryl-gillan.md %}

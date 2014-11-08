@@ -9,8 +9,6 @@ title: "David Heyes"
 
 ---
 
-## David Heyes
-
 **David Heyes** is an MP in the **Labour** party.
 
 {% include members/david-heyes.md %}

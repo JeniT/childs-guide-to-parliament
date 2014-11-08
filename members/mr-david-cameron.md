@@ -9,8 +9,6 @@ title: "Mr David Cameron"
 
 ---
 
-## Mr David Cameron
-
 **Mr David Cameron** is an MP in the **Conservative** party.
 
 {% include members/mr-david-cameron.md %}

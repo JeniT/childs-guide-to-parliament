@@ -9,8 +9,6 @@ title: "Big Society"
 
 ---
 
-## Big Society
-
 {% include interests/big-society.md %}
 
 ### Who is interested in Big Society?

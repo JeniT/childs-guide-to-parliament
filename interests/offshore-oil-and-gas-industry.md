@@ -9,8 +9,6 @@ title: "Offshore Oil And Gas Industry"
 
 ---
 
-## Offshore Oil And Gas Industry
-
 {% include interests/offshore-oil-and-gas-industry.md %}
 
 ### Who is interested in Offshore Oil And Gas Industry?

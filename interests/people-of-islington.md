@@ -9,8 +9,6 @@ title: "People Of Islington"
 
 ---
 
-## People Of Islington
-
 {% include interests/people-of-islington.md %}
 
 ### Who is interested in People Of Islington?

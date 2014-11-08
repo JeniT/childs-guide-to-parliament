@@ -9,8 +9,6 @@ title: "Broadband"
 
 ---
 
-## Broadband
-
 {% include interests/broadband.md %}
 
 ### Who is interested in Broadband?

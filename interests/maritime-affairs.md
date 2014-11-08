@@ -9,8 +9,6 @@ title: "Maritime Affairs"
 
 ---
 
-## Maritime Affairs
-
 {% include interests/maritime-affairs.md %}
 
 ### Who is interested in Maritime Affairs?

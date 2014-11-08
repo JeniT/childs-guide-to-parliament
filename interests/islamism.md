@@ -9,8 +9,6 @@ title: "Islamism"
 
 ---
 
-## Islamism
-
 {% include interests/islamism.md %}
 
 ### Who is interested in Islamism?

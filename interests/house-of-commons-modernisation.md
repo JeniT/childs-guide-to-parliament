@@ -9,8 +9,6 @@ title: "House Of Commons Modernisation"
 
 ---
 
-## House Of Commons Modernisation
-
 {% include interests/house-of-commons-modernisation.md %}
 
 ### Who is interested in House Of Commons Modernisation?

@@ -9,8 +9,6 @@ title: "Pensions And Welfare"
 
 ---
 
-## Pensions And Welfare
-
 {% include interests/pensions-and-welfare.md %}
 
 ### Who is interested in Pensions And Welfare?

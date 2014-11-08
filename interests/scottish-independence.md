@@ -9,8 +9,6 @@ title: "Scottish Independence"
 
 ---
 
-## Scottish Independence
-
 {% include interests/scottish-independence.md %}
 
 ### Who is interested in Scottish Independence?

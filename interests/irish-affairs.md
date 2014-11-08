@@ -9,8 +9,6 @@ title: "Irish Affairs"
 
 ---
 
-## Irish Affairs
-
 {% include interests/irish-affairs.md %}
 
 ### Who is interested in Irish Affairs?

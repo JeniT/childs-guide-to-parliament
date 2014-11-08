@@ -9,8 +9,6 @@ title: "Regional Policy"
 
 ---
 
-## Regional Policy
-
 {% include interests/regional-policy.md %}
 
 ### Who is interested in Regional Policy?

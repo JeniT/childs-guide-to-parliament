@@ -9,8 +9,6 @@ title: "Mr David Heath"
 
 ---
 
-## Mr David Heath
-
 **Mr David Heath** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-david-heath.md %}

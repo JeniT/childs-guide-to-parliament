@@ -9,8 +9,6 @@ title: "Mr Ivan Lewis"
 
 ---
 
-## Mr Ivan Lewis
-
 **Mr Ivan Lewis** is an MP in the **Labour** party.
 
 {% include members/mr-ivan-lewis.md %}

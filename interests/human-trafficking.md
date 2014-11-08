@@ -9,8 +9,6 @@ title: "Human Trafficking"
 
 ---
 
-## Human Trafficking
-
 {% include interests/human-trafficking.md %}
 
 ### Who is interested in Human Trafficking?

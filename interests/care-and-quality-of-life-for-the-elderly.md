@@ -9,8 +9,6 @@ title: "Care And Quality Of Life For The Elderly"
 
 ---
 
-## Care And Quality Of Life For The Elderly
-
 {% include interests/care-and-quality-of-life-for-the-elderly.md %}
 
 ### Who is interested in Care And Quality Of Life For The Elderly?

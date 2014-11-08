@@ -9,8 +9,6 @@ title: "Women And Business"
 
 ---
 
-## Women And Business
-
 {% include interests/women-and-business.md %}
 
 ### Who is interested in Women And Business?

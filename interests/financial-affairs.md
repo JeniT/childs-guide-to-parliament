@@ -9,8 +9,6 @@ title: "Financial Affairs"
 
 ---
 
-## Financial Affairs
-
 {% include interests/financial-affairs.md %}
 
 ### Who is interested in Financial Affairs?

@@ -9,8 +9,6 @@ title: "Daniel Kawczynski"
 
 ---
 
-## Daniel Kawczynski
-
 **Daniel Kawczynski** is an MP in the **Conservative** party.
 
 {% include members/daniel-kawczynski.md %}

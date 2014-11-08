@@ -9,8 +9,6 @@ title: "Rural Matters"
 
 ---
 
-## Rural Matters
-
 {% include interests/rural-matters.md %}
 
 ### Who is interested in Rural Matters?

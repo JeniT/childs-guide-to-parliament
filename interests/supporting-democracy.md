@@ -9,8 +9,6 @@ title: "Supporting Democracy"
 
 ---
 
-## Supporting Democracy
-
 {% include interests/supporting-democracy.md %}
 
 ### Who is interested in Supporting Democracy?

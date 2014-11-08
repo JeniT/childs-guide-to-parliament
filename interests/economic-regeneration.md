@@ -9,8 +9,6 @@ title: "Economic Regeneration"
 
 ---
 
-## Economic Regeneration
-
 {% include interests/economic-regeneration.md %}
 
 ### Who is interested in Economic Regeneration?

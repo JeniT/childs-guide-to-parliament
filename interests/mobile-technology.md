@@ -9,8 +9,6 @@ title: "Mobile Technology"
 
 ---
 
-## Mobile Technology
-
 {% include interests/mobile-technology.md %}
 
 ### Who is interested in Mobile Technology?

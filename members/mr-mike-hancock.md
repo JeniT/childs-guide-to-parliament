@@ -9,8 +9,6 @@ title: "Mr Mike Hancock"
 
 ---
 
-## Mr Mike Hancock
-
 **Mr Mike Hancock** is an MP in the **Independent** party.
 
 {% include members/mr-mike-hancock.md %}

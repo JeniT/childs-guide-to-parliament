@@ -9,8 +9,6 @@ title: "Justine Greening"
 
 ---
 
-## Justine Greening
-
 **Justine Greening** is an MP in the **Conservative** party.
 
 {% include members/justine-greening.md %}

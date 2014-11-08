@@ -9,8 +9,6 @@ title: "Michael Fallon"
 
 ---
 
-## Michael Fallon
-
 **Michael Fallon** is an MP in the **Conservative** party.
 
 {% include members/michael-fallon.md %}

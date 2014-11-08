@@ -9,8 +9,6 @@ title: "Special Educational Needs"
 
 ---
 
-## Special Educational Needs
-
 {% include interests/special-educational-needs.md %}
 
 ### Who is interested in Special Educational Needs?

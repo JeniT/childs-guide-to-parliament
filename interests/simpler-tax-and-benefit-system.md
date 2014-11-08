@@ -9,8 +9,6 @@ title: "Simpler Tax And Benefit System"
 
 ---
 
-## Simpler Tax And Benefit System
-
 {% include interests/simpler-tax-and-benefit-system.md %}
 
 ### Who is interested in Simpler Tax And Benefit System?

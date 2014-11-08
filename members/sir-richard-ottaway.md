@@ -9,8 +9,6 @@ title: "Sir Richard Ottaway"
 
 ---
 
-## Sir Richard Ottaway
-
 **Sir Richard Ottaway** is an MP in the **Conservative** party.
 
 {% include members/sir-richard-ottaway.md %}

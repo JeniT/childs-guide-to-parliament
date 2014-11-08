@@ -9,8 +9,6 @@ title: "Mark Pawsey"
 
 ---
 
-## Mark Pawsey
-
 **Mark Pawsey** is an MP in the **Conservative** party.
 
 {% include members/mark-pawsey.md %}

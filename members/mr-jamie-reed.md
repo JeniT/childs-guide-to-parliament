@@ -9,8 +9,6 @@ title: "Mr Jamie Reed"
 
 ---
 
-## Mr Jamie Reed
-
 **Mr Jamie Reed** is an MP in the **Labour** party.
 
 {% include members/mr-jamie-reed.md %}

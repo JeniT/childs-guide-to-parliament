@@ -9,8 +9,6 @@ title: "Mr Clive Betts"
 
 ---
 
-## Mr Clive Betts
-
 **Mr Clive Betts** is an MP in the **Labour** party.
 
 {% include members/mr-clive-betts.md %}

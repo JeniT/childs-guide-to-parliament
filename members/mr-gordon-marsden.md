@@ -9,8 +9,6 @@ title: "Mr Gordon Marsden"
 
 ---
 
-## Mr Gordon Marsden
-
 **Mr Gordon Marsden** is an MP in the **Labour** party.
 
 {% include members/mr-gordon-marsden.md %}

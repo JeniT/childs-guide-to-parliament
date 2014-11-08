@@ -9,8 +9,6 @@ title: "Intelligence"
 
 ---
 
-## Intelligence
-
 {% include interests/intelligence.md %}
 
 ### Who is interested in Intelligence?

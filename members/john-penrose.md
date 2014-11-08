@@ -9,8 +9,6 @@ title: "John Penrose"
 
 ---
 
-## John Penrose
-
 **John Penrose** is an MP in the **Conservative** party.
 
 {% include members/john-penrose.md %}

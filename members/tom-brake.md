@@ -9,8 +9,6 @@ title: "Tom Brake"
 
 ---
 
-## Tom Brake
-
 **Tom Brake** is an MP in the **Liberal Democrat** party.
 
 {% include members/tom-brake.md %}

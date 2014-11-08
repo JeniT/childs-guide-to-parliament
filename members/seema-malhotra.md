@@ -9,8 +9,6 @@ title: "Seema Malhotra"
 
 ---
 
-## Seema Malhotra
-
 **Seema Malhotra** is an MP in the **Labour (Co-op)** party.
 
 {% include members/seema-malhotra.md %}

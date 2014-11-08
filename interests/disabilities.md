@@ -9,8 +9,6 @@ title: "Disabilities"
 
 ---
 
-## Disabilities
-
 {% include interests/disabilities.md %}
 
 ### Who is interested in Disabilities?

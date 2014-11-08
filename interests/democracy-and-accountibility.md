@@ -9,8 +9,6 @@ title: "Democracy And Accountibility"
 
 ---
 
-## Democracy And Accountibility
-
 {% include interests/democracy-and-accountibility.md %}
 
 ### Who is interested in Democracy And Accountibility?

@@ -9,8 +9,6 @@ title: "Environment And Housing"
 
 ---
 
-## Environment And Housing
-
 {% include interests/environment-and-housing.md %}
 
 ### Who is interested in Environment And Housing?

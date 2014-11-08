@@ -9,8 +9,6 @@ title: "Mr Nigel Evans"
 
 ---
 
-## Mr Nigel Evans
-
 **Mr Nigel Evans** is an MP in the **Conservative** party.
 
 {% include members/mr-nigel-evans.md %}

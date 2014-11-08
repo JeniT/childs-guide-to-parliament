@@ -9,8 +9,6 @@ title: "Mr Lee Scott"
 
 ---
 
-## Mr Lee Scott
-
 **Mr Lee Scott** is an MP in the **Conservative** party.
 
 {% include members/mr-lee-scott.md %}

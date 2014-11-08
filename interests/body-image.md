@@ -9,8 +9,6 @@ title: "Body Image"
 
 ---
 
-## Body Image
-
 {% include interests/body-image.md %}
 
 ### Who is interested in Body Image?

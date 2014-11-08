@@ -9,8 +9,6 @@ title: "Anglo-American Relations"
 
 ---
 
-## Anglo-American Relations
-
 {% include interests/anglo-american-relations.md %}
 
 ### Who is interested in Anglo-American Relations?

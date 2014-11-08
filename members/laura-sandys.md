@@ -9,8 +9,6 @@ title: "Laura Sandys"
 
 ---
 
-## Laura Sandys
-
 **Laura Sandys** is an MP in the **Conservative** party.
 
 {% include members/laura-sandys.md %}

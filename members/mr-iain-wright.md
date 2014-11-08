@@ -9,8 +9,6 @@ title: "Mr Iain Wright"
 
 ---
 
-## Mr Iain Wright
-
 **Mr Iain Wright** is an MP in the **Labour** party.
 
 {% include members/mr-iain-wright.md %}

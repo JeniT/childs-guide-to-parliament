@@ -9,8 +9,6 @@ title: "Local And Regional Government"
 
 ---
 
-## Local And Regional Government
-
 {% include interests/local-and-regional-government.md %}
 
 ### Who is interested in Local And Regional Government?

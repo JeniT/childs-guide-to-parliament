@@ -9,8 +9,6 @@ title: "Public Service Reform"
 
 ---
 
-## Public Service Reform
-
 {% include interests/public-service-reform.md %}
 
 ### Who is interested in Public Service Reform?

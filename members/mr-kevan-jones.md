@@ -9,8 +9,6 @@ title: "Mr Kevan Jones"
 
 ---
 
-## Mr Kevan Jones
-
 **Mr Kevan Jones** is an MP in the **Labour** party.
 
 {% include members/mr-kevan-jones.md %}

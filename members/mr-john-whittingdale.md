@@ -9,8 +9,6 @@ title: "Mr John Whittingdale"
 
 ---
 
-## Mr John Whittingdale
-
 **Mr John Whittingdale** is an MP in the **Conservative** party.
 
 {% include members/mr-john-whittingdale.md %}

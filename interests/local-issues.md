@@ -9,8 +9,6 @@ title: "Local Issues"
 
 ---
 
-## Local Issues
-
 {% include interests/local-issues.md %}
 
 ### Who is interested in Local Issues?

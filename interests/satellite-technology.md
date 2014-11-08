@@ -9,8 +9,6 @@ title: "Satellite Technology"
 
 ---
 
-## Satellite Technology
-
 {% include interests/satellite-technology.md %}
 
 ### Who is interested in Satellite Technology?

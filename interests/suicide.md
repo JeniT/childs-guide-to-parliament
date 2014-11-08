@@ -9,8 +9,6 @@ title: "Suicide"
 
 ---
 
-## Suicide
-
 {% include interests/suicide.md %}
 
 ### Who is interested in Suicide?

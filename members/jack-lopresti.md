@@ -9,8 +9,6 @@ title: "Jack Lopresti"
 
 ---
 
-## Jack Lopresti
-
 **Jack Lopresti** is an MP in the **Conservative** party.
 
 {% include members/jack-lopresti.md %}

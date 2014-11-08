@@ -9,8 +9,6 @@ title: "Grant Shapps"
 
 ---
 
-## Grant Shapps
-
 **Grant Shapps** is an MP in the **Conservative** party.
 
 {% include members/grant-shapps.md %}

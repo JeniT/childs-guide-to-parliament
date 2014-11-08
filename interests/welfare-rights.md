@@ -9,8 +9,6 @@ title: "Welfare Rights"
 
 ---
 
-## Welfare Rights
-
 {% include interests/welfare-rights.md %}
 
 ### Who is interested in Welfare Rights?

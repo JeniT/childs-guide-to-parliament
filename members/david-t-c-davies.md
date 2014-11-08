@@ -9,8 +9,6 @@ title: "David T. C. Davies"
 
 ---
 
-## David T. C. Davies
-
 **David T. C. Davies** is an MP in the **Conservative** party.
 
 {% include members/david-t-c-davies.md %}

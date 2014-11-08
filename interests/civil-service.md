@@ -9,8 +9,6 @@ title: "Civil Service"
 
 ---
 
-## Civil Service
-
 {% include interests/civil-service.md %}
 
 ### Who is interested in Civil Service?

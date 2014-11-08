@@ -9,8 +9,6 @@ title: "Greg Clark"
 
 ---
 
-## Greg Clark
-
 **Greg Clark** is an MP in the **Conservative** party.
 
 {% include members/greg-clark.md %}

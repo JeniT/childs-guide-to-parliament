@@ -9,8 +9,6 @@ title: "Mr George Mudie"
 
 ---
 
-## Mr George Mudie
-
 **Mr George Mudie** is an MP in the **Labour** party.
 
 {% include members/mr-george-mudie.md %}

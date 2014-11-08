@@ -9,8 +9,6 @@ title: "Local Services"
 
 ---
 
-## Local Services
-
 {% include interests/local-services.md %}
 
 ### Who is interested in Local Services?

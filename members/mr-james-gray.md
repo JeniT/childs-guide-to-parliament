@@ -9,8 +9,6 @@ title: "Mr James Gray"
 
 ---
 
-## Mr James Gray
-
 **Mr James Gray** is an MP in the **Conservative** party.
 
 {% include members/mr-james-gray.md %}

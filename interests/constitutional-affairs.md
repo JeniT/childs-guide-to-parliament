@@ -9,8 +9,6 @@ title: "Constitutional Affairs"
 
 ---
 
-## Constitutional Affairs
-
 {% include interests/constitutional-affairs.md %}
 
 ### Who is interested in Constitutional Affairs?

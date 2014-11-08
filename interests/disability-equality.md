@@ -9,8 +9,6 @@ title: "Disability Equality"
 
 ---
 
-## Disability Equality
-
 {% include interests/disability-equality.md %}
 
 ### Who is interested in Disability Equality?

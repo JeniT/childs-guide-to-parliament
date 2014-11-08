@@ -9,8 +9,6 @@ title: "Gordon Henderson"
 
 ---
 
-## Gordon Henderson
-
 **Gordon Henderson** is an MP in the **Conservative** party.
 
 {% include members/gordon-henderson.md %}

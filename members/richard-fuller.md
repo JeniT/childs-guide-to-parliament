@@ -9,8 +9,6 @@ title: "Richard Fuller"
 
 ---
 
-## Richard Fuller
-
 **Richard Fuller** is an MP in the **Conservative** party.
 
 {% include members/richard-fuller.md %}

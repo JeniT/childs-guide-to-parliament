@@ -9,8 +9,6 @@ title: "High Cost Credit"
 
 ---
 
-## High Cost Credit
-
 {% include interests/high-cost-credit.md %}
 
 ### Who is interested in High Cost Credit?

@@ -9,8 +9,6 @@ title: "Mena"
 
 ---
 
-## Mena
-
 {% include interests/mena.md %}
 
 ### Who is interested in Mena?

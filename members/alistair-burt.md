@@ -9,8 +9,6 @@ title: "Alistair Burt"
 
 ---
 
-## Alistair Burt
-
 **Alistair Burt** is an MP in the **Conservative** party.
 
 {% include members/alistair-burt.md %}

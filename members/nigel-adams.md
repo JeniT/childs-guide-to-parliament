@@ -9,8 +9,6 @@ title: "Nigel Adams"
 
 ---
 
-## Nigel Adams
-
 **Nigel Adams** is an MP in the **Conservative** party.
 
 {% include members/nigel-adams.md %}

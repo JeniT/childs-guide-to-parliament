@@ -9,8 +9,6 @@ title: "Ship Building"
 
 ---
 
-## Ship Building
-
 {% include interests/ship-building.md %}
 
 ### Who is interested in Ship Building?

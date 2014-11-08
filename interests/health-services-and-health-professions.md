@@ -9,8 +9,6 @@ title: "Health Services And Health Professions"
 
 ---
 
-## Health Services And Health Professions
-
 {% include interests/health-services-and-health-professions.md %}
 
 ### Who is interested in Health Services And Health Professions?

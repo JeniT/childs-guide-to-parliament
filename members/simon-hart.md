@@ -9,8 +9,6 @@ title: "Simon Hart"
 
 ---
 
-## Simon Hart
-
 **Simon Hart** is an MP in the **Conservative** party.
 
 {% include members/simon-hart.md %}

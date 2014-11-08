@@ -9,8 +9,6 @@ title: "Libraries"
 
 ---
 
-## Libraries
-
 {% include interests/libraries.md %}
 
 ### Who is interested in Libraries?

@@ -9,8 +9,6 @@ title: "Corporate Social Responsibility"
 
 ---
 
-## Corporate Social Responsibility
-
 {% include interests/corporate-social-responsibility.md %}
 
 ### Who is interested in Corporate Social Responsibility?

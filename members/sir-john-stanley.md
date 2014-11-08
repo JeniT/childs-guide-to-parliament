@@ -9,8 +9,6 @@ title: "Sir John Stanley"
 
 ---
 
-## Sir John Stanley
-
 **Sir John Stanley** is an MP in the **Conservative** party.
 
 {% include members/sir-john-stanley.md %}

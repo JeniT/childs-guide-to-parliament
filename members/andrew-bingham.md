@@ -9,8 +9,6 @@ title: "Andrew Bingham"
 
 ---
 
-## Andrew Bingham
-
 **Andrew Bingham** is an MP in the **Conservative** party.
 
 {% include members/andrew-bingham.md %}

@@ -9,8 +9,6 @@ title: "Cyber-Security"
 
 ---
 
-## Cyber-Security
-
 {% include interests/cyber-security.md %}
 
 ### Who is interested in Cyber-Security?

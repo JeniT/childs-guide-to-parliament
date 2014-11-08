@@ -9,8 +9,6 @@ title: "Construction"
 
 ---
 
-## Construction
-
 {% include interests/construction.md %}
 
 ### Who is interested in Construction?

@@ -9,8 +9,6 @@ title: "Industrial Policy And Steel"
 
 ---
 
-## Industrial Policy And Steel
-
 {% include interests/industrial-policy-and-steel.md %}
 
 ### Who is interested in Industrial Policy And Steel?

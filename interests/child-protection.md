@@ -9,8 +9,6 @@ title: "Child Protection"
 
 ---
 
-## Child Protection
-
 {% include interests/child-protection.md %}
 
 ### Who is interested in Child Protection?

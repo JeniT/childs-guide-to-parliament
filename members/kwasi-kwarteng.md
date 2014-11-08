@@ -9,8 +9,6 @@ title: "Kwasi Kwarteng"
 
 ---
 
-## Kwasi Kwarteng
-
 **Kwasi Kwarteng** is an MP in the **Conservative** party.
 
 {% include members/kwasi-kwarteng.md %}

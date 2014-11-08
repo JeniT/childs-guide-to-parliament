@@ -9,8 +9,6 @@ title: "Mr Owen Paterson"
 
 ---
 
-## Mr Owen Paterson
-
 **Mr Owen Paterson** is an MP in the **Conservative** party.
 
 {% include members/mr-owen-paterson.md %}

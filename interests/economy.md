@@ -9,8 +9,6 @@ title: "Economy"
 
 ---
 
-## Economy
-
 {% include interests/economy.md %}
 
 ### Who is interested in Economy?

@@ -9,8 +9,6 @@ title: "Kelvin Hopkins"
 
 ---
 
-## Kelvin Hopkins
-
 **Kelvin Hopkins** is an MP in the **Labour** party.
 
 {% include members/kelvin-hopkins.md %}

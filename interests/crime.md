@@ -9,8 +9,6 @@ title: "Crime"
 
 ---
 
-## Crime
-
 {% include interests/crime.md %}
 
 ### Who is interested in Crime?

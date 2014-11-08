@@ -9,8 +9,6 @@ title: "Dr Liam Fox"
 
 ---
 
-## Dr Liam Fox
-
 **Dr Liam Fox** is an MP in the **Conservative** party.
 
 {% include members/dr-liam-fox.md %}

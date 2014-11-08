@@ -9,8 +9,6 @@ title: "Life Sciences"
 
 ---
 
-## Life Sciences
-
 {% include interests/life-sciences.md %}
 
 ### Who is interested in Life Sciences?

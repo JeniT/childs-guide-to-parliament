@@ -9,8 +9,6 @@ title: "Mr Douglas Carswell"
 
 ---
 
-## Mr Douglas Carswell
-
 **Mr Douglas Carswell** is an MP in the **UK Independence Party** party.
 
 {% include members/mr-douglas-carswell.md %}

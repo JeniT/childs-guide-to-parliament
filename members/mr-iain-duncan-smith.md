@@ -9,8 +9,6 @@ title: "Mr Iain Duncan Smith"
 
 ---
 
-## Mr Iain Duncan Smith
-
 **Mr Iain Duncan Smith** is an MP in the **Conservative** party.
 
 {% include members/mr-iain-duncan-smith.md %}

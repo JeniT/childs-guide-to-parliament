@@ -9,8 +9,6 @@ title: "Jenny Chapman"
 
 ---
 
-## Jenny Chapman
-
 **Jenny Chapman** is an MP in the **Labour** party.
 
 {% include members/jenny-chapman.md %}

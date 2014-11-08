@@ -9,8 +9,6 @@ title: "Civil Society"
 
 ---
 
-## Civil Society
-
 {% include interests/civil-society.md %}
 
 ### Who is interested in Civil Society?

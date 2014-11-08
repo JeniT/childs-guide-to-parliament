@@ -9,8 +9,6 @@ title: "Social Care"
 
 ---
 
-## Social Care
-
 {% include interests/social-care.md %}
 
 ### Who is interested in Social Care?

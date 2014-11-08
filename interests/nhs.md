@@ -9,8 +9,6 @@ title: "Nhs"
 
 ---
 
-## Nhs
-
 {% include interests/nhs.md %}
 
 ### Who is interested in Nhs?

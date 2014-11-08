@@ -9,8 +9,6 @@ title: "Recycling"
 
 ---
 
-## Recycling
-
 {% include interests/recycling.md %}
 
 ### Who is interested in Recycling?

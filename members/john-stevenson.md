@@ -9,8 +9,6 @@ title: "John Stevenson"
 
 ---
 
-## John Stevenson
-
 **John Stevenson** is an MP in the **Conservative** party.
 
 {% include members/john-stevenson.md %}

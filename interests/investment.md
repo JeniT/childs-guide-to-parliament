@@ -9,8 +9,6 @@ title: "Investment"
 
 ---
 
-## Investment
-
 {% include interests/investment.md %}
 
 ### Who is interested in Investment?

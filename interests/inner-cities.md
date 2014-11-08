@@ -9,8 +9,6 @@ title: "Inner Cities"
 
 ---
 
-## Inner Cities
-
 {% include interests/inner-cities.md %}
 
 ### Who is interested in Inner Cities?

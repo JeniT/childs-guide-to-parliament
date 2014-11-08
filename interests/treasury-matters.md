@@ -9,8 +9,6 @@ title: "Treasury Matters"
 
 ---
 
-## Treasury Matters
-
 {% include interests/treasury-matters.md %}
 
 ### Who is interested in Treasury Matters?

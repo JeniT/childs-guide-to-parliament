@@ -9,8 +9,6 @@ title: "Mr Mike Thornton"
 
 ---
 
-## Mr Mike Thornton
-
 **Mr Mike Thornton** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-mike-thornton.md %}

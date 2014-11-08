@@ -9,8 +9,6 @@ title: "Energy And Climate Change"
 
 ---
 
-## Energy And Climate Change
-
 {% include interests/energy-and-climate-change.md %}
 
 ### Who is interested in Energy And Climate Change?

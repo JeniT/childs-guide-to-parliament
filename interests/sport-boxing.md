@@ -9,8 +9,6 @@ title: "Sport - Boxing"
 
 ---
 
-## Sport - Boxing
-
 {% include interests/sport-boxing.md %}
 
 ### Who is interested in Sport - Boxing?

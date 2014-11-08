@@ -9,8 +9,6 @@ title: "Youth Work"
 
 ---
 
-## Youth Work
-
 {% include interests/youth-work.md %}
 
 ### Who is interested in Youth Work?

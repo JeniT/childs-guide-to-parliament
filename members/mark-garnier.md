@@ -9,8 +9,6 @@ title: "Mark Garnier"
 
 ---
 
-## Mark Garnier
-
 **Mark Garnier** is an MP in the **Conservative** party.
 
 {% include members/mark-garnier.md %}

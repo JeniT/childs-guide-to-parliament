@@ -9,8 +9,6 @@ title: "Poverty Alleviation"
 
 ---
 
-## Poverty Alleviation
-
 {% include interests/poverty-alleviation.md %}
 
 ### Who is interested in Poverty Alleviation?

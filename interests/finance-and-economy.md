@@ -9,8 +9,6 @@ title: "Finance And Economy"
 
 ---
 
-## Finance And Economy
-
 {% include interests/finance-and-economy.md %}
 
 ### Who is interested in Finance And Economy?

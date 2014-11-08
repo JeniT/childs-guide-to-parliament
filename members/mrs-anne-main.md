@@ -9,8 +9,6 @@ title: "Mrs Anne Main"
 
 ---
 
-## Mrs Anne Main
-
 **Mrs Anne Main** is an MP in the **Conservative** party.
 
 {% include members/mrs-anne-main.md %}

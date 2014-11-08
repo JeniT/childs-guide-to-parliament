@@ -9,8 +9,6 @@ title: "Industry/Business"
 
 ---
 
-## Industry/Business
-
 {% include interests/industry-business.md %}
 
 ### Who is interested in Industry/Business?

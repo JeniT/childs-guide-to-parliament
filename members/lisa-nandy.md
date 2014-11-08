@@ -9,8 +9,6 @@ title: "Lisa Nandy"
 
 ---
 
-## Lisa Nandy
-
 **Lisa Nandy** is an MP in the **Labour** party.
 
 {% include members/lisa-nandy.md %}

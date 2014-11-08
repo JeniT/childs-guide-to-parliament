@@ -9,8 +9,6 @@ title: "Chris Grayling"
 
 ---
 
-## Chris Grayling
-
 **Chris Grayling** is an MP in the **Conservative** party.
 
 {% include members/chris-grayling.md %}

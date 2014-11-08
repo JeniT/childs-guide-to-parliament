@@ -9,8 +9,6 @@ title: "Mr Francis Maude"
 
 ---
 
-## Mr Francis Maude
-
 **Mr Francis Maude** is an MP in the **Conservative** party.
 
 {% include members/mr-francis-maude.md %}

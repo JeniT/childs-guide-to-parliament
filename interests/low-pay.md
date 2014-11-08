@@ -9,8 +9,6 @@ title: "Low Pay"
 
 ---
 
-## Low Pay
-
 {% include interests/low-pay.md %}
 
 ### Who is interested in Low Pay?

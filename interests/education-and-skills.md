@@ -9,8 +9,6 @@ title: "Education And Skills"
 
 ---
 
-## Education And Skills
-
 {% include interests/education-and-skills.md %}
 
 ### Who is interested in Education And Skills?

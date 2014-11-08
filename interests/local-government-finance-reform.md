@@ -9,8 +9,6 @@ title: "Local Government Finance Reform"
 
 ---
 
-## Local Government Finance Reform
-
 {% include interests/local-government-finance-reform.md %}
 
 ### Who is interested in Local Government Finance Reform?

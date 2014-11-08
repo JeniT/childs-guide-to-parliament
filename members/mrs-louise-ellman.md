@@ -9,8 +9,6 @@ title: "Mrs Louise Ellman"
 
 ---
 
-## Mrs Louise Ellman
-
 **Mrs Louise Ellman** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mrs-louise-ellman.md %}

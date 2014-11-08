@@ -9,8 +9,6 @@ title: "Mr John Spellar"
 
 ---
 
-## Mr John Spellar
-
 **Mr John Spellar** is an MP in the **Labour** party.
 
 {% include members/mr-john-spellar.md %}

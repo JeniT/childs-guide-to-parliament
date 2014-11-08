@@ -9,8 +9,6 @@ title: "Eu"
 
 ---
 
-## Eu
-
 {% include interests/eu.md %}
 
 ### Who is interested in Eu?

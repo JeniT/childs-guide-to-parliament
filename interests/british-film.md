@@ -9,8 +9,6 @@ title: "British Film"
 
 ---
 
-## British Film
-
 {% include interests/british-film.md %}
 
 ### Who is interested in British Film?

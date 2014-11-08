@@ -9,8 +9,6 @@ title: "Justice And Equality"
 
 ---
 
-## Justice And Equality
-
 {% include interests/justice-and-equality.md %}
 
 ### Who is interested in Justice And Equality?

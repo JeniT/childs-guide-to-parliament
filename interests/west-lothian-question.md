@@ -9,8 +9,6 @@ title: "West Lothian Question"
 
 ---
 
-## West Lothian Question
-
 {% include interests/west-lothian-question.md %}
 
 ### Who is interested in West Lothian Question?

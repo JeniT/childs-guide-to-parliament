@@ -9,8 +9,6 @@ title: "Affordable Credit"
 
 ---
 
-## Affordable Credit
-
 {% include interests/affordable-credit.md %}
 
 ### Who is interested in Affordable Credit?

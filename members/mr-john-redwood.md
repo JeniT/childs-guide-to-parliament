@@ -9,8 +9,6 @@ title: "Mr John Redwood"
 
 ---
 
-## Mr John Redwood
-
 **Mr John Redwood** is an MP in the **Conservative** party.
 
 {% include members/mr-john-redwood.md %}

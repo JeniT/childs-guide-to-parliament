@@ -9,8 +9,6 @@ title: "Financial Services And Banking Reform"
 
 ---
 
-## Financial Services And Banking Reform
-
 {% include interests/financial-services-and-banking-reform.md %}
 
 ### Who is interested in Financial Services And Banking Reform?

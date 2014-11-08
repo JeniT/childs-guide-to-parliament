@@ -9,8 +9,6 @@ title: "Charlotte Leslie"
 
 ---
 
-## Charlotte Leslie
-
 **Charlotte Leslie** is an MP in the **Conservative** party.
 
 {% include members/charlotte-leslie.md %}

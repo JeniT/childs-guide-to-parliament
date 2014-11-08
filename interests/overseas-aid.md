@@ -9,8 +9,6 @@ title: "Overseas Aid"
 
 ---
 
-## Overseas Aid
-
 {% include interests/overseas-aid.md %}
 
 ### Who is interested in Overseas Aid?

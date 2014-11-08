@@ -9,8 +9,6 @@ title: "Commerce"
 
 ---
 
-## Commerce
-
 {% include interests/commerce.md %}
 
 ### Who is interested in Commerce?

@@ -9,8 +9,6 @@ title: "Mr Ian Davidson"
 
 ---
 
-## Mr Ian Davidson
-
 **Mr Ian Davidson** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mr-ian-davidson.md %}

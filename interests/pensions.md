@@ -9,8 +9,6 @@ title: "Pensions"
 
 ---
 
-## Pensions
-
 {% include interests/pensions.md %}
 
 ### Who is interested in Pensions?

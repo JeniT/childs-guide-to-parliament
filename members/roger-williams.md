@@ -9,8 +9,6 @@ title: "Roger Williams"
 
 ---
 
-## Roger Williams
-
 **Roger Williams** is an MP in the **Liberal Democrat** party.
 
 {% include members/roger-williams.md %}

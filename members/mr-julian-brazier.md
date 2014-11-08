@@ -9,8 +9,6 @@ title: "Mr Julian Brazier"
 
 ---
 
-## Mr Julian Brazier
-
 **Mr Julian Brazier** is an MP in the **Conservative** party.
 
 {% include members/mr-julian-brazier.md %}

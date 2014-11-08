@@ -9,8 +9,6 @@ title: "Sir Peter Bottomley"
 
 ---
 
-## Sir Peter Bottomley
-
 **Sir Peter Bottomley** is an MP in the **Conservative** party.
 
 {% include members/sir-peter-bottomley.md %}

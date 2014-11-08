@@ -9,8 +9,6 @@ title: "Mr Keith Simpson"
 
 ---
 
-## Mr Keith Simpson
-
 **Mr Keith Simpson** is an MP in the **Conservative** party.
 
 {% include members/mr-keith-simpson.md %}

@@ -9,8 +9,6 @@ title: "Dame Dawn Primarolo"
 
 ---
 
-## Dame Dawn Primarolo
-
 **Dame Dawn Primarolo** is an MP in the **Labour** party.
 
 {% include members/dame-dawn-primarolo.md %}

@@ -9,8 +9,6 @@ title: "New Technology"
 
 ---
 
-## New Technology
-
 {% include interests/new-technology.md %}
 
 ### Who is interested in New Technology?

@@ -9,8 +9,6 @@ title: "Mr Nick Gibb"
 
 ---
 
-## Mr Nick Gibb
-
 **Mr Nick Gibb** is an MP in the **Conservative** party.
 
 {% include members/mr-nick-gibb.md %}

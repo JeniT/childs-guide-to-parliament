@@ -9,8 +9,6 @@ title: "International Development (Especially Education Issues)"
 
 ---
 
-## International Development (Especially Education Issues)
-
 {% include interests/international-development-especially-education-issues.md %}
 
 ### Who is interested in International Development (Especially Education Issues)?

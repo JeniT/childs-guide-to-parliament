@@ -9,8 +9,6 @@ title: "Civil Nuclear Power"
 
 ---
 
-## Civil Nuclear Power
-
 {% include interests/civil-nuclear-power.md %}
 
 ### Who is interested in Civil Nuclear Power?

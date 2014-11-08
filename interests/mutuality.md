@@ -9,8 +9,6 @@ title: "Mutuality"
 
 ---
 
-## Mutuality
-
 {% include interests/mutuality.md %}
 
 ### Who is interested in Mutuality?

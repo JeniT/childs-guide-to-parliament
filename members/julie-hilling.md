@@ -9,8 +9,6 @@ title: "Julie Hilling"
 
 ---
 
-## Julie Hilling
-
 **Julie Hilling** is an MP in the **Labour** party.
 
 {% include members/julie-hilling.md %}

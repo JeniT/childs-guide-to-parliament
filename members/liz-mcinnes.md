@@ -9,8 +9,6 @@ title: "Liz McInnes"
 
 ---
 
-## Liz McInnes
-
 **Liz McInnes** is an MP in the **Labour** party.
 
 {% include members/liz-mcinnes.md %}

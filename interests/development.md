@@ -9,8 +9,6 @@ title: "Development"
 
 ---
 
-## Development
-
 {% include interests/development.md %}
 
 ### Who is interested in Development?

@@ -9,8 +9,6 @@ title: "Glenda Jackson"
 
 ---
 
-## Glenda Jackson
-
 **Glenda Jackson** is an MP in the **Labour** party.
 
 {% include members/glenda-jackson.md %}

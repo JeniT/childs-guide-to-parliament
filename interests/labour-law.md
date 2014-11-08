@@ -9,8 +9,6 @@ title: "Labour Law"
 
 ---
 
-## Labour Law
-
 {% include interests/labour-law.md %}
 
 ### Who is interested in Labour Law?

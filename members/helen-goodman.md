@@ -9,8 +9,6 @@ title: "Helen Goodman"
 
 ---
 
-## Helen Goodman
-
 **Helen Goodman** is an MP in the **Labour** party.
 
 {% include members/helen-goodman.md %}

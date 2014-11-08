@@ -9,8 +9,6 @@ title: "Mr Nick Raynsford"
 
 ---
 
-## Mr Nick Raynsford
-
 **Mr Nick Raynsford** is an MP in the **Labour** party.
 
 {% include members/mr-nick-raynsford.md %}

@@ -9,8 +9,6 @@ title: "Mr Edward Vaizey"
 
 ---
 
-## Mr Edward Vaizey
-
 **Mr Edward Vaizey** is an MP in the **Conservative** party.
 
 {% include members/mr-edward-vaizey.md %}

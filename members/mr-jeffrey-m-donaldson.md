@@ -9,8 +9,6 @@ title: "Mr Jeffrey M. Donaldson"
 
 ---
 
-## Mr Jeffrey M. Donaldson
-
 **Mr Jeffrey M. Donaldson** is an MP in the **Democratic Unionist** party.
 
 {% include members/mr-jeffrey-m-donaldson.md %}

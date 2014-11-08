@@ -9,8 +9,6 @@ title: "Jim Dowd"
 
 ---
 
-## Jim Dowd
-
 **Jim Dowd** is an MP in the **Labour** party.
 
 {% include members/jim-dowd.md %}

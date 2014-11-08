@@ -9,8 +9,6 @@ title: "Irish Community"
 
 ---
 
-## Irish Community
-
 {% include interests/irish-community.md %}
 
 ### Who is interested in Irish Community?

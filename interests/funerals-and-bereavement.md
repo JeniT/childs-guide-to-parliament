@@ -9,8 +9,6 @@ title: "Funerals And Bereavement"
 
 ---
 
-## Funerals And Bereavement
-
 {% include interests/funerals-and-bereavement.md %}
 
 ### Who is interested in Funerals And Bereavement?

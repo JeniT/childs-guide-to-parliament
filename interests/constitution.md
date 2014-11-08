@@ -9,8 +9,6 @@ title: "Constitution"
 
 ---
 
-## Constitution
-
 {% include interests/constitution.md %}
 
 ### Who is interested in Constitution?

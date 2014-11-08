@@ -9,8 +9,6 @@ title: "Crime And The Judiciary"
 
 ---
 
-## Crime And The Judiciary
-
 {% include interests/crime-and-the-judiciary.md %}
 
 ### Who is interested in Crime And The Judiciary?

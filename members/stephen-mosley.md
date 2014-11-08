@@ -9,8 +9,6 @@ title: "Stephen Mosley"
 
 ---
 
-## Stephen Mosley
-
 **Stephen Mosley** is an MP in the **Conservative** party.
 
 {% include members/stephen-mosley.md %}

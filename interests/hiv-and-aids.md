@@ -9,8 +9,6 @@ title: "Hiv And Aids"
 
 ---
 
-## Hiv And Aids
-
 {% include interests/hiv-and-aids.md %}
 
 ### Who is interested in Hiv And Aids?

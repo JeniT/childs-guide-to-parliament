@@ -9,8 +9,6 @@ title: "Europe"
 
 ---
 
-## Europe
-
 {% include interests/europe.md %}
 
 ### Who is interested in Europe?

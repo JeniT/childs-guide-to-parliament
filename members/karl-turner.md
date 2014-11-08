@@ -9,8 +9,6 @@ title: "Karl Turner"
 
 ---
 
-## Karl Turner
-
 **Karl Turner** is an MP in the **Labour** party.
 
 {% include members/karl-turner.md %}

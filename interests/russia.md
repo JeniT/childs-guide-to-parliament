@@ -9,8 +9,6 @@ title: "Russia"
 
 ---
 
-## Russia
-
 {% include interests/russia.md %}
 
 ### Who is interested in Russia?

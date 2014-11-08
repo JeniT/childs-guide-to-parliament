@@ -9,8 +9,6 @@ title: "Alok Sharma"
 
 ---
 
-## Alok Sharma
-
 **Alok Sharma** is an MP in the **Conservative** party.
 
 {% include members/alok-sharma.md %}

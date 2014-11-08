@@ -9,8 +9,6 @@ title: "Consumer Issues"
 
 ---
 
-## Consumer Issues
-
 {% include interests/consumer-issues.md %}
 
 ### Who is interested in Consumer Issues?

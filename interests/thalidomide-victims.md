@@ -9,8 +9,6 @@ title: "Thalidomide Victims"
 
 ---
 
-## Thalidomide Victims
-
 {% include interests/thalidomide-victims.md %}
 
 ### Who is interested in Thalidomide Victims?

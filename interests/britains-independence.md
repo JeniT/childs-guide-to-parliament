@@ -9,8 +9,6 @@ title: "Britain'S Independence"
 
 ---
 
-## Britain'S Independence
-
 {% include interests/britains-independence.md %}
 
 ### Who is interested in Britain'S Independence?

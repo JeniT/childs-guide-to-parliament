@@ -9,8 +9,6 @@ title: "Mr David Laws"
 
 ---
 
-## Mr David Laws
-
 **Mr David Laws** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-david-laws.md %}

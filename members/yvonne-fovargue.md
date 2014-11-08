@@ -9,8 +9,6 @@ title: "Yvonne Fovargue"
 
 ---
 
-## Yvonne Fovargue
-
 **Yvonne Fovargue** is an MP in the **Labour** party.
 
 {% include members/yvonne-fovargue.md %}

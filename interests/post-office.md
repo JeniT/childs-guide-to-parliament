@@ -9,8 +9,6 @@ title: "Post Office"
 
 ---
 
-## Post Office
-
 {% include interests/post-office.md %}
 
 ### Who is interested in Post Office?

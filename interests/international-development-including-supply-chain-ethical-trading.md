@@ -9,8 +9,6 @@ title: "International Development (Including Supply Chain Ethical Trading)"
 
 ---
 
-## International Development (Including Supply Chain Ethical Trading)
-
 {% include interests/international-development-including-supply-chain-ethical-trading.md %}
 
 ### Who is interested in International Development (Including Supply Chain Ethical Trading)?

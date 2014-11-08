@@ -9,8 +9,6 @@ title: "Information Economy"
 
 ---
 
-## Information Economy
-
 {% include interests/information-economy.md %}
 
 ### Who is interested in Information Economy?

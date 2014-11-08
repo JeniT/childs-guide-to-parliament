@@ -9,8 +9,6 @@ title: "Education And Training"
 
 ---
 
-## Education And Training
-
 {% include interests/education-and-training.md %}
 
 ### Who is interested in Education And Training?

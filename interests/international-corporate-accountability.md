@@ -9,8 +9,6 @@ title: "International Corporate Accountability"
 
 ---
 
-## International Corporate Accountability
-
 {% include interests/international-corporate-accountability.md %}
 
 ### Who is interested in International Corporate Accountability?

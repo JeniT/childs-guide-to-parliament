@@ -9,8 +9,6 @@ title: "Chris Evans"
 
 ---
 
-## Chris Evans
-
 **Chris Evans** is an MP in the **Labour (Co-op)** party.
 
 {% include members/chris-evans.md %}

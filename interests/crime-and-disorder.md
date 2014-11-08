@@ -9,8 +9,6 @@ title: "Crime And Disorder"
 
 ---
 
-## Crime And Disorder
-
 {% include interests/crime-and-disorder.md %}
 
 ### Who is interested in Crime And Disorder?

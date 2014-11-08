@@ -9,8 +9,6 @@ title: "International And European Affairs"
 
 ---
 
-## International And European Affairs
-
 {% include interests/international-and-european-affairs.md %}
 
 ### Who is interested in International And European Affairs?

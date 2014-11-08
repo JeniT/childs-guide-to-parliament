@@ -9,8 +9,6 @@ title: "Children And Young People"
 
 ---
 
-## Children And Young People
-
 {% include interests/children-and-young-people.md %}
 
 ### Who is interested in Children And Young People?

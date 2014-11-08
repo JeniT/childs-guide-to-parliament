@@ -9,8 +9,6 @@ title: "Shipbuilding And Offshore Industries"
 
 ---
 
-## Shipbuilding And Offshore Industries
-
 {% include interests/shipbuilding-and-offshore-industries.md %}
 
 ### Who is interested in Shipbuilding And Offshore Industries?

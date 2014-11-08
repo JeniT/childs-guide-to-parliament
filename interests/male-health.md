@@ -9,8 +9,6 @@ title: "Male Health"
 
 ---
 
-## Male Health
-
 {% include interests/male-health.md %}
 
 ### Who is interested in Male Health?

@@ -9,8 +9,6 @@ title: "Prison Service"
 
 ---
 
-## Prison Service
-
 {% include interests/prison-service.md %}
 
 ### Who is interested in Prison Service?

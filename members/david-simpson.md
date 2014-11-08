@@ -9,8 +9,6 @@ title: "David Simpson"
 
 ---
 
-## David Simpson
-
 **David Simpson** is an MP in the **Democratic Unionist** party.
 
 {% include members/david-simpson.md %}

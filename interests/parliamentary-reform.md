@@ -9,8 +9,6 @@ title: "Parliamentary Reform"
 
 ---
 
-## Parliamentary Reform
-
 {% include interests/parliamentary-reform.md %}
 
 ### Who is interested in Parliamentary Reform?

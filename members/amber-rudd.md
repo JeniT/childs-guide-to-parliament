@@ -9,8 +9,6 @@ title: "Amber Rudd"
 
 ---
 
-## Amber Rudd
-
 **Amber Rudd** is an MP in the **Conservative** party.
 
 {% include members/amber-rudd.md %}

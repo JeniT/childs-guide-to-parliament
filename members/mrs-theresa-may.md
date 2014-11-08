@@ -9,8 +9,6 @@ title: "Mrs Theresa May"
 
 ---
 
-## Mrs Theresa May
-
 **Mrs Theresa May** is an MP in the **Conservative** party.
 
 {% include members/mrs-theresa-may.md %}

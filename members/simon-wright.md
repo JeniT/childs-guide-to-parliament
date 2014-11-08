@@ -9,8 +9,6 @@ title: "Simon Wright"
 
 ---
 
-## Simon Wright
-
 **Simon Wright** is an MP in the **Liberal Democrat** party.
 
 {% include members/simon-wright.md %}

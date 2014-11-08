@@ -9,8 +9,6 @@ title: "Graham Evans"
 
 ---
 
-## Graham Evans
-
 **Graham Evans** is an MP in the **Conservative** party.
 
 {% include members/graham-evans.md %}

@@ -9,8 +9,6 @@ title: "Health"
 
 ---
 
-## Health
-
 {% include interests/health.md %}
 
 ### Who is interested in Health?

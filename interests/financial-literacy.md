@@ -9,8 +9,6 @@ title: "Financial Literacy"
 
 ---
 
-## Financial Literacy
-
 {% include interests/financial-literacy.md %}
 
 ### Who is interested in Financial Literacy?

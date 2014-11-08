@@ -9,8 +9,6 @@ title: "Steve Baker"
 
 ---
 
-## Steve Baker
-
 **Steve Baker** is an MP in the **Conservative** party.
 
 {% include members/steve-baker.md %}

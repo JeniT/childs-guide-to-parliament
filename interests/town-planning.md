@@ -9,8 +9,6 @@ title: "Town Planning"
 
 ---
 
-## Town Planning
-
 {% include interests/town-planning.md %}
 
 ### Who is interested in Town Planning?

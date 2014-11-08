@@ -9,8 +9,6 @@ title: "Lynne Featherstone"
 
 ---
 
-## Lynne Featherstone
-
 **Lynne Featherstone** is an MP in the **Liberal Democrat** party.
 
 {% include members/lynne-featherstone.md %}

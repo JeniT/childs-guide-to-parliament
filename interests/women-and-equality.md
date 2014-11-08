@@ -9,8 +9,6 @@ title: "Women And Equality"
 
 ---
 
-## Women And Equality
-
 {% include interests/women-and-equality.md %}
 
 ### Who is interested in Women And Equality?

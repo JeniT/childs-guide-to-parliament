@@ -9,8 +9,6 @@ title: "Licensed Trade"
 
 ---
 
-## Licensed Trade
-
 {% include interests/licensed-trade.md %}
 
 ### Who is interested in Licensed Trade?

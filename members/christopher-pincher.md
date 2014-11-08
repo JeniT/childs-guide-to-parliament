@@ -9,8 +9,6 @@ title: "Christopher Pincher"
 
 ---
 
-## Christopher Pincher
-
 **Christopher Pincher** is an MP in the **Conservative** party.
 
 {% include members/christopher-pincher.md %}

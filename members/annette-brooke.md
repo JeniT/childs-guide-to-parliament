@@ -9,8 +9,6 @@ title: "Annette Brooke"
 
 ---
 
-## Annette Brooke
-
 **Annette Brooke** is an MP in the **Liberal Democrat** party.
 
 {% include members/annette-brooke.md %}

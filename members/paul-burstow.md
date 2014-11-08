@@ -9,8 +9,6 @@ title: "Paul Burstow"
 
 ---
 
-## Paul Burstow
-
 **Paul Burstow** is an MP in the **Liberal Democrat** party.
 
 {% include members/paul-burstow.md %}

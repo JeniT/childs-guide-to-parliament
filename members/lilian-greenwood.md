@@ -9,8 +9,6 @@ title: "Lilian Greenwood"
 
 ---
 
-## Lilian Greenwood
-
 **Lilian Greenwood** is an MP in the **Labour** party.
 
 {% include members/lilian-greenwood.md %}

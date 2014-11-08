@@ -9,8 +9,6 @@ title: "Mr Eric Pickles"
 
 ---
 
-## Mr Eric Pickles
-
 **Mr Eric Pickles** is an MP in the **Conservative** party.
 
 {% include members/mr-eric-pickles.md %}

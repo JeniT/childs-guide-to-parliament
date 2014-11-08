@@ -9,8 +9,6 @@ title: "Cyprus"
 
 ---
 
-## Cyprus
-
 {% include interests/cyprus.md %}
 
 ### Who is interested in Cyprus?

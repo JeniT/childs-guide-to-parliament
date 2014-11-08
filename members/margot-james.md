@@ -9,8 +9,6 @@ title: "Margot James"
 
 ---
 
-## Margot James
-
 **Margot James** is an MP in the **Conservative** party.
 
 {% include members/margot-james.md %}

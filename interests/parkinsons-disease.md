@@ -9,8 +9,6 @@ title: "Parkinson'S Disease"
 
 ---
 
-## Parkinson'S Disease
-
 {% include interests/parkinsons-disease.md %}
 
 ### Who is interested in Parkinson'S Disease?

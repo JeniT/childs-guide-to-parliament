@@ -9,8 +9,6 @@ title: "John Robertson"
 
 ---
 
-## John Robertson
-
 **John Robertson** is an MP in the **Labour** party.
 
 {% include members/john-robertson.md %}

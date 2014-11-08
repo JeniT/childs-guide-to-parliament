@@ -9,8 +9,6 @@ title: "Uk Software Industry"
 
 ---
 
-## Uk Software Industry
-
 {% include interests/uk-software-industry.md %}
 
 ### Who is interested in Uk Software Industry?

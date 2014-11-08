@@ -9,8 +9,6 @@ title: "British Industry"
 
 ---
 
-## British Industry
-
 {% include interests/british-industry.md %}
 
 ### Who is interested in British Industry?

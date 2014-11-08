@@ -9,8 +9,6 @@ title: "Jackie Doyle-Price"
 
 ---
 
-## Jackie Doyle-Price
-
 **Jackie Doyle-Price** is an MP in the **Conservative** party.
 
 {% include members/jackie-doyle-price.md %}

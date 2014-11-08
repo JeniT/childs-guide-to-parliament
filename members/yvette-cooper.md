@@ -9,8 +9,6 @@ title: "Yvette Cooper"
 
 ---
 
-## Yvette Cooper
-
 **Yvette Cooper** is an MP in the **Labour** party.
 
 {% include members/yvette-cooper.md %}

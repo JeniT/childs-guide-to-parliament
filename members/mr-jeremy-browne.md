@@ -9,8 +9,6 @@ title: "Mr Jeremy Browne"
 
 ---
 
-## Mr Jeremy Browne
-
 **Mr Jeremy Browne** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-jeremy-browne.md %}

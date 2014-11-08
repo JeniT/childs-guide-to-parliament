@@ -9,8 +9,6 @@ title: "Public Sector"
 
 ---
 
-## Public Sector
-
 {% include interests/public-sector.md %}
 
 ### Who is interested in Public Sector?

@@ -9,8 +9,6 @@ title: "Andrew George"
 
 ---
 
-## Andrew George
-
 **Andrew George** is an MP in the **Liberal Democrat** party.
 
 {% include members/andrew-george.md %}

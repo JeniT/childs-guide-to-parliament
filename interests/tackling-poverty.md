@@ -9,8 +9,6 @@ title: "Tackling Poverty"
 
 ---
 
-## Tackling Poverty
-
 {% include interests/tackling-poverty.md %}
 
 ### Who is interested in Tackling Poverty?

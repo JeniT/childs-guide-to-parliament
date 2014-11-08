@@ -9,8 +9,6 @@ title: "Jonathan Edwards"
 
 ---
 
-## Jonathan Edwards
-
 **Jonathan Edwards** is an MP in the **Plaid Cymru** party.
 
 {% include members/jonathan-edwards.md %}

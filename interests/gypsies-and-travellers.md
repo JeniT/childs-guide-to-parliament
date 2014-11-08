@@ -9,8 +9,6 @@ title: "Gypsies And Travellers"
 
 ---
 
-## Gypsies And Travellers
-
 {% include interests/gypsies-and-travellers.md %}
 
 ### Who is interested in Gypsies And Travellers?

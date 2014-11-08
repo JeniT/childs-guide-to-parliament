@@ -9,8 +9,6 @@ title: "John McDonnell"
 
 ---
 
-## John McDonnell
-
 **John McDonnell** is an MP in the **Labour** party.
 
 {% include members/john-mcdonnell.md %}

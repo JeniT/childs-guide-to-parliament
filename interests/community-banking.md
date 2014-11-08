@@ -9,8 +9,6 @@ title: "Community Banking"
 
 ---
 
-## Community Banking
-
 {% include interests/community-banking.md %}
 
 ### Who is interested in Community Banking?

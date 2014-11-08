@@ -9,8 +9,6 @@ title: "Mr Oliver Letwin"
 
 ---
 
-## Mr Oliver Letwin
-
 **Mr Oliver Letwin** is an MP in the **Conservative** party.
 
 {% include members/mr-oliver-letwin.md %}

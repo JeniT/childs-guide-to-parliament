@@ -9,8 +9,6 @@ title: "Mr Shailesh Vara"
 
 ---
 
-## Mr Shailesh Vara
-
 **Mr Shailesh Vara** is an MP in the **Conservative** party.
 
 {% include members/mr-shailesh-vara.md %}

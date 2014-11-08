@@ -9,8 +9,6 @@ title: "Student Funding"
 
 ---
 
-## Student Funding
-
 {% include interests/student-funding.md %}
 
 ### Who is interested in Student Funding?

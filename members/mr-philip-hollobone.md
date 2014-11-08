@@ -9,8 +9,6 @@ title: "Mr Philip Hollobone"
 
 ---
 
-## Mr Philip Hollobone
-
 **Mr Philip Hollobone** is an MP in the **Conservative** party.
 
 {% include members/mr-philip-hollobone.md %}

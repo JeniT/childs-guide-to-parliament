@@ -9,8 +9,6 @@ title: "Complementary And Alternative Medicine"
 
 ---
 
-## Complementary And Alternative Medicine
-
 {% include interests/complementary-and-alternative-medicine.md %}
 
 ### Who is interested in Complementary And Alternative Medicine?

@@ -9,8 +9,6 @@ title: "Jack Dromey"
 
 ---
 
-## Jack Dromey
-
 **Jack Dromey** is an MP in the **Labour** party.
 
 {% include members/jack-dromey.md %}

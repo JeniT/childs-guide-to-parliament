@@ -9,8 +9,6 @@ title: "Housing And Planning"
 
 ---
 
-## Housing And Planning
-
 {% include interests/housing-and-planning.md %}
 
 ### Who is interested in Housing And Planning?

@@ -9,8 +9,6 @@ title: "Leisure Industry"
 
 ---
 
-## Leisure Industry
-
 {% include interests/leisure-industry.md %}
 
 ### Who is interested in Leisure Industry?

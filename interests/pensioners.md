@@ -9,8 +9,6 @@ title: "Pensioners"
 
 ---
 
-## Pensioners
-
 {% include interests/pensioners.md %}
 
 ### Who is interested in Pensioners?

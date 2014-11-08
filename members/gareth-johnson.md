@@ -9,8 +9,6 @@ title: "Gareth Johnson"
 
 ---
 
-## Gareth Johnson
-
 **Gareth Johnson** is an MP in the **Conservative** party.
 
 {% include members/gareth-johnson.md %}

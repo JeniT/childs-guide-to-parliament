@@ -9,8 +9,6 @@ title: "Human Rights And Equalities Issues"
 
 ---
 
-## Human Rights And Equalities Issues
-
 {% include interests/human-rights-and-equalities-issues.md %}
 
 ### Who is interested in Human Rights And Equalities Issues?

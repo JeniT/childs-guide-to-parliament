@@ -9,8 +9,6 @@ title: "Mr Jonathan Djanogly"
 
 ---
 
-## Mr Jonathan Djanogly
-
 **Mr Jonathan Djanogly** is an MP in the **Conservative** party.
 
 {% include members/mr-jonathan-djanogly.md %}

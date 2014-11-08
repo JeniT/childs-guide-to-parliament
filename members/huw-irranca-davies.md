@@ -9,8 +9,6 @@ title: "Huw Irranca-Davies"
 
 ---
 
-## Huw Irranca-Davies
-
 **Huw Irranca-Davies** is an MP in the **Labour** party.
 
 {% include members/huw-irranca-davies.md %}

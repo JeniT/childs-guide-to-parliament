@@ -9,8 +9,6 @@ title: "Bob Stewart"
 
 ---
 
-## Bob Stewart
-
 **Bob Stewart** is an MP in the **Conservative** party.
 
 {% include members/bob-stewart.md %}

@@ -9,8 +9,6 @@ title: "Construction Industry"
 
 ---
 
-## Construction Industry
-
 {% include interests/construction-industry.md %}
 
 ### Who is interested in Construction Industry?

@@ -9,8 +9,6 @@ title: "Globalisation"
 
 ---
 
-## Globalisation
-
 {% include interests/globalisation.md %}
 
 ### Who is interested in Globalisation?

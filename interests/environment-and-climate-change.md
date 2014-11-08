@@ -9,8 +9,6 @@ title: "Environment And Climate Change"
 
 ---
 
-## Environment And Climate Change
-
 {% include interests/environment-and-climate-change.md %}
 
 ### Who is interested in Environment And Climate Change?

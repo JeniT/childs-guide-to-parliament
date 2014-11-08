@@ -9,8 +9,6 @@ title: "North/South Divide"
 
 ---
 
-## North/South Divide
-
 {% include interests/north-south-divide.md %}
 
 ### Who is interested in North/South Divide?

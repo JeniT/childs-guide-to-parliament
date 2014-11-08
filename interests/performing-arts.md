@@ -9,8 +9,6 @@ title: "Performing Arts"
 
 ---
 
-## Performing Arts
-
 {% include interests/performing-arts.md %}
 
 ### Who is interested in Performing Arts?

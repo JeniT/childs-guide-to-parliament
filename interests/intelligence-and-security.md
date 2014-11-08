@@ -9,8 +9,6 @@ title: "Intelligence And Security"
 
 ---
 
-## Intelligence And Security
-
 {% include interests/intelligence-and-security.md %}
 
 ### Who is interested in Intelligence And Security?

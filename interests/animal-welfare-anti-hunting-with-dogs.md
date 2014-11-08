@@ -9,8 +9,6 @@ title: "Animal Welfare (Anti-Hunting With Dogs)"
 
 ---
 
-## Animal Welfare (Anti-Hunting With Dogs)
-
 {% include interests/animal-welfare-anti-hunting-with-dogs.md %}
 
 ### Who is interested in Animal Welfare (Anti-Hunting With Dogs)?

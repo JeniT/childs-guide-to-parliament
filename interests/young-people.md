@@ -9,8 +9,6 @@ title: "Young People"
 
 ---
 
-## Young People
-
 {% include interests/young-people.md %}
 
 ### Who is interested in Young People?

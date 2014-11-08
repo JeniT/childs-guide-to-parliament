@@ -9,8 +9,6 @@ title: "Chemical Industry"
 
 ---
 
-## Chemical Industry
-
 {% include interests/chemical-industry.md %}
 
 ### Who is interested in Chemical Industry?

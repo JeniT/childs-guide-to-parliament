@@ -9,8 +9,6 @@ title: "Farming"
 
 ---
 
-## Farming
-
 {% include interests/farming.md %}
 
 ### Who is interested in Farming?

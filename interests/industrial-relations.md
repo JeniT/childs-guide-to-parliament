@@ -9,8 +9,6 @@ title: "Industrial Relations"
 
 ---
 
-## Industrial Relations
-
 {% include interests/industrial-relations.md %}
 
 ### Who is interested in Industrial Relations?

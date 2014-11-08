@@ -9,8 +9,6 @@ title: "Criminal Justice System"
 
 ---
 
-## Criminal Justice System
-
 {% include interests/criminal-justice-system.md %}
 
 ### Who is interested in Criminal Justice System?

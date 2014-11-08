@@ -9,8 +9,6 @@ title: "Law"
 
 ---
 
-## Law
-
 {% include interests/law.md %}
 
 ### Who is interested in Law?

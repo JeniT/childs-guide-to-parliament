@@ -9,8 +9,6 @@ title: "Defence (Particularly Supporting Service Families)"
 
 ---
 
-## Defence (Particularly Supporting Service Families)
-
 {% include interests/defence-particularly-supporting-service-families.md %}
 
 ### Who is interested in Defence (Particularly Supporting Service Families)?

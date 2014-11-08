@@ -9,8 +9,6 @@ title: "Matthew Hancock"
 
 ---
 
-## Matthew Hancock
-
 **Matthew Hancock** is an MP in the **Conservative** party.
 
 {% include members/matthew-hancock.md %}

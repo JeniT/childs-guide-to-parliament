@@ -9,8 +9,6 @@ title: "Heather Wheeler"
 
 ---
 
-## Heather Wheeler
-
 **Heather Wheeler** is an MP in the **Conservative** party.
 
 {% include members/heather-wheeler.md %}

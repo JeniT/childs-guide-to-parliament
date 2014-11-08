@@ -9,8 +9,6 @@ title: "Ms Diane Abbott"
 
 ---
 
-## Ms Diane Abbott
-
 **Ms Diane Abbott** is an MP in the **Labour** party.
 
 {% include members/ms-diane-abbott.md %}

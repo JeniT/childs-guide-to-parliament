@@ -9,8 +9,6 @@ title: "Health And Poverty"
 
 ---
 
-## Health And Poverty
-
 {% include interests/health-and-poverty.md %}
 
 ### Who is interested in Health And Poverty?

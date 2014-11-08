@@ -9,8 +9,6 @@ title: "Economic And Industrial Affairs"
 
 ---
 
-## Economic And Industrial Affairs
-
 {% include interests/economic-and-industrial-affairs.md %}
 
 ### Who is interested in Economic And Industrial Affairs?

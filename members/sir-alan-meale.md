@@ -9,8 +9,6 @@ title: "Sir Alan Meale"
 
 ---
 
-## Sir Alan Meale
-
 **Sir Alan Meale** is an MP in the **Labour** party.
 
 {% include members/sir-alan-meale.md %}

@@ -9,8 +9,6 @@ title: "Dame  Tessa Jowell"
 
 ---
 
-## Dame  Tessa Jowell
-
 **Dame  Tessa Jowell** is an MP in the **Labour** party.
 
 {% include members/dame-tessa-jowell.md %}

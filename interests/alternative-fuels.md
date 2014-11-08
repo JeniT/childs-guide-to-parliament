@@ -9,8 +9,6 @@ title: "Alternative Fuels"
 
 ---
 
-## Alternative Fuels
-
 {% include interests/alternative-fuels.md %}
 
 ### Who is interested in Alternative Fuels?

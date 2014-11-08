@@ -9,8 +9,6 @@ title: "Community Development"
 
 ---
 
-## Community Development
-
 {% include interests/community-development.md %}
 
 ### Who is interested in Community Development?

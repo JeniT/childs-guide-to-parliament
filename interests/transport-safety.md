@@ -9,8 +9,6 @@ title: "Transport Safety"
 
 ---
 
-## Transport Safety
-
 {% include interests/transport-safety.md %}
 
 ### Who is interested in Transport Safety?

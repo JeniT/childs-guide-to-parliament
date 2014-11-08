@@ -9,8 +9,6 @@ title: "Harriett Baldwin"
 
 ---
 
-## Harriett Baldwin
-
 **Harriett Baldwin** is an MP in the **Conservative** party.
 
 {% include members/harriett-baldwin.md %}

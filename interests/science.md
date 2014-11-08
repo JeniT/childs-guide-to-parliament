@@ -9,8 +9,6 @@ title: "Science"
 
 ---
 
-## Science
-
 {% include interests/science.md %}
 
 ### Who is interested in Science?

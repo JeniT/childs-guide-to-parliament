@@ -9,8 +9,6 @@ title: "Family"
 
 ---
 
-## Family
-
 {% include interests/family.md %}
 
 ### Who is interested in Family?

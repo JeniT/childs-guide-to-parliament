@@ -9,8 +9,6 @@ title: "House Of Lords Reform"
 
 ---
 
-## House Of Lords Reform
-
 {% include interests/house-of-lords-reform.md %}
 
 ### Who is interested in House Of Lords Reform?

@@ -9,8 +9,6 @@ title: "Hilary Benn"
 
 ---
 
-## Hilary Benn
-
 **Hilary Benn** is an MP in the **Labour** party.
 
 {% include members/hilary-benn.md %}

@@ -9,8 +9,6 @@ title: "Mark Hendrick"
 
 ---
 
-## Mark Hendrick
-
 **Mark Hendrick** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mark-hendrick.md %}

@@ -9,8 +9,6 @@ title: "Co-Operative Issues"
 
 ---
 
-## Co-Operative Issues
-
 {% include interests/co-operative-issues.md %}
 
 ### Who is interested in Co-Operative Issues?

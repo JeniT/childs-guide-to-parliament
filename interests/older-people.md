@@ -9,8 +9,6 @@ title: "Older People"
 
 ---
 
-## Older People
-
 {% include interests/older-people.md %}
 
 ### Who is interested in Older People?

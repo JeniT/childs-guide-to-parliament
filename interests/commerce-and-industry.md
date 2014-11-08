@@ -9,8 +9,6 @@ title: "Commerce And Industry"
 
 ---
 
-## Commerce And Industry
-
 {% include interests/commerce-and-industry.md %}
 
 ### Who is interested in Commerce And Industry?

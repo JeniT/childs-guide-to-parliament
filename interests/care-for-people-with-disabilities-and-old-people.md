@@ -9,8 +9,6 @@ title: "Care For People With Disabilities And Old People"
 
 ---
 
-## Care For People With Disabilities And Old People
-
 {% include interests/care-for-people-with-disabilities-and-old-people.md %}
 
 ### Who is interested in Care For People With Disabilities And Old People?

@@ -9,8 +9,6 @@ title: "Sandra Osborne"
 
 ---
 
-## Sandra Osborne
-
 **Sandra Osborne** is an MP in the **Labour** party.
 
 {% include members/sandra-osborne.md %}

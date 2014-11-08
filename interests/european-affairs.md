@@ -9,8 +9,6 @@ title: "European Affairs"
 
 ---
 
-## European Affairs
-
 {% include interests/european-affairs.md %}
 
 ### Who is interested in European Affairs?

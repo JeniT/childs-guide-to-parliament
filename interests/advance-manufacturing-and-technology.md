@@ -9,8 +9,6 @@ title: "Advance Manufacturing And Technology"
 
 ---
 
-## Advance Manufacturing And Technology
-
 {% include interests/advance-manufacturing-and-technology.md %}
 
 ### Who is interested in Advance Manufacturing And Technology?

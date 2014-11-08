@@ -9,8 +9,6 @@ title: "Stephen Williams"
 
 ---
 
-## Stephen Williams
-
 **Stephen Williams** is an MP in the **Liberal Democrat** party.
 
 {% include members/stephen-williams.md %}

@@ -9,8 +9,6 @@ title: "Mr Mark Williams"
 
 ---
 
-## Mr Mark Williams
-
 **Mr Mark Williams** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-mark-williams.md %}

@@ -9,8 +9,6 @@ title: "Mr Jim Hood"
 
 ---
 
-## Mr Jim Hood
-
 **Mr Jim Hood** is an MP in the **Labour** party.
 
 {% include members/mr-jim-hood.md %}

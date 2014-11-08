@@ -9,8 +9,6 @@ title: "Claire Perry"
 
 ---
 
-## Claire Perry
-
 **Claire Perry** is an MP in the **Conservative** party.
 
 {% include members/claire-perry.md %}

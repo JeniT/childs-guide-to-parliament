@@ -9,8 +9,6 @@ title: "Mr Jeremy Hunt"
 
 ---
 
-## Mr Jeremy Hunt
-
 **Mr Jeremy Hunt** is an MP in the **Conservative** party.
 
 {% include members/mr-jeremy-hunt.md %}

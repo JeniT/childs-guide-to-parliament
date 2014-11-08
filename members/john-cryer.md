@@ -9,8 +9,6 @@ title: "John Cryer"
 
 ---
 
-## John Cryer
-
 **John Cryer** is an MP in the **Labour** party.
 
 {% include members/john-cryer.md %}

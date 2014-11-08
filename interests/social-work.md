@@ -9,8 +9,6 @@ title: "Social Work"
 
 ---
 
-## Social Work
-
 {% include interests/social-work.md %}
 
 ### Who is interested in Social Work?

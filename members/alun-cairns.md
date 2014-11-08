@@ -9,8 +9,6 @@ title: "Alun Cairns"
 
 ---
 
-## Alun Cairns
-
 **Alun Cairns** is an MP in the **Conservative** party.
 
 {% include members/alun-cairns.md %}

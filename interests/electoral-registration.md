@@ -9,8 +9,6 @@ title: "Electoral Registration"
 
 ---
 
-## Electoral Registration
-
 {% include interests/electoral-registration.md %}
 
 ### Who is interested in Electoral Registration?

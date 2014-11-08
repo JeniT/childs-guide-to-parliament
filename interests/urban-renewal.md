@@ -9,8 +9,6 @@ title: "Urban Renewal"
 
 ---
 
-## Urban Renewal
-
 {% include interests/urban-renewal.md %}
 
 ### Who is interested in Urban Renewal?

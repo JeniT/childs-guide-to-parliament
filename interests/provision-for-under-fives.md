@@ -9,8 +9,6 @@ title: "Provision For Under-Fives"
 
 ---
 
-## Provision For Under-Fives
-
 {% include interests/provision-for-under-fives.md %}
 
 ### Who is interested in Provision For Under-Fives?

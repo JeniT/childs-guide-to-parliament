@@ -9,8 +9,6 @@ title: "Andrew Percy"
 
 ---
 
-## Andrew Percy
-
 **Andrew Percy** is an MP in the **Conservative** party.
 
 {% include members/andrew-percy.md %}

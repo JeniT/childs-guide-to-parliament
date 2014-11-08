@@ -9,8 +9,6 @@ title: "Media And Sport"
 
 ---
 
-## Media And Sport
-
 {% include interests/media-and-sport.md %}
 
 ### Who is interested in Media And Sport?

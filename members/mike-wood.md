@@ -9,8 +9,6 @@ title: "Mike Wood"
 
 ---
 
-## Mike Wood
-
 **Mike Wood** is an MP in the **Labour** party.
 
 {% include members/mike-wood.md %}

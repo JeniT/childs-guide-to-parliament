@@ -9,8 +9,6 @@ title: "National Health Service"
 
 ---
 
-## National Health Service
-
 {% include interests/national-health-service.md %}
 
 ### Who is interested in National Health Service?

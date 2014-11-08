@@ -9,8 +9,6 @@ title: "Nic Dakin"
 
 ---
 
-## Nic Dakin
-
 **Nic Dakin** is an MP in the **Labour** party.
 
 {% include members/nic-dakin.md %}

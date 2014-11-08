@@ -9,8 +9,6 @@ title: "Apprenticeships"
 
 ---
 
-## Apprenticeships
-
 {% include interests/apprenticeships.md %}
 
 ### Who is interested in Apprenticeships?

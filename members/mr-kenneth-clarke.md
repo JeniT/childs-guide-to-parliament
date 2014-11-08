@@ -9,8 +9,6 @@ title: "Mr Kenneth Clarke"
 
 ---
 
-## Mr Kenneth Clarke
-
 **Mr Kenneth Clarke** is an MP in the **Conservative** party.
 
 {% include members/mr-kenneth-clarke.md %}

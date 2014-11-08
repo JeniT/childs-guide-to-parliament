@@ -9,8 +9,6 @@ title: "Civil Rights"
 
 ---
 
-## Civil Rights
-
 {% include interests/civil-rights.md %}
 
 ### Who is interested in Civil Rights?

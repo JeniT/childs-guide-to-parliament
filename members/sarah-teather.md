@@ -9,8 +9,6 @@ title: "Sarah Teather"
 
 ---
 
-## Sarah Teather
-
 **Sarah Teather** is an MP in the **Liberal Democrat** party.
 
 {% include members/sarah-teather.md %}

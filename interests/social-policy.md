@@ -9,8 +9,6 @@ title: "Social Policy"
 
 ---
 
-## Social Policy
-
 {% include interests/social-policy.md %}
 
 ### Who is interested in Social Policy?

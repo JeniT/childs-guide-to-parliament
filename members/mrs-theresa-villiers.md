@@ -9,8 +9,6 @@ title: "Mrs Theresa Villiers"
 
 ---
 
-## Mrs Theresa Villiers
-
 **Mrs Theresa Villiers** is an MP in the **Conservative** party.
 
 {% include members/mrs-theresa-villiers.md %}

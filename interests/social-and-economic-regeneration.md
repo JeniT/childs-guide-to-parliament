@@ -9,8 +9,6 @@ title: "Social And Economic Regeneration"
 
 ---
 
-## Social And Economic Regeneration
-
 {% include interests/social-and-economic-regeneration.md %}
 
 ### Who is interested in Social And Economic Regeneration?

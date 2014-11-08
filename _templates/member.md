@@ -9,8 +9,6 @@ title: "$display_name"
 
 ---
 
-## $display_name
-
 **$display_name** is an MP in the **$party_name** party.
 
 {% include members/$slug.md %}

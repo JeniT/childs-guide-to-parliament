@@ -9,8 +9,6 @@ title: "Shabana Mahmood"
 
 ---
 
-## Shabana Mahmood
-
 **Shabana Mahmood** is an MP in the **Labour** party.
 
 {% include members/shabana-mahmood.md %}

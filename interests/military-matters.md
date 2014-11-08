@@ -9,8 +9,6 @@ title: "Military Matters"
 
 ---
 
-## Military Matters
-
 {% include interests/military-matters.md %}
 
 ### Who is interested in Military Matters?

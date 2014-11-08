@@ -9,8 +9,6 @@ title: "Bridget Phillipson"
 
 ---
 
-## Bridget Phillipson
-
 **Bridget Phillipson** is an MP in the **Labour** party.
 
 {% include members/bridget-phillipson.md %}

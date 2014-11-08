@@ -9,8 +9,6 @@ title: "Jonathan Evans"
 
 ---
 
-## Jonathan Evans
-
 **Jonathan Evans** is an MP in the **Conservative** party.
 
 {% include members/jonathan-evans.md %}

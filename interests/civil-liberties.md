@@ -9,8 +9,6 @@ title: "Civil Liberties"
 
 ---
 
-## Civil Liberties
-
 {% include interests/civil-liberties.md %}
 
 ### Who is interested in Civil Liberties?

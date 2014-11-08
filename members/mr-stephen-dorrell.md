@@ -9,8 +9,6 @@ title: "Mr Stephen Dorrell"
 
 ---
 
-## Mr Stephen Dorrell
-
 **Mr Stephen Dorrell** is an MP in the **Conservative** party.
 
 {% include members/mr-stephen-dorrell.md %}

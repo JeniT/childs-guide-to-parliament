@@ -9,8 +9,6 @@ title: "Mrs Helen Grant"
 
 ---
 
-## Mrs Helen Grant
-
 **Mrs Helen Grant** is an MP in the **Conservative** party.
 
 {% include members/mrs-helen-grant.md %}

@@ -9,8 +9,6 @@ title: "Local Regeneration"
 
 ---
 
-## Local Regeneration
-
 {% include interests/local-regeneration.md %}
 
 ### Who is interested in Local Regeneration?

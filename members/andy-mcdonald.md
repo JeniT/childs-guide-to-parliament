@@ -9,8 +9,6 @@ title: "Andy McDonald"
 
 ---
 
-## Andy McDonald
-
 **Andy McDonald** is an MP in the **Labour** party.
 
 {% include members/andy-mcdonald.md %}

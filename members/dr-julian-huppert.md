@@ -9,8 +9,6 @@ title: "Dr Julian Huppert"
 
 ---
 
-## Dr Julian Huppert
-
 **Dr Julian Huppert** is an MP in the **Liberal Democrat** party.
 
 {% include members/dr-julian-huppert.md %}

@@ -9,8 +9,6 @@ title: "Third Sector"
 
 ---
 
-## Third Sector
-
 {% include interests/third-sector.md %}
 
 ### Who is interested in Third Sector?

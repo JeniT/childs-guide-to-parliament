@@ -9,8 +9,6 @@ title: "Whisky"
 
 ---
 
-## Whisky
-
 {% include interests/whisky.md %}
 
 ### Who is interested in Whisky?

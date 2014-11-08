@@ -9,8 +9,6 @@ title: "Chris Leslie"
 
 ---
 
-## Chris Leslie
-
 **Chris Leslie** is an MP in the **Labour (Co-op)** party.
 
 {% include members/chris-leslie.md %}

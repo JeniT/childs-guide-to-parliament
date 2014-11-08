@@ -9,8 +9,6 @@ title: "Asylum And Immigration"
 
 ---
 
-## Asylum And Immigration
-
 {% include interests/asylum-and-immigration.md %}
 
 ### Who is interested in Asylum And Immigration?

@@ -9,8 +9,6 @@ title: "Mr Gareth Thomas"
 
 ---
 
-## Mr Gareth Thomas
-
 **Mr Gareth Thomas** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mr-gareth-thomas.md %}

@@ -9,8 +9,6 @@ title: "Economics Of Small States"
 
 ---
 
-## Economics Of Small States
-
 {% include interests/economics-of-small-states.md %}
 
 ### Who is interested in Economics Of Small States?

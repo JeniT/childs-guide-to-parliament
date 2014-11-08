@@ -9,8 +9,6 @@ title: "Justice Issues"
 
 ---
 
-## Justice Issues
-
 {% include interests/justice-issues.md %}
 
 ### Who is interested in Justice Issues?

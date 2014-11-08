@@ -9,8 +9,6 @@ title: "Redistribution Of Wealth"
 
 ---
 
-## Redistribution Of Wealth
-
 {% include interests/redistribution-of-wealth.md %}
 
 ### Who is interested in Redistribution Of Wealth?

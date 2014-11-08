@@ -9,8 +9,6 @@ title: "Apprenticeships And Youth Training"
 
 ---
 
-## Apprenticeships And Youth Training
-
 {% include interests/apprenticeships-and-youth-training.md %}
 
 ### Who is interested in Apprenticeships And Youth Training?

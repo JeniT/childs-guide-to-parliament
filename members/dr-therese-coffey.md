@@ -9,8 +9,6 @@ title: "Dr Thérèse Coffey"
 
 ---
 
-## Dr Thérèse Coffey
-
 **Dr Thérèse Coffey** is an MP in the **Conservative** party.
 
 {% include members/dr-therese-coffey.md %}

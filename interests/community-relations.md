@@ -9,8 +9,6 @@ title: "Community Relations"
 
 ---
 
-## Community Relations
-
 {% include interests/community-relations.md %}
 
 ### Who is interested in Community Relations?

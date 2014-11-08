@@ -9,8 +9,6 @@ title: "Sustainable Resources"
 
 ---
 
-## Sustainable Resources
-
 {% include interests/sustainable-resources.md %}
 
 ### Who is interested in Sustainable Resources?

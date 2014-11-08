@@ -9,8 +9,6 @@ title: "Mental Health"
 
 ---
 
-## Mental Health
-
 {% include interests/mental-health.md %}
 
 ### Who is interested in Mental Health?

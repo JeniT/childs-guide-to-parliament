@@ -9,8 +9,6 @@ title: "Business And Enterprise"
 
 ---
 
-## Business And Enterprise
-
 {% include interests/business-and-enterprise.md %}
 
 ### Who is interested in Business And Enterprise?

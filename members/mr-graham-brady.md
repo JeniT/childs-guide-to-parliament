@@ -9,8 +9,6 @@ title: "Mr Graham Brady"
 
 ---
 
-## Mr Graham Brady
-
 **Mr Graham Brady** is an MP in the **Conservative** party.
 
 {% include members/mr-graham-brady.md %}

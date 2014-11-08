@@ -9,8 +9,6 @@ title: "Mr John Leech"
 
 ---
 
-## Mr John Leech
-
 **Mr John Leech** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-john-leech.md %}

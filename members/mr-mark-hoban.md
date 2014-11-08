@@ -9,8 +9,6 @@ title: "Mr Mark Hoban"
 
 ---
 
-## Mr Mark Hoban
-
 **Mr Mark Hoban** is an MP in the **Conservative** party.
 
 {% include members/mr-mark-hoban.md %}

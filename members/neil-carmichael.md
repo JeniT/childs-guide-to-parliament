@@ -9,8 +9,6 @@ title: "Neil Carmichael"
 
 ---
 
-## Neil Carmichael
-
 **Neil Carmichael** is an MP in the **Conservative** party.
 
 {% include members/neil-carmichael.md %}

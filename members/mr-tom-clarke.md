@@ -9,8 +9,6 @@ title: "Mr Tom Clarke"
 
 ---
 
-## Mr Tom Clarke
-
 **Mr Tom Clarke** is an MP in the **Labour** party.
 
 {% include members/mr-tom-clarke.md %}

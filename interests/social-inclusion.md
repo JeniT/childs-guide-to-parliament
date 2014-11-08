@@ -9,8 +9,6 @@ title: "Social Inclusion"
 
 ---
 
-## Social Inclusion
-
 {% include interests/social-inclusion.md %}
 
 ### Who is interested in Social Inclusion?

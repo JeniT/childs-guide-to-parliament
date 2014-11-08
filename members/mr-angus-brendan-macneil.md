@@ -9,8 +9,6 @@ title: "Mr Angus Brendan MacNeil"
 
 ---
 
-## Mr Angus Brendan MacNeil
-
 **Mr Angus Brendan MacNeil** is an MP in the **Scottish National** party.
 
 {% include members/mr-angus-brendan-macneil.md %}

@@ -9,8 +9,6 @@ title: "Dan Jarvis"
 
 ---
 
-## Dan Jarvis
-
 **Dan Jarvis** is an MP in the **Labour** party.
 
 {% include members/dan-jarvis.md %}

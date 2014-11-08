@@ -9,8 +9,6 @@ title: "Sir Edward Garnier"
 
 ---
 
-## Sir Edward Garnier
-
 **Sir Edward Garnier** is an MP in the **Conservative** party.
 
 {% include members/sir-edward-garnier.md %}

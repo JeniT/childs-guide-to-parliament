@@ -9,8 +9,6 @@ title: "Philip Davies"
 
 ---
 
-## Philip Davies
-
 **Philip Davies** is an MP in the **Conservative** party.
 
 {% include members/philip-davies.md %}

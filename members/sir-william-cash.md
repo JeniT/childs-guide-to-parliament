@@ -9,8 +9,6 @@ title: "Sir William Cash"
 
 ---
 
-## Sir William Cash
-
 **Sir William Cash** is an MP in the **Conservative** party.
 
 {% include members/sir-william-cash.md %}

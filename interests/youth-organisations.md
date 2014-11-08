@@ -9,8 +9,6 @@ title: "Youth Organisations"
 
 ---
 
-## Youth Organisations
-
 {% include interests/youth-organisations.md %}
 
 ### Who is interested in Youth Organisations?

@@ -9,8 +9,6 @@ title: "Stephen Crabb"
 
 ---
 
-## Stephen Crabb
-
 **Stephen Crabb** is an MP in the **Conservative** party.
 
 {% include members/stephen-crabb.md %}

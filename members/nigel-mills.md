@@ -9,8 +9,6 @@ title: "Nigel Mills"
 
 ---
 
-## Nigel Mills
-
 **Nigel Mills** is an MP in the **Conservative** party.
 
 {% include members/nigel-mills.md %}

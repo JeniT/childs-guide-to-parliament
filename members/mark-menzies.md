@@ -9,8 +9,6 @@ title: "Mark Menzies"
 
 ---
 
-## Mark Menzies
-
 **Mark Menzies** is an MP in the **Conservative** party.
 
 {% include members/mark-menzies.md %}

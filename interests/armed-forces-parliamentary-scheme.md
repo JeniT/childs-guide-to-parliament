@@ -9,8 +9,6 @@ title: "Armed Forces Parliamentary Scheme"
 
 ---
 
-## Armed Forces Parliamentary Scheme
-
 {% include interests/armed-forces-parliamentary-scheme.md %}
 
 ### Who is interested in Armed Forces Parliamentary Scheme?

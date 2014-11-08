@@ -9,8 +9,6 @@ title: "Sustainable Energy"
 
 ---
 
-## Sustainable Energy
-
 {% include interests/sustainable-energy.md %}
 
 ### Who is interested in Sustainable Energy?

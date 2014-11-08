@@ -9,8 +9,6 @@ title: "Hywel Williams"
 
 ---
 
-## Hywel Williams
-
 **Hywel Williams** is an MP in the **Plaid Cymru** party.
 
 {% include members/hywel-williams.md %}

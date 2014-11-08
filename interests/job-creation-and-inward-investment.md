@@ -9,8 +9,6 @@ title: "Job Creation And Inward Investment"
 
 ---
 
-## Job Creation And Inward Investment
-
 {% include interests/job-creation-and-inward-investment.md %}
 
 ### Who is interested in Job Creation And Inward Investment?

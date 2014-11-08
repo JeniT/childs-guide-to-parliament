@@ -9,8 +9,6 @@ title: "Robert Halfon"
 
 ---
 
-## Robert Halfon
-
 **Robert Halfon** is an MP in the **Conservative** party.
 
 {% include members/robert-halfon.md %}

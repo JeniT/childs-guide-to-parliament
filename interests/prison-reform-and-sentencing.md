@@ -9,8 +9,6 @@ title: "Prison Reform And Sentencing"
 
 ---
 
-## Prison Reform And Sentencing
-
 {% include interests/prison-reform-and-sentencing.md %}
 
 ### Who is interested in Prison Reform And Sentencing?

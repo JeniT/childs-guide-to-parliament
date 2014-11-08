@@ -9,8 +9,6 @@ title: "Adam Afriyie"
 
 ---
 
-## Adam Afriyie
-
 **Adam Afriyie** is an MP in the **Conservative** party.
 
 {% include members/adam-afriyie.md %}

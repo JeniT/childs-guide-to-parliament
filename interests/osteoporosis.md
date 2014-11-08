@@ -9,8 +9,6 @@ title: "Osteoporosis"
 
 ---
 
-## Osteoporosis
-
 {% include interests/osteoporosis.md %}
 
 ### Who is interested in Osteoporosis?

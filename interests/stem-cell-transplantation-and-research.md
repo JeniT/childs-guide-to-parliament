@@ -9,8 +9,6 @@ title: "Stem Cell Transplantation And Research"
 
 ---
 
-## Stem Cell Transplantation And Research
-
 {% include interests/stem-cell-transplantation-and-research.md %}
 
 ### Who is interested in Stem Cell Transplantation And Research?

@@ -9,8 +9,6 @@ title: "Urban Policy"
 
 ---
 
-## Urban Policy
-
 {% include interests/urban-policy.md %}
 
 ### Who is interested in Urban Policy?

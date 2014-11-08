@@ -9,8 +9,6 @@ title: "Mrs Anne McGuire"
 
 ---
 
-## Mrs Anne McGuire
-
 **Mrs Anne McGuire** is an MP in the **Labour** party.
 
 {% include members/mrs-anne-mcguire.md %}

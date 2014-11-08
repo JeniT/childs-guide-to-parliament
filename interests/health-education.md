@@ -9,8 +9,6 @@ title: "Health Education"
 
 ---
 
-## Health Education
-
 {% include interests/health-education.md %}
 
 ### Who is interested in Health Education?

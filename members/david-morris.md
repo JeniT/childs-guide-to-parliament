@@ -9,8 +9,6 @@ title: "David Morris"
 
 ---
 
-## David Morris
-
 **David Morris** is an MP in the **Conservative** party.
 
 {% include members/david-morris.md %}

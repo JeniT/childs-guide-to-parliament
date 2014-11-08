@@ -9,8 +9,6 @@ title: "Solvent Abuse"
 
 ---
 
-## Solvent Abuse
-
 {% include interests/solvent-abuse.md %}
 
 ### Who is interested in Solvent Abuse?

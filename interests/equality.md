@@ -9,8 +9,6 @@ title: "Equality"
 
 ---
 
-## Equality
-
 {% include interests/equality.md %}
 
 ### Who is interested in Equality?

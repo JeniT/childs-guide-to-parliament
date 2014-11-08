@@ -9,8 +9,6 @@ title: "Paul Maynard"
 
 ---
 
-## Paul Maynard
-
 **Paul Maynard** is an MP in the **Conservative** party.
 
 {% include members/paul-maynard.md %}

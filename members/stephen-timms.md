@@ -9,8 +9,6 @@ title: "Stephen Timms"
 
 ---
 
-## Stephen Timms
-
 **Stephen Timms** is an MP in the **Labour** party.
 
 {% include members/stephen-timms.md %}

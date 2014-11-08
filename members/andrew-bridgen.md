@@ -9,8 +9,6 @@ title: "Andrew Bridgen"
 
 ---
 
-## Andrew Bridgen
-
 **Andrew Bridgen** is an MP in the **Conservative** party.
 
 {% include members/andrew-bridgen.md %}

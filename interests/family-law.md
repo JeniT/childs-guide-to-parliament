@@ -9,8 +9,6 @@ title: "Family Law"
 
 ---
 
-## Family Law
-
 {% include interests/family-law.md %}
 
 ### Who is interested in Family Law?

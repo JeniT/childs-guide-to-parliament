@@ -9,8 +9,6 @@ title: "Community"
 
 ---
 
-## Community
-
 {% include interests/community.md %}
 
 ### Who is interested in Community?

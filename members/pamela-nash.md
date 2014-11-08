@@ -9,8 +9,6 @@ title: "Pamela Nash"
 
 ---
 
-## Pamela Nash
-
 **Pamela Nash** is an MP in the **Labour** party.
 
 {% include members/pamela-nash.md %}

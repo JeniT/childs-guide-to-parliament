@@ -9,8 +9,6 @@ title: "Sir Hugh Robertson"
 
 ---
 
-## Sir Hugh Robertson
-
 **Sir Hugh Robertson** is an MP in the **Conservative** party.
 
 {% include members/sir-hugh-robertson.md %}

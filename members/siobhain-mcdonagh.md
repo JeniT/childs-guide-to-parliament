@@ -9,8 +9,6 @@ title: "Siobhain McDonagh"
 
 ---
 
-## Siobhain McDonagh
-
 **Siobhain McDonagh** is an MP in the **Labour** party.
 
 {% include members/siobhain-mcdonagh.md %}

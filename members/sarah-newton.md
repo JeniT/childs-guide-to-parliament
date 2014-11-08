@@ -9,8 +9,6 @@ title: "Sarah Newton"
 
 ---
 
-## Sarah Newton
-
 **Sarah Newton** is an MP in the **Conservative** party.
 
 {% include members/sarah-newton.md %}

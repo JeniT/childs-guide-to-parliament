@@ -9,8 +9,6 @@ title: "Gemma Doyle"
 
 ---
 
-## Gemma Doyle
-
 **Gemma Doyle** is an MP in the **Labour (Co-op)** party.
 
 {% include members/gemma-doyle.md %}

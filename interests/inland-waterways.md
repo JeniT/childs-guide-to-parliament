@@ -9,8 +9,6 @@ title: "Inland Waterways"
 
 ---
 
-## Inland Waterways
-
 {% include interests/inland-waterways.md %}
 
 ### Who is interested in Inland Waterways?

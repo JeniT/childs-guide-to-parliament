@@ -9,8 +9,6 @@ title: "Sammy Wilson"
 
 ---
 
-## Sammy Wilson
-
 **Sammy Wilson** is an MP in the **Democratic Unionist** party.
 
 {% include members/sammy-wilson.md %}

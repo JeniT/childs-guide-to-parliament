@@ -9,8 +9,6 @@ title: "Social Services"
 
 ---
 
-## Social Services
-
 {% include interests/social-services.md %}
 
 ### Who is interested in Social Services?

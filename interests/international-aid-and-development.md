@@ -9,8 +9,6 @@ title: "International Aid And Development"
 
 ---
 
-## International Aid And Development
-
 {% include interests/international-aid-and-development.md %}
 
 ### Who is interested in International Aid And Development?

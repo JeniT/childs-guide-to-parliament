@@ -9,8 +9,6 @@ title: "Foreign And International Relations"
 
 ---
 
-## Foreign And International Relations
-
 {% include interests/foreign-and-international-relations.md %}
 
 ### Who is interested in Foreign And International Relations?

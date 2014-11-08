@@ -9,8 +9,6 @@ title: "Stephen McPartland"
 
 ---
 
-## Stephen McPartland
-
 **Stephen McPartland** is an MP in the **Conservative** party.
 
 {% include members/stephen-mcpartland.md %}

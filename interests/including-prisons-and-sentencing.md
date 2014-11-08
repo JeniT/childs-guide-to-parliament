@@ -9,8 +9,6 @@ title: "Including Prisons And Sentencing"
 
 ---
 
-## Including Prisons And Sentencing
-
 {% include interests/including-prisons-and-sentencing.md %}
 
 ### Who is interested in Including Prisons And Sentencing?

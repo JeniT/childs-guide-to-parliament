@@ -9,8 +9,6 @@ title: "Nicola Blackwood"
 
 ---
 
-## Nicola Blackwood
-
 **Nicola Blackwood** is an MP in the **Conservative** party.
 
 {% include members/nicola-blackwood.md %}

@@ -9,8 +9,6 @@ title: "Mr Tim Yeo"
 
 ---
 
-## Mr Tim Yeo
-
 **Mr Tim Yeo** is an MP in the **Conservative** party.
 
 {% include members/mr-tim-yeo.md %}

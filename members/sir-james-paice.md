@@ -9,8 +9,6 @@ title: "Sir James Paice"
 
 ---
 
-## Sir James Paice
-
 **Sir James Paice** is an MP in the **Conservative** party.
 
 {% include members/sir-james-paice.md %}

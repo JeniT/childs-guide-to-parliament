@@ -9,8 +9,6 @@ title: "Brewery And Pub Industry"
 
 ---
 
-## Brewery And Pub Industry
-
 {% include interests/brewery-and-pub-industry.md %}
 
 ### Who is interested in Brewery And Pub Industry?

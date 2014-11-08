@@ -9,8 +9,6 @@ title: "Jonathan Ashworth"
 
 ---
 
-## Jonathan Ashworth
-
 **Jonathan Ashworth** is an MP in the **Labour** party.
 
 {% include members/jonathan-ashworth.md %}

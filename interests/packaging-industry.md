@@ -9,8 +9,6 @@ title: "Packaging Industry"
 
 ---
 
-## Packaging Industry
-
 {% include interests/packaging-industry.md %}
 
 ### Who is interested in Packaging Industry?

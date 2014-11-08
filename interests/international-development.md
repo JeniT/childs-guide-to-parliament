@@ -9,8 +9,6 @@ title: "International Development"
 
 ---
 
-## International Development
-
 {% include interests/international-development.md %}
 
 ### Who is interested in International Development?

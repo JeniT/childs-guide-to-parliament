@@ -9,8 +9,6 @@ title: "Dr Sarah Wollaston"
 
 ---
 
-## Dr Sarah Wollaston
-
 **Dr Sarah Wollaston** is an MP in the **Conservative** party.
 
 {% include members/dr-sarah-wollaston.md %}

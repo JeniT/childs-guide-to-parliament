@@ -9,8 +9,6 @@ title: "Karen Lumley"
 
 ---
 
-## Karen Lumley
-
 **Karen Lumley** is an MP in the **Conservative** party.
 
 {% include members/karen-lumley.md %}

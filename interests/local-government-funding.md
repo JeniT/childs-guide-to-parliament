@@ -9,8 +9,6 @@ title: "Local Government Funding"
 
 ---
 
-## Local Government Funding
-
 {% include interests/local-government-funding.md %}
 
 ### Who is interested in Local Government Funding?

@@ -9,8 +9,6 @@ title: "Children In Care"
 
 ---
 
-## Children In Care
-
 {% include interests/children-in-care.md %}
 
 ### Who is interested in Children In Care?

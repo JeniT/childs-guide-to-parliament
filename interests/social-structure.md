@@ -9,8 +9,6 @@ title: "Social Structure"
 
 ---
 
-## Social Structure
-
 {% include interests/social-structure.md %}
 
 ### Who is interested in Social Structure?

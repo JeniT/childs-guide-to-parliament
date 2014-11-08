@@ -9,8 +9,6 @@ title: "Environmental Issues And World Development"
 
 ---
 
-## Environmental Issues And World Development
-
 {% include interests/environmental-issues-and-world-development.md %}
 
 ### Who is interested in Environmental Issues And World Development?

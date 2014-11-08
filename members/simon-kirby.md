@@ -9,8 +9,6 @@ title: "Simon Kirby"
 
 ---
 
-## Simon Kirby
-
 **Simon Kirby** is an MP in the **Conservative** party.
 
 {% include members/simon-kirby.md %}

@@ -9,8 +9,6 @@ title: "Higher Education"
 
 ---
 
-## Higher Education
-
 {% include interests/higher-education.md %}
 
 ### Who is interested in Higher Education?

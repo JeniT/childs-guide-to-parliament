@@ -9,8 +9,6 @@ title: "Global Tb"
 
 ---
 
-## Global Tb
-
 {% include interests/global-tb.md %}
 
 ### Who is interested in Global Tb?

@@ -9,8 +9,6 @@ title: "Energy Security"
 
 ---
 
-## Energy Security
-
 {% include interests/energy-security.md %}
 
 ### Who is interested in Energy Security?

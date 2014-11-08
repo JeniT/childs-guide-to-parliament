@@ -9,8 +9,6 @@ title: "Gender"
 
 ---
 
-## Gender
-
 {% include interests/gender.md %}
 
 ### Who is interested in Gender?

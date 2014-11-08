@@ -9,8 +9,6 @@ title: "David Tredinnick"
 
 ---
 
-## David Tredinnick
-
 **David Tredinnick** is an MP in the **Conservative** party.
 
 {% include members/david-tredinnick.md %}

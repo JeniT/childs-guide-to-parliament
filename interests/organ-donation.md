@@ -9,8 +9,6 @@ title: "Organ Donation"
 
 ---
 
-## Organ Donation
-
 {% include interests/organ-donation.md %}
 
 ### Who is interested in Organ Donation?

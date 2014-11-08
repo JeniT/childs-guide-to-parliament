@@ -9,8 +9,6 @@ title: "Liz Kendall"
 
 ---
 
-## Liz Kendall
-
 **Liz Kendall** is an MP in the **Labour** party.
 
 {% include members/liz-kendall.md %}

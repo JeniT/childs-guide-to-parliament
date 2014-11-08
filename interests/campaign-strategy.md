@@ -9,8 +9,6 @@ title: "Campaign Strategy"
 
 ---
 
-## Campaign Strategy
-
 {% include interests/campaign-strategy.md %}
 
 ### Who is interested in Campaign Strategy?

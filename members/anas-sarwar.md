@@ -9,8 +9,6 @@ title: "Anas Sarwar"
 
 ---
 
-## Anas Sarwar
-
 **Anas Sarwar** is an MP in the **Labour** party.
 
 {% include members/anas-sarwar.md %}

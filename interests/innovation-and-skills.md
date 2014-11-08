@@ -9,8 +9,6 @@ title: "Innovation And Skills"
 
 ---
 
-## Innovation And Skills
-
 {% include interests/innovation-and-skills.md %}
 
 ### Who is interested in Innovation And Skills?

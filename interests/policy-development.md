@@ -9,8 +9,6 @@ title: "Policy Development"
 
 ---
 
-## Policy Development
-
 {% include interests/policy-development.md %}
 
 ### Who is interested in Policy Development?

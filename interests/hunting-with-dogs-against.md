@@ -9,8 +9,6 @@ title: "Hunting With Dogs (Against)"
 
 ---
 
-## Hunting With Dogs (Against)
-
 {% include interests/hunting-with-dogs-against.md %}
 
 ### Who is interested in Hunting With Dogs (Against)?

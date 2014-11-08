@@ -9,8 +9,6 @@ title: "Taxation"
 
 ---
 
-## Taxation
-
 {% include interests/taxation.md %}
 
 ### Who is interested in Taxation?

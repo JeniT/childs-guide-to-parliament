@@ -9,8 +9,6 @@ title: "Micro-Finance"
 
 ---
 
-## Micro-Finance
-
 {% include interests/micro-finance.md %}
 
 ### Who is interested in Micro-Finance?

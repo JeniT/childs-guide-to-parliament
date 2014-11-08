@@ -9,8 +9,6 @@ title: "Paul Flynn"
 
 ---
 
-## Paul Flynn
-
 **Paul Flynn** is an MP in the **Labour** party.
 
 {% include members/paul-flynn.md %}

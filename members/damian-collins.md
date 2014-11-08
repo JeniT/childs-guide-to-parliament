@@ -9,8 +9,6 @@ title: "Damian Collins"
 
 ---
 
-## Damian Collins
-
 **Damian Collins** is an MP in the **Conservative** party.
 
 {% include members/damian-collins.md %}

@@ -9,8 +9,6 @@ title: "Elderly"
 
 ---
 
-## Elderly
-
 {% include interests/elderly.md %}
 
 ### Who is interested in Elderly?

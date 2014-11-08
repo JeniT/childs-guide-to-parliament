@@ -9,8 +9,6 @@ title: "Susan Elan Jones"
 
 ---
 
-## Susan Elan Jones
-
 **Susan Elan Jones** is an MP in the **Labour** party.
 
 {% include members/susan-elan-jones.md %}

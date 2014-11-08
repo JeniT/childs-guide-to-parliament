@@ -9,8 +9,6 @@ title: "Agriculture And Countryside Matters"
 
 ---
 
-## Agriculture And Countryside Matters
-
 {% include interests/agriculture-and-countryside-matters.md %}
 
 ### Who is interested in Agriculture And Countryside Matters?

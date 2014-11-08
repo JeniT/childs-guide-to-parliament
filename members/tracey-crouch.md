@@ -9,8 +9,6 @@ title: "Tracey Crouch"
 
 ---
 
-## Tracey Crouch
-
 **Tracey Crouch** is an MP in the **Conservative** party.
 
 {% include members/tracey-crouch.md %}

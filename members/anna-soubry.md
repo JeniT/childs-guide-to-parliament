@@ -9,8 +9,6 @@ title: "Anna Soubry"
 
 ---
 
-## Anna Soubry
-
 **Anna Soubry** is an MP in the **Conservative** party.
 
 {% include members/anna-soubry.md %}

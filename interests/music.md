@@ -9,8 +9,6 @@ title: "Music"
 
 ---
 
-## Music
-
 {% include interests/music.md %}
 
 ### Who is interested in Music?

@@ -9,8 +9,6 @@ title: "Nhs Reform"
 
 ---
 
-## Nhs Reform
-
 {% include interests/nhs-reform.md %}
 
 ### Who is interested in Nhs Reform?

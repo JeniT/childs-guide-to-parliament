@@ -9,8 +9,6 @@ title: "Waste Management"
 
 ---
 
-## Waste Management
-
 {% include interests/waste-management.md %}
 
 ### Who is interested in Waste Management?

@@ -9,8 +9,6 @@ title: "Telecommunications"
 
 ---
 
-## Telecommunications
-
 {% include interests/telecommunications.md %}
 
 ### Who is interested in Telecommunications?

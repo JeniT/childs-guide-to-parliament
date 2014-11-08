@@ -9,8 +9,6 @@ title: "Robert Neill"
 
 ---
 
-## Robert Neill
-
 **Robert Neill** is an MP in the **Conservative** party.
 
 {% include members/robert-neill.md %}

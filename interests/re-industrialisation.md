@@ -9,8 +9,6 @@ title: "Re-Industrialisation"
 
 ---
 
-## Re-Industrialisation
-
 {% include interests/re-industrialisation.md %}
 
 ### Who is interested in Re-Industrialisation?

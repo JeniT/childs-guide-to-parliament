@@ -9,8 +9,6 @@ title: "Succession"
 
 ---
 
-## Succession
-
 {% include interests/succession.md %}
 
 ### Who is interested in Succession?

@@ -9,8 +9,6 @@ title: "Social Security"
 
 ---
 
-## Social Security
-
 {% include interests/social-security.md %}
 
 ### Who is interested in Social Security?

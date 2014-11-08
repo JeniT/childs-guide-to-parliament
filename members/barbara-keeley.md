@@ -9,8 +9,6 @@ title: "Barbara Keeley"
 
 ---
 
-## Barbara Keeley
-
 **Barbara Keeley** is an MP in the **Labour** party.
 
 {% include members/barbara-keeley.md %}

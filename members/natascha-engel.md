@@ -9,8 +9,6 @@ title: "Natascha Engel"
 
 ---
 
-## Natascha Engel
-
 **Natascha Engel** is an MP in the **Labour** party.
 
 {% include members/natascha-engel.md %}

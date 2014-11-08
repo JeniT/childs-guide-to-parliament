@@ -9,8 +9,6 @@ title: "John Healey"
 
 ---
 
-## John Healey
-
 **John Healey** is an MP in the **Labour** party.
 
 {% include members/john-healey.md %}

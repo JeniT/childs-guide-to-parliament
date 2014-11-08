@@ -9,8 +9,6 @@ title: "London Government"
 
 ---
 
-## London Government
-
 {% include interests/london-government.md %}
 
 ### Who is interested in London Government?

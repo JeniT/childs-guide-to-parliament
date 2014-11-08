@@ -9,8 +9,6 @@ title: "Oliver Colvile"
 
 ---
 
-## Oliver Colvile
-
 **Oliver Colvile** is an MP in the **Conservative** party.
 
 {% include members/oliver-colvile.md %}

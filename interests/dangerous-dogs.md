@@ -9,8 +9,6 @@ title: "Dangerous Dogs"
 
 ---
 
-## Dangerous Dogs
-
 {% include interests/dangerous-dogs.md %}
 
 ### Who is interested in Dangerous Dogs?

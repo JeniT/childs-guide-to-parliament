@@ -9,8 +9,6 @@ title: "Broadcasting"
 
 ---
 
-## Broadcasting
-
 {% include interests/broadcasting.md %}
 
 ### Who is interested in Broadcasting?

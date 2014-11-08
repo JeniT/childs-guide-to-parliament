@@ -9,8 +9,6 @@ title: "Workers' Rights (Including Equalities And The Vulnerable Workers' Agenda
 
 ---
 
-## Workers' Rights (Including Equalities And The Vulnerable Workers' Agenda)
-
 {% include interests/workers-rights-including-equalities-and-the-vulnerable-workers-agenda.md %}
 
 ### Who is interested in Workers' Rights (Including Equalities And The Vulnerable Workers' Agenda)?

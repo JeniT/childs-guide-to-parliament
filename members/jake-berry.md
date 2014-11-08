@@ -9,8 +9,6 @@ title: "Jake Berry"
 
 ---
 
-## Jake Berry
-
 **Jake Berry** is an MP in the **Conservative** party.
 
 {% include members/jake-berry.md %}

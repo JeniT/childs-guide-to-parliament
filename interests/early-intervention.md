@@ -9,8 +9,6 @@ title: "Early Intervention"
 
 ---
 
-## Early Intervention
-
 {% include interests/early-intervention.md %}
 
 ### Who is interested in Early Intervention?

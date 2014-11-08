@@ -9,8 +9,6 @@ title: "Industrial Policy"
 
 ---
 
-## Industrial Policy
-
 {% include interests/industrial-policy.md %}
 
 ### Who is interested in Industrial Policy?

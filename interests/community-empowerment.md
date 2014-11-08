@@ -9,8 +9,6 @@ title: "Community Empowerment"
 
 ---
 
-## Community Empowerment
-
 {% include interests/community-empowerment.md %}
 
 ### Who is interested in Community Empowerment?

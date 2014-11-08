@@ -9,8 +9,6 @@ title: "Social Welfare"
 
 ---
 
-## Social Welfare
-
 {% include interests/social-welfare.md %}
 
 ### Who is interested in Social Welfare?

@@ -9,8 +9,6 @@ title: "Vocational Education"
 
 ---
 
-## Vocational Education
-
 {% include interests/vocational-education.md %}
 
 ### Who is interested in Vocational Education?

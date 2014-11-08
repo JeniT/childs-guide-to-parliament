@@ -9,8 +9,6 @@ title: "Mr Michael Meacher"
 
 ---
 
-## Mr Michael Meacher
-
 **Mr Michael Meacher** is an MP in the **Labour** party.
 
 {% include members/mr-michael-meacher.md %}

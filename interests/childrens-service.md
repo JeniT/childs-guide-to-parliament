@@ -9,8 +9,6 @@ title: "Children'S Service"
 
 ---
 
-## Children'S Service
-
 {% include interests/childrens-service.md %}
 
 ### Who is interested in Children'S Service?

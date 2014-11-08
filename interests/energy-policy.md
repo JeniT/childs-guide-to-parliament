@@ -9,8 +9,6 @@ title: "Energy Policy"
 
 ---
 
-## Energy Policy
-
 {% include interests/energy-policy.md %}
 
 ### Who is interested in Energy Policy?

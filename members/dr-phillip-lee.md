@@ -9,8 +9,6 @@ title: "Dr Phillip Lee"
 
 ---
 
-## Dr Phillip Lee
-
 **Dr Phillip Lee** is an MP in the **Conservative** party.
 
 {% include members/dr-phillip-lee.md %}

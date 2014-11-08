@@ -9,8 +9,6 @@ title: "Andrew Selous"
 
 ---
 
-## Andrew Selous
-
 **Andrew Selous** is an MP in the **Conservative** party.
 
 {% include members/andrew-selous.md %}

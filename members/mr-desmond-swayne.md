@@ -9,8 +9,6 @@ title: "Mr Desmond Swayne"
 
 ---
 
-## Mr Desmond Swayne
-
 **Mr Desmond Swayne** is an MP in the **Conservative** party.
 
 {% include members/mr-desmond-swayne.md %}

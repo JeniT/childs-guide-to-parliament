@@ -9,8 +9,6 @@ title: "Mr Mark Harper"
 
 ---
 
-## Mr Mark Harper
-
 **Mr Mark Harper** is an MP in the **Conservative** party.
 
 {% include members/mr-mark-harper.md %}

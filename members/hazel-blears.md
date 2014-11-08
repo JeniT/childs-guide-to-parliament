@@ -9,8 +9,6 @@ title: "Hazel Blears"
 
 ---
 
-## Hazel Blears
-
 **Hazel Blears** is an MP in the **Labour** party.
 
 {% include members/hazel-blears.md %}

@@ -9,8 +9,6 @@ title: "Norman Lamb"
 
 ---
 
-## Norman Lamb
-
 **Norman Lamb** is an MP in the **Liberal Democrat** party.
 
 {% include members/norman-lamb.md %}

@@ -9,8 +9,6 @@ title: "Gavin Barwell"
 
 ---
 
-## Gavin Barwell
-
 **Gavin Barwell** is an MP in the **Conservative** party.
 
 {% include members/gavin-barwell.md %}

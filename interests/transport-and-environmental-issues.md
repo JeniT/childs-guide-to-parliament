@@ -9,8 +9,6 @@ title: "Transport And Environmental Issues"
 
 ---
 
-## Transport And Environmental Issues
-
 {% include interests/transport-and-environmental-issues.md %}
 
 ### Who is interested in Transport And Environmental Issues?

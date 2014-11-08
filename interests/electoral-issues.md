@@ -9,8 +9,6 @@ title: "Electoral Issues"
 
 ---
 
-## Electoral Issues
-
 {% include interests/electoral-issues.md %}
 
 ### Who is interested in Electoral Issues?

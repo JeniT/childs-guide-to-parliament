@@ -9,8 +9,6 @@ title: "Wayne David"
 
 ---
 
-## Wayne David
-
 **Wayne David** is an MP in the **Labour** party.
 
 {% include members/wayne-david.md %}

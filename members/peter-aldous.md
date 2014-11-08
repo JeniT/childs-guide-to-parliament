@@ -9,8 +9,6 @@ title: "Peter Aldous"
 
 ---
 
-## Peter Aldous
-
 **Peter Aldous** is an MP in the **Conservative** party.
 
 {% include members/peter-aldous.md %}

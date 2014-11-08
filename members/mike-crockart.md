@@ -9,8 +9,6 @@ title: "Mike Crockart"
 
 ---
 
-## Mike Crockart
-
 **Mike Crockart** is an MP in the **Liberal Democrat** party.
 
 {% include members/mike-crockart.md %}

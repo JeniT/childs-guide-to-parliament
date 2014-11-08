@@ -9,8 +9,6 @@ title: "Mr James Arbuthnot"
 
 ---
 
-## Mr James Arbuthnot
-
 **Mr James Arbuthnot** is an MP in the **Conservative** party.
 
 {% include members/mr-james-arbuthnot.md %}

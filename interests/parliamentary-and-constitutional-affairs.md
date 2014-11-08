@@ -9,8 +9,6 @@ title: "Parliamentary And Constitutional Affairs"
 
 ---
 
-## Parliamentary And Constitutional Affairs
-
 {% include interests/parliamentary-and-constitutional-affairs.md %}
 
 ### Who is interested in Parliamentary And Constitutional Affairs?

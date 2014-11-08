@@ -9,8 +9,6 @@ title: "Dan Byles"
 
 ---
 
-## Dan Byles
-
 **Dan Byles** is an MP in the **Conservative** party.
 
 {% include members/dan-byles.md %}

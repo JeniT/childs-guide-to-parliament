@@ -9,8 +9,6 @@ title: "Heritage Railways"
 
 ---
 
-## Heritage Railways
-
 {% include interests/heritage-railways.md %}
 
 ### Who is interested in Heritage Railways?

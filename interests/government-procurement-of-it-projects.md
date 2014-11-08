@@ -9,8 +9,6 @@ title: "Government Procurement Of It Projects"
 
 ---
 
-## Government Procurement Of It Projects
-
 {% include interests/government-procurement-of-it-projects.md %}
 
 ### Who is interested in Government Procurement Of It Projects?

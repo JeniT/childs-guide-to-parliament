@@ -9,8 +9,6 @@ title: "Terrorism"
 
 ---
 
-## Terrorism
-
 {% include interests/terrorism.md %}
 
 ### Who is interested in Terrorism?

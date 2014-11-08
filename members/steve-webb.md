@@ -9,8 +9,6 @@ title: "Steve Webb"
 
 ---
 
-## Steve Webb
-
 **Steve Webb** is an MP in the **Liberal Democrat** party.
 
 {% include members/steve-webb.md %}

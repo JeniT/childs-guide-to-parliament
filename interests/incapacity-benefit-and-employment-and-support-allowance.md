@@ -9,8 +9,6 @@ title: "Incapacity Benefit And Employment And Support Allowance"
 
 ---
 
-## Incapacity Benefit And Employment And Support Allowance
-
 {% include interests/incapacity-benefit-and-employment-and-support-allowance.md %}
 
 ### Who is interested in Incapacity Benefit And Employment And Support Allowance?

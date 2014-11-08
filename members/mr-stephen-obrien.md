@@ -9,8 +9,6 @@ title: "Mr Stephen O'Brien"
 
 ---
 
-## Mr Stephen O'Brien
-
 **Mr Stephen O'Brien** is an MP in the **Conservative** party.
 
 {% include members/mr-stephen-obrien.md %}

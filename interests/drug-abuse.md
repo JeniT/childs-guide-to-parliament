@@ -9,8 +9,6 @@ title: "Drug Abuse"
 
 ---
 
-## Drug Abuse
-
 {% include interests/drug-abuse.md %}
 
 ### Who is interested in Drug Abuse?

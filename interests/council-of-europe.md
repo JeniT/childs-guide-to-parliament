@@ -9,8 +9,6 @@ title: "Council Of Europe"
 
 ---
 
-## Council Of Europe
-
 {% include interests/council-of-europe.md %}
 
 ### Who is interested in Council Of Europe?

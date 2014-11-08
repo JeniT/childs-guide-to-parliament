@@ -9,8 +9,6 @@ title: "Yasmin Qureshi"
 
 ---
 
-## Yasmin Qureshi
-
 **Yasmin Qureshi** is an MP in the **Labour** party.
 
 {% include members/yasmin-qureshi.md %}

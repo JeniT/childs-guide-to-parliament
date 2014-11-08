@@ -9,8 +9,6 @@ title: "Mr Stephen Hepburn"
 
 ---
 
-## Mr Stephen Hepburn
-
 **Mr Stephen Hepburn** is an MP in the **Labour** party.
 
 {% include members/mr-stephen-hepburn.md %}

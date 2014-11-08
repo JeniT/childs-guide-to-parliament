@@ -9,8 +9,6 @@ title: "Trade Policy"
 
 ---
 
-## Trade Policy
-
 {% include interests/trade-policy.md %}
 
 ### Who is interested in Trade Policy?

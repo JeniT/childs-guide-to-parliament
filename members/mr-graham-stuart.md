@@ -9,8 +9,6 @@ title: "Mr Graham Stuart"
 
 ---
 
-## Mr Graham Stuart
-
 **Mr Graham Stuart** is an MP in the **Conservative** party.
 
 {% include members/mr-graham-stuart.md %}

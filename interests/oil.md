@@ -9,8 +9,6 @@ title: "Oil"
 
 ---
 
-## Oil
-
 {% include interests/oil.md %}
 
 ### Who is interested in Oil?

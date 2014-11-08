@@ -9,8 +9,6 @@ title: "Regeneration Of Seaside Towns"
 
 ---
 
-## Regeneration Of Seaside Towns
-
 {% include interests/regeneration-of-seaside-towns.md %}
 
 ### Who is interested in Regeneration Of Seaside Towns?

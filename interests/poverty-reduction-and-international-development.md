@@ -9,8 +9,6 @@ title: "Poverty Reduction And International Development"
 
 ---
 
-## Poverty Reduction And International Development
-
 {% include interests/poverty-reduction-and-international-development.md %}
 
 ### Who is interested in Poverty Reduction And International Development?

@@ -9,8 +9,6 @@ title: "James Wharton"
 
 ---
 
-## James Wharton
-
 **James Wharton** is an MP in the **Conservative** party.
 
 {% include members/james-wharton.md %}

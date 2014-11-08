@@ -9,8 +9,6 @@ title: "Legal Services"
 
 ---
 
-## Legal Services
-
 {% include interests/legal-services.md %}
 
 ### Who is interested in Legal Services?

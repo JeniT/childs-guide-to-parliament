@@ -9,8 +9,6 @@ title: "Business Competitiveness"
 
 ---
 
-## Business Competitiveness
-
 {% include interests/business-competitiveness.md %}
 
 ### Who is interested in Business Competitiveness?

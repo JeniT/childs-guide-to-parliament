@@ -9,8 +9,6 @@ title: "Women'S Role In Public Life"
 
 ---
 
-## Women'S Role In Public Life
-
 {% include interests/womens-role-in-public-life.md %}
 
 ### Who is interested in Women'S Role In Public Life?

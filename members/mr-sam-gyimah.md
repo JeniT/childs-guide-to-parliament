@@ -9,8 +9,6 @@ title: "Mr Sam Gyimah"
 
 ---
 
-## Mr Sam Gyimah
-
 **Mr Sam Gyimah** is an MP in the **Conservative** party.
 
 {% include members/mr-sam-gyimah.md %}

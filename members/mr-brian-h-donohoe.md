@@ -9,8 +9,6 @@ title: "Mr Brian H. Donohoe"
 
 ---
 
-## Mr Brian H. Donohoe
-
 **Mr Brian H. Donohoe** is an MP in the **Labour** party.
 
 {% include members/mr-brian-h-donohoe.md %}

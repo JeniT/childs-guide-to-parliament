@@ -9,8 +9,6 @@ title: "Aerospace"
 
 ---
 
-## Aerospace
-
 {% include interests/aerospace.md %}
 
 ### Who is interested in Aerospace?

@@ -9,8 +9,6 @@ title: "Alan Johnson"
 
 ---
 
-## Alan Johnson
-
 **Alan Johnson** is an MP in the **Labour** party.
 
 {% include members/alan-johnson.md %}

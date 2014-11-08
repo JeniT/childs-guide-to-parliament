@@ -9,8 +9,6 @@ title: "Housing And Women’S Issues"
 
 ---
 
-## Housing And Women’S Issues
-
 {% include interests/housing-and-womens-issues.md %}
 
 ### Who is interested in Housing And Women’S Issues?

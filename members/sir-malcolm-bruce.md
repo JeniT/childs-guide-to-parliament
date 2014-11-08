@@ -9,8 +9,6 @@ title: "Sir Malcolm Bruce"
 
 ---
 
-## Sir Malcolm Bruce
-
 **Sir Malcolm Bruce** is an MP in the **Liberal Democrat** party.
 
 {% include members/sir-malcolm-bruce.md %}

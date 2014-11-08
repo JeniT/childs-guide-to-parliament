@@ -9,8 +9,6 @@ title: "Community Safety"
 
 ---
 
-## Community Safety
-
 {% include interests/community-safety.md %}
 
 ### Who is interested in Community Safety?

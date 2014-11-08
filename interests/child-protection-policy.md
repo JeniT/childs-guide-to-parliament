@@ -9,8 +9,6 @@ title: "Child Protection Policy"
 
 ---
 
-## Child Protection Policy
-
 {% include interests/child-protection-policy.md %}
 
 ### Who is interested in Child Protection Policy?

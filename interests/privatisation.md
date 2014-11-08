@@ -9,8 +9,6 @@ title: "Privatisation"
 
 ---
 
-## Privatisation
-
 {% include interests/privatisation.md %}
 
 ### Who is interested in Privatisation?

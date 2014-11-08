@@ -9,8 +9,6 @@ title: "Mr Mark Francois"
 
 ---
 
-## Mr Mark Francois
-
 **Mr Mark Francois** is an MP in the **Conservative** party.
 
 {% include members/mr-mark-francois.md %}

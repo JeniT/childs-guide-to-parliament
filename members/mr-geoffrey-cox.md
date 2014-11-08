@@ -9,8 +9,6 @@ title: "Mr Geoffrey Cox"
 
 ---
 
-## Mr Geoffrey Cox
-
 **Mr Geoffrey Cox** is an MP in the **Conservative** party.
 
 {% include members/mr-geoffrey-cox.md %}

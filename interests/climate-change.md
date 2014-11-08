@@ -9,8 +9,6 @@ title: "Climate Change"
 
 ---
 
-## Climate Change
-
 {% include interests/climate-change.md %}
 
 ### Who is interested in Climate Change?

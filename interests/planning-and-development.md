@@ -9,8 +9,6 @@ title: "Planning And Development"
 
 ---
 
-## Planning And Development
-
 {% include interests/planning-and-development.md %}
 
 ### Who is interested in Planning And Development?

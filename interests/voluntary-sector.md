@@ -9,8 +9,6 @@ title: "Voluntary Sector"
 
 ---
 
-## Voluntary Sector
-
 {% include interests/voluntary-sector.md %}
 
 ### Who is interested in Voluntary Sector?

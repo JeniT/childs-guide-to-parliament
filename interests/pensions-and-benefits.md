@@ -9,8 +9,6 @@ title: "Pensions And Benefits"
 
 ---
 
-## Pensions And Benefits
-
 {% include interests/pensions-and-benefits.md %}
 
 ### Who is interested in Pensions And Benefits?

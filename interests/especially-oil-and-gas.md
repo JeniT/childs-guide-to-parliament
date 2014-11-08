@@ -9,8 +9,6 @@ title: "(Especially Oil And Gas"
 
 ---
 
-## (Especially Oil And Gas
-
 {% include interests/especially-oil-and-gas.md %}
 
 ### Who is interested in (Especially Oil And Gas?

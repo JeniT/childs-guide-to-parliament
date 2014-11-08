@@ -9,8 +9,6 @@ title: "Mr Laurence Robertson"
 
 ---
 
-## Mr Laurence Robertson
-
 **Mr Laurence Robertson** is an MP in the **Conservative** party.
 
 {% include members/mr-laurence-robertson.md %}

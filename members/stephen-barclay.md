@@ -9,8 +9,6 @@ title: "Stephen Barclay"
 
 ---
 
-## Stephen Barclay
-
 **Stephen Barclay** is an MP in the **Conservative** party.
 
 {% include members/stephen-barclay.md %}

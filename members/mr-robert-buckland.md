@@ -9,8 +9,6 @@ title: "Mr Robert Buckland"
 
 ---
 
-## Mr Robert Buckland
-
 **Mr Robert Buckland** is an MP in the **Conservative** party.
 
 {% include members/mr-robert-buckland.md %}

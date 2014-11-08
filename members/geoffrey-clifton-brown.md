@@ -9,8 +9,6 @@ title: "Geoffrey Clifton-Brown"
 
 ---
 
-## Geoffrey Clifton-Brown
-
 **Geoffrey Clifton-Brown** is an MP in the **Conservative** party.
 
 {% include members/geoffrey-clifton-brown.md %}

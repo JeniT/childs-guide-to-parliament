@@ -9,8 +9,6 @@ title: "Jason McCartney"
 
 ---
 
-## Jason McCartney
-
 **Jason McCartney** is an MP in the **Conservative** party.
 
 {% include members/jason-mccartney.md %}

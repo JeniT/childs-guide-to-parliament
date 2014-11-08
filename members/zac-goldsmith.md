@@ -9,8 +9,6 @@ title: "Zac Goldsmith"
 
 ---
 
-## Zac Goldsmith
-
 **Zac Goldsmith** is an MP in the **Conservative** party.
 
 {% include members/zac-goldsmith.md %}

@@ -9,8 +9,6 @@ title: "Royal Navy"
 
 ---
 
-## Royal Navy
-
 {% include interests/royal-navy.md %}
 
 ### Who is interested in Royal Navy?

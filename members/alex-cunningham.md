@@ -9,8 +9,6 @@ title: "Alex Cunningham"
 
 ---
 
-## Alex Cunningham
-
 **Alex Cunningham** is an MP in the **Labour** party.
 
 {% include members/alex-cunningham.md %}

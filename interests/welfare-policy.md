@@ -9,8 +9,6 @@ title: "Welfare Policy"
 
 ---
 
-## Welfare Policy
-
 {% include interests/welfare-policy.md %}
 
 ### Who is interested in Welfare Policy?

@@ -9,8 +9,6 @@ title: "Media"
 
 ---
 
-## Media
-
 {% include interests/media.md %}
 
 ### Who is interested in Media?

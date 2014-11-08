@@ -9,8 +9,6 @@ title: "Internationalism"
 
 ---
 
-## Internationalism
-
 {% include interests/internationalism.md %}
 
 ### Who is interested in Internationalism?

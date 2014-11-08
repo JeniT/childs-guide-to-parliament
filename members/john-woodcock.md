@@ -9,8 +9,6 @@ title: "John Woodcock"
 
 ---
 
-## John Woodcock
-
 **John Woodcock** is an MP in the **Labour (Co-op)** party.
 
 {% include members/john-woodcock.md %}

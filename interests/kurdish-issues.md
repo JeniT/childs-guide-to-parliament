@@ -9,8 +9,6 @@ title: "Kurdish Issues"
 
 ---
 
-## Kurdish Issues
-
 {% include interests/kurdish-issues.md %}
 
 ### Who is interested in Kurdish Issues?

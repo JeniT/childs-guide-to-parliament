@@ -9,8 +9,6 @@ title: "Legal And Constitutional Issues"
 
 ---
 
-## Legal And Constitutional Issues
-
 {% include interests/legal-and-constitutional-issues.md %}
 
 ### Who is interested in Legal And Constitutional Issues?

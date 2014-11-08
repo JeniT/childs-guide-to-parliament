@@ -9,8 +9,6 @@ title: "Eu Enlargement"
 
 ---
 
-## Eu Enlargement
-
 {% include interests/eu-enlargement.md %}
 
 ### Who is interested in Eu Enlargement?

@@ -9,8 +9,6 @@ title: "Rebecca Harris"
 
 ---
 
-## Rebecca Harris
-
 **Rebecca Harris** is an MP in the **Conservative** party.
 
 {% include members/rebecca-harris.md %}

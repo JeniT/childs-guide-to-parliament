@@ -9,8 +9,6 @@ title: "Pro-Life Issues"
 
 ---
 
-## Pro-Life Issues
-
 {% include interests/pro-life-issues.md %}
 
 ### Who is interested in Pro-Life Issues?

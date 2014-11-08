@@ -9,8 +9,6 @@ title: "Caroline Dinenage"
 
 ---
 
-## Caroline Dinenage
-
 **Caroline Dinenage** is an MP in the **Conservative** party.
 
 {% include members/caroline-dinenage.md %}

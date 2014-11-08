@@ -9,8 +9,6 @@ title: "Pharmacy"
 
 ---
 
-## Pharmacy
-
 {% include interests/pharmacy.md %}
 
 ### Who is interested in Pharmacy?

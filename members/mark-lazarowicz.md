@@ -9,8 +9,6 @@ title: "Mark Lazarowicz"
 
 ---
 
-## Mark Lazarowicz
-
 **Mark Lazarowicz** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mark-lazarowicz.md %}

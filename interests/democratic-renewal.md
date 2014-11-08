@@ -9,8 +9,6 @@ title: "Democratic Renewal"
 
 ---
 
-## Democratic Renewal
-
 {% include interests/democratic-renewal.md %}
 
 ### Who is interested in Democratic Renewal?

@@ -9,8 +9,6 @@ title: "Veterans Affairs"
 
 ---
 
-## Veterans Affairs
-
 {% include interests/veterans-affairs.md %}
 
 ### Who is interested in Veterans Affairs?

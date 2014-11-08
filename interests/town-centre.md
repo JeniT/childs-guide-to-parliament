@@ -9,8 +9,6 @@ title: "Town Centre"
 
 ---
 
-## Town Centre
-
 {% include interests/town-centre.md %}
 
 ### Who is interested in Town Centre?

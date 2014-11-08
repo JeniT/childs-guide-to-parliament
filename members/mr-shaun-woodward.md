@@ -9,8 +9,6 @@ title: "Mr Shaun Woodward"
 
 ---
 
-## Mr Shaun Woodward
-
 **Mr Shaun Woodward** is an MP in the **Labour** party.
 
 {% include members/mr-shaun-woodward.md %}

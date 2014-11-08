@@ -9,8 +9,6 @@ title: "Jane Ellison"
 
 ---
 
-## Jane Ellison
-
 **Jane Ellison** is an MP in the **Conservative** party.
 
 {% include members/jane-ellison.md %}

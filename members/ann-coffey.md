@@ -9,8 +9,6 @@ title: "Ann Coffey"
 
 ---
 
-## Ann Coffey
-
 **Ann Coffey** is an MP in the **Labour** party.
 
 {% include members/ann-coffey.md %}

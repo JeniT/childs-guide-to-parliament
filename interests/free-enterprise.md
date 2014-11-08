@@ -9,8 +9,6 @@ title: "Free Enterprise"
 
 ---
 
-## Free Enterprise
-
 {% include interests/free-enterprise.md %}
 
 ### Who is interested in Free Enterprise?

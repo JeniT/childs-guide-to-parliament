@@ -9,8 +9,6 @@ title: "Mr Edward Davey"
 
 ---
 
-## Mr Edward Davey
-
 **Mr Edward Davey** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-edward-davey.md %}

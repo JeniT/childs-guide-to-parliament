@@ -9,8 +9,6 @@ title: "Damian Hinds"
 
 ---
 
-## Damian Hinds
-
 **Damian Hinds** is an MP in the **Conservative** party.
 
 {% include members/damian-hinds.md %}

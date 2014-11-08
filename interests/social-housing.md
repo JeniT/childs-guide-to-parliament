@@ -9,8 +9,6 @@ title: "Social Housing"
 
 ---
 
-## Social Housing
-
 {% include interests/social-housing.md %}
 
 ### Who is interested in Social Housing?

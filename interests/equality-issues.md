@@ -9,8 +9,6 @@ title: "Equality Issues"
 
 ---
 
-## Equality Issues
-
 {% include interests/equality-issues.md %}
 
 ### Who is interested in Equality Issues?

@@ -9,8 +9,6 @@ title: "Community Hospitals"
 
 ---
 
-## Community Hospitals
-
 {% include interests/community-hospitals.md %}
 
 ### Who is interested in Community Hospitals?

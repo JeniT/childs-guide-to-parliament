@@ -9,8 +9,6 @@ title: "Mr Hugo Swire"
 
 ---
 
-## Mr Hugo Swire
-
 **Mr Hugo Swire** is an MP in the **Conservative** party.
 
 {% include members/mr-hugo-swire.md %}

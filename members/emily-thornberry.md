@@ -9,8 +9,6 @@ title: "Emily Thornberry"
 
 ---
 
-## Emily Thornberry
-
 **Emily Thornberry** is an MP in the **Labour** party.
 
 {% include members/emily-thornberry.md %}

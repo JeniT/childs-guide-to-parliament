@@ -9,8 +9,6 @@ title: "John Pugh"
 
 ---
 
-## John Pugh
-
 **John Pugh** is an MP in the **Liberal Democrat** party.
 
 {% include members/john-pugh.md %}

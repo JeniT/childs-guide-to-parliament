@@ -9,8 +9,6 @@ title: "Mel Stride"
 
 ---
 
-## Mel Stride
-
 **Mel Stride** is an MP in the **Conservative** party.
 
 {% include members/mel-stride.md %}

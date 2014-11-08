@@ -9,8 +9,6 @@ title: "Mr Dave Watts"
 
 ---
 
-## Mr Dave Watts
-
 **Mr Dave Watts** is an MP in the **Labour** party.
 
 {% include members/mr-dave-watts.md %}

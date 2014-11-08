@@ -9,8 +9,6 @@ title: "Local Government"
 
 ---
 
-## Local Government
-
 {% include interests/local-government.md %}
 
 ### Who is interested in Local Government?

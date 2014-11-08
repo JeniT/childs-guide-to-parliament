@@ -9,8 +9,6 @@ title: "Architectural And Artistic Heritage"
 
 ---
 
-## Architectural And Artistic Heritage
-
 {% include interests/architectural-and-artistic-heritage.md %}
 
 ### Who is interested in Architectural And Artistic Heritage?

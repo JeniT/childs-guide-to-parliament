@@ -9,8 +9,6 @@ title: "Lorraine Fullbrook"
 
 ---
 
-## Lorraine Fullbrook
-
 **Lorraine Fullbrook** is an MP in the **Conservative** party.
 
 {% include members/lorraine-fullbrook.md %}

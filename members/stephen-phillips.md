@@ -9,8 +9,6 @@ title: "Stephen Phillips"
 
 ---
 
-## Stephen Phillips
-
 **Stephen Phillips** is an MP in the **Conservative** party.
 
 {% include members/stephen-phillips.md %}

@@ -9,8 +9,6 @@ title: "Church Affairs"
 
 ---
 
-## Church Affairs
-
 {% include interests/church-affairs.md %}
 
 ### Who is interested in Church Affairs?

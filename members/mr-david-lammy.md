@@ -9,8 +9,6 @@ title: "Mr David Lammy"
 
 ---
 
-## Mr David Lammy
-
 **Mr David Lammy** is an MP in the **Labour** party.
 
 {% include members/mr-david-lammy.md %}

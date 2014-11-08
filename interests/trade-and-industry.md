@@ -9,8 +9,6 @@ title: "Trade And Industry"
 
 ---
 
-## Trade And Industry
-
 {% include interests/trade-and-industry.md %}
 
 ### Who is interested in Trade And Industry?

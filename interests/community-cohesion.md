@@ -9,8 +9,6 @@ title: "Community Cohesion"
 
 ---
 
-## Community Cohesion
-
 {% include interests/community-cohesion.md %}
 
 ### Who is interested in Community Cohesion?

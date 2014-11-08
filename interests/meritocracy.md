@@ -9,8 +9,6 @@ title: "Meritocracy"
 
 ---
 
-## Meritocracy
-
 {% include interests/meritocracy.md %}
 
 ### Who is interested in Meritocracy?

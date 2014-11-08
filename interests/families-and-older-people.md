@@ -9,8 +9,6 @@ title: "Families And Older People"
 
 ---
 
-## Families And Older People
-
 {% include interests/families-and-older-people.md %}
 
 ### Who is interested in Families And Older People?

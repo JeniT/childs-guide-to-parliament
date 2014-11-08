@@ -9,8 +9,6 @@ title: "Heidi Alexander"
 
 ---
 
-## Heidi Alexander
-
 **Heidi Alexander** is an MP in the **Labour** party.
 
 {% include members/heidi-alexander.md %}

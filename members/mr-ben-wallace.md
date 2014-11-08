@@ -9,8 +9,6 @@ title: "Mr Ben Wallace"
 
 ---
 
-## Mr Ben Wallace
-
 **Mr Ben Wallace** is an MP in the **Conservative** party.
 
 {% include members/mr-ben-wallace.md %}

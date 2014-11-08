@@ -9,8 +9,6 @@ title: "Ian Lucas"
 
 ---
 
-## Ian Lucas
-
 **Ian Lucas** is an MP in the **Labour** party.
 
 {% include members/ian-lucas.md %}

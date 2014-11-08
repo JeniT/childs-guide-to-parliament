@@ -9,8 +9,6 @@ title: "Health Inequalities"
 
 ---
 
-## Health Inequalities
-
 {% include interests/health-inequalities.md %}
 
 ### Who is interested in Health Inequalities?

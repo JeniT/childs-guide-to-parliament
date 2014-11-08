@@ -9,8 +9,6 @@ title: "Hospices And Palliative Care"
 
 ---
 
-## Hospices And Palliative Care
-
 {% include interests/hospices-and-palliative-care.md %}
 
 ### Who is interested in Hospices And Palliative Care?

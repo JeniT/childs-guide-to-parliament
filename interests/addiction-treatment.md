@@ -9,8 +9,6 @@ title: "Addiction Treatment"
 
 ---
 
-## Addiction Treatment
-
 {% include interests/addiction-treatment.md %}
 
 ### Who is interested in Addiction Treatment?

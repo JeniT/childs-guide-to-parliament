@@ -9,8 +9,6 @@ title: "Economic And Social Justice"
 
 ---
 
-## Economic And Social Justice
-
 {% include interests/economic-and-social-justice.md %}
 
 ### Who is interested in Economic And Social Justice?

@@ -9,8 +9,6 @@ title: "Education And Special Educational Needs"
 
 ---
 
-## Education And Special Educational Needs
-
 {% include interests/education-and-special-educational-needs.md %}
 
 ### Who is interested in Education And Special Educational Needs?

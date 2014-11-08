@@ -9,8 +9,6 @@ title: "Regional Government"
 
 ---
 
-## Regional Government
-
 {% include interests/regional-government.md %}
 
 ### Who is interested in Regional Government?

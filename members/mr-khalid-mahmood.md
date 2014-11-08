@@ -9,8 +9,6 @@ title: "Mr Khalid Mahmood"
 
 ---
 
-## Mr Khalid Mahmood
-
 **Mr Khalid Mahmood** is an MP in the **Labour** party.
 
 {% include members/mr-khalid-mahmood.md %}

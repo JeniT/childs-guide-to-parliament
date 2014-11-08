@@ -9,8 +9,6 @@ title: "Mr Adrian Sanders"
 
 ---
 
-## Mr Adrian Sanders
-
 **Mr Adrian Sanders** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-adrian-sanders.md %}

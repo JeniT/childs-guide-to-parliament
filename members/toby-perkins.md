@@ -9,8 +9,6 @@ title: "Toby Perkins"
 
 ---
 
-## Toby Perkins
-
 **Toby Perkins** is an MP in the **Labour** party.
 
 {% include members/toby-perkins.md %}

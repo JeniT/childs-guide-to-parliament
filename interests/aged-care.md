@@ -9,8 +9,6 @@ title: "Aged Care"
 
 ---
 
-## Aged Care
-
 {% include interests/aged-care.md %}
 
 ### Who is interested in Aged Care?

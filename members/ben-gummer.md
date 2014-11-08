@@ -9,8 +9,6 @@ title: "Ben Gummer"
 
 ---
 
-## Ben Gummer
-
 **Ben Gummer** is an MP in the **Conservative** party.
 
 {% include members/ben-gummer.md %}

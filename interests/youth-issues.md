@@ -9,8 +9,6 @@ title: "Youth Issues"
 
 ---
 
-## Youth Issues
-
 {% include interests/youth-issues.md %}
 
 ### Who is interested in Youth Issues?

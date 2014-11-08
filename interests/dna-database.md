@@ -9,8 +9,6 @@ title: "Dna Database"
 
 ---
 
-## Dna Database
-
 {% include interests/dna-database.md %}
 
 ### Who is interested in Dna Database?

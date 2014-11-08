@@ -9,8 +9,6 @@ title: "Paul Murphy"
 
 ---
 
-## Paul Murphy
-
 **Paul Murphy** is an MP in the **Labour** party.
 
 {% include members/paul-murphy.md %}

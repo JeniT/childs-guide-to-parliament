@@ -9,8 +9,6 @@ title: "Overseas Development"
 
 ---
 
-## Overseas Development
-
 {% include interests/overseas-development.md %}
 
 ### Who is interested in Overseas Development?

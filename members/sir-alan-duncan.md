@@ -9,8 +9,6 @@ title: "Sir Alan Duncan"
 
 ---
 
-## Sir Alan Duncan
-
 **Sir Alan Duncan** is an MP in the **Conservative** party.
 
 {% include members/sir-alan-duncan.md %}

@@ -9,8 +9,6 @@ title: "Social Mobility"
 
 ---
 
-## Social Mobility
-
 {% include interests/social-mobility.md %}
 
 ### Who is interested in Social Mobility?

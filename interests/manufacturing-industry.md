@@ -9,8 +9,6 @@ title: "Manufacturing Industry"
 
 ---
 
-## Manufacturing Industry
-
 {% include interests/manufacturing-industry.md %}
 
 ### Who is interested in Manufacturing Industry?

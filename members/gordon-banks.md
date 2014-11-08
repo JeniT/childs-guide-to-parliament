@@ -9,8 +9,6 @@ title: "Gordon Banks"
 
 ---
 
-## Gordon Banks
-
 **Gordon Banks** is an MP in the **Labour** party.
 
 {% include members/gordon-banks.md %}

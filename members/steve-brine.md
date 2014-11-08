@@ -9,8 +9,6 @@ title: "Steve Brine"
 
 ---
 
-## Steve Brine
-
 **Steve Brine** is an MP in the **Conservative** party.
 
 {% include members/steve-brine.md %}

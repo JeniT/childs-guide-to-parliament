@@ -9,8 +9,6 @@ title: "Political Ideas And Philosophy"
 
 ---
 
-## Political Ideas And Philosophy
-
 {% include interests/political-ideas-and-philosophy.md %}
 
 ### Who is interested in Political Ideas And Philosophy?

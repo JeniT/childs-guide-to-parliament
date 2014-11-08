@@ -9,8 +9,6 @@ title: "European Reform"
 
 ---
 
-## European Reform
-
 {% include interests/european-reform.md %}
 
 ### Who is interested in European Reform?

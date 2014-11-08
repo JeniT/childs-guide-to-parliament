@@ -9,8 +9,6 @@ title: "International Trade"
 
 ---
 
-## International Trade
-
 {% include interests/international-trade.md %}
 
 ### Who is interested in International Trade?

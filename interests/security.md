@@ -9,8 +9,6 @@ title: "Security"
 
 ---
 
-## Security
-
 {% include interests/security.md %}
 
 ### Who is interested in Security?

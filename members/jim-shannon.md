@@ -9,8 +9,6 @@ title: "Jim Shannon"
 
 ---
 
-## Jim Shannon
-
 **Jim Shannon** is an MP in the **Democratic Unionist** party.
 
 {% include members/jim-shannon.md %}

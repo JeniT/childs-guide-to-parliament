@@ -9,8 +9,6 @@ title: "Crispin Blunt"
 
 ---
 
-## Crispin Blunt
-
 **Crispin Blunt** is an MP in the **Conservative** party.
 
 {% include members/crispin-blunt.md %}

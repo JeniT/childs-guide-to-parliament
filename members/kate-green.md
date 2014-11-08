@@ -9,8 +9,6 @@ title: "Kate Green"
 
 ---
 
-## Kate Green
-
 **Kate Green** is an MP in the **Labour** party.
 
 {% include members/kate-green.md %}

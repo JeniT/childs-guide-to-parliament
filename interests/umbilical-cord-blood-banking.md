@@ -9,8 +9,6 @@ title: "Umbilical Cord Blood Banking"
 
 ---
 
-## Umbilical Cord Blood Banking
-
 {% include interests/umbilical-cord-blood-banking.md %}
 
 ### Who is interested in Umbilical Cord Blood Banking?

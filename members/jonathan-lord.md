@@ -9,8 +9,6 @@ title: "Jonathan Lord"
 
 ---
 
-## Jonathan Lord
-
 **Jonathan Lord** is an MP in the **Conservative** party.
 
 {% include members/jonathan-lord.md %}

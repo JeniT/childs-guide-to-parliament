@@ -9,8 +9,6 @@ title: "Crime And Policing"
 
 ---
 
-## Crime And Policing
-
 {% include interests/crime-and-policing.md %}
 
 ### Who is interested in Crime And Policing?

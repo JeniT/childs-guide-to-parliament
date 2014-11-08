@@ -9,8 +9,6 @@ title: "Priti Patel"
 
 ---
 
-## Priti Patel
-
 **Priti Patel** is an MP in the **Conservative** party.
 
 {% include members/priti-patel.md %}

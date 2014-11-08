@@ -9,8 +9,6 @@ title: "Anti-Poverty"
 
 ---
 
-## Anti-Poverty
-
 {% include interests/anti-poverty.md %}
 
 ### Who is interested in Anti-Poverty?

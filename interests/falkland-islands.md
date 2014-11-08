@@ -9,8 +9,6 @@ title: "Falkland Islands"
 
 ---
 
-## Falkland Islands
-
 {% include interests/falkland-islands.md %}
 
 ### Who is interested in Falkland Islands?

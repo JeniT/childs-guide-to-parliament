@@ -9,8 +9,6 @@ title: "George Hollingbery"
 
 ---
 
-## George Hollingbery
-
 **George Hollingbery** is an MP in the **Conservative** party.
 
 {% include members/george-hollingbery.md %}

@@ -9,8 +9,6 @@ title: "Justice"
 
 ---
 
-## Justice
-
 {% include interests/justice.md %}
 
 ### Who is interested in Justice?

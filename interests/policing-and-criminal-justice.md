@@ -9,8 +9,6 @@ title: "Policing And Criminal Justice"
 
 ---
 
-## Policing And Criminal Justice
-
 {% include interests/policing-and-criminal-justice.md %}
 
 ### Who is interested in Policing And Criminal Justice?

@@ -9,8 +9,6 @@ title: "Rachel Reeves"
 
 ---
 
-## Rachel Reeves
-
 **Rachel Reeves** is an MP in the **Labour** party.
 
 {% include members/rachel-reeves.md %}

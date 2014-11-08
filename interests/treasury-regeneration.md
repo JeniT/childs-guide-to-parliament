@@ -9,8 +9,6 @@ title: "Treasury (Regeneration)"
 
 ---
 
-## Treasury (Regeneration)
-
 {% include interests/treasury-regeneration.md %}
 
 ### Who is interested in Treasury (Regeneration)?

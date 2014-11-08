@@ -9,8 +9,6 @@ title: "Miss Anne McIntosh"
 
 ---
 
-## Miss Anne McIntosh
-
 **Miss Anne McIntosh** is an MP in the **Conservative** party.
 
 {% include members/miss-anne-mcintosh.md %}

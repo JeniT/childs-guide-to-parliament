@@ -9,8 +9,6 @@ title: "Keith Vaz"
 
 ---
 
-## Keith Vaz
-
 **Keith Vaz** is an MP in the **Labour** party.
 
 {% include members/keith-vaz.md %}

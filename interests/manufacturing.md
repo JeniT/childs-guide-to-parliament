@@ -9,8 +9,6 @@ title: "Manufacturing"
 
 ---
 
-## Manufacturing
-
 {% include interests/manufacturing.md %}
 
 ### Who is interested in Manufacturing?

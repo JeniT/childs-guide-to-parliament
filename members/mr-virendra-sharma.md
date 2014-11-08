@@ -9,8 +9,6 @@ title: "Mr Virendra Sharma"
 
 ---
 
-## Mr Virendra Sharma
-
 **Mr Virendra Sharma** is an MP in the **Labour** party.
 
 {% include members/mr-virendra-sharma.md %}

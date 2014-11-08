@@ -9,8 +9,6 @@ title: "Henry Smith"
 
 ---
 
-## Henry Smith
-
 **Henry Smith** is an MP in the **Conservative** party.
 
 {% include members/henry-smith.md %}

@@ -9,8 +9,6 @@ title: "Sir Roger Gale"
 
 ---
 
-## Sir Roger Gale
-
 **Sir Roger Gale** is an MP in the **Conservative** party.
 
 {% include members/sir-roger-gale.md %}

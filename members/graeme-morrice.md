@@ -9,8 +9,6 @@ title: "Graeme Morrice"
 
 ---
 
-## Graeme Morrice
-
 **Graeme Morrice** is an MP in the **Labour** party.
 
 {% include members/graeme-morrice.md %}

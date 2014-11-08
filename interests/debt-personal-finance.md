@@ -9,8 +9,6 @@ title: "Debt & Personal Finance"
 
 ---
 
-## Debt & Personal Finance
-
 {% include interests/debt-personal-finance.md %}
 
 ### Who is interested in Debt & Personal Finance?

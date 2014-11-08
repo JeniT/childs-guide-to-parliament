@@ -9,8 +9,6 @@ title: "Eric Ollerenshaw"
 
 ---
 
-## Eric Ollerenshaw
-
 **Eric Ollerenshaw** is an MP in the **Conservative** party.
 
 {% include members/eric-ollerenshaw.md %}

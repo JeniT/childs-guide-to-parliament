@@ -9,8 +9,6 @@ title: "Richard Drax"
 
 ---
 
-## Richard Drax
-
 **Richard Drax** is an MP in the **Conservative** party.
 
 {% include members/richard-drax.md %}

@@ -9,8 +9,6 @@ title: "Welfare To Work"
 
 ---
 
-## Welfare To Work
-
 {% include interests/welfare-to-work.md %}
 
 ### Who is interested in Welfare To Work?

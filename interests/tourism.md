@@ -9,8 +9,6 @@ title: "Tourism"
 
 ---
 
-## Tourism
-
 {% include interests/tourism.md %}
 
 ### Who is interested in Tourism?

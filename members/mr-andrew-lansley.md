@@ -9,8 +9,6 @@ title: "Mr Andrew Lansley"
 
 ---
 
-## Mr Andrew Lansley
-
 **Mr Andrew Lansley** is an MP in the **Conservative** party.
 
 {% include members/mr-andrew-lansley.md %}

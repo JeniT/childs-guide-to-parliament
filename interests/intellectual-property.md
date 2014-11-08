@@ -9,8 +9,6 @@ title: "Intellectual Property"
 
 ---
 
-## Intellectual Property
-
 {% include interests/intellectual-property.md %}
 
 ### Who is interested in Intellectual Property?

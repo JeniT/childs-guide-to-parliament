@@ -9,8 +9,6 @@ title: "Debt Relief"
 
 ---
 
-## Debt Relief
-
 {% include interests/debt-relief.md %}
 
 ### Who is interested in Debt Relief?

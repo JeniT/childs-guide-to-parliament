@@ -9,8 +9,6 @@ title: "Mr Dai Havard"
 
 ---
 
-## Mr Dai Havard
-
 **Mr Dai Havard** is an MP in the **Labour** party.
 
 {% include members/mr-dai-havard.md %}

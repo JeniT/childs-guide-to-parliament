@@ -9,8 +9,6 @@ title: "Social And International Affairs"
 
 ---
 
-## Social And International Affairs
-
 {% include interests/social-and-international-affairs.md %}
 
 ### Who is interested in Social And International Affairs?

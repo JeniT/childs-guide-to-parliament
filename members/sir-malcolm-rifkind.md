@@ -9,8 +9,6 @@ title: "Sir Malcolm Rifkind"
 
 ---
 
-## Sir Malcolm Rifkind
-
 **Sir Malcolm Rifkind** is an MP in the **Conservative** party.
 
 {% include members/sir-malcolm-rifkind.md %}

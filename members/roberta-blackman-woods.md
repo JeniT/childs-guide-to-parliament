@@ -9,8 +9,6 @@ title: "Roberta Blackman-Woods"
 
 ---
 
-## Roberta Blackman-Woods
-
 **Roberta Blackman-Woods** is an MP in the **Labour** party.
 
 {% include members/roberta-blackman-woods.md %}

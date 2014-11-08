@@ -9,8 +9,6 @@ title: "Economy And Enterprise"
 
 ---
 
-## Economy And Enterprise
-
 {% include interests/economy-and-enterprise.md %}
 
 ### Who is interested in Economy And Enterprise?

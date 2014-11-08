@@ -9,8 +9,6 @@ title: "Danny Alexander"
 
 ---
 
-## Danny Alexander
-
 **Danny Alexander** is an MP in the **Liberal Democrat** party.
 
 {% include members/danny-alexander.md %}

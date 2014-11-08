@@ -9,8 +9,6 @@ title: "Communications"
 
 ---
 
-## Communications
-
 {% include interests/communications.md %}
 
 ### Who is interested in Communications?

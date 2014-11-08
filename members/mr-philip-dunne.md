@@ -9,8 +9,6 @@ title: "Mr Philip Dunne"
 
 ---
 
-## Mr Philip Dunne
-
 **Mr Philip Dunne** is an MP in the **Conservative** party.
 
 {% include members/mr-philip-dunne.md %}

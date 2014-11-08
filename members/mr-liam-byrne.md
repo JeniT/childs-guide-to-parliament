@@ -9,8 +9,6 @@ title: "Mr Liam Byrne"
 
 ---
 
-## Mr Liam Byrne
-
 **Mr Liam Byrne** is an MP in the **Labour** party.
 
 {% include members/mr-liam-byrne.md %}

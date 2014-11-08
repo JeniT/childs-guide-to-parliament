@@ -9,8 +9,6 @@ title: "Peace And Security"
 
 ---
 
-## Peace And Security
-
 {% include interests/peace-and-security.md %}
 
 ### Who is interested in Peace And Security?

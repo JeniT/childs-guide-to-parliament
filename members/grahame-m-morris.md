@@ -9,8 +9,6 @@ title: "Grahame M. Morris"
 
 ---
 
-## Grahame M. Morris
-
 **Grahame M. Morris** is an MP in the **Labour** party.
 
 {% include members/grahame-m-morris.md %}

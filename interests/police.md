@@ -9,8 +9,6 @@ title: "Police"
 
 ---
 
-## Police
-
 {% include interests/police.md %}
 
 ### Who is interested in Police?

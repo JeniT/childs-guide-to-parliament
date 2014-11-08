@@ -9,8 +9,6 @@ title: "Jim Fitzpatrick"
 
 ---
 
-## Jim Fitzpatrick
-
 **Jim Fitzpatrick** is an MP in the **Labour** party.
 
 {% include members/jim-fitzpatrick.md %}

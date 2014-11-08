@@ -9,8 +9,6 @@ title: "Welsh Language"
 
 ---
 
-## Welsh Language
-
 {% include interests/welsh-language.md %}
 
 ### Who is interested in Welsh Language?

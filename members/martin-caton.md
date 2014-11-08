@@ -9,8 +9,6 @@ title: "Martin Caton"
 
 ---
 
-## Martin Caton
-
 **Martin Caton** is an MP in the **Labour** party.
 
 {% include members/martin-caton.md %}

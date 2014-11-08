@@ -9,8 +9,6 @@ title: "Central London"
 
 ---
 
-## Central London
-
 {% include interests/central-london.md %}
 
 ### Who is interested in Central London?

@@ -9,8 +9,6 @@ title: "Mindfulness"
 
 ---
 
-## Mindfulness
-
 {% include interests/mindfulness.md %}
 
 ### Who is interested in Mindfulness?

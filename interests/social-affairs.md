@@ -9,8 +9,6 @@ title: "Social Affairs"
 
 ---
 
-## Social Affairs
-
 {% include interests/social-affairs.md %}
 
 ### Who is interested in Social Affairs?

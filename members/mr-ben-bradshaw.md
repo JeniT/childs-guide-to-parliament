@@ -9,8 +9,6 @@ title: "Mr Ben Bradshaw"
 
 ---
 
-## Mr Ben Bradshaw
-
 **Mr Ben Bradshaw** is an MP in the **Labour** party.
 
 {% include members/mr-ben-bradshaw.md %}

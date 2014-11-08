@@ -9,8 +9,6 @@ title: "Broadcasting And Media&#58; Film"
 
 ---
 
-## Broadcasting And Media&#58; Film
-
 {% include interests/broadcasting-and-media-film.md %}
 
 ### Who is interested in Broadcasting And Media&#58; Film?

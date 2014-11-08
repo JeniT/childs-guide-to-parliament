@@ -9,8 +9,6 @@ title: "Mike Weatherley"
 
 ---
 
-## Mike Weatherley
-
 **Mike Weatherley** is an MP in the **Conservative** party.
 
 {% include members/mike-weatherley.md %}

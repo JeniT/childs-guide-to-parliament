@@ -9,8 +9,6 @@ title: "Gas Industry"
 
 ---
 
-## Gas Industry
-
 {% include interests/gas-industry.md %}
 
 ### Who is interested in Gas Industry?

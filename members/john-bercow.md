@@ -9,8 +9,6 @@ title: "John Bercow"
 
 ---
 
-## John Bercow
-
 **John Bercow** is an MP in the **Speaker** party.
 
 {% include members/john-bercow.md %}

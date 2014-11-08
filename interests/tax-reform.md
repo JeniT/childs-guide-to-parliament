@@ -9,8 +9,6 @@ title: "Tax Reform"
 
 ---
 
-## Tax Reform
-
 {% include interests/tax-reform.md %}
 
 ### Who is interested in Tax Reform?

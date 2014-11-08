@@ -9,8 +9,6 @@ title: "Cancer And Blood"
 
 ---
 
-## Cancer And Blood
-
 {% include interests/cancer-and-blood.md %}
 
 ### Who is interested in Cancer And Blood?

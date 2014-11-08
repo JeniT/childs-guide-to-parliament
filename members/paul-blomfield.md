@@ -9,8 +9,6 @@ title: "Paul Blomfield"
 
 ---
 
-## Paul Blomfield
-
 **Paul Blomfield** is an MP in the **Labour** party.
 
 {% include members/paul-blomfield.md %}

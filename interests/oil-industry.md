@@ -9,8 +9,6 @@ title: "Oil Industry"
 
 ---
 
-## Oil Industry
-
 {% include interests/oil-industry.md %}
 
 ### Who is interested in Oil Industry?

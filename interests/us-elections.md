@@ -9,8 +9,6 @@ title: "Us Elections"
 
 ---
 
-## Us Elections
-
 {% include interests/us-elections.md %}
 
 ### Who is interested in Us Elections?

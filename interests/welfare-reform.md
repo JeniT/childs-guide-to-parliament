@@ -9,8 +9,6 @@ title: "Welfare Reform"
 
 ---
 
-## Welfare Reform
-
 {% include interests/welfare-reform.md %}
 
 ### Who is interested in Welfare Reform?

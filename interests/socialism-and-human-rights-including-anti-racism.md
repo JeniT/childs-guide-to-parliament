@@ -9,8 +9,6 @@ title: "Socialism And Human Rights Including Anti Racism"
 
 ---
 
-## Socialism And Human Rights Including Anti Racism
-
 {% include interests/socialism-and-human-rights-including-anti-racism.md %}
 
 ### Who is interested in Socialism And Human Rights Including Anti Racism?

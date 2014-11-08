@@ -9,8 +9,6 @@ title: "Unemployment"
 
 ---
 
-## Unemployment
-
 {% include interests/unemployment.md %}
 
 ### Who is interested in Unemployment?

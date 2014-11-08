@@ -9,8 +9,6 @@ title: "Bovine Tb"
 
 ---
 
-## Bovine Tb
-
 {% include interests/bovine-tb.md %}
 
 ### Who is interested in Bovine Tb?

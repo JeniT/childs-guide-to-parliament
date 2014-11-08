@@ -9,8 +9,6 @@ title: "Job Creation"
 
 ---
 
-## Job Creation
-
 {% include interests/job-creation.md %}
 
 ### Who is interested in Job Creation?

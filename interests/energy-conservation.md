@@ -9,8 +9,6 @@ title: "Energy Conservation"
 
 ---
 
-## Energy Conservation
-
 {% include interests/energy-conservation.md %}
 
 ### Who is interested in Energy Conservation?

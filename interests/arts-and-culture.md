@@ -9,8 +9,6 @@ title: "Arts And Culture"
 
 ---
 
-## Arts And Culture
-
 {% include interests/arts-and-culture.md %}
 
 ### Who is interested in Arts And Culture?

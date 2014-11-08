@@ -9,8 +9,6 @@ title: "Literacy"
 
 ---
 
-## Literacy
-
 {% include interests/literacy.md %}
 
 ### Who is interested in Literacy?

@@ -9,8 +9,6 @@ title: "Environment"
 
 ---
 
-## Environment
-
 {% include interests/environment.md %}
 
 ### Who is interested in Environment?

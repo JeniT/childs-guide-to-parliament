@@ -9,8 +9,6 @@ title: "Citizenship"
 
 ---
 
-## Citizenship
-
 {% include interests/citizenship.md %}
 
 ### Who is interested in Citizenship?

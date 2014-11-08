@@ -9,8 +9,6 @@ title: "Scottish Affairs"
 
 ---
 
-## Scottish Affairs
-
 {% include interests/scottish-affairs.md %}
 
 ### Who is interested in Scottish Affairs?

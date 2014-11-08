@@ -9,8 +9,6 @@ title: "Quality Of Life And Wellbeing"
 
 ---
 
-## Quality Of Life And Wellbeing
-
 {% include interests/quality-of-life-and-wellbeing.md %}
 
 ### Who is interested in Quality Of Life And Wellbeing?

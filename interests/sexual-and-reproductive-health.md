@@ -9,8 +9,6 @@ title: "Sexual And Reproductive Health"
 
 ---
 
-## Sexual And Reproductive Health
-
 {% include interests/sexual-and-reproductive-health.md %}
 
 ### Who is interested in Sexual And Reproductive Health?

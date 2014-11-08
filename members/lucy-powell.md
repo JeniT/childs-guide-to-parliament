@@ -9,8 +9,6 @@ title: "Lucy Powell"
 
 ---
 
-## Lucy Powell
-
 **Lucy Powell** is an MP in the **Labour** party.
 
 {% include members/lucy-powell.md %}

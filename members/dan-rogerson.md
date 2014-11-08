@@ -9,8 +9,6 @@ title: "Dan Rogerson"
 
 ---
 
-## Dan Rogerson
-
 **Dan Rogerson** is an MP in the **Liberal Democrat** party.
 
 {% include members/dan-rogerson.md %}

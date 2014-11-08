@@ -9,8 +9,6 @@ title: "Gordon Birtwistle"
 
 ---
 
-## Gordon Birtwistle
-
 **Gordon Birtwistle** is an MP in the **Liberal Democrat** party.
 
 {% include members/gordon-birtwistle.md %}

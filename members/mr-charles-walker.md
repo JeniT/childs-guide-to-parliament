@@ -9,8 +9,6 @@ title: "Mr Charles Walker"
 
 ---
 
-## Mr Charles Walker
-
 **Mr Charles Walker** is an MP in the **Conservative** party.
 
 {% include members/mr-charles-walker.md %}

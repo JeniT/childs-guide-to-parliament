@@ -9,8 +9,6 @@ title: "Deaf Children"
 
 ---
 
-## Deaf Children
-
 {% include interests/deaf-children.md %}
 
 ### Who is interested in Deaf Children?

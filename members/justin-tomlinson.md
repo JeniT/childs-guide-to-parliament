@@ -9,8 +9,6 @@ title: "Justin Tomlinson"
 
 ---
 
-## Justin Tomlinson
-
 **Justin Tomlinson** is an MP in the **Conservative** party.
 
 {% include members/justin-tomlinson.md %}

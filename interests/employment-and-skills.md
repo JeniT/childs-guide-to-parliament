@@ -9,8 +9,6 @@ title: "Employment And Skills"
 
 ---
 
-## Employment And Skills
-
 {% include interests/employment-and-skills.md %}
 
 ### Who is interested in Employment And Skills?

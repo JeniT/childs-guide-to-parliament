@@ -9,8 +9,6 @@ title: "Stephen Twigg"
 
 ---
 
-## Stephen Twigg
-
 **Stephen Twigg** is an MP in the **Labour (Co-op)** party.
 
 {% include members/stephen-twigg.md %}

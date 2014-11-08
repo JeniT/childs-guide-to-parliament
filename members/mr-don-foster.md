@@ -9,8 +9,6 @@ title: "Mr Don Foster"
 
 ---
 
-## Mr Don Foster
-
 **Mr Don Foster** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-don-foster.md %}

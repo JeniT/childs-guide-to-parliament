@@ -9,8 +9,6 @@ title: "Rural Development"
 
 ---
 
-## Rural Development
-
 {% include interests/rural-development.md %}
 
 ### Who is interested in Rural Development?

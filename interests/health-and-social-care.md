@@ -9,8 +9,6 @@ title: "Health And Social Care"
 
 ---
 
-## Health And Social Care
-
 {% include interests/health-and-social-care.md %}
 
 ### Who is interested in Health And Social Care?

@@ -9,8 +9,6 @@ title: "Decentralisation"
 
 ---
 
-## Decentralisation
-
 {% include interests/decentralisation.md %}
 
 ### Who is interested in Decentralisation?

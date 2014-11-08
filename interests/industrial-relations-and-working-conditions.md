@@ -9,8 +9,6 @@ title: "Industrial Relations And Working Conditions"
 
 ---
 
-## Industrial Relations And Working Conditions
-
 {% include interests/industrial-relations-and-working-conditions.md %}
 
 ### Who is interested in Industrial Relations And Working Conditions?

@@ -9,8 +9,6 @@ title: "Media Issues"
 
 ---
 
-## Media Issues
-
 {% include interests/media-issues.md %}
 
 ### Who is interested in Media Issues?

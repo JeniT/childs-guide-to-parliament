@@ -9,8 +9,6 @@ title: "Internet"
 
 ---
 
-## Internet
-
 {% include interests/internet.md %}
 
 ### Who is interested in Internet?

@@ -9,8 +9,6 @@ title: "Animal Welfare"
 
 ---
 
-## Animal Welfare
-
 {% include interests/animal-welfare.md %}
 
 ### Who is interested in Animal Welfare?

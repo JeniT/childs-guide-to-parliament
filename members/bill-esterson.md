@@ -9,8 +9,6 @@ title: "Bill Esterson"
 
 ---
 
-## Bill Esterson
-
 **Bill Esterson** is an MP in the **Labour** party.
 
 {% include members/bill-esterson.md %}

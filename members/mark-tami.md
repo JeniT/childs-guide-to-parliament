@@ -9,8 +9,6 @@ title: "Mark Tami"
 
 ---
 
-## Mark Tami
-
 **Mark Tami** is an MP in the **Labour** party.
 
 {% include members/mark-tami.md %}

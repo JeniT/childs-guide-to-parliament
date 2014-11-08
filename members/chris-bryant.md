@@ -9,8 +9,6 @@ title: "Chris Bryant"
 
 ---
 
-## Chris Bryant
-
 **Chris Bryant** is an MP in the **Labour** party.
 
 {% include members/chris-bryant.md %}

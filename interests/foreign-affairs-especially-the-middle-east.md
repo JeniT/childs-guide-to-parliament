@@ -9,8 +9,6 @@ title: "Foreign Affairs (Especially The Middle East)"
 
 ---
 
-## Foreign Affairs (Especially The Middle East)
-
 {% include interests/foreign-affairs-especially-the-middle-east.md %}
 
 ### Who is interested in Foreign Affairs (Especially The Middle East)?

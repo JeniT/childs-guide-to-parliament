@@ -9,8 +9,6 @@ title: "Anne Marie Morris"
 
 ---
 
-## Anne Marie Morris
-
 **Anne Marie Morris** is an MP in the **Conservative** party.
 
 {% include members/anne-marie-morris.md %}

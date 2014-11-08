@@ -9,8 +9,6 @@ title: "Disabled Children"
 
 ---
 
-## Disabled Children
-
 {% include interests/disabled-children.md %}
 
 ### Who is interested in Disabled Children?

@@ -9,8 +9,6 @@ title: "Provision Facilities For The Young"
 
 ---
 
-## Provision Facilities For The Young
-
 {% include interests/provision-facilities-for-the-young.md %}
 
 ### Who is interested in Provision Facilities For The Young?

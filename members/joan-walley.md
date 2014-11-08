@@ -9,8 +9,6 @@ title: "Joan Walley"
 
 ---
 
-## Joan Walley
-
 **Joan Walley** is an MP in the **Labour** party.
 
 {% include members/joan-walley.md %}

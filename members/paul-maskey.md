@@ -9,8 +9,6 @@ title: "Paul Maskey"
 
 ---
 
-## Paul Maskey
-
 **Paul Maskey** is an MP in the **Sinn Fein** party.
 
 {% include members/paul-maskey.md %}

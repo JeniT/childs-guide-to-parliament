@@ -9,8 +9,6 @@ title: "Diet And Nutrition"
 
 ---
 
-## Diet And Nutrition
-
 {% include interests/diet-and-nutrition.md %}
 
 ### Who is interested in Diet And Nutrition?

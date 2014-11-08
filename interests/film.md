@@ -9,8 +9,6 @@ title: "Film"
 
 ---
 
-## Film
-
 {% include interests/film.md %}
 
 ### Who is interested in Film?

@@ -9,8 +9,6 @@ title: "Fire"
 
 ---
 
-## Fire
-
 {% include interests/fire.md %}
 
 ### Who is interested in Fire?

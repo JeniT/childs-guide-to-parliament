@@ -9,8 +9,6 @@ title: "Community Care"
 
 ---
 
-## Community Care
-
 {% include interests/community-care.md %}
 
 ### Who is interested in Community Care?

@@ -9,8 +9,6 @@ title: "Mrs Caroline Spelman"
 
 ---
 
-## Mrs Caroline Spelman
-
 **Mrs Caroline Spelman** is an MP in the **Conservative** party.
 
 {% include members/mrs-caroline-spelman.md %}

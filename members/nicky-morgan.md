@@ -9,8 +9,6 @@ title: "Nicky Morgan"
 
 ---
 
-## Nicky Morgan
-
 **Nicky Morgan** is an MP in the **Conservative** party.
 
 {% include members/nicky-morgan.md %}

@@ -9,8 +9,6 @@ title: "Jon Cruddas"
 
 ---
 
-## Jon Cruddas
-
 **Jon Cruddas** is an MP in the **Labour** party.
 
 {% include members/jon-cruddas.md %}

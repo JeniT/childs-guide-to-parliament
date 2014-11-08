@@ -9,8 +9,6 @@ title: "Sir George Young"
 
 ---
 
-## Sir George Young
-
 **Sir George Young** is an MP in the **Conservative** party.
 
 {% include members/sir-george-young.md %}

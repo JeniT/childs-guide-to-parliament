@@ -9,8 +9,6 @@ title: "Mr Dominic Grieve"
 
 ---
 
-## Mr Dominic Grieve
-
 **Mr Dominic Grieve** is an MP in the **Conservative** party.
 
 {% include members/mr-dominic-grieve.md %}

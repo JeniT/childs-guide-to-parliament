@@ -9,8 +9,6 @@ title: "Renewables"
 
 ---
 
-## Renewables
-
 {% include interests/renewables.md %}
 
 ### Who is interested in Renewables?

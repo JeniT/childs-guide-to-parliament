@@ -9,8 +9,6 @@ title: "Children And Families"
 
 ---
 
-## Children And Families
-
 {% include interests/children-and-families.md %}
 
 ### Who is interested in Children And Families?

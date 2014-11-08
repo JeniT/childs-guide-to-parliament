@@ -9,8 +9,6 @@ title: "Business (Especially Small Business)"
 
 ---
 
-## Business (Especially Small Business)
-
 {% include interests/business-especially-small-business.md %}
 
 ### Who is interested in Business (Especially Small Business)?

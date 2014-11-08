@@ -9,8 +9,6 @@ title: "Tristram Hunt"
 
 ---
 
-## Tristram Hunt
-
 **Tristram Hunt** is an MP in the **Labour** party.
 
 {% include members/tristram-hunt.md %}

@@ -9,8 +9,6 @@ title: "Health And Social Welfare"
 
 ---
 
-## Health And Social Welfare
-
 {% include interests/health-and-social-welfare.md %}
 
 ### Who is interested in Health And Social Welfare?

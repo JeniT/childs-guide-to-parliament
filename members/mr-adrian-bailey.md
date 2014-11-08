@@ -9,8 +9,6 @@ title: "Mr Adrian Bailey"
 
 ---
 
-## Mr Adrian Bailey
-
 **Mr Adrian Bailey** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mr-adrian-bailey.md %}

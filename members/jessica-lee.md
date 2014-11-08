@@ -9,8 +9,6 @@ title: "Jessica Lee"
 
 ---
 
-## Jessica Lee
-
 **Jessica Lee** is an MP in the **Conservative** party.
 
 {% include members/jessica-lee.md %}

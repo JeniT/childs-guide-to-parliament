@@ -9,8 +9,6 @@ title: "Personal Debt"
 
 ---
 
-## Personal Debt
-
 {% include interests/personal-debt.md %}
 
 ### Who is interested in Personal Debt?

@@ -9,8 +9,6 @@ title: "Genocide Prevention"
 
 ---
 
-## Genocide Prevention
-
 {% include interests/genocide-prevention.md %}
 
 ### Who is interested in Genocide Prevention?

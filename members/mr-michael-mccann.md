@@ -9,8 +9,6 @@ title: "Mr Michael McCann"
 
 ---
 
-## Mr Michael McCann
-
 **Mr Michael McCann** is an MP in the **Labour** party.
 
 {% include members/mr-michael-mccann.md %}

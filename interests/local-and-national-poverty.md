@@ -9,8 +9,6 @@ title: "Local And National Poverty"
 
 ---
 
-## Local And National Poverty
-
 {% include interests/local-and-national-poverty.md %}
 
 ### Who is interested in Local And National Poverty?

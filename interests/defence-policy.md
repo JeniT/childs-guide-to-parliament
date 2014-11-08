@@ -9,8 +9,6 @@ title: "Defence Policy"
 
 ---
 
-## Defence Policy
-
 {% include interests/defence-policy.md %}
 
 ### Who is interested in Defence Policy?

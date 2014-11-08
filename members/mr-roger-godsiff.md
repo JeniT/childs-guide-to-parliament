@@ -9,8 +9,6 @@ title: "Mr Roger Godsiff"
 
 ---
 
-## Mr Roger Godsiff
-
 **Mr Roger Godsiff** is an MP in the **Labour** party.
 
 {% include members/mr-roger-godsiff.md %}

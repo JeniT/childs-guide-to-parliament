@@ -9,8 +9,6 @@ title: "Mr David Nuttall"
 
 ---
 
-## Mr David Nuttall
-
 **Mr David Nuttall** is an MP in the **Conservative** party.
 
 {% include members/mr-david-nuttall.md %}

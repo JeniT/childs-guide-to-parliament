@@ -9,8 +9,6 @@ title: "Austin Mitchell"
 
 ---
 
-## Austin Mitchell
-
 **Austin Mitchell** is an MP in the **Labour** party.
 
 {% include members/austin-mitchell.md %}

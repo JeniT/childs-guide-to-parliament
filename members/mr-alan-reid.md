@@ -9,8 +9,6 @@ title: "Mr Alan Reid"
 
 ---
 
-## Mr Alan Reid
-
 **Mr Alan Reid** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-alan-reid.md %}

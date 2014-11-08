@@ -9,8 +9,6 @@ title: "Mr George Osborne"
 
 ---
 
-## Mr George Osborne
-
 **Mr George Osborne** is an MP in the **Conservative** party.
 
 {% include members/mr-george-osborne.md %}

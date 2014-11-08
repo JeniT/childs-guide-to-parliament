@@ -9,8 +9,6 @@ title: "Margaret Hodge"
 
 ---
 
-## Margaret Hodge
-
 **Margaret Hodge** is an MP in the **Labour** party.
 
 {% include members/margaret-hodge.md %}

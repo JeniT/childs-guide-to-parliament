@@ -9,8 +9,6 @@ title: "Debbie Abrahams"
 
 ---
 
-## Debbie Abrahams
-
 **Debbie Abrahams** is an MP in the **Labour** party.
 
 {% include members/debbie-abrahams.md %}

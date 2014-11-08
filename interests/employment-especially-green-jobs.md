@@ -9,8 +9,6 @@ title: "Employment (Especially Green Jobs)"
 
 ---
 
-## Employment (Especially Green Jobs)
-
 {% include interests/employment-especially-green-jobs.md %}
 
 ### Who is interested in Employment (Especially Green Jobs)?

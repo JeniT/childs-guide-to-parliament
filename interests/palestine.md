@@ -9,8 +9,6 @@ title: "Palestine"
 
 ---
 
-## Palestine
-
 {% include interests/palestine.md %}
 
 ### Who is interested in Palestine?

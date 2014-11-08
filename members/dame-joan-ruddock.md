@@ -9,8 +9,6 @@ title: "Dame Joan Ruddock"
 
 ---
 
-## Dame Joan Ruddock
-
 **Dame Joan Ruddock** is an MP in the **Labour** party.
 
 {% include members/dame-joan-ruddock.md %}

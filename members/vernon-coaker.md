@@ -9,8 +9,6 @@ title: "Vernon Coaker"
 
 ---
 
-## Vernon Coaker
-
 **Vernon Coaker** is an MP in the **Labour** party.
 
 {% include members/vernon-coaker.md %}

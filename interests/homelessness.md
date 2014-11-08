@@ -9,8 +9,6 @@ title: "Homelessness"
 
 ---
 
-## Homelessness
-
 {% include interests/homelessness.md %}
 
 ### Who is interested in Homelessness?

@@ -9,8 +9,6 @@ title: "Green Industry"
 
 ---
 
-## Green Industry
-
 {% include interests/green-industry.md %}
 
 ### Who is interested in Green Industry?

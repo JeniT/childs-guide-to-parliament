@@ -9,8 +9,6 @@ title: "Revitalising Local Democracy"
 
 ---
 
-## Revitalising Local Democracy
-
 {% include interests/revitalising-local-democracy.md %}
 
 ### Who is interested in Revitalising Local Democracy?

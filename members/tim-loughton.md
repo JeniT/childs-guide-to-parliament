@@ -9,8 +9,6 @@ title: "Tim Loughton"
 
 ---
 
-## Tim Loughton
-
 **Tim Loughton** is an MP in the **Conservative** party.
 
 {% include members/tim-loughton.md %}

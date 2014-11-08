@@ -9,8 +9,6 @@ title: "Money And Banking"
 
 ---
 
-## Money And Banking
-
 {% include interests/money-and-banking.md %}
 
 ### Who is interested in Money And Banking?

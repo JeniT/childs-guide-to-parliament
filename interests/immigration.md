@@ -9,8 +9,6 @@ title: "Immigration"
 
 ---
 
-## Immigration
-
 {% include interests/immigration.md %}
 
 ### Who is interested in Immigration?

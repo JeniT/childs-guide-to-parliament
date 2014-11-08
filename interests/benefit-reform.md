@@ -9,8 +9,6 @@ title: "Benefit Reform"
 
 ---
 
-## Benefit Reform
-
 {% include interests/benefit-reform.md %}
 
 ### Who is interested in Benefit Reform?

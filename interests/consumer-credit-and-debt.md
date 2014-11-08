@@ -9,8 +9,6 @@ title: "Consumer Credit And Debt"
 
 ---
 
-## Consumer Credit And Debt
-
 {% include interests/consumer-credit-and-debt.md %}
 
 ### Who is interested in Consumer Credit And Debt?

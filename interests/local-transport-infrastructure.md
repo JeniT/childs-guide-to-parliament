@@ -9,8 +9,6 @@ title: "Local Transport Infrastructure"
 
 ---
 
-## Local Transport Infrastructure
-
 {% include interests/local-transport-infrastructure.md %}
 
 ### Who is interested in Local Transport Infrastructure?

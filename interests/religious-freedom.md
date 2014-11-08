@@ -9,8 +9,6 @@ title: "Religious Freedom"
 
 ---
 
-## Religious Freedom
-
 {% include interests/religious-freedom.md %}
 
 ### Who is interested in Religious Freedom?

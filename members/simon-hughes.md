@@ -9,8 +9,6 @@ title: "Simon Hughes"
 
 ---
 
-## Simon Hughes
-
 **Simon Hughes** is an MP in the **Liberal Democrat** party.
 
 {% include members/simon-hughes.md %}

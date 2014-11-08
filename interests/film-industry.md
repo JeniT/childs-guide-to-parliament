@@ -9,8 +9,6 @@ title: "Film Industry"
 
 ---
 
-## Film Industry
-
 {% include interests/film-industry.md %}
 
 ### Who is interested in Film Industry?

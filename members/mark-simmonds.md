@@ -9,8 +9,6 @@ title: "Mark Simmonds"
 
 ---
 
-## Mark Simmonds
-
 **Mark Simmonds** is an MP in the **Conservative** party.
 
 {% include members/mark-simmonds.md %}

@@ -9,8 +9,6 @@ title: "Private Occupational Pensions"
 
 ---
 
-## Private Occupational Pensions
-
 {% include interests/private-occupational-pensions.md %}
 
 ### Who is interested in Private Occupational Pensions?

@@ -9,8 +9,6 @@ title: "Gavin Shuker"
 
 ---
 
-## Gavin Shuker
-
 **Gavin Shuker** is an MP in the **Labour (Co-op)** party.
 
 {% include members/gavin-shuker.md %}

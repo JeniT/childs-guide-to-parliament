@@ -9,8 +9,6 @@ title: "Scottish Home Rule And Federalism"
 
 ---
 
-## Scottish Home Rule And Federalism
-
 {% include interests/scottish-home-rule-and-federalism.md %}
 
 ### Who is interested in Scottish Home Rule And Federalism?

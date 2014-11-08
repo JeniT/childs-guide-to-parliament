@@ -9,8 +9,6 @@ title: "Inequality"
 
 ---
 
-## Inequality
-
 {% include interests/inequality.md %}
 
 ### Who is interested in Inequality?

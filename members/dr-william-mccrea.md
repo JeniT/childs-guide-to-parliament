@@ -9,8 +9,6 @@ title: "Dr William McCrea"
 
 ---
 
-## Dr William McCrea
-
 **Dr William McCrea** is an MP in the **Democratic Unionist** party.
 
 {% include members/dr-william-mccrea.md %}

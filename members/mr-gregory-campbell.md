@@ -9,8 +9,6 @@ title: "Mr Gregory Campbell"
 
 ---
 
-## Mr Gregory Campbell
-
 **Mr Gregory Campbell** is an MP in the **Democratic Unionist** party.
 
 {% include members/mr-gregory-campbell.md %}

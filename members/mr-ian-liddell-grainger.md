@@ -9,8 +9,6 @@ title: "Mr Ian Liddell-Grainger"
 
 ---
 
-## Mr Ian Liddell-Grainger
-
 **Mr Ian Liddell-Grainger** is an MP in the **Conservative** party.
 
 {% include members/mr-ian-liddell-grainger.md %}

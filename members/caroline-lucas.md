@@ -9,8 +9,6 @@ title: "Caroline Lucas"
 
 ---
 
-## Caroline Lucas
-
 **Caroline Lucas** is an MP in the **Green** party.
 
 {% include members/caroline-lucas.md %}

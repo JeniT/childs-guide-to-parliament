@@ -9,8 +9,6 @@ title: "Kevin Brennan"
 
 ---
 
-## Kevin Brennan
-
 **Kevin Brennan** is an MP in the **Labour** party.
 
 {% include members/kevin-brennan.md %}

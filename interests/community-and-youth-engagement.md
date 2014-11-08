@@ -9,8 +9,6 @@ title: "Community And Youth Engagement"
 
 ---
 
-## Community And Youth Engagement
-
 {% include interests/community-and-youth-engagement.md %}
 
 ### Who is interested in Community And Youth Engagement?

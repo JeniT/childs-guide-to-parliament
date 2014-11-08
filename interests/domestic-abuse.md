@@ -9,8 +9,6 @@ title: "Domestic Abuse"
 
 ---
 
-## Domestic Abuse
-
 {% include interests/domestic-abuse.md %}
 
 ### Who is interested in Domestic Abuse?

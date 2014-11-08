@@ -9,8 +9,6 @@ title: "Mr Nick Clegg"
 
 ---
 
-## Mr Nick Clegg
-
 **Mr Nick Clegg** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-nick-clegg.md %}

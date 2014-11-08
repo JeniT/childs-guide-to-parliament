@@ -9,8 +9,6 @@ title: "Simon Danczuk"
 
 ---
 
-## Simon Danczuk
-
 **Simon Danczuk** is an MP in the **Labour** party.
 
 {% include members/simon-danczuk.md %}

@@ -9,8 +9,6 @@ title: "Health Issues"
 
 ---
 
-## Health Issues
-
 {% include interests/health-issues.md %}
 
 ### Who is interested in Health Issues?

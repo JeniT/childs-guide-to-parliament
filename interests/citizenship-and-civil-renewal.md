@@ -9,8 +9,6 @@ title: "Citizenship And Civil Renewal"
 
 ---
 
-## Citizenship And Civil Renewal
-
 {% include interests/citizenship-and-civil-renewal.md %}
 
 ### Who is interested in Citizenship And Civil Renewal?

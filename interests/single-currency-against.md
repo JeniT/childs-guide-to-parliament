@@ -9,8 +9,6 @@ title: "Single Currency (Against)"
 
 ---
 
-## Single Currency (Against)
-
 {% include interests/single-currency-against.md %}
 
 ### Who is interested in Single Currency (Against)?

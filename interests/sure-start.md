@@ -9,8 +9,6 @@ title: "Sure Start"
 
 ---
 
-## Sure Start
-
 {% include interests/sure-start.md %}
 
 ### Who is interested in Sure Start?

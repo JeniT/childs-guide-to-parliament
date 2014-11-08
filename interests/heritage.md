@@ -9,8 +9,6 @@ title: "Heritage"
 
 ---
 
-## Heritage
-
 {% include interests/heritage.md %}
 
 ### Who is interested in Heritage?

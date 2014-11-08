@@ -9,8 +9,6 @@ title: "Jenny Willott"
 
 ---
 
-## Jenny Willott
-
 **Jenny Willott** is an MP in the **Liberal Democrat** party.
 
 {% include members/jenny-willott.md %}

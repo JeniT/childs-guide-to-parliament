@@ -9,8 +9,6 @@ title: "Local Democracy And Regional Devolution"
 
 ---
 
-## Local Democracy And Regional Devolution
-
 {% include interests/local-democracy-and-regional-devolution.md %}
 
 ### Who is interested in Local Democracy And Regional Devolution?

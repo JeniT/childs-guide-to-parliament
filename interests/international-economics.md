@@ -9,8 +9,6 @@ title: "International Economics"
 
 ---
 
-## International Economics
-
 {% include interests/international-economics.md %}
 
 ### Who is interested in International Economics?

@@ -9,8 +9,6 @@ title: "Mary Creagh"
 
 ---
 
-## Mary Creagh
-
 **Mary Creagh** is an MP in the **Labour** party.
 
 {% include members/mary-creagh.md %}

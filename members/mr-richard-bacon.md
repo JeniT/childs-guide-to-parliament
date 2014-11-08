@@ -9,8 +9,6 @@ title: "Mr Richard Bacon"
 
 ---
 
-## Mr Richard Bacon
-
 **Mr Richard Bacon** is an MP in the **Conservative** party.
 
 {% include members/mr-richard-bacon.md %}

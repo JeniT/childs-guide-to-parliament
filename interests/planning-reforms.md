@@ -9,8 +9,6 @@ title: "Planning Reforms"
 
 ---
 
-## Planning Reforms
-
 {% include interests/planning-reforms.md %}
 
 ### Who is interested in Planning Reforms?

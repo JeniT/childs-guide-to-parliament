@@ -9,8 +9,6 @@ title: "Local Economic Development"
 
 ---
 
-## Local Economic Development
-
 {% include interests/local-economic-development.md %}
 
 ### Who is interested in Local Economic Development?

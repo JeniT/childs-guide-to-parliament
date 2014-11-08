@@ -9,8 +9,6 @@ title: "Youth Unemployment"
 
 ---
 
-## Youth Unemployment
-
 {% include interests/youth-unemployment.md %}
 
 ### Who is interested in Youth Unemployment?

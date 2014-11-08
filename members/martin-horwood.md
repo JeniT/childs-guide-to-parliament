@@ -9,8 +9,6 @@ title: "Martin Horwood"
 
 ---
 
-## Martin Horwood
-
 **Martin Horwood** is an MP in the **Liberal Democrat** party.
 
 {% include members/martin-horwood.md %}

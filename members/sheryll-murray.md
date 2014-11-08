@@ -9,8 +9,6 @@ title: "Sheryll Murray"
 
 ---
 
-## Sheryll Murray
-
 **Sheryll Murray** is an MP in the **Conservative** party.
 
 {% include members/sheryll-murray.md %}

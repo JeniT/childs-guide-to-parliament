@@ -9,8 +9,6 @@ title: "Regional Development"
 
 ---
 
-## Regional Development
-
 {% include interests/regional-development.md %}
 
 ### Who is interested in Regional Development?

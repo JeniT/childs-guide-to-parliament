@@ -9,8 +9,6 @@ title: "John Howell"
 
 ---
 
-## John Howell
-
 **John Howell** is an MP in the **Conservative** party.
 
 {% include members/john-howell.md %}

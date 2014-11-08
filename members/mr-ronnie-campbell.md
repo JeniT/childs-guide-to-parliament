@@ -9,8 +9,6 @@ title: "Mr Ronnie Campbell"
 
 ---
 
-## Mr Ronnie Campbell
-
 **Mr Ronnie Campbell** is an MP in the **Labour** party.
 
 {% include members/mr-ronnie-campbell.md %}

@@ -9,8 +9,6 @@ title: "Esther McVey"
 
 ---
 
-## Esther McVey
-
 **Esther McVey** is an MP in the **Conservative** party.
 
 {% include members/esther-mcvey.md %}

@@ -9,8 +9,6 @@ title: "Devolution"
 
 ---
 
-## Devolution
-
 {% include interests/devolution.md %}
 
 ### Who is interested in Devolution?

@@ -9,8 +9,6 @@ title: "Prison Reform"
 
 ---
 
-## Prison Reform
-
 {% include interests/prison-reform.md %}
 
 ### Who is interested in Prison Reform?

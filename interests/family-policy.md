@@ -9,8 +9,6 @@ title: "Family Policy"
 
 ---
 
-## Family Policy
-
 {% include interests/family-policy.md %}
 
 ### Who is interested in Family Policy?

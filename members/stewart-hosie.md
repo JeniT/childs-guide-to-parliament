@@ -9,8 +9,6 @@ title: "Stewart Hosie"
 
 ---
 
-## Stewart Hosie
-
 **Stewart Hosie** is an MP in the **Scottish National** party.
 
 {% include members/stewart-hosie.md %}

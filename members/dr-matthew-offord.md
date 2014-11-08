@@ -9,8 +9,6 @@ title: "Dr Matthew Offord"
 
 ---
 
-## Dr Matthew Offord
-
 **Dr Matthew Offord** is an MP in the **Conservative** party.
 
 {% include members/dr-matthew-offord.md %}

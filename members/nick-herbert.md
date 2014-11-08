@@ -9,8 +9,6 @@ title: "Nick Herbert"
 
 ---
 
-## Nick Herbert
-
 **Nick Herbert** is an MP in the **Conservative** party.
 
 {% include members/nick-herbert.md %}

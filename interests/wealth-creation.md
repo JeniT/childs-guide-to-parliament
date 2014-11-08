@@ -9,8 +9,6 @@ title: "Wealth Creation"
 
 ---
 
-## Wealth Creation
-
 {% include interests/wealth-creation.md %}
 
 ### Who is interested in Wealth Creation?

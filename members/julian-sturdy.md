@@ -9,8 +9,6 @@ title: "Julian Sturdy"
 
 ---
 
-## Julian Sturdy
-
 **Julian Sturdy** is an MP in the **Conservative** party.
 
 {% include members/julian-sturdy.md %}

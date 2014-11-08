@@ -9,8 +9,6 @@ title: "Angie Bray"
 
 ---
 
-## Angie Bray
-
 **Angie Bray** is an MP in the **Conservative** party.
 
 {% include members/angie-bray.md %}

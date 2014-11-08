@@ -9,8 +9,6 @@ title: "Stephen Pound"
 
 ---
 
-## Stephen Pound
-
 **Stephen Pound** is an MP in the **Labour** party.
 
 {% include members/stephen-pound.md %}

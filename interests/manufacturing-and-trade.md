@@ -9,8 +9,6 @@ title: "Manufacturing And Trade"
 
 ---
 
-## Manufacturing And Trade
-
 {% include interests/manufacturing-and-trade.md %}
 
 ### Who is interested in Manufacturing And Trade?

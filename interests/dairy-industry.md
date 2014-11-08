@@ -9,8 +9,6 @@ title: "Dairy Industry"
 
 ---
 
-## Dairy Industry
-
 {% include interests/dairy-industry.md %}
 
 ### Who is interested in Dairy Industry?

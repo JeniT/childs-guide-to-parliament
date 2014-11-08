@@ -9,8 +9,6 @@ title: "Robert Flello"
 
 ---
 
-## Robert Flello
-
 **Robert Flello** is an MP in the **Labour** party.
 
 {% include members/robert-flello.md %}

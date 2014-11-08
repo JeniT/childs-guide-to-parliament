@@ -9,8 +9,6 @@ title: "Anti-Common Market"
 
 ---
 
-## Anti-Common Market
-
 {% include interests/anti-common-market.md %}
 
 ### Who is interested in Anti-Common Market?

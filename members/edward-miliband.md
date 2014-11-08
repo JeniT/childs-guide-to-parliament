@@ -9,8 +9,6 @@ title: "Edward Miliband"
 
 ---
 
-## Edward Miliband
-
 **Edward Miliband** is an MP in the **Labour** party.
 
 {% include members/edward-miliband.md %}

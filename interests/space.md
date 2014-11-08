@@ -9,8 +9,6 @@ title: "Space"
 
 ---
 
-## Space
-
 {% include interests/space.md %}
 
 ### Who is interested in Space?

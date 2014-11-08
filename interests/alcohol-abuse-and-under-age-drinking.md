@@ -9,8 +9,6 @@ title: "Alcohol Abuse And Under-Age Drinking"
 
 ---
 
-## Alcohol Abuse And Under-Age Drinking
-
 {% include interests/alcohol-abuse-and-under-age-drinking.md %}
 
 ### Who is interested in Alcohol Abuse And Under-Age Drinking?

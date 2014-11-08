@@ -9,8 +9,6 @@ title: "Retail Industry"
 
 ---
 
-## Retail Industry
-
 {% include interests/retail-industry.md %}
 
 ### Who is interested in Retail Industry?

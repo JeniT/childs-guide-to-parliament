@@ -9,8 +9,6 @@ title: "Healthcare Reform"
 
 ---
 
-## Healthcare Reform
-
 {% include interests/healthcare-reform.md %}
 
 ### Who is interested in Healthcare Reform?

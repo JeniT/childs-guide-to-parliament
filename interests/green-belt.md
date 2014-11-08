@@ -9,8 +9,6 @@ title: "Green Belt"
 
 ---
 
-## Green Belt
-
 {% include interests/green-belt.md %}
 
 ### Who is interested in Green Belt?

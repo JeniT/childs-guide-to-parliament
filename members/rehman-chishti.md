@@ -9,8 +9,6 @@ title: "Rehman Chishti"
 
 ---
 
-## Rehman Chishti
-
 **Rehman Chishti** is an MP in the **Conservative** party.
 
 {% include members/rehman-chishti.md %}

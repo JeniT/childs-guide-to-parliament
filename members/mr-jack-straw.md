@@ -9,8 +9,6 @@ title: "Mr Jack Straw"
 
 ---
 
-## Mr Jack Straw
-
 **Mr Jack Straw** is an MP in the **Labour** party.
 
 {% include members/mr-jack-straw.md %}

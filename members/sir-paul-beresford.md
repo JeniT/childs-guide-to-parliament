@@ -9,8 +9,6 @@ title: "Sir Paul Beresford"
 
 ---
 
-## Sir Paul Beresford
-
 **Sir Paul Beresford** is an MP in the **Conservative** party.
 
 {% include members/sir-paul-beresford.md %}

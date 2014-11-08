@@ -9,8 +9,6 @@ title: "Modernisation Of Parliament"
 
 ---
 
-## Modernisation Of Parliament
-
 {% include interests/modernisation-of-parliament.md %}
 
 ### Who is interested in Modernisation Of Parliament?

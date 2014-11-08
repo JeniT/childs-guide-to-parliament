@@ -9,8 +9,6 @@ title: "Legal Affairs"
 
 ---
 
-## Legal Affairs
-
 {% include interests/legal-affairs.md %}
 
 ### Who is interested in Legal Affairs?

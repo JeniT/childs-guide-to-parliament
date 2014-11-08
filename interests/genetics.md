@@ -9,8 +9,6 @@ title: "Genetics"
 
 ---
 
-## Genetics
-
 {% include interests/genetics.md %}
 
 ### Who is interested in Genetics?

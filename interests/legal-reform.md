@@ -9,8 +9,6 @@ title: "Legal Reform"
 
 ---
 
-## Legal Reform
-
 {% include interests/legal-reform.md %}
 
 ### Who is interested in Legal Reform?

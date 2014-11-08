@@ -9,8 +9,6 @@ title: "Population Ageing"
 
 ---
 
-## Population Ageing
-
 {% include interests/population-ageing.md %}
 
 ### Who is interested in Population Ageing?

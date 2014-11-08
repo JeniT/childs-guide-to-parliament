@@ -9,8 +9,6 @@ title: "Meg Hillier"
 
 ---
 
-## Meg Hillier
-
 **Meg Hillier** is an MP in the **Labour (Co-op)** party.
 
 {% include members/meg-hillier.md %}

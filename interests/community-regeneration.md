@@ -9,8 +9,6 @@ title: "Community Regeneration"
 
 ---
 
-## Community Regeneration
-
 {% include interests/community-regeneration.md %}
 
 ### Who is interested in Community Regeneration?

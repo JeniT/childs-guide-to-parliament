@@ -9,8 +9,6 @@ title: "Mrs Emma Lewell-Buck"
 
 ---
 
-## Mrs Emma Lewell-Buck
-
 **Mrs Emma Lewell-Buck** is an MP in the **Labour** party.
 
 {% include members/mrs-emma-lewell-buck.md %}

@@ -9,8 +9,6 @@ title: "Social Enterprise And Entrepreneurship"
 
 ---
 
-## Social Enterprise And Entrepreneurship
-
 {% include interests/social-enterprise-and-entrepreneurship.md %}
 
 ### Who is interested in Social Enterprise And Entrepreneurship?

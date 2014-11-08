@@ -9,8 +9,6 @@ title: "Language Issues"
 
 ---
 
-## Language Issues
-
 {% include interests/language-issues.md %}
 
 ### Who is interested in Language Issues?

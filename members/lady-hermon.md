@@ -9,8 +9,6 @@ title: "Lady Hermon"
 
 ---
 
-## Lady Hermon
-
 **Lady Hermon** is an MP in the **Independent** party.
 
 {% include members/lady-hermon.md %}

@@ -9,8 +9,6 @@ title: "Armed Forces"
 
 ---
 
-## Armed Forces
-
 {% include interests/armed-forces.md %}
 
 ### Who is interested in Armed Forces?

@@ -9,8 +9,6 @@ title: "Ed Balls"
 
 ---
 
-## Ed Balls
-
 **Ed Balls** is an MP in the **Labour (Co-op)** party.
 
 {% include members/ed-balls.md %}

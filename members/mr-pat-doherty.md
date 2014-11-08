@@ -9,8 +9,6 @@ title: "Mr Pat Doherty"
 
 ---
 
-## Mr Pat Doherty
-
 **Mr Pat Doherty** is an MP in the **Sinn Fein** party.
 
 {% include members/mr-pat-doherty.md %}

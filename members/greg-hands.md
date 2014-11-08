@@ -9,8 +9,6 @@ title: "Greg Hands"
 
 ---
 
-## Greg Hands
-
 **Greg Hands** is an MP in the **Conservative** party.
 
 {% include members/greg-hands.md %}

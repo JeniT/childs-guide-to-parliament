@@ -9,8 +9,6 @@ title: "Waste"
 
 ---
 
-## Waste
-
 {% include interests/waste.md %}
 
 ### Who is interested in Waste?

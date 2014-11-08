@@ -9,8 +9,6 @@ title: "Economic Development"
 
 ---
 
-## Economic Development
-
 {% include interests/economic-development.md %}
 
 ### Who is interested in Economic Development?

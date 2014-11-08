@@ -9,8 +9,6 @@ title: "Mr Tobias Ellwood"
 
 ---
 
-## Mr Tobias Ellwood
-
 **Mr Tobias Ellwood** is an MP in the **Conservative** party.
 
 {% include members/mr-tobias-ellwood.md %}

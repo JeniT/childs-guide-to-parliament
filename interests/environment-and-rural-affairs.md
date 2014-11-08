@@ -9,8 +9,6 @@ title: "Environment And Rural Affairs"
 
 ---
 
-## Environment And Rural Affairs
-
 {% include interests/environment-and-rural-affairs.md %}
 
 ### Who is interested in Environment And Rural Affairs?

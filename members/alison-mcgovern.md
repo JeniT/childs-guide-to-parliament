@@ -9,8 +9,6 @@ title: "Alison McGovern"
 
 ---
 
-## Alison McGovern
-
 **Alison McGovern** is an MP in the **Labour** party.
 
 {% include members/alison-mcgovern.md %}

@@ -9,8 +9,6 @@ title: "Tom Blenkinsop"
 
 ---
 
-## Tom Blenkinsop
-
 **Tom Blenkinsop** is an MP in the **Labour** party.
 
 {% include members/tom-blenkinsop.md %}

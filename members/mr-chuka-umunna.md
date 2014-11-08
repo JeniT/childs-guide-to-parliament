@@ -9,8 +9,6 @@ title: "Mr Chuka Umunna"
 
 ---
 
-## Mr Chuka Umunna
-
 **Mr Chuka Umunna** is an MP in the **Labour** party.
 
 {% include members/mr-chuka-umunna.md %}

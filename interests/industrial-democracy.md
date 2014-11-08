@@ -9,8 +9,6 @@ title: "Industrial Democracy"
 
 ---
 
-## Industrial Democracy
-
 {% include interests/industrial-democracy.md %}
 
 ### Who is interested in Industrial Democracy?

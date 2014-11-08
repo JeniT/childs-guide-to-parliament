@@ -9,8 +9,6 @@ title: "Skills Agenda"
 
 ---
 
-## Skills Agenda
-
 {% include interests/skills-agenda.md %}
 
 ### Who is interested in Skills Agenda?

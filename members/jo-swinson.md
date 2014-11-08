@@ -9,8 +9,6 @@ title: "Jo Swinson"
 
 ---
 
-## Jo Swinson
-
 **Jo Swinson** is an MP in the **Liberal Democrat** party.
 
 {% include members/jo-swinson.md %}

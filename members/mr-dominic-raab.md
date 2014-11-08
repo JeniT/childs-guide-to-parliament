@@ -9,8 +9,6 @@ title: "Mr Dominic Raab"
 
 ---
 
-## Mr Dominic Raab
-
 **Mr Dominic Raab** is an MP in the **Conservative** party.
 
 {% include members/mr-dominic-raab.md %}

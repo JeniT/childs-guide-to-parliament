@@ -9,8 +9,6 @@ title: "Rural Communities"
 
 ---
 
-## Rural Communities
-
 {% include interests/rural-communities.md %}
 
 ### Who is interested in Rural Communities?

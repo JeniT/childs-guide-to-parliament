@@ -9,8 +9,6 @@ title: "Guantanamo Bay"
 
 ---
 
-## Guantanamo Bay
-
 {% include interests/guantanamo-bay.md %}
 
 ### Who is interested in Guantanamo Bay?

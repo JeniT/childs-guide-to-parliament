@@ -9,8 +9,6 @@ title: "Frank Dobson"
 
 ---
 
-## Frank Dobson
-
 **Frank Dobson** is an MP in the **Labour** party.
 
 {% include members/frank-dobson.md %}

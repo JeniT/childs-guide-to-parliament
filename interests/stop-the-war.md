@@ -9,8 +9,6 @@ title: "Stop The War"
 
 ---
 
-## Stop The War
-
 {% include interests/stop-the-war.md %}
 
 ### Who is interested in Stop The War?

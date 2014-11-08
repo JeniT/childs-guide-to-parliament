@@ -9,8 +9,6 @@ title: "Andrea Leadsom"
 
 ---
 
-## Andrea Leadsom
-
 **Andrea Leadsom** is an MP in the **Conservative** party.
 
 {% include members/andrea-leadsom.md %}

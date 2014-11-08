@@ -9,8 +9,6 @@ title: "Michael Dugher"
 
 ---
 
-## Michael Dugher
-
 **Michael Dugher** is an MP in the **Labour** party.
 
 {% include members/michael-dugher.md %}

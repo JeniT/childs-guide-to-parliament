@@ -9,8 +9,6 @@ title: "Derek Twigg"
 
 ---
 
-## Derek Twigg
-
 **Derek Twigg** is an MP in the **Labour** party.
 
 {% include members/derek-twigg.md %}

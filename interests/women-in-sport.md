@@ -9,8 +9,6 @@ title: "Women In Sport"
 
 ---
 
-## Women In Sport
-
 {% include interests/women-in-sport.md %}
 
 ### Who is interested in Women In Sport?

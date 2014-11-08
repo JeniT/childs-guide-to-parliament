@@ -9,8 +9,6 @@ title: "Mr Peter Hain"
 
 ---
 
-## Mr Peter Hain
-
 **Mr Peter Hain** is an MP in the **Labour** party.
 
 {% include members/mr-peter-hain.md %}

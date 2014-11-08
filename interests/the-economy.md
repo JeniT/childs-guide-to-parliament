@@ -9,8 +9,6 @@ title: "The Economy"
 
 ---
 
-## The Economy
-
 {% include interests/the-economy.md %}
 
 ### Who is interested in The Economy?

@@ -9,8 +9,6 @@ title: "Mr Christopher Chope"
 
 ---
 
-## Mr Christopher Chope
-
 **Mr Christopher Chope** is an MP in the **Conservative** party.
 
 {% include members/mr-christopher-chope.md %}

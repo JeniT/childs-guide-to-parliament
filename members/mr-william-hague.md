@@ -9,8 +9,6 @@ title: "Mr William Hague"
 
 ---
 
-## Mr William Hague
-
 **Mr William Hague** is an MP in the **Conservative** party.
 
 {% include members/mr-william-hague.md %}

@@ -9,8 +9,6 @@ title: "Carers' Rights"
 
 ---
 
-## Carers' Rights
-
 {% include interests/carers-rights.md %}
 
 ### Who is interested in Carers' Rights?

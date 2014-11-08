@@ -9,8 +9,6 @@ title: "Fiona Bruce"
 
 ---
 
-## Fiona Bruce
-
 **Fiona Bruce** is an MP in the **Conservative** party.
 
 {% include members/fiona-bruce.md %}

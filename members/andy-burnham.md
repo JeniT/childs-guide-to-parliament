@@ -9,8 +9,6 @@ title: "Andy Burnham"
 
 ---
 
-## Andy Burnham
-
 **Andy Burnham** is an MP in the **Labour** party.
 
 {% include members/andy-burnham.md %}

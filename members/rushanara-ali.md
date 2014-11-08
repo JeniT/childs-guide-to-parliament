@@ -9,8 +9,6 @@ title: "Rushanara Ali"
 
 ---
 
-## Rushanara Ali
-
 **Rushanara Ali** is an MP in the **Labour** party.
 
 {% include members/rushanara-ali.md %}

@@ -9,8 +9,6 @@ title: "Work And Pensions"
 
 ---
 
-## Work And Pensions
-
 {% include interests/work-and-pensions.md %}
 
 ### Who is interested in Work And Pensions?

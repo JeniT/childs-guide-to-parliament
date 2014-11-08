@@ -9,8 +9,6 @@ title: "Aviation And Airports"
 
 ---
 
-## Aviation And Airports
-
 {% include interests/aviation-and-airports.md %}
 
 ### Who is interested in Aviation And Airports?

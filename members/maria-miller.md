@@ -9,8 +9,6 @@ title: "Maria Miller"
 
 ---
 
-## Maria Miller
-
 **Maria Miller** is an MP in the **Conservative** party.
 
 {% include members/maria-miller.md %}

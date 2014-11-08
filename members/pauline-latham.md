@@ -9,8 +9,6 @@ title: "Pauline Latham"
 
 ---
 
-## Pauline Latham
-
 **Pauline Latham** is an MP in the **Conservative** party.
 
 {% include members/pauline-latham.md %}

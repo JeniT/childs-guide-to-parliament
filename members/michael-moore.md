@@ -9,8 +9,6 @@ title: "Michael Moore"
 
 ---
 
-## Michael Moore
-
 **Michael Moore** is an MP in the **Liberal Democrat** party.
 
 {% include members/michael-moore.md %}

@@ -9,8 +9,6 @@ title: "Sir Edward Leigh"
 
 ---
 
-## Sir Edward Leigh
-
 **Sir Edward Leigh** is an MP in the **Conservative** party.
 
 {% include members/sir-edward-leigh.md %}

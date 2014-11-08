@@ -9,8 +9,6 @@ title: "Mr David Gauke"
 
 ---
 
-## Mr David Gauke
-
 **Mr David Gauke** is an MP in the **Conservative** party.
 
 {% include members/mr-david-gauke.md %}

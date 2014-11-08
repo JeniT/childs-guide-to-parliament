@@ -9,8 +9,6 @@ title: "Barry Gardiner"
 
 ---
 
-## Barry Gardiner
-
 **Barry Gardiner** is an MP in the **Labour** party.
 
 {% include members/barry-gardiner.md %}

@@ -9,8 +9,6 @@ title: "Electronics Industry"
 
 ---
 
-## Electronics Industry
-
 {% include interests/electronics-industry.md %}
 
 ### Who is interested in Electronics Industry?

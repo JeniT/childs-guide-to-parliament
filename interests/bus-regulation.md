@@ -9,8 +9,6 @@ title: "Bus Regulation"
 
 ---
 
-## Bus Regulation
-
 {% include interests/bus-regulation.md %}
 
 ### Who is interested in Bus Regulation?

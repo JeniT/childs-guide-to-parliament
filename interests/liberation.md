@@ -9,8 +9,6 @@ title: "Liberation"
 
 ---
 
-## Liberation
-
 {% include interests/liberation.md %}
 
 ### Who is interested in Liberation?

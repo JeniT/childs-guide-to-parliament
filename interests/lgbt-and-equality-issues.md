@@ -9,8 +9,6 @@ title: "Lgbt And Equality Issues"
 
 ---
 
-## Lgbt And Equality Issues
-
 {% include interests/lgbt-and-equality-issues.md %}
 
 ### Who is interested in Lgbt And Equality Issues?

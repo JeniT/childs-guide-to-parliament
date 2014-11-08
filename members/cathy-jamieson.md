@@ -9,8 +9,6 @@ title: "Cathy Jamieson"
 
 ---
 
-## Cathy Jamieson
-
 **Cathy Jamieson** is an MP in the **Labour (Co-op)** party.
 
 {% include members/cathy-jamieson.md %}

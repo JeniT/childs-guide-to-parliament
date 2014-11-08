@@ -9,8 +9,6 @@ title: "Angela Smith"
 
 ---
 
-## Angela Smith
-
 **Angela Smith** is an MP in the **Labour** party.
 
 {% include members/angela-smith.md %}

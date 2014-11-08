@@ -9,8 +9,6 @@ title: "Direct Democracy And Localism"
 
 ---
 
-## Direct Democracy And Localism
-
 {% include interests/direct-democracy-and-localism.md %}
 
 ### Who is interested in Direct Democracy And Localism?

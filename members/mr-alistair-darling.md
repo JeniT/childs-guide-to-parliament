@@ -9,8 +9,6 @@ title: "Mr Alistair Darling"
 
 ---
 
-## Mr Alistair Darling
-
 **Mr Alistair Darling** is an MP in the **Labour** party.
 
 {% include members/mr-alistair-darling.md %}

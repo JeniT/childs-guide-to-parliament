@@ -9,8 +9,6 @@ title: "Reform Of The Welfare State"
 
 ---
 
-## Reform Of The Welfare State
-
 {% include interests/reform-of-the-welfare-state.md %}
 
 ### Who is interested in Reform Of The Welfare State?

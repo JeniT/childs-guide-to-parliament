@@ -9,8 +9,6 @@ title: "Childcare"
 
 ---
 
-## Childcare
-
 {% include interests/childcare.md %}
 
 ### Who is interested in Childcare?

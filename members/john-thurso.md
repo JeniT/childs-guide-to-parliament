@@ -9,8 +9,6 @@ title: "John Thurso"
 
 ---
 
-## John Thurso
-
 **John Thurso** is an MP in the **Liberal Democrat** party.
 
 {% include members/john-thurso.md %}

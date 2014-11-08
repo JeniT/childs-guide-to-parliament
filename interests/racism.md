@@ -9,8 +9,6 @@ title: "Racism"
 
 ---
 
-## Racism
-
 {% include interests/racism.md %}
 
 ### Who is interested in Racism?

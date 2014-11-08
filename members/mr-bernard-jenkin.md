@@ -9,8 +9,6 @@ title: "Mr Bernard Jenkin"
 
 ---
 
-## Mr Bernard Jenkin
-
 **Mr Bernard Jenkin** is an MP in the **Conservative** party.
 
 {% include members/mr-bernard-jenkin.md %}

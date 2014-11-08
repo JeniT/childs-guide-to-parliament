@@ -9,8 +9,6 @@ title: "Jobs And Regeneration"
 
 ---
 
-## Jobs And Regeneration
-
 {% include interests/jobs-and-regeneration.md %}
 
 ### Who is interested in Jobs And Regeneration?

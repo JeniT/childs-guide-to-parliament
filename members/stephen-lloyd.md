@@ -9,8 +9,6 @@ title: "Stephen Lloyd"
 
 ---
 
-## Stephen Lloyd
-
 **Stephen Lloyd** is an MP in the **Liberal Democrat** party.
 
 {% include members/stephen-lloyd.md %}

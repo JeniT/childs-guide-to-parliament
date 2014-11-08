@@ -9,8 +9,6 @@ title: "Joseph Johnson"
 
 ---
 
-## Joseph Johnson
-
 **Joseph Johnson** is an MP in the **Conservative** party.
 
 {% include members/joseph-johnson.md %}

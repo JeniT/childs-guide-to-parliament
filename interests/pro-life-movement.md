@@ -9,8 +9,6 @@ title: "Pro-Life Movement"
 
 ---
 
-## Pro-Life Movement
-
 {% include interests/pro-life-movement.md %}
 
 ### Who is interested in Pro-Life Movement?

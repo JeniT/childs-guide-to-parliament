@@ -9,8 +9,6 @@ title: "Preventive Health Care"
 
 ---
 
-## Preventive Health Care
-
 {% include interests/preventive-health-care.md %}
 
 ### Who is interested in Preventive Health Care?

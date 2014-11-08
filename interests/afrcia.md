@@ -9,8 +9,6 @@ title: "Afrcia"
 
 ---
 
-## Afrcia
-
 {% include interests/afrcia.md %}
 
 ### Who is interested in Afrcia?

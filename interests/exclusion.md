@@ -9,8 +9,6 @@ title: "Exclusion"
 
 ---
 
-## Exclusion
-
 {% include interests/exclusion.md %}
 
 ### Who is interested in Exclusion?

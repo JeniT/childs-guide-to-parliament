@@ -9,8 +9,6 @@ title: "Jon Trickett"
 
 ---
 
-## Jon Trickett
-
 **Jon Trickett** is an MP in the **Labour** party.
 
 {% include members/jon-trickett.md %}

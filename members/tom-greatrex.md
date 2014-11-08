@@ -9,8 +9,6 @@ title: "Tom Greatrex"
 
 ---
 
-## Tom Greatrex
-
 **Tom Greatrex** is an MP in the **Labour (Co-op)** party.
 
 {% include members/tom-greatrex.md %}

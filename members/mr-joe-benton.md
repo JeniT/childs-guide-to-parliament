@@ -9,8 +9,6 @@ title: "Mr Joe Benton"
 
 ---
 
-## Mr Joe Benton
-
 **Mr Joe Benton** is an MP in the **Labour** party.
 
 {% include members/mr-joe-benton.md %}

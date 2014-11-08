@@ -9,8 +9,6 @@ title: "Euro (Against)"
 
 ---
 
-## Euro (Against)
-
 {% include interests/euro-against.md %}
 
 ### Who is interested in Euro (Against)?

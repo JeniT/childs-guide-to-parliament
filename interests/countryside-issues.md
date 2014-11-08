@@ -9,8 +9,6 @@ title: "Countryside Issues"
 
 ---
 
-## Countryside Issues
-
 {% include interests/countryside-issues.md %}
 
 ### Who is interested in Countryside Issues?

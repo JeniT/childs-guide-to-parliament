@@ -9,8 +9,6 @@ title: "Iain Stewart"
 
 ---
 
-## Iain Stewart
-
 **Iain Stewart** is an MP in the **Conservative** party.
 
 {% include members/iain-stewart.md %}

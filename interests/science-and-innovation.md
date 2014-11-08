@@ -9,8 +9,6 @@ title: "Science And Innovation"
 
 ---
 
-## Science And Innovation
-
 {% include interests/science-and-innovation.md %}
 
 ### Who is interested in Science And Innovation?

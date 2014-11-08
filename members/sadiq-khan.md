@@ -9,8 +9,6 @@ title: "Sadiq Khan"
 
 ---
 
-## Sadiq Khan
-
 **Sadiq Khan** is an MP in the **Labour** party.
 
 {% include members/sadiq-khan.md %}

@@ -9,8 +9,6 @@ title: "Planning And Regeneration"
 
 ---
 
-## Planning And Regeneration
-
 {% include interests/planning-and-regeneration.md %}
 
 ### Who is interested in Planning And Regeneration?

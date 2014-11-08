@@ -9,8 +9,6 @@ title: "Bioethics"
 
 ---
 
-## Bioethics
-
 {% include interests/bioethics.md %}
 
 ### Who is interested in Bioethics?

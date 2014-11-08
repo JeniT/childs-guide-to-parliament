@@ -9,8 +9,6 @@ title: "Financial Education"
 
 ---
 
-## Financial Education
-
 {% include interests/financial-education.md %}
 
 ### Who is interested in Financial Education?

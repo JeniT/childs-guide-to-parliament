@@ -9,8 +9,6 @@ title: "Sir Robert Smith"
 
 ---
 
-## Sir Robert Smith
-
 **Sir Robert Smith** is an MP in the **Liberal Democrat** party.
 
 {% include members/sir-robert-smith.md %}

@@ -9,8 +9,6 @@ title: "Criminal Justice"
 
 ---
 
-## Criminal Justice
-
 {% include interests/criminal-justice.md %}
 
 ### Who is interested in Criminal Justice?

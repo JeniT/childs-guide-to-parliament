@@ -9,8 +9,6 @@ title: "Sir Andrew Stunell"
 
 ---
 
-## Sir Andrew Stunell
-
 **Sir Andrew Stunell** is an MP in the **Liberal Democrat** party.
 
 {% include members/sir-andrew-stunell.md %}

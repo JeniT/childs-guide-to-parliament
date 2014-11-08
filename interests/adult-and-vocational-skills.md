@@ -9,8 +9,6 @@ title: "Adult And Vocational Skills"
 
 ---
 
-## Adult And Vocational Skills
-
 {% include interests/adult-and-vocational-skills.md %}
 
 ### Who is interested in Adult And Vocational Skills?

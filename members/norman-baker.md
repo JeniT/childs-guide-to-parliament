@@ -9,8 +9,6 @@ title: "Norman Baker"
 
 ---
 
-## Norman Baker
-
 **Norman Baker** is an MP in the **Liberal Democrat** party.
 
 {% include members/norman-baker.md %}

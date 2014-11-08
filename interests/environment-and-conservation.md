@@ -9,8 +9,6 @@ title: "Environment And Conservation"
 
 ---
 
-## Environment And Conservation
-
 {% include interests/environment-and-conservation.md %}
 
 ### Who is interested in Environment And Conservation?

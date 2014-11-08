@@ -9,8 +9,6 @@ title: "Nadine Dorries"
 
 ---
 
-## Nadine Dorries
-
 **Nadine Dorries** is an MP in the **Conservative** party.
 
 {% include members/nadine-dorries.md %}

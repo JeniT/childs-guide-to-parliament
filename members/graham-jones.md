@@ -9,8 +9,6 @@ title: "Graham Jones"
 
 ---
 
-## Graham Jones
-
 **Graham Jones** is an MP in the **Labour** party.
 
 {% include members/graham-jones.md %}

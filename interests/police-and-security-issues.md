@@ -9,8 +9,6 @@ title: "Police And Security Issues"
 
 ---
 
-## Police And Security Issues
-
 {% include interests/police-and-security-issues.md %}
 
 ### Who is interested in Police And Security Issues?

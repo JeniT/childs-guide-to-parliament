@@ -9,8 +9,6 @@ title: "Policing And Immigration"
 
 ---
 
-## Policing And Immigration
-
 {% include interests/policing-and-immigration.md %}
 
 ### Who is interested in Policing And Immigration?

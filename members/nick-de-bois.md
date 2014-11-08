@@ -9,8 +9,6 @@ title: "Nick de Bois"
 
 ---
 
-## Nick de Bois
-
 **Nick de Bois** is an MP in the **Conservative** party.
 
 {% include members/nick-de-bois.md %}

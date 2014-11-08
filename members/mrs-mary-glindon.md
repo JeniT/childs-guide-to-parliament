@@ -9,8 +9,6 @@ title: "Mrs Mary Glindon"
 
 ---
 
-## Mrs Mary Glindon
-
 **Mrs Mary Glindon** is an MP in the **Labour** party.
 
 {% include members/mrs-mary-glindon.md %}

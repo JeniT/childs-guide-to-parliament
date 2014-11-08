@@ -9,8 +9,6 @@ title: "Thomas Docherty"
 
 ---
 
-## Thomas Docherty
-
 **Thomas Docherty** is an MP in the **Labour** party.
 
 {% include members/thomas-docherty.md %}

@@ -9,8 +9,6 @@ title: "Glyn Davies"
 
 ---
 
-## Glyn Davies
-
 **Glyn Davies** is an MP in the **Conservative** party.
 
 {% include members/glyn-davies.md %}

@@ -9,8 +9,6 @@ title: "Education Including Universities"
 
 ---
 
-## Education Including Universities
-
 {% include interests/education-including-universities.md %}
 
 ### Who is interested in Education Including Universities?

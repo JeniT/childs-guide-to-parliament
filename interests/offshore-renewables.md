@@ -9,8 +9,6 @@ title: "Offshore Renewables"
 
 ---
 
-## Offshore Renewables
-
 {% include interests/offshore-renewables.md %}
 
 ### Who is interested in Offshore Renewables?

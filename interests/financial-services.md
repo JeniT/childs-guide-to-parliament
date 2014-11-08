@@ -9,8 +9,6 @@ title: "Financial Services"
 
 ---
 
-## Financial Services
-
 {% include interests/financial-services.md %}
 
 ### Who is interested in Financial Services?

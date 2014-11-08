@@ -9,8 +9,6 @@ title: "Food Security"
 
 ---
 
-## Food Security
-
 {% include interests/food-security.md %}
 
 ### Who is interested in Food Security?

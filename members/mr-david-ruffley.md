@@ -9,8 +9,6 @@ title: "Mr David Ruffley"
 
 ---
 
-## Mr David Ruffley
-
 **Mr David Ruffley** is an MP in the **Conservative** party.
 
 {% include members/mr-david-ruffley.md %}

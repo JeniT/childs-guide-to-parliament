@@ -9,8 +9,6 @@ title: "Housing Development"
 
 ---
 
-## Housing Development
-
 {% include interests/housing-development.md %}
 
 ### Who is interested in Housing Development?

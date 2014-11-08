@@ -9,8 +9,6 @@ title: "Charities"
 
 ---
 
-## Charities
-
 {% include interests/charities.md %}
 
 ### Who is interested in Charities?

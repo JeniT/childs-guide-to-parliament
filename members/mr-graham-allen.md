@@ -9,8 +9,6 @@ title: "Mr Graham Allen"
 
 ---
 
-## Mr Graham Allen
-
 **Mr Graham Allen** is an MP in the **Labour** party.
 
 {% include members/mr-graham-allen.md %}

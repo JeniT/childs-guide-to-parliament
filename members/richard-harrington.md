@@ -9,8 +9,6 @@ title: "Richard Harrington"
 
 ---
 
-## Richard Harrington
-
 **Richard Harrington** is an MP in the **Conservative** party.
 
 {% include members/richard-harrington.md %}

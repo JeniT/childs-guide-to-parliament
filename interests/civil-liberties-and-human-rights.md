@@ -9,8 +9,6 @@ title: "Civil Liberties And Human Rights"
 
 ---
 
-## Civil Liberties And Human Rights
-
 {% include interests/civil-liberties-and-human-rights.md %}
 
 ### Who is interested in Civil Liberties And Human Rights?

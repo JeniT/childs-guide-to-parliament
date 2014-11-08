@@ -9,8 +9,6 @@ title: "Farming And Animal Husbandry"
 
 ---
 
-## Farming And Animal Husbandry
-
 {% include interests/farming-and-animal-husbandry.md %}
 
 ### Who is interested in Farming And Animal Husbandry?

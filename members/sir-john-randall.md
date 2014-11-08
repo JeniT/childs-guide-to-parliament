@@ -9,8 +9,6 @@ title: "Sir John Randall"
 
 ---
 
-## Sir John Randall
-
 **Sir John Randall** is an MP in the **Conservative** party.
 
 {% include members/sir-john-randall.md %}

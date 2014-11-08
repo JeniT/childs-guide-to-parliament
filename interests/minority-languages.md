@@ -9,8 +9,6 @@ title: "Minority Languages"
 
 ---
 
-## Minority Languages
-
 {% include interests/minority-languages.md %}
 
 ### Who is interested in Minority Languages?

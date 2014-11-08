@@ -9,8 +9,6 @@ title: "Kate Hoey"
 
 ---
 
-## Kate Hoey
-
 **Kate Hoey** is an MP in the **Labour** party.
 
 {% include members/kate-hoey.md %}

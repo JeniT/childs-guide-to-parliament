@@ -9,8 +9,6 @@ title: "Alison Seabeck"
 
 ---
 
-## Alison Seabeck
-
 **Alison Seabeck** is an MP in the **Labour** party.
 
 {% include members/alison-seabeck.md %}

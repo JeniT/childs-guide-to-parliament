@@ -9,8 +9,6 @@ title: "Dr Hywel Francis"
 
 ---
 
-## Dr Hywel Francis
-
 **Dr Hywel Francis** is an MP in the **Labour** party.
 
 {% include members/dr-hywel-francis.md %}

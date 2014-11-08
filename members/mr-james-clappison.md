@@ -9,8 +9,6 @@ title: "Mr James Clappison"
 
 ---
 
-## Mr James Clappison
-
 **Mr James Clappison** is an MP in the **Conservative** party.
 
 {% include members/mr-james-clappison.md %}

@@ -9,8 +9,6 @@ title: "Wales"
 
 ---
 
-## Wales
-
 {% include interests/wales.md %}
 
 ### Who is interested in Wales?

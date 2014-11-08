@@ -9,8 +9,6 @@ title: "Mr David Willetts"
 
 ---
 
-## Mr David Willetts
-
 **Mr David Willetts** is an MP in the **Conservative** party.
 
 {% include members/mr-david-willetts.md %}

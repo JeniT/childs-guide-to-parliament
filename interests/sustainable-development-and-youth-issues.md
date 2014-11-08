@@ -9,8 +9,6 @@ title: "Sustainable Development And Youth Issues"
 
 ---
 
-## Sustainable Development And Youth Issues
-
 {% include interests/sustainable-development-and-youth-issues.md %}
 
 ### Who is interested in Sustainable Development And Youth Issues?

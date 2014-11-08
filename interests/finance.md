@@ -9,8 +9,6 @@ title: "Finance"
 
 ---
 
-## Finance
-
 {% include interests/finance.md %}
 
 ### Who is interested in Finance?

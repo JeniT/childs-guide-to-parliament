@@ -9,8 +9,6 @@ title: "George Freeman"
 
 ---
 
-## George Freeman
-
 **George Freeman** is an MP in the **Conservative** party.
 
 {% include members/george-freeman.md %}

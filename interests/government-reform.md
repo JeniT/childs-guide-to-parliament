@@ -9,8 +9,6 @@ title: "Government Reform"
 
 ---
 
-## Government Reform
-
 {% include interests/government-reform.md %}
 
 ### Who is interested in Government Reform?

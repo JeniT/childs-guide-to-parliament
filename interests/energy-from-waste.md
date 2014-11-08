@@ -9,8 +9,6 @@ title: "Energy From Waste"
 
 ---
 
-## Energy From Waste
-
 {% include interests/energy-from-waste.md %}
 
 ### Who is interested in Energy From Waste?

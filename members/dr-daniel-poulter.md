@@ -9,8 +9,6 @@ title: "Dr Daniel Poulter"
 
 ---
 
-## Dr Daniel Poulter
-
 **Dr Daniel Poulter** is an MP in the **Conservative** party.
 
 {% include members/dr-daniel-poulter.md %}

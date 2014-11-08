@@ -9,8 +9,6 @@ title: "Universities And Skills"
 
 ---
 
-## Universities And Skills
-
 {% include interests/universities-and-skills.md %}
 
 ### Who is interested in Universities And Skills?

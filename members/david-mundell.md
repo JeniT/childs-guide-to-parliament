@@ -9,8 +9,6 @@ title: "David Mundell"
 
 ---
 
-## David Mundell
-
 **David Mundell** is an MP in the **Conservative** party.
 
 {% include members/david-mundell.md %}

@@ -9,8 +9,6 @@ title: "Conor Murphy"
 
 ---
 
-## Conor Murphy
-
 **Conor Murphy** is an MP in the **Sinn Fein** party.
 
 {% include members/conor-murphy.md %}

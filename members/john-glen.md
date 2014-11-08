@@ -9,8 +9,6 @@ title: "John Glen"
 
 ---
 
-## John Glen
-
 **John Glen** is an MP in the **Conservative** party.
 
 {% include members/john-glen.md %}

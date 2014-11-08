@@ -9,8 +9,6 @@ title: "Agriculture And Fisheries"
 
 ---
 
-## Agriculture And Fisheries
-
 {% include interests/agriculture-and-fisheries.md %}
 
 ### Who is interested in Agriculture And Fisheries?

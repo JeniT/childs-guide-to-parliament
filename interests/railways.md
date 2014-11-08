@@ -9,8 +9,6 @@ title: "Railways"
 
 ---
 
-## Railways
-
 {% include interests/railways.md %}
 
 ### Who is interested in Railways?

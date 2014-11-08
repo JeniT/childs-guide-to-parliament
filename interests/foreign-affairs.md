@@ -9,8 +9,6 @@ title: "Foreign Affairs"
 
 ---
 
-## Foreign Affairs
-
 {% include interests/foreign-affairs.md %}
 
 ### Who is interested in Foreign Affairs?

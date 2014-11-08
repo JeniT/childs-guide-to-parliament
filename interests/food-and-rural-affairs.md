@@ -9,8 +9,6 @@ title: "Food And Rural Affairs"
 
 ---
 
-## Food And Rural Affairs
-
 {% include interests/food-and-rural-affairs.md %}
 
 ### Who is interested in Food And Rural Affairs?

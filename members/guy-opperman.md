@@ -9,8 +9,6 @@ title: "Guy Opperman"
 
 ---
 
-## Guy Opperman
-
 **Guy Opperman** is an MP in the **Conservative** party.
 
 {% include members/guy-opperman.md %}

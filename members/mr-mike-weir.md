@@ -9,8 +9,6 @@ title: "Mr Mike Weir"
 
 ---
 
-## Mr Mike Weir
-
 **Mr Mike Weir** is an MP in the **Scottish National** party.
 
 {% include members/mr-mike-weir.md %}

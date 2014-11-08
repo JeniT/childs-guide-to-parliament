@@ -9,8 +9,6 @@ title: "Meg Munn"
 
 ---
 
-## Meg Munn
-
 **Meg Munn** is an MP in the **Labour (Co-op)** party.
 
 {% include members/meg-munn.md %}

@@ -9,8 +9,6 @@ title: "Simon Reevell"
 
 ---
 
-## Simon Reevell
-
 **Simon Reevell** is an MP in the **Conservative** party.
 
 {% include members/simon-reevell.md %}

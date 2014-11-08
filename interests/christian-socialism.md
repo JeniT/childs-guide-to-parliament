@@ -9,8 +9,6 @@ title: "Christian Socialism"
 
 ---
 
-## Christian Socialism
-
 {% include interests/christian-socialism.md %}
 
 ### Who is interested in Christian Socialism?

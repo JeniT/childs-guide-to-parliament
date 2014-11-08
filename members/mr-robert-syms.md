@@ -9,8 +9,6 @@ title: "Mr Robert Syms"
 
 ---
 
-## Mr Robert Syms
-
 **Mr Robert Syms** is an MP in the **Conservative** party.
 
 {% include members/mr-robert-syms.md %}

@@ -9,8 +9,6 @@ title: "Mrs Eleanor Laing"
 
 ---
 
-## Mrs Eleanor Laing
-
 **Mrs Eleanor Laing** is an MP in the **Conservative** party.
 
 {% include members/mrs-eleanor-laing.md %}

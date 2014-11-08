@@ -9,8 +9,6 @@ title: "Welsh Affairs"
 
 ---
 
-## Welsh Affairs
-
 {% include interests/welsh-affairs.md %}
 
 ### Who is interested in Welsh Affairs?

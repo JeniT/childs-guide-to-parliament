@@ -9,8 +9,6 @@ title: "Mr Andrew Turner"
 
 ---
 
-## Mr Andrew Turner
-
 **Mr Andrew Turner** is an MP in the **Conservative** party.
 
 {% include members/mr-andrew-turner.md %}

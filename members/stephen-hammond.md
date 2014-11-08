@@ -9,8 +9,6 @@ title: "Stephen Hammond"
 
 ---
 
-## Stephen Hammond
-
 **Stephen Hammond** is an MP in the **Conservative** party.
 
 {% include members/stephen-hammond.md %}

@@ -9,8 +9,6 @@ title: "Michael Connarty"
 
 ---
 
-## Michael Connarty
-
 **Michael Connarty** is an MP in the **Labour** party.
 
 {% include members/michael-connarty.md %}

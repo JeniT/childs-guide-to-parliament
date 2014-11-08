@@ -9,8 +9,6 @@ title: "Mr George Howarth"
 
 ---
 
-## Mr George Howarth
-
 **Mr George Howarth** is an MP in the **Labour** party.
 
 {% include members/mr-george-howarth.md %}

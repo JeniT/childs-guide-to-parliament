@@ -9,8 +9,6 @@ title: "Refugees"
 
 ---
 
-## Refugees
-
 {% include interests/refugees.md %}
 
 ### Who is interested in Refugees?

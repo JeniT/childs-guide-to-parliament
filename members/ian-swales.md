@@ -9,8 +9,6 @@ title: "Ian Swales"
 
 ---
 
-## Ian Swales
-
 **Ian Swales** is an MP in the **Liberal Democrat** party.
 
 {% include members/ian-swales.md %}

@@ -9,8 +9,6 @@ title: "Sports Development"
 
 ---
 
-## Sports Development
-
 {% include interests/sports-development.md %}
 
 ### Who is interested in Sports Development?

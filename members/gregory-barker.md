@@ -9,8 +9,6 @@ title: "Gregory Barker"
 
 ---
 
-## Gregory Barker
-
 **Gregory Barker** is an MP in the **Conservative** party.
 
 {% include members/gregory-barker.md %}

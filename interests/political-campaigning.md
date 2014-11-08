@@ -9,8 +9,6 @@ title: "Political Campaigning"
 
 ---
 
-## Political Campaigning
-
 {% include interests/political-campaigning.md %}
 
 ### Who is interested in Political Campaigning?

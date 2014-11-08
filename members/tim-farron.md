@@ -9,8 +9,6 @@ title: "Tim Farron"
 
 ---
 
-## Tim Farron
-
 **Tim Farron** is an MP in the **Liberal Democrat** party.
 
 {% include members/tim-farron.md %}

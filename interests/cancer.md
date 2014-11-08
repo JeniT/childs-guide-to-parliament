@@ -9,8 +9,6 @@ title: "Cancer"
 
 ---
 
-## Cancer
-
 {% include interests/cancer.md %}
 
 ### Who is interested in Cancer?

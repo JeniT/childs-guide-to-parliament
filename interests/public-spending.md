@@ -9,8 +9,6 @@ title: "Public Spending"
 
 ---
 
-## Public Spending
-
 {% include interests/public-spending.md %}
 
 ### Who is interested in Public Spending?

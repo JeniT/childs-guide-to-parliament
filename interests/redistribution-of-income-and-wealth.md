@@ -9,8 +9,6 @@ title: "Redistribution Of Income And Wealth"
 
 ---
 
-## Redistribution Of Income And Wealth
-
 {% include interests/redistribution-of-income-and-wealth.md %}
 
 ### Who is interested in Redistribution Of Income And Wealth?

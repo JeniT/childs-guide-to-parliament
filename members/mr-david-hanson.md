@@ -9,8 +9,6 @@ title: "Mr David Hanson"
 
 ---
 
-## Mr David Hanson
-
 **Mr David Hanson** is an MP in the **Labour** party.
 
 {% include members/mr-david-hanson.md %}

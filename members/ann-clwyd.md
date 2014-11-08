@@ -9,8 +9,6 @@ title: "Ann Clwyd"
 
 ---
 
-## Ann Clwyd
-
 **Ann Clwyd** is an MP in the **Labour** party.
 
 {% include members/ann-clwyd.md %}

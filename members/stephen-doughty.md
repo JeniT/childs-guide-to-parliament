@@ -9,8 +9,6 @@ title: "Stephen Doughty"
 
 ---
 
-## Stephen Doughty
-
 **Stephen Doughty** is an MP in the **Labour (Co-op)** party.
 
 {% include members/stephen-doughty.md %}

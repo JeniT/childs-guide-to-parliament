@@ -9,8 +9,6 @@ title: "Maria Eagle"
 
 ---
 
-## Maria Eagle
-
 **Maria Eagle** is an MP in the **Labour** party.
 
 {% include members/maria-eagle.md %}

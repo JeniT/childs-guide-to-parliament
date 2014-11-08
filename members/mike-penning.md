@@ -9,8 +9,6 @@ title: "Mike Penning"
 
 ---
 
-## Mike Penning
-
 **Mike Penning** is an MP in the **Conservative** party.
 
 {% include members/mike-penning.md %}

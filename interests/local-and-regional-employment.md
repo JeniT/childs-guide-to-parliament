@@ -9,8 +9,6 @@ title: "Local And Regional Employment"
 
 ---
 
-## Local And Regional Employment
-
 {% include interests/local-and-regional-employment.md %}
 
 ### Who is interested in Local And Regional Employment?

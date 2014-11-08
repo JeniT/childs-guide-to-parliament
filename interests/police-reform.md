@@ -9,8 +9,6 @@ title: "Police Reform"
 
 ---
 
-## Police Reform
-
 {% include interests/police-reform.md %}
 
 ### Who is interested in Police Reform?

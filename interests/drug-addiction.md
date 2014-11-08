@@ -9,8 +9,6 @@ title: "Drug Addiction"
 
 ---
 
-## Drug Addiction
-
 {% include interests/drug-addiction.md %}
 
 ### Who is interested in Drug Addiction?

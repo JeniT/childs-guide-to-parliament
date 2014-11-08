@@ -9,8 +9,6 @@ title: "Infrastructure"
 
 ---
 
-## Infrastructure
-
 {% include interests/infrastructure.md %}
 
 ### Who is interested in Infrastructure?

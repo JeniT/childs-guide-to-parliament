@@ -9,8 +9,6 @@ title: "James Duddridge"
 
 ---
 
-## James Duddridge
-
 **James Duddridge** is an MP in the **Conservative** party.
 
 {% include members/james-duddridge.md %}

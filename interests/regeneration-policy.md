@@ -9,8 +9,6 @@ title: "Regeneration Policy"
 
 ---
 
-## Regeneration Policy
-
 {% include interests/regeneration-policy.md %}
 
 ### Who is interested in Regeneration Policy?

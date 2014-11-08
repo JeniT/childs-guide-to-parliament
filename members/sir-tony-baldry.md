@@ -9,8 +9,6 @@ title: "Sir Tony Baldry"
 
 ---
 
-## Sir Tony Baldry
-
 **Sir Tony Baldry** is an MP in the **Conservative** party.
 
 {% include members/sir-tony-baldry.md %}

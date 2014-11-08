@@ -9,8 +9,6 @@ title: "Engineering"
 
 ---
 
-## Engineering
-
 {% include interests/engineering.md %}
 
 ### Who is interested in Engineering?

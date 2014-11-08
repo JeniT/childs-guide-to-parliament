@@ -9,8 +9,6 @@ title: "Dr Alan Whitehead"
 
 ---
 
-## Dr Alan Whitehead
-
 **Dr Alan Whitehead** is an MP in the **Labour** party.
 
 {% include members/dr-alan-whitehead.md %}

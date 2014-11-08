@@ -9,8 +9,6 @@ title: "Sir Gerald Kaufman"
 
 ---
 
-## Sir Gerald Kaufman
-
 **Sir Gerald Kaufman** is an MP in the **Labour** party.
 
 {% include members/sir-gerald-kaufman.md %}

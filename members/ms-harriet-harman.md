@@ -9,8 +9,6 @@ title: "Ms Harriet Harman"
 
 ---
 
-## Ms Harriet Harman
-
 **Ms Harriet Harman** is an MP in the **Labour** party.
 
 {% include members/ms-harriet-harman.md %}

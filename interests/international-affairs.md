@@ -9,8 +9,6 @@ title: "International Affairs"
 
 ---
 
-## International Affairs
-
 {% include interests/international-affairs.md %}
 
 ### Who is interested in International Affairs?

@@ -9,8 +9,6 @@ title: "Richard Benyon"
 
 ---
 
-## Richard Benyon
-
 **Richard Benyon** is an MP in the **Conservative** party.
 
 {% include members/richard-benyon.md %}

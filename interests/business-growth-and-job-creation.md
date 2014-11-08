@@ -9,8 +9,6 @@ title: "Business Growth And Job Creation"
 
 ---
 
-## Business Growth And Job Creation
-
 {% include interests/business-growth-and-job-creation.md %}
 
 ### Who is interested in Business Growth And Job Creation?

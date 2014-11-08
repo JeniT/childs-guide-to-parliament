@@ -9,8 +9,6 @@ title: "Elizabeth Truss"
 
 ---
 
-## Elizabeth Truss
-
 **Elizabeth Truss** is an MP in the **Conservative** party.
 
 {% include members/elizabeth-truss.md %}

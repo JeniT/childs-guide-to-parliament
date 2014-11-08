@@ -9,8 +9,6 @@ title: "Sarah Champion"
 
 ---
 
-## Sarah Champion
-
 **Sarah Champion** is an MP in the **Labour** party.
 
 {% include members/sarah-champion.md %}

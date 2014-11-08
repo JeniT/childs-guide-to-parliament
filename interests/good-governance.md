@@ -9,8 +9,6 @@ title: "Good Governance"
 
 ---
 
-## Good Governance
-
 {% include interests/good-governance.md %}
 
 ### Who is interested in Good Governance?

@@ -9,8 +9,6 @@ title: "Recycling And Renewable Energy"
 
 ---
 
-## Recycling And Renewable Energy
-
 {% include interests/recycling-and-renewable-energy.md %}
 
 ### Who is interested in Recycling And Renewable Energy?

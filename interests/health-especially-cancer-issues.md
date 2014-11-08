@@ -9,8 +9,6 @@ title: "Health (Especially Cancer Issues)"
 
 ---
 
-## Health (Especially Cancer Issues)
-
 {% include interests/health-especially-cancer-issues.md %}
 
 ### Who is interested in Health (Especially Cancer Issues)?

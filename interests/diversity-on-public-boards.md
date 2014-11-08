@@ -9,8 +9,6 @@ title: "Diversity On Public Boards"
 
 ---
 
-## Diversity On Public Boards
-
 {% include interests/diversity-on-public-boards.md %}
 
 ### Who is interested in Diversity On Public Boards?

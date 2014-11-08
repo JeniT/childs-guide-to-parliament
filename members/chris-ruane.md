@@ -9,8 +9,6 @@ title: "Chris Ruane"
 
 ---
 
-## Chris Ruane
-
 **Chris Ruane** is an MP in the **Labour** party.
 
 {% include members/chris-ruane.md %}

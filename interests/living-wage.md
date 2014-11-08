@@ -9,8 +9,6 @@ title: "Living Wage"
 
 ---
 
-## Living Wage
-
 {% include interests/living-wage.md %}
 
 ### Who is interested in Living Wage?

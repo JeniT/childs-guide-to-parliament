@@ -9,8 +9,6 @@ title: "Mary Macleod"
 
 ---
 
-## Mary Macleod
-
 **Mary Macleod** is an MP in the **Conservative** party.
 
 {% include members/mary-macleod.md %}

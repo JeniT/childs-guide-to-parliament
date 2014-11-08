@@ -9,8 +9,6 @@ title: "Recreation"
 
 ---
 
-## Recreation
-
 {% include interests/recreation.md %}
 
 ### Who is interested in Recreation?

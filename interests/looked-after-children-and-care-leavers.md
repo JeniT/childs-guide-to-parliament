@@ -9,8 +9,6 @@ title: "Looked After Children And Care Leavers"
 
 ---
 
-## Looked After Children And Care Leavers
-
 {% include interests/looked-after-children-and-care-leavers.md %}
 
 ### Who is interested in Looked After Children And Care Leavers?

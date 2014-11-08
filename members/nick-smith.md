@@ -9,8 +9,6 @@ title: "Nick Smith"
 
 ---
 
-## Nick Smith
-
 **Nick Smith** is an MP in the **Labour** party.
 
 {% include members/nick-smith.md %}

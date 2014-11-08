@@ -9,8 +9,6 @@ title: "Mr Mark Prisk"
 
 ---
 
-## Mr Mark Prisk
-
 **Mr Mark Prisk** is an MP in the **Conservative** party.
 
 {% include members/mr-mark-prisk.md %}

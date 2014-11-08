@@ -9,8 +9,6 @@ title: "Local Economic Regeneration"
 
 ---
 
-## Local Economic Regeneration
-
 {% include interests/local-economic-regeneration.md %}
 
 ### Who is interested in Local Economic Regeneration?

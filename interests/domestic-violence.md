@@ -9,8 +9,6 @@ title: "Domestic Violence"
 
 ---
 
-## Domestic Violence
-
 {% include interests/domestic-violence.md %}
 
 ### Who is interested in Domestic Violence?

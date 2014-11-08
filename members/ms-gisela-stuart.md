@@ -9,8 +9,6 @@ title: "Ms Gisela Stuart"
 
 ---
 
-## Ms Gisela Stuart
-
 **Ms Gisela Stuart** is an MP in the **Labour** party.
 
 {% include members/ms-gisela-stuart.md %}

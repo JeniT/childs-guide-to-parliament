@@ -9,8 +9,6 @@ title: "Dame  Anne Begg"
 
 ---
 
-## Dame  Anne Begg
-
 **Dame  Anne Begg** is an MP in the **Labour** party.
 
 {% include members/dame-anne-begg.md %}

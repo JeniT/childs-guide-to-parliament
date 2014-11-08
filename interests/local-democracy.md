@@ -9,8 +9,6 @@ title: "Local Democracy"
 
 ---
 
-## Local Democracy
-
 {% include interests/local-democracy.md %}
 
 ### Who is interested in Local Democracy?

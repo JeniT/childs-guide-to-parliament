@@ -9,8 +9,6 @@ title: "Martin Vickers"
 
 ---
 
-## Martin Vickers
-
 **Martin Vickers** is an MP in the **Conservative** party.
 
 {% include members/martin-vickers.md %}

@@ -9,8 +9,6 @@ title: "Chi Onwurah"
 
 ---
 
-## Chi Onwurah
-
 **Chi Onwurah** is an MP in the **Labour** party.
 
 {% include members/chi-onwurah.md %}

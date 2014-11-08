@@ -9,8 +9,6 @@ title: "Further Education"
 
 ---
 
-## Further Education
-
 {% include interests/further-education.md %}
 
 ### Who is interested in Further Education?

@@ -9,8 +9,6 @@ title: "Cornwall"
 
 ---
 
-## Cornwall
-
 {% include interests/cornwall.md %}
 
 ### Who is interested in Cornwall?

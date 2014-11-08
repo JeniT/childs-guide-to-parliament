@@ -9,8 +9,6 @@ title: "Dr Julian Lewis"
 
 ---
 
-## Dr Julian Lewis
-
 **Dr Julian Lewis** is an MP in the **Conservative** party.
 
 {% include members/dr-julian-lewis.md %}

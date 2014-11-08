@@ -9,8 +9,6 @@ title: "Jeremy Corbyn"
 
 ---
 
-## Jeremy Corbyn
-
 **Jeremy Corbyn** is an MP in the **Labour** party.
 
 {% include members/jeremy-corbyn.md %}

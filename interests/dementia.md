@@ -9,8 +9,6 @@ title: "Dementia"
 
 ---
 
-## Dementia
-
 {% include interests/dementia.md %}
 
 ### Who is interested in Dementia?

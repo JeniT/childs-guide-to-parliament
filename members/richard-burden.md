@@ -9,8 +9,6 @@ title: "Richard Burden"
 
 ---
 
-## Richard Burden
-
 **Richard Burden** is an MP in the **Labour** party.
 
 {% include members/richard-burden.md %}

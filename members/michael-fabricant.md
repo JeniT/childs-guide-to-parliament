@@ -9,8 +9,6 @@ title: "Michael Fabricant"
 
 ---
 
-## Michael Fabricant
-
 **Michael Fabricant** is an MP in the **Conservative** party.
 
 {% include members/michael-fabricant.md %}

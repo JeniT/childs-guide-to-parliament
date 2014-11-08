@@ -9,8 +9,6 @@ title: "Rosie Cooper"
 
 ---
 
-## Rosie Cooper
-
 **Rosie Cooper** is an MP in the **Labour** party.
 
 {% include members/rosie-cooper.md %}

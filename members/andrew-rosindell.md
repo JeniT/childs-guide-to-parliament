@@ -9,8 +9,6 @@ title: "Andrew Rosindell"
 
 ---
 
-## Andrew Rosindell
-
 **Andrew Rosindell** is an MP in the **Conservative** party.
 
 {% include members/andrew-rosindell.md %}

@@ -9,8 +9,6 @@ title: "Bill Wiggin"
 
 ---
 
-## Bill Wiggin
-
 **Bill Wiggin** is an MP in the **Conservative** party.
 
 {% include members/bill-wiggin.md %}

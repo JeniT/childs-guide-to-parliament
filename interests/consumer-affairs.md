@@ -9,8 +9,6 @@ title: "Consumer Affairs"
 
 ---
 
-## Consumer Affairs
-
 {% include interests/consumer-affairs.md %}
 
 ### Who is interested in Consumer Affairs?

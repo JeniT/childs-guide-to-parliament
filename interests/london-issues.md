@@ -9,8 +9,6 @@ title: "London Issues"
 
 ---
 
-## London Issues
-
 {% include interests/london-issues.md %}
 
 ### Who is interested in London Issues?

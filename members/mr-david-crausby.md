@@ -9,8 +9,6 @@ title: "Mr David Crausby"
 
 ---
 
-## Mr David Crausby
-
 **Mr David Crausby** is an MP in the **Labour** party.
 
 {% include members/mr-david-crausby.md %}

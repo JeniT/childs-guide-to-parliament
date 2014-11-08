@@ -9,8 +9,6 @@ title: "Sheila Gilmore"
 
 ---
 
-## Sheila Gilmore
-
 **Sheila Gilmore** is an MP in the **Labour** party.
 
 {% include members/sheila-gilmore.md %}

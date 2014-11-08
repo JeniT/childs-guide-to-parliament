@@ -9,8 +9,6 @@ title: "Christian Values"
 
 ---
 
-## Christian Values
-
 {% include interests/christian-values.md %}
 
 ### Who is interested in Christian Values?

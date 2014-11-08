@@ -9,8 +9,6 @@ title: "Evidence-Based Policy"
 
 ---
 
-## Evidence-Based Policy
-
 {% include interests/evidence-based-policy.md %}
 
 ### Who is interested in Evidence-Based Policy?

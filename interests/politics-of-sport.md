@@ -9,8 +9,6 @@ title: "Politics Of Sport"
 
 ---
 
-## Politics Of Sport
-
 {% include interests/politics-of-sport.md %}
 
 ### Who is interested in Politics Of Sport?

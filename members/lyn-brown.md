@@ -9,8 +9,6 @@ title: "Lyn Brown"
 
 ---
 
-## Lyn Brown
-
 **Lyn Brown** is an MP in the **Labour** party.
 
 {% include members/lyn-brown.md %}

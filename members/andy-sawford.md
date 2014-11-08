@@ -9,8 +9,6 @@ title: "Andy Sawford"
 
 ---
 
-## Andy Sawford
-
 **Andy Sawford** is an MP in the **Labour (Co-op)** party.
 
 {% include members/andy-sawford.md %}

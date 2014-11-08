@@ -9,8 +9,6 @@ title: "Public Administration"
 
 ---
 
-## Public Administration
-
 {% include interests/public-administration.md %}
 
 ### Who is interested in Public Administration?

@@ -9,8 +9,6 @@ title: "Mark Pritchard"
 
 ---
 
-## Mark Pritchard
-
 **Mark Pritchard** is an MP in the **Conservative** party.
 
 {% include members/mark-pritchard.md %}

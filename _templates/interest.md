@@ -9,8 +9,6 @@ title: "$name"
 
 ---
 
-## $name
-
 {% include interests/$slug.md %}
 
 ### Who is interested in $name?

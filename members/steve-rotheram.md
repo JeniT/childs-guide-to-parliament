@@ -9,8 +9,6 @@ title: "Steve Rotheram"
 
 ---
 
-## Steve Rotheram
-
 **Steve Rotheram** is an MP in the **Labour** party.
 
 {% include members/steve-rotheram.md %}

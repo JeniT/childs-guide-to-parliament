@@ -9,8 +9,6 @@ title: "Kris Hopkins"
 
 ---
 
-## Kris Hopkins
-
 **Kris Hopkins** is an MP in the **Conservative** party.
 
 {% include members/kris-hopkins.md %}

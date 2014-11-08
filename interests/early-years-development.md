@@ -9,8 +9,6 @@ title: "Early Years Development"
 
 ---
 
-## Early Years Development
-
 {% include interests/early-years-development.md %}
 
 ### Who is interested in Early Years Development?

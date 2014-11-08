@@ -9,8 +9,6 @@ title: "Charity Reform"
 
 ---
 
-## Charity Reform
-
 {% include interests/charity-reform.md %}
 
 ### Who is interested in Charity Reform?

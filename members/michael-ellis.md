@@ -9,8 +9,6 @@ title: "Michael Ellis"
 
 ---
 
-## Michael Ellis
-
 **Michael Ellis** is an MP in the **Conservative** party.
 
 {% include members/michael-ellis.md %}

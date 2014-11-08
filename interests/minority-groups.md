@@ -9,8 +9,6 @@ title: "Minority Groups"
 
 ---
 
-## Minority Groups
-
 {% include interests/minority-groups.md %}
 
 ### Who is interested in Minority Groups?

@@ -9,8 +9,6 @@ title: "Food Retailing"
 
 ---
 
-## Food Retailing
-
 {% include interests/food-retailing.md %}
 
 ### Who is interested in Food Retailing?

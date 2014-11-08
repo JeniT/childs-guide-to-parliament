@@ -9,8 +9,6 @@ title: "Care Of The Elderly"
 
 ---
 
-## Care Of The Elderly
-
 {% include interests/care-of-the-elderly.md %}
 
 ### Who is interested in Care Of The Elderly?

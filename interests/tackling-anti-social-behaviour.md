@@ -9,8 +9,6 @@ title: "Tackling Anti-Social Behaviour"
 
 ---
 
-## Tackling Anti-Social Behaviour
-
 {% include interests/tackling-anti-social-behaviour.md %}
 
 ### Who is interested in Tackling Anti-Social Behaviour?

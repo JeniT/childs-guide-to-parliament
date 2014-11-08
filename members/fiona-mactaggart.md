@@ -9,8 +9,6 @@ title: "Fiona Mactaggart"
 
 ---
 
-## Fiona Mactaggart
-
 **Fiona Mactaggart** is an MP in the **Labour** party.
 
 {% include members/fiona-mactaggart.md %}

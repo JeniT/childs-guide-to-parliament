@@ -9,8 +9,6 @@ title: "Jim Sheridan"
 
 ---
 
-## Jim Sheridan
-
 **Jim Sheridan** is an MP in the **Labour** party.
 
 {% include members/jim-sheridan.md %}

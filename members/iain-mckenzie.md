@@ -9,8 +9,6 @@ title: "Iain McKenzie"
 
 ---
 
-## Iain McKenzie
-
 **Iain McKenzie** is an MP in the **Labour** party.
 
 {% include members/iain-mckenzie.md %}

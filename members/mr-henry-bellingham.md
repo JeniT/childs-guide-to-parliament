@@ -9,8 +9,6 @@ title: "Mr Henry Bellingham"
 
 ---
 
-## Mr Henry Bellingham
-
 **Mr Henry Bellingham** is an MP in the **Conservative** party.
 
 {% include members/mr-henry-bellingham.md %}

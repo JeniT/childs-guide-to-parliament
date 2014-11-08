@@ -9,8 +9,6 @@ title: "Stephen Metcalfe"
 
 ---
 
-## Stephen Metcalfe
-
 **Stephen Metcalfe** is an MP in the **Conservative** party.
 
 {% include members/stephen-metcalfe.md %}

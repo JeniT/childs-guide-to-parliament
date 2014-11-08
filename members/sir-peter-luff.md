@@ -9,8 +9,6 @@ title: "Sir Peter Luff"
 
 ---
 
-## Sir Peter Luff
-
 **Sir Peter Luff** is an MP in the **Conservative** party.
 
 {% include members/sir-peter-luff.md %}

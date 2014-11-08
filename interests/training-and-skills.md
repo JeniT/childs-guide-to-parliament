@@ -9,8 +9,6 @@ title: "Training And Skills"
 
 ---
 
-## Training And Skills
-
 {% include interests/training-and-skills.md %}
 
 ### Who is interested in Training And Skills?

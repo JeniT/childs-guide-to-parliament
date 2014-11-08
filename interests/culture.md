@@ -9,8 +9,6 @@ title: "Culture"
 
 ---
 
-## Culture
-
 {% include interests/culture.md %}
 
 ### Who is interested in Culture?

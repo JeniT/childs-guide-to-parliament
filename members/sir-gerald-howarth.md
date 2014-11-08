@@ -9,8 +9,6 @@ title: "Sir Gerald Howarth"
 
 ---
 
-## Sir Gerald Howarth
-
 **Sir Gerald Howarth** is an MP in the **Conservative** party.
 
 {% include members/sir-gerald-howarth.md %}

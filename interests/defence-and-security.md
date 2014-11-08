@@ -9,8 +9,6 @@ title: "Defence And Security"
 
 ---
 
-## Defence And Security
-
 {% include interests/defence-and-security.md %}
 
 ### Who is interested in Defence And Security?

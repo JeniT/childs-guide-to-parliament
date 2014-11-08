@@ -9,8 +9,6 @@ title: "Defence"
 
 ---
 
-## Defence
-
 {% include interests/defence.md %}
 
 ### Who is interested in Defence?

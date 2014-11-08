@@ -9,8 +9,6 @@ title: "Family Moral And Social Affairs"
 
 ---
 
-## Family Moral And Social Affairs
-
 {% include interests/family-moral-and-social-affairs.md %}
 
 ### Who is interested in Family Moral And Social Affairs?

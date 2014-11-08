@@ -9,8 +9,6 @@ title: "Mr Robin Walker"
 
 ---
 
-## Mr Robin Walker
-
 **Mr Robin Walker** is an MP in the **Conservative** party.
 
 {% include members/mr-robin-walker.md %}

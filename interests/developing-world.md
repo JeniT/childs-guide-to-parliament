@@ -9,8 +9,6 @@ title: "Developing World"
 
 ---
 
-## Developing World
-
 {% include interests/developing-world.md %}
 
 ### Who is interested in Developing World?

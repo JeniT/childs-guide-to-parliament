@@ -9,8 +9,6 @@ title: "Sport And Tourism"
 
 ---
 
-## Sport And Tourism
-
 {% include interests/sport-and-tourism.md %}
 
 ### Who is interested in Sport And Tourism?

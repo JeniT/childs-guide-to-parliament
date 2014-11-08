@@ -9,8 +9,6 @@ title: "John Mann"
 
 ---
 
-## John Mann
-
 **John Mann** is an MP in the **Labour** party.
 
 {% include members/john-mann.md %}

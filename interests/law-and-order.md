@@ -9,8 +9,6 @@ title: "Law And Order"
 
 ---
 
-## Law And Order
-
 {% include interests/law-and-order.md %}
 
 ### Who is interested in Law And Order?

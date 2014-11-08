@@ -9,8 +9,6 @@ title: "Country Sports"
 
 ---
 
-## Country Sports
-
 {% include interests/country-sports.md %}
 
 ### Who is interested in Country Sports?

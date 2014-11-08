@@ -9,8 +9,6 @@ title: "Fuel Tax"
 
 ---
 
-## Fuel Tax
-
 {% include interests/fuel-tax.md %}
 
 ### Who is interested in Fuel Tax?

@@ -9,8 +9,6 @@ title: "Agriculture And The Rural Economy"
 
 ---
 
-## Agriculture And The Rural Economy
-
 {% include interests/agriculture-and-the-rural-economy.md %}
 
 ### Who is interested in Agriculture And The Rural Economy?

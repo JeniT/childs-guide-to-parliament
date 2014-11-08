@@ -9,8 +9,6 @@ title: "Mr Jim Murphy"
 
 ---
 
-## Mr Jim Murphy
-
 **Mr Jim Murphy** is an MP in the **Labour** party.
 
 {% include members/mr-jim-murphy.md %}

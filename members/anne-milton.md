@@ -9,8 +9,6 @@ title: "Anne Milton"
 
 ---
 
-## Anne Milton
-
 **Anne Milton** is an MP in the **Conservative** party.
 
 {% include members/anne-milton.md %}

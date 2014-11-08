@@ -9,8 +9,6 @@ title: "Third World"
 
 ---
 
-## Third World
-
 {% include interests/third-world.md %}
 
 ### Who is interested in Third World?

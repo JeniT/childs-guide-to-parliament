@@ -9,8 +9,6 @@ title: "Science Policy"
 
 ---
 
-## Science Policy
-
 {% include interests/science-policy.md %}
 
 ### Who is interested in Science Policy?

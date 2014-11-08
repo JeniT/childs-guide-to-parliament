@@ -9,8 +9,6 @@ title: "Emma Reynolds"
 
 ---
 
-## Emma Reynolds
-
 **Emma Reynolds** is an MP in the **Labour** party.
 
 {% include members/emma-reynolds.md %}

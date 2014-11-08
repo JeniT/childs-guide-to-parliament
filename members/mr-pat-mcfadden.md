@@ -9,8 +9,6 @@ title: "Mr Pat McFadden"
 
 ---
 
-## Mr Pat McFadden
-
 **Mr Pat McFadden** is an MP in the **Labour** party.
 
 {% include members/mr-pat-mcfadden.md %}

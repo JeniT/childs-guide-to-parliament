@@ -9,8 +9,6 @@ title: "Mr Aidan Burley"
 
 ---
 
-## Mr Aidan Burley
-
 **Mr Aidan Burley** is an MP in the **Conservative** party.
 
 {% include members/mr-aidan-burley.md %}

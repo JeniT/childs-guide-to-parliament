@@ -9,8 +9,6 @@ title: "David Wright"
 
 ---
 
-## David Wright
-
 **David Wright** is an MP in the **Labour** party.
 
 {% include members/david-wright.md %}

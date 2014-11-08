@@ -9,8 +9,6 @@ title: "Economics And Social Policy"
 
 ---
 
-## Economics And Social Policy
-
 {% include interests/economics-and-social-policy.md %}
 
 ### Who is interested in Economics And Social Policy?

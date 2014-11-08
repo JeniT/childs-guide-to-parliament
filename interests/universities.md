@@ -9,8 +9,6 @@ title: "Universities"
 
 ---
 
-## Universities
-
 {% include interests/universities.md %}
 
 ### Who is interested in Universities?

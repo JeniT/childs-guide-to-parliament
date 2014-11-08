@@ -9,8 +9,6 @@ title: "Broadcasting And Media"
 
 ---
 
-## Broadcasting And Media
-
 {% include interests/broadcasting-and-media.md %}
 
 ### Who is interested in Broadcasting And Media?

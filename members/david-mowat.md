@@ -9,8 +9,6 @@ title: "David Mowat"
 
 ---
 
-## David Mowat
-
 **David Mowat** is an MP in the **Conservative** party.
 
 {% include members/david-mowat.md %}

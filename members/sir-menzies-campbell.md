@@ -9,8 +9,6 @@ title: "Sir Menzies Campbell"
 
 ---
 
-## Sir Menzies Campbell
-
 **Sir Menzies Campbell** is an MP in the **Liberal Democrat** party.
 
 {% include members/sir-menzies-campbell.md %}

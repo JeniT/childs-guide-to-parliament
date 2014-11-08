@@ -9,8 +9,6 @@ title: "Ian Mearns"
 
 ---
 
-## Ian Mearns
-
 **Ian Mearns** is an MP in the **Labour** party.
 
 {% include members/ian-mearns.md %}

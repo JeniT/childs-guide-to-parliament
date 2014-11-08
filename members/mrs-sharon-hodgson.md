@@ -9,8 +9,6 @@ title: "Mrs Sharon Hodgson"
 
 ---
 
-## Mrs Sharon Hodgson
-
 **Mrs Sharon Hodgson** is an MP in the **Labour** party.
 
 {% include members/mrs-sharon-hodgson.md %}

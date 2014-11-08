@@ -9,8 +9,6 @@ title: "Creative Industries"
 
 ---
 
-## Creative Industries
-
 {% include interests/creative-industries.md %}
 
 ### Who is interested in Creative Industries?

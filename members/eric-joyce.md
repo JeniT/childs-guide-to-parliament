@@ -9,8 +9,6 @@ title: "Eric Joyce"
 
 ---
 
-## Eric Joyce
-
 **Eric Joyce** is an MP in the **Independent** party.
 
 {% include members/eric-joyce.md %}

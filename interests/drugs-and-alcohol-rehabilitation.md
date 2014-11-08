@@ -9,8 +9,6 @@ title: "Drugs And Alcohol Rehabilitation"
 
 ---
 
-## Drugs And Alcohol Rehabilitation
-
 {% include interests/drugs-and-alcohol-rehabilitation.md %}
 
 ### Who is interested in Drugs And Alcohol Rehabilitation?

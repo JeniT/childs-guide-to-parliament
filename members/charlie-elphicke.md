@@ -9,8 +9,6 @@ title: "Charlie Elphicke"
 
 ---
 
-## Charlie Elphicke
-
 **Charlie Elphicke** is an MP in the **Conservative** party.
 
 {% include members/charlie-elphicke.md %}

@@ -9,8 +9,6 @@ title: "John Hemming"
 
 ---
 
-## John Hemming
-
 **John Hemming** is an MP in the **Liberal Democrat** party.
 
 {% include members/john-hemming.md %}

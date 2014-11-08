@@ -9,8 +9,6 @@ title: "Women'S Issues"
 
 ---
 
-## Women'S Issues
-
 {% include interests/womens-issues.md %}
 
 ### Who is interested in Women'S Issues?

@@ -9,8 +9,6 @@ title: "Child Poverty"
 
 ---
 
-## Child Poverty
-
 {% include interests/child-poverty.md %}
 
 ### Who is interested in Child Poverty?

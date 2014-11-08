@@ -9,8 +9,6 @@ title: "Gavin Williamson"
 
 ---
 
-## Gavin Williamson
-
 **Gavin Williamson** is an MP in the **Conservative** party.
 
 {% include members/gavin-williamson.md %}

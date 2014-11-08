@@ -9,8 +9,6 @@ title: "Racing"
 
 ---
 
-## Racing
-
 {% include interests/racing.md %}
 
 ### Who is interested in Racing?

@@ -9,8 +9,6 @@ title: "Public Services"
 
 ---
 
-## Public Services
-
 {% include interests/public-services.md %}
 
 ### Who is interested in Public Services?

@@ -9,8 +9,6 @@ title: "Space Industry"
 
 ---
 
-## Space Industry
-
 {% include interests/space-industry.md %}
 
 ### Who is interested in Space Industry?

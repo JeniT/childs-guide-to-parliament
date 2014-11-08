@@ -9,8 +9,6 @@ title: "Kerry McCarthy"
 
 ---
 
-## Kerry McCarthy
-
 **Kerry McCarthy** is an MP in the **Labour** party.
 
 {% include members/kerry-mccarthy.md %}

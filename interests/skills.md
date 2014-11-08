@@ -9,8 +9,6 @@ title: "Skills"
 
 ---
 
-## Skills
-
 {% include interests/skills.md %}
 
 ### Who is interested in Skills?

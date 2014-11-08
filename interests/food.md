@@ -9,8 +9,6 @@ title: "Food"
 
 ---
 
-## Food
-
 {% include interests/food.md %}
 
 ### Who is interested in Food?

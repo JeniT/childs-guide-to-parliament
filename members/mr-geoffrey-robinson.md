@@ -9,8 +9,6 @@ title: "Mr Geoffrey Robinson"
 
 ---
 
-## Mr Geoffrey Robinson
-
 **Mr Geoffrey Robinson** is an MP in the **Labour** party.
 
 {% include members/mr-geoffrey-robinson.md %}

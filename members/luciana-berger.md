@@ -9,8 +9,6 @@ title: "Luciana Berger"
 
 ---
 
-## Luciana Berger
-
 **Luciana Berger** is an MP in the **Labour (Co-op)** party.
 
 {% include members/luciana-berger.md %}

@@ -9,8 +9,6 @@ title: "Holocaust Education"
 
 ---
 
-## Holocaust Education
-
 {% include interests/holocaust-education.md %}
 
 ### Who is interested in Holocaust Education?

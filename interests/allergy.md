@@ -9,8 +9,6 @@ title: "Allergy"
 
 ---
 
-## Allergy
-
 {% include interests/allergy.md %}
 
 ### Who is interested in Allergy?

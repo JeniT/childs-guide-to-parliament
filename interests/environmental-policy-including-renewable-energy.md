@@ -9,8 +9,6 @@ title: "Environmental Policy Including Renewable Energy"
 
 ---
 
-## Environmental Policy Including Renewable Energy
-
 {% include interests/environmental-policy-including-renewable-energy.md %}
 
 ### Who is interested in Environmental Policy Including Renewable Energy?

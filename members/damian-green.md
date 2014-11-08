@@ -9,8 +9,6 @@ title: "Damian Green"
 
 ---
 
-## Damian Green
-
 **Damian Green** is an MP in the **Conservative** party.
 
 {% include members/damian-green.md %}

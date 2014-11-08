@@ -9,8 +9,6 @@ title: "Welfare State"
 
 ---
 
-## Welfare State
-
 {% include interests/welfare-state.md %}
 
 ### Who is interested in Welfare State?

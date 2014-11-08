@@ -9,8 +9,6 @@ title: "Francie Molloy"
 
 ---
 
-## Francie Molloy
-
 **Francie Molloy** is an MP in the **Sinn Fein** party.
 
 {% include members/francie-molloy.md %}

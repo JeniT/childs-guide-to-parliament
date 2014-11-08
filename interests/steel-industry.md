@@ -9,8 +9,6 @@ title: "Steel Industry"
 
 ---
 
-## Steel Industry
-
 {% include interests/steel-industry.md %}
 
 ### Who is interested in Steel Industry?

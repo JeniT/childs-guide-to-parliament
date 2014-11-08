@@ -9,8 +9,6 @@ title: "Business Relations With India And The Middle East"
 
 ---
 
-## Business Relations With India And The Middle East
-
 {% include interests/business-relations-with-india-and-the-middle-east.md %}
 
 ### Who is interested in Business Relations With India And The Middle East?

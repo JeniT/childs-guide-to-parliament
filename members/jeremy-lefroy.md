@@ -9,8 +9,6 @@ title: "Jeremy Lefroy"
 
 ---
 
-## Jeremy Lefroy
-
 **Jeremy Lefroy** is an MP in the **Conservative** party.
 
 {% include members/jeremy-lefroy.md %}

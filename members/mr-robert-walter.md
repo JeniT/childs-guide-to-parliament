@@ -9,8 +9,6 @@ title: "Mr Robert Walter"
 
 ---
 
-## Mr Robert Walter
-
 **Mr Robert Walter** is an MP in the **Conservative** party.
 
 {% include members/mr-robert-walter.md %}

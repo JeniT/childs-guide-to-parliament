@@ -9,8 +9,6 @@ title: "Lifelong Learning"
 
 ---
 
-## Lifelong Learning
-
 {% include interests/lifelong-learning.md %}
 
 ### Who is interested in Lifelong Learning?

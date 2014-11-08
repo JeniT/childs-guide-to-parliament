@@ -9,8 +9,6 @@ title: "Mr Brooks Newmark"
 
 ---
 
-## Mr Brooks Newmark
-
 **Mr Brooks Newmark** is an MP in the **Conservative** party.
 
 {% include members/mr-brooks-newmark.md %}

@@ -9,8 +9,6 @@ title: "Karl McCartney"
 
 ---
 
-## Karl McCartney
-
 **Karl McCartney** is an MP in the **Conservative** party.
 
 {% include members/karl-mccartney.md %}

@@ -9,8 +9,6 @@ title: "Homeland Security"
 
 ---
 
-## Homeland Security
-
 {% include interests/homeland-security.md %}
 
 ### Who is interested in Homeland Security?

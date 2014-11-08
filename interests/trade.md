@@ -9,8 +9,6 @@ title: "Trade"
 
 ---
 
-## Trade
-
 {% include interests/trade.md %}
 
 ### Who is interested in Trade?

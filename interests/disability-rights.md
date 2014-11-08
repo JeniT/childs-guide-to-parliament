@@ -9,8 +9,6 @@ title: "Disability Rights"
 
 ---
 
-## Disability Rights
-
 {% include interests/disability-rights.md %}
 
 ### Who is interested in Disability Rights?

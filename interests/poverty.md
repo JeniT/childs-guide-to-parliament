@@ -9,8 +9,6 @@ title: "Poverty"
 
 ---
 
-## Poverty
-
 {% include interests/poverty.md %}
 
 ### Who is interested in Poverty?

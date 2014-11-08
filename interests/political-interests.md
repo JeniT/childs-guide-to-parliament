@@ -9,8 +9,6 @@ title: "Political Interests"
 
 ---
 
-## Political Interests
-
 {% include interests/political-interests.md %}
 
 ### Who is interested in Political Interests?

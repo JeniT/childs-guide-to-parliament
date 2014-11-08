@@ -9,8 +9,6 @@ title: "Services For Disabled People"
 
 ---
 
-## Services For Disabled People
-
 {% include interests/services-for-disabled-people.md %}
 
 ### Who is interested in Services For Disabled People?

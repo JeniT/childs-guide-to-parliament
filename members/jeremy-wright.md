@@ -9,8 +9,6 @@ title: "Jeremy Wright"
 
 ---
 
-## Jeremy Wright
-
 **Jeremy Wright** is an MP in the **Conservative** party.
 
 {% include members/jeremy-wright.md %}

@@ -9,8 +9,6 @@ title: "Industrial Policy - Especially Motor And Motorsport Industries"
 
 ---
 
-## Industrial Policy - Especially Motor And Motorsport Industries
-
 {% include interests/industrial-policy-especially-motor-and-motorsport-industries.md %}
 
 ### Who is interested in Industrial Policy - Especially Motor And Motorsport Industries?

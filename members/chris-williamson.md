@@ -9,8 +9,6 @@ title: "Chris Williamson"
 
 ---
 
-## Chris Williamson
-
 **Chris Williamson** is an MP in the **Labour** party.
 
 {% include members/chris-williamson.md %}

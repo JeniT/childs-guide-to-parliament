@@ -9,8 +9,6 @@ title: "Democratic Reform"
 
 ---
 
-## Democratic Reform
-
 {% include interests/democratic-reform.md %}
 
 ### Who is interested in Democratic Reform?

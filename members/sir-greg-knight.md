@@ -9,8 +9,6 @@ title: "Sir Greg Knight"
 
 ---
 
-## Sir Greg Knight
-
 **Sir Greg Knight** is an MP in the **Conservative** party.
 
 {% include members/sir-greg-knight.md %}

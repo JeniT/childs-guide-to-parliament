@@ -9,8 +9,6 @@ title: "Women Offenders"
 
 ---
 
-## Women Offenders
-
 {% include interests/women-offenders.md %}
 
 ### Who is interested in Women Offenders?

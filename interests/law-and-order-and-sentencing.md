@@ -9,8 +9,6 @@ title: "Law And Order And Sentencing"
 
 ---
 
-## Law And Order And Sentencing
-
 {% include interests/law-and-order-and-sentencing.md %}
 
 ### Who is interested in Law And Order And Sentencing?

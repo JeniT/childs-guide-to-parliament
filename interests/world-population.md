@@ -9,8 +9,6 @@ title: "World Population"
 
 ---
 
-## World Population
-
 {% include interests/world-population.md %}
 
 ### Who is interested in World Population?

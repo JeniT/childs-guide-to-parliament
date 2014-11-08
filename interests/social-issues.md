@@ -9,8 +9,6 @@ title: "Social Issues"
 
 ---
 
-## Social Issues
-
 {% include interests/social-issues.md %}
 
 ### Who is interested in Social Issues?

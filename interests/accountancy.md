@@ -9,8 +9,6 @@ title: "Accountancy"
 
 ---
 
-## Accountancy
-
 {% include interests/accountancy.md %}
 
 ### Who is interested in Accountancy?

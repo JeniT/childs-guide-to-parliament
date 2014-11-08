@@ -9,8 +9,6 @@ title: "Mr Edward Timpson"
 
 ---
 
-## Mr Edward Timpson
-
 **Mr Edward Timpson** is an MP in the **Conservative** party.
 
 {% include members/mr-edward-timpson.md %}

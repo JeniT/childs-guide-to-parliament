@@ -9,8 +9,6 @@ title: "Social Enterprise"
 
 ---
 
-## Social Enterprise
-
 {% include interests/social-enterprise.md %}
 
 ### Who is interested in Social Enterprise?

@@ -9,8 +9,6 @@ title: "Chris Skidmore"
 
 ---
 
-## Chris Skidmore
-
 **Chris Skidmore** is an MP in the **Conservative** party.
 
 {% include members/chris-skidmore.md %}

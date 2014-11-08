@@ -9,8 +9,6 @@ title: "Debt Reduction"
 
 ---
 
-## Debt Reduction
-
 {% include interests/debt-reduction.md %}
 
 ### Who is interested in Debt Reduction?

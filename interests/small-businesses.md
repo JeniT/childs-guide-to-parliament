@@ -9,8 +9,6 @@ title: "Small Businesses"
 
 ---
 
-## Small Businesses
-
 {% include interests/small-businesses.md %}
 
 ### Who is interested in Small Businesses?

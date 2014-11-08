@@ -9,8 +9,6 @@ title: "Housing And Regeneration"
 
 ---
 
-## Housing And Regeneration
-
 {% include interests/housing-and-regeneration.md %}
 
 ### Who is interested in Housing And Regeneration?

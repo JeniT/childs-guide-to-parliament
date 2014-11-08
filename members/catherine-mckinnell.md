@@ -9,8 +9,6 @@ title: "Catherine McKinnell"
 
 ---
 
-## Catherine McKinnell
-
 **Catherine McKinnell** is an MP in the **Labour** party.
 
 {% include members/catherine-mckinnell.md %}

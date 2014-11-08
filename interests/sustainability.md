@@ -9,8 +9,6 @@ title: "Sustainability"
 
 ---
 
-## Sustainability
-
 {% include interests/sustainability.md %}
 
 ### Who is interested in Sustainability?

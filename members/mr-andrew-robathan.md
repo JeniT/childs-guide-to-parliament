@@ -9,8 +9,6 @@ title: "Mr Andrew Robathan"
 
 ---
 
-## Mr Andrew Robathan
-
 **Mr Andrew Robathan** is an MP in the **Conservative** party.
 
 {% include members/mr-andrew-robathan.md %}

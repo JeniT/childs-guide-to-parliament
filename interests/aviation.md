@@ -9,8 +9,6 @@ title: "Aviation"
 
 ---
 
-## Aviation
-
 {% include interests/aviation.md %}
 
 ### Who is interested in Aviation?

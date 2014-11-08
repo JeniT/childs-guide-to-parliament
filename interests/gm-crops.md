@@ -9,8 +9,6 @@ title: "Gm Crops)"
 
 ---
 
-## Gm Crops)
-
 {% include interests/gm-crops.md %}
 
 ### Who is interested in Gm Crops)?

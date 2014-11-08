@@ -9,8 +9,6 @@ title: "Mr Nigel Dodds"
 
 ---
 
-## Mr Nigel Dodds
-
 **Mr Nigel Dodds** is an MP in the **Democratic Unionist** party.
 
 {% include members/mr-nigel-dodds.md %}

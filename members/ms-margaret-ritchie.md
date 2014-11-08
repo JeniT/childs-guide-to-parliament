@@ -9,8 +9,6 @@ title: "Ms Margaret Ritchie"
 
 ---
 
-## Ms Margaret Ritchie
-
 **Ms Margaret Ritchie** is an MP in the **Social Democratic & Labour Party** party.
 
 {% include members/ms-margaret-ritchie.md %}

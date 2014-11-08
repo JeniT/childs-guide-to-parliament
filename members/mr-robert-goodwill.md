@@ -9,8 +9,6 @@ title: "Mr Robert Goodwill"
 
 ---
 
-## Mr Robert Goodwill
-
 **Mr Robert Goodwill** is an MP in the **Conservative** party.
 
 {% include members/mr-robert-goodwill.md %}

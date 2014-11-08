@@ -9,8 +9,6 @@ title: "London"
 
 ---
 
-## London
-
 {% include interests/london.md %}
 
 ### Who is interested in London?

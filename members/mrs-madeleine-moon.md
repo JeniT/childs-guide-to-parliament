@@ -9,8 +9,6 @@ title: "Mrs Madeleine Moon"
 
 ---
 
-## Mrs Madeleine Moon
-
 **Mrs Madeleine Moon** is an MP in the **Labour** party.
 
 {% include members/mrs-madeleine-moon.md %}

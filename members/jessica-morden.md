@@ -9,8 +9,6 @@ title: "Jessica Morden"
 
 ---
 
-## Jessica Morden
-
 **Jessica Morden** is an MP in the **Labour** party.
 
 {% include members/jessica-morden.md %}

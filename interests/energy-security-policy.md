@@ -9,8 +9,6 @@ title: "Energy Security Policy"
 
 ---
 
-## Energy Security Policy
-
 {% include interests/energy-security-policy.md %}
 
 ### Who is interested in Energy Security Policy?

@@ -9,8 +9,6 @@ title: "Duncan Hames"
 
 ---
 
-## Duncan Hames
-
 **Duncan Hames** is an MP in the **Liberal Democrat** party.
 
 {% include members/duncan-hames.md %}

@@ -9,8 +9,6 @@ title: "Chris Kelly"
 
 ---
 
-## Chris Kelly
-
 **Chris Kelly** is an MP in the **Conservative** party.
 
 {% include members/chris-kelly.md %}

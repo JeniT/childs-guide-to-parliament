@@ -9,8 +9,6 @@ title: "Tessa Munt"
 
 ---
 
-## Tessa Munt
-
 **Tessa Munt** is an MP in the **Liberal Democrat** party.
 
 {% include members/tessa-munt.md %}

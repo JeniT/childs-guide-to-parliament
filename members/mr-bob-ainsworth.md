@@ -9,8 +9,6 @@ title: "Mr Bob Ainsworth"
 
 ---
 
-## Mr Bob Ainsworth
-
 **Mr Bob Ainsworth** is an MP in the **Labour** party.
 
 {% include members/mr-bob-ainsworth.md %}

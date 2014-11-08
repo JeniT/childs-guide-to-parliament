@@ -9,8 +9,6 @@ title: "Training"
 
 ---
 
-## Training
-
 {% include interests/training.md %}
 
 ### Who is interested in Training?

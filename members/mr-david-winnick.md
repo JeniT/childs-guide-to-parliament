@@ -9,8 +9,6 @@ title: "Mr David Winnick"
 
 ---
 
-## Mr David Winnick
-
 **Mr David Winnick** is an MP in the **Labour** party.
 
 {% include members/mr-david-winnick.md %}

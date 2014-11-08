@@ -9,8 +9,6 @@ title: "Local Economy"
 
 ---
 
-## Local Economy
-
 {% include interests/local-economy.md %}
 
 ### Who is interested in Local Economy?

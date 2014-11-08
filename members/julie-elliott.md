@@ -9,8 +9,6 @@ title: "Julie Elliott"
 
 ---
 
-## Julie Elliott
-
 **Julie Elliott** is an MP in the **Labour** party.
 
 {% include members/julie-elliott.md %}

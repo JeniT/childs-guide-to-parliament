@@ -9,8 +9,6 @@ title: "Middle East"
 
 ---
 
-## Middle East
-
 {% include interests/middle-east.md %}
 
 ### Who is interested in Middle East?

@@ -9,8 +9,6 @@ title: "Co-Operative Movement"
 
 ---
 
-## Co-Operative Movement
-
 {% include interests/co-operative-movement.md %}
 
 ### Who is interested in Co-Operative Movement?

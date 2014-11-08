@@ -9,8 +9,6 @@ title: "Economic Issues"
 
 ---
 
-## Economic Issues
-
 {% include interests/economic-issues.md %}
 
 ### Who is interested in Economic Issues?

@@ -9,8 +9,6 @@ title: "International And Sustainable Development"
 
 ---
 
-## International And Sustainable Development
-
 {% include interests/international-and-sustainable-development.md %}
 
 ### Who is interested in International And Sustainable Development?

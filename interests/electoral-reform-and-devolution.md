@@ -9,8 +9,6 @@ title: "Electoral Reform And Devolution"
 
 ---
 
-## Electoral Reform And Devolution
-
 {% include interests/electoral-reform-and-devolution.md %}
 
 ### Who is interested in Electoral Reform And Devolution?

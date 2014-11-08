@@ -9,8 +9,6 @@ title: "Andrew Jones"
 
 ---
 
-## Andrew Jones
-
 **Andrew Jones** is an MP in the **Conservative** party.
 
 {% include members/andrew-jones.md %}

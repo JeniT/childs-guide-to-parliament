@@ -9,8 +9,6 @@ title: "Ian Paisley"
 
 ---
 
-## Ian Paisley
-
 **Ian Paisley** is an MP in the **Democratic Unionist** party.
 
 {% include members/ian-paisley.md %}

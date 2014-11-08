@@ -9,8 +9,6 @@ title: "Planning"
 
 ---
 
-## Planning
-
 {% include interests/planning.md %}
 
 ### Who is interested in Planning?

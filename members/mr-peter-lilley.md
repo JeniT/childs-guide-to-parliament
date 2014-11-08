@@ -9,8 +9,6 @@ title: "Mr Peter Lilley"
 
 ---
 
-## Mr Peter Lilley
-
 **Mr Peter Lilley** is an MP in the **Conservative** party.
 
 {% include members/mr-peter-lilley.md %}

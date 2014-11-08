@@ -9,8 +9,6 @@ title: "Teeside Steel Industry"
 
 ---
 
-## Teeside Steel Industry
-
 {% include interests/teeside-steel-industry.md %}
 
 ### Who is interested in Teeside Steel Industry?

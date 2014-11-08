@@ -9,8 +9,6 @@ title: "Michael Gove"
 
 ---
 
-## Michael Gove
-
 **Michael Gove** is an MP in the **Conservative** party.
 
 {% include members/michael-gove.md %}

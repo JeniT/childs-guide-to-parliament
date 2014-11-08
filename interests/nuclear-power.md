@@ -9,8 +9,6 @@ title: "Nuclear Power"
 
 ---
 
-## Nuclear Power
-
 {% include interests/nuclear-power.md %}
 
 ### Who is interested in Nuclear Power?

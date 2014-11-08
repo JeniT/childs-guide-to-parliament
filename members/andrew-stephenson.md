@@ -9,8 +9,6 @@ title: "Andrew Stephenson"
 
 ---
 
-## Andrew Stephenson
-
 **Andrew Stephenson** is an MP in the **Conservative** party.
 
 {% include members/andrew-stephenson.md %}

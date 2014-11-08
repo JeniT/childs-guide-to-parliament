@@ -9,8 +9,6 @@ title: "Mr Andrew Love"
 
 ---
 
-## Mr Andrew Love
-
 **Mr Andrew Love** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mr-andrew-love.md %}

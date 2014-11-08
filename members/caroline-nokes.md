@@ -9,8 +9,6 @@ title: "Caroline Nokes"
 
 ---
 
-## Caroline Nokes
-
 **Caroline Nokes** is an MP in the **Conservative** party.
 
 {% include members/caroline-nokes.md %}

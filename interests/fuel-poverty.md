@@ -9,8 +9,6 @@ title: "Fuel Poverty"
 
 ---
 
-## Fuel Poverty
-
 {% include interests/fuel-poverty.md %}
 
 ### Who is interested in Fuel Poverty?

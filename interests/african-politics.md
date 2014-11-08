@@ -9,8 +9,6 @@ title: "African Politics"
 
 ---
 
-## African Politics
-
 {% include interests/african-politics.md %}
 
 ### Who is interested in African Politics?

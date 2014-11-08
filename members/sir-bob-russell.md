@@ -9,8 +9,6 @@ title: "Sir Bob Russell"
 
 ---
 
-## Sir Bob Russell
-
 **Sir Bob Russell** is an MP in the **Liberal Democrat** party.
 
 {% include members/sir-bob-russell.md %}

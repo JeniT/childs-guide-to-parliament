@@ -9,8 +9,6 @@ title: "Military"
 
 ---
 
-## Military
-
 {% include interests/military.md %}
 
 ### Who is interested in Military?

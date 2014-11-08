@@ -9,8 +9,6 @@ title: "Mr Lindsay Hoyle"
 
 ---
 
-## Mr Lindsay Hoyle
-
 **Mr Lindsay Hoyle** is an MP in the **Labour** party.
 
 {% include members/mr-lindsay-hoyle.md %}

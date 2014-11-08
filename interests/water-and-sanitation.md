@@ -9,8 +9,6 @@ title: "Water And Sanitation"
 
 ---
 
-## Water And Sanitation
-
 {% include interests/water-and-sanitation.md %}
 
 ### Who is interested in Water And Sanitation?

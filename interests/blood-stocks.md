@@ -9,8 +9,6 @@ title: "Blood Stocks"
 
 ---
 
-## Blood Stocks
-
 {% include interests/blood-stocks.md %}
 
 ### Who is interested in Blood Stocks?

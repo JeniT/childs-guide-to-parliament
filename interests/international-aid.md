@@ -9,8 +9,6 @@ title: "International Aid"
 
 ---
 
-## International Aid
-
 {% include interests/international-aid.md %}
 
 ### Who is interested in International Aid?

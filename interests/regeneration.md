@@ -9,8 +9,6 @@ title: "Regeneration"
 
 ---
 
-## Regeneration
-
 {% include interests/regeneration.md %}
 
 ### Who is interested in Regeneration?

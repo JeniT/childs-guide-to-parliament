@@ -9,8 +9,6 @@ title: "Mr Gary Streeter"
 
 ---
 
-## Mr Gary Streeter
-
 **Mr Gary Streeter** is an MP in the **Conservative** party.
 
 {% include members/mr-gary-streeter.md %}

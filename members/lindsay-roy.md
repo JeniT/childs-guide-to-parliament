@@ -9,8 +9,6 @@ title: "Lindsay Roy"
 
 ---
 
-## Lindsay Roy
-
 **Lindsay Roy** is an MP in the **Labour** party.
 
 {% include members/lindsay-roy.md %}

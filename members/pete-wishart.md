@@ -9,8 +9,6 @@ title: "Pete Wishart"
 
 ---
 
-## Pete Wishart
-
 **Pete Wishart** is an MP in the **Scottish National** party.
 
 {% include members/pete-wishart.md %}

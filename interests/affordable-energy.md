@@ -9,8 +9,6 @@ title: "Affordable Energy"
 
 ---
 
-## Affordable Energy
-
 {% include interests/affordable-energy.md %}
 
 ### Who is interested in Affordable Energy?

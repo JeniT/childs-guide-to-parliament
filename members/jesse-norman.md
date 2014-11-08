@@ -9,8 +9,6 @@ title: "Jesse Norman"
 
 ---
 
-## Jesse Norman
-
 **Jesse Norman** is an MP in the **Conservative** party.
 
 {% include members/jesse-norman.md %}

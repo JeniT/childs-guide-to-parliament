@@ -9,8 +9,6 @@ title: "Diabetes"
 
 ---
 
-## Diabetes
-
 {% include interests/diabetes.md %}
 
 ### Who is interested in Diabetes?

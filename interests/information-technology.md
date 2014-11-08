@@ -9,8 +9,6 @@ title: "Information Technology"
 
 ---
 
-## Information Technology
-
 {% include interests/information-technology.md %}
 
 ### Who is interested in Information Technology?

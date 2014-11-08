@@ -9,8 +9,6 @@ title: "Blacklisting"
 
 ---
 
-## Blacklisting
-
 {% include interests/blacklisting.md %}
 
 ### Who is interested in Blacklisting?

@@ -9,8 +9,6 @@ title: "Rural Economy"
 
 ---
 
-## Rural Economy
-
 {% include interests/rural-economy.md %}
 
 ### Who is interested in Rural Economy?

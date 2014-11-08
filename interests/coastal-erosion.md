@@ -9,8 +9,6 @@ title: "Coastal Erosion"
 
 ---
 
-## Coastal Erosion
-
 {% include interests/coastal-erosion.md %}
 
 ### Who is interested in Coastal Erosion?

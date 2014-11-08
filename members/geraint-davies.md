@@ -9,8 +9,6 @@ title: "Geraint Davies"
 
 ---
 
-## Geraint Davies
-
 **Geraint Davies** is an MP in the **Labour (Co-op)** party.
 
 {% include members/geraint-davies.md %}

@@ -9,8 +9,6 @@ title: "Industrial Economy"
 
 ---
 
-## Industrial Economy
-
 {% include interests/industrial-economy.md %}
 
 ### Who is interested in Industrial Economy?

@@ -9,8 +9,6 @@ title: "Children"
 
 ---
 
-## Children
-
 {% include interests/children.md %}
 
 ### Who is interested in Children?

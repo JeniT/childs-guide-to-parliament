@@ -9,8 +9,6 @@ title: "Sustainable Communities"
 
 ---
 
-## Sustainable Communities
-
 {% include interests/sustainable-communities.md %}
 
 ### Who is interested in Sustainable Communities?

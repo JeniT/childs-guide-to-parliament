@@ -9,8 +9,6 @@ title: "Cities"
 
 ---
 
-## Cities
-
 {% include interests/cities.md %}
 
 ### Who is interested in Cities?

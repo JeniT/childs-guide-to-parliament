@@ -9,8 +9,6 @@ title: "Prison Health"
 
 ---
 
-## Prison Health
-
 {% include interests/prison-health.md %}
 
 ### Who is interested in Prison Health?

@@ -9,8 +9,6 @@ title: "Sir Peter Tapsell"
 
 ---
 
-## Sir Peter Tapsell
-
 **Sir Peter Tapsell** is an MP in the **Conservative** party.
 
 {% include members/sir-peter-tapsell.md %}

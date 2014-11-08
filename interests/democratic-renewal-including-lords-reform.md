@@ -9,8 +9,6 @@ title: "Democratic Renewal Including Lords Reform"
 
 ---
 
-## Democratic Renewal Including Lords Reform
-
 {% include interests/democratic-renewal-including-lords-reform.md %}
 
 ### Who is interested in Democratic Renewal Including Lords Reform?

@@ -9,8 +9,6 @@ title: "Advocacy Services"
 
 ---
 
-## Advocacy Services
-
 {% include interests/advocacy-services.md %}
 
 ### Who is interested in Advocacy Services?

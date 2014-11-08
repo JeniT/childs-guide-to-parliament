@@ -9,8 +9,6 @@ title: "Sir Richard Shepherd"
 
 ---
 
-## Sir Richard Shepherd
-
 **Sir Richard Shepherd** is an MP in the **Conservative** party.
 
 {% include members/sir-richard-shepherd.md %}

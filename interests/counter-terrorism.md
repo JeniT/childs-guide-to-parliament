@@ -9,8 +9,6 @@ title: "Counter-Terrorism"
 
 ---
 
-## Counter-Terrorism
-
 {% include interests/counter-terrorism.md %}
 
 ### Who is interested in Counter-Terrorism?

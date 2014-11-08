@@ -9,8 +9,6 @@ title: "Steve McCabe"
 
 ---
 
-## Steve McCabe
-
 **Steve McCabe** is an MP in the **Labour** party.
 
 {% include members/steve-mccabe.md %}

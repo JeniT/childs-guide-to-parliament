@@ -9,8 +9,6 @@ title: "Mike Freer"
 
 ---
 
-## Mike Freer
-
 **Mike Freer** is an MP in the **Conservative** party.
 
 {% include members/mike-freer.md %}

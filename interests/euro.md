@@ -9,8 +9,6 @@ title: "Euro"
 
 ---
 
-## Euro
-
 {% include interests/euro.md %}
 
 ### Who is interested in Euro?

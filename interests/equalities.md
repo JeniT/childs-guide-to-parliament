@@ -9,8 +9,6 @@ title: "Equalities"
 
 ---
 
-## Equalities
-
 {% include interests/equalities.md %}
 
 ### Who is interested in Equalities?

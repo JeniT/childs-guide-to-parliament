@@ -9,8 +9,6 @@ title: "International Relations"
 
 ---
 
-## International Relations
-
 {% include interests/international-relations.md %}
 
 ### Who is interested in International Relations?

@@ -9,8 +9,6 @@ title: "Brandon Lewis"
 
 ---
 
-## Brandon Lewis
-
 **Brandon Lewis** is an MP in the **Conservative** party.
 
 {% include members/brandon-lewis.md %}

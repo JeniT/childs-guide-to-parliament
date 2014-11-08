@@ -9,8 +9,6 @@ title: "Health And Safety"
 
 ---
 
-## Health And Safety
-
 {% include interests/health-and-safety.md %}
 
 ### Who is interested in Health And Safety?

@@ -9,8 +9,6 @@ title: "Employment Law"
 
 ---
 
-## Employment Law
-
 {% include interests/employment-law.md %}
 
 ### Who is interested in Employment Law?

@@ -9,8 +9,6 @@ title: "Diana Johnson"
 
 ---
 
-## Diana Johnson
-
 **Diana Johnson** is an MP in the **Labour** party.
 
 {% include members/diana-johnson.md %}

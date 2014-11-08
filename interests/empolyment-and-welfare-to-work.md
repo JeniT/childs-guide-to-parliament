@@ -9,8 +9,6 @@ title: "Empolyment And Welfare To Work"
 
 ---
 
-## Empolyment And Welfare To Work
-
 {% include interests/empolyment-and-welfare-to-work.md %}
 
 ### Who is interested in Empolyment And Welfare To Work?

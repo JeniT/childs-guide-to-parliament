@@ -9,8 +9,6 @@ title: "Michelle Gildernew"
 
 ---
 
-## Michelle Gildernew
-
 **Michelle Gildernew** is an MP in the **Sinn Fein** party.
 
 {% include members/michelle-gildernew.md %}

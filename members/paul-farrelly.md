@@ -9,8 +9,6 @@ title: "Paul Farrelly"
 
 ---
 
-## Paul Farrelly
-
 **Paul Farrelly** is an MP in the **Labour** party.
 
 {% include members/paul-farrelly.md %}

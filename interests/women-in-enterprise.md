@@ -9,8 +9,6 @@ title: "Women In Enterprise"
 
 ---
 
-## Women In Enterprise
-
 {% include interests/women-in-enterprise.md %}
 
 ### Who is interested in Women In Enterprise?

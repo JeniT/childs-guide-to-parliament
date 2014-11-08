@@ -9,8 +9,6 @@ title: "Nadhim Zahawi"
 
 ---
 
-## Nadhim Zahawi
-
 **Nadhim Zahawi** is an MP in the **Conservative** party.
 
 {% include members/nadhim-zahawi.md %}

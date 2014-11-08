@@ -9,8 +9,6 @@ title: "Unions"
 
 ---
 
-## Unions
-
 {% include interests/unions.md %}
 
 ### Who is interested in Unions?

@@ -9,8 +9,6 @@ title: "Economics And Finance"
 
 ---
 
-## Economics And Finance
-
 {% include interests/economics-and-finance.md %}
 
 ### Who is interested in Economics And Finance?

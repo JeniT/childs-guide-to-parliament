@@ -9,8 +9,6 @@ title: "Education Including Science And Technology"
 
 ---
 
-## Education Including Science And Technology
-
 {% include interests/education-including-science-and-technology.md %}
 
 ### Who is interested in Education Including Science And Technology?

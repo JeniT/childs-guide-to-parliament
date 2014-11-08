@@ -9,8 +9,6 @@ title: "Social Action"
 
 ---
 
-## Social Action
-
 {% include interests/social-action.md %}
 
 ### Who is interested in Social Action?

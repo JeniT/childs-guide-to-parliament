@@ -9,8 +9,6 @@ title: "Pat Glass"
 
 ---
 
-## Pat Glass
-
 **Pat Glass** is an MP in the **Labour** party.
 
 {% include members/pat-glass.md %}

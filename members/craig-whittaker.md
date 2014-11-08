@@ -9,8 +9,6 @@ title: "Craig Whittaker"
 
 ---
 
-## Craig Whittaker
-
 **Craig Whittaker** is an MP in the **Conservative** party.
 
 {% include members/craig-whittaker.md %}

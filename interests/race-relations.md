@@ -9,8 +9,6 @@ title: "Race Relations"
 
 ---
 
-## Race Relations
-
 {% include interests/race-relations.md %}
 
 ### Who is interested in Race Relations?

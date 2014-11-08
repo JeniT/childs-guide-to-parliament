@@ -9,8 +9,6 @@ title: "Andrew Miller"
 
 ---
 
-## Andrew Miller
-
 **Andrew Miller** is an MP in the **Labour** party.
 
 {% include members/andrew-miller.md %}

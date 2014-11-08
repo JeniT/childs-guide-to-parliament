@@ -9,8 +9,6 @@ title: "Angling"
 
 ---
 
-## Angling
-
 {% include interests/angling.md %}
 
 ### Who is interested in Angling?

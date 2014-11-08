@@ -9,8 +9,6 @@ title: "Muscular Dystrophy"
 
 ---
 
-## Muscular Dystrophy
-
 {% include interests/muscular-dystrophy.md %}
 
 ### Who is interested in Muscular Dystrophy?

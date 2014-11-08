@@ -9,8 +9,6 @@ title: "Biotechnology"
 
 ---
 
-## Biotechnology
-
 {% include interests/biotechnology.md %}
 
 ### Who is interested in Biotechnology?

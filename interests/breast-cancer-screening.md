@@ -9,8 +9,6 @@ title: "Breast Cancer Screening"
 
 ---
 
-## Breast Cancer Screening
-
 {% include interests/breast-cancer-screening.md %}
 
 ### Who is interested in Breast Cancer Screening?

@@ -9,8 +9,6 @@ title: "Free School Meals"
 
 ---
 
-## Free School Meals
-
 {% include interests/free-school-meals.md %}
 
 ### Who is interested in Free School Meals?

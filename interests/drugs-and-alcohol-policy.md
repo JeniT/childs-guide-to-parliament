@@ -9,8 +9,6 @@ title: "Drugs And Alcohol Policy"
 
 ---
 
-## Drugs And Alcohol Policy
-
 {% include interests/drugs-and-alcohol-policy.md %}
 
 ### Who is interested in Drugs And Alcohol Policy?

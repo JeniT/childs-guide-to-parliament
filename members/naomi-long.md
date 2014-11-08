@@ -9,8 +9,6 @@ title: "Naomi Long"
 
 ---
 
-## Naomi Long
-
 **Naomi Long** is an MP in the **Alliance** party.
 
 {% include members/naomi-long.md %}

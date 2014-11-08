@@ -9,8 +9,6 @@ title: "Issues Affecting Young People And Social Care"
 
 ---
 
-## Issues Affecting Young People And Social Care
-
 {% include interests/issues-affecting-young-people-and-social-care.md %}
 
 ### Who is interested in Issues Affecting Young People And Social Care?

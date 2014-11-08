@@ -9,8 +9,6 @@ title: "Paul Uppal"
 
 ---
 
-## Paul Uppal
-
 **Paul Uppal** is an MP in the **Conservative** party.
 
 {% include members/paul-uppal.md %}

@@ -9,8 +9,6 @@ title: "Dr Alasdair McDonnell"
 
 ---
 
-## Dr Alasdair McDonnell
-
 **Dr Alasdair McDonnell** is an MP in the **Social Democratic & Labour Party** party.
 
 {% include members/dr-alasdair-mcdonnell.md %}

@@ -9,8 +9,6 @@ title: "Foreign And Commonwealth Affairs"
 
 ---
 
-## Foreign And Commonwealth Affairs
-
 {% include interests/foreign-and-commonwealth-affairs.md %}
 
 ### Who is interested in Foreign And Commonwealth Affairs?

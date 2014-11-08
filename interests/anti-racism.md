@@ -9,8 +9,6 @@ title: "Anti-Racism"
 
 ---
 
-## Anti-Racism
-
 {% include interests/anti-racism.md %}
 
 ### Who is interested in Anti-Racism?

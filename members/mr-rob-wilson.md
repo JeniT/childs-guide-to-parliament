@@ -9,8 +9,6 @@ title: "Mr Rob Wilson"
 
 ---
 
-## Mr Rob Wilson
-
 **Mr Rob Wilson** is an MP in the **Conservative** party.
 
 {% include members/mr-rob-wilson.md %}

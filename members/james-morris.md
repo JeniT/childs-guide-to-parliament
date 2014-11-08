@@ -9,8 +9,6 @@ title: "James Morris"
 
 ---
 
-## James Morris
-
 **James Morris** is an MP in the **Conservative** party.
 
 {% include members/james-morris.md %}

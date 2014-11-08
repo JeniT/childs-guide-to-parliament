@@ -9,8 +9,6 @@ title: "Social Economy"
 
 ---
 
-## Social Economy
-
 {% include interests/social-economy.md %}
 
 ### Who is interested in Social Economy?

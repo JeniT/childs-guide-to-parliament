@@ -9,8 +9,6 @@ title: "Hugh Bayley"
 
 ---
 
-## Hugh Bayley
-
 **Hugh Bayley** is an MP in the **Labour** party.
 
 {% include members/hugh-bayley.md %}

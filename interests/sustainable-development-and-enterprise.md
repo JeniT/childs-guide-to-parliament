@@ -9,8 +9,6 @@ title: "Sustainable Development And Enterprise"
 
 ---
 
-## Sustainable Development And Enterprise
-
 {% include interests/sustainable-development-and-enterprise.md %}
 
 ### Who is interested in Sustainable Development And Enterprise?

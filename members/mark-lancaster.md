@@ -9,8 +9,6 @@ title: "Mark Lancaster"
 
 ---
 
-## Mark Lancaster
-
 **Mark Lancaster** is an MP in the **Conservative** party.
 
 {% include members/mark-lancaster.md %}

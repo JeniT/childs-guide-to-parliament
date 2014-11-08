@@ -9,8 +9,6 @@ title: "Infrastructure Funding"
 
 ---
 
-## Infrastructure Funding
-
 {% include interests/infrastructure-funding.md %}
 
 ### Who is interested in Infrastructure Funding?

@@ -9,8 +9,6 @@ title: "Ian Murray"
 
 ---
 
-## Ian Murray
-
 **Ian Murray** is an MP in the **Labour** party.
 
 {% include members/ian-murray.md %}

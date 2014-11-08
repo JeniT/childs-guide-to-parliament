@@ -9,8 +9,6 @@ title: "Phil Wilson"
 
 ---
 
-## Phil Wilson
-
 **Phil Wilson** is an MP in the **Labour** party.
 
 {% include members/phil-wilson.md %}

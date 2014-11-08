@@ -9,8 +9,6 @@ title: "Drugs And Alcohol"
 
 ---
 
-## Drugs And Alcohol
-
 {% include interests/drugs-and-alcohol.md %}
 
 ### Who is interested in Drugs And Alcohol?

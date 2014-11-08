@@ -9,8 +9,6 @@ title: "Architecture"
 
 ---
 
-## Architecture
-
 {% include interests/architecture.md %}
 
 ### Who is interested in Architecture?

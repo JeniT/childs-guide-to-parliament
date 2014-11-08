@@ -9,8 +9,6 @@ title: "Foreign Policy"
 
 ---
 
-## Foreign Policy
-
 {% include interests/foreign-policy.md %}
 
 ### Who is interested in Foreign Policy?

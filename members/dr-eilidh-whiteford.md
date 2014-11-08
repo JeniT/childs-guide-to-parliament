@@ -9,8 +9,6 @@ title: "Dr Eilidh Whiteford"
 
 ---
 
-## Dr Eilidh Whiteford
-
 **Dr Eilidh Whiteford** is an MP in the **Scottish National** party.
 
 {% include members/dr-eilidh-whiteford.md %}

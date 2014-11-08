@@ -9,8 +9,6 @@ title: "Northumberland"
 
 ---
 
-## Northumberland
-
 {% include interests/northumberland.md %}
 
 ### Who is interested in Northumberland?

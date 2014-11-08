@@ -9,8 +9,6 @@ title: "Mr Marcus Jones"
 
 ---
 
-## Mr Marcus Jones
-
 **Mr Marcus Jones** is an MP in the **Conservative** party.
 
 {% include members/mr-marcus-jones.md %}

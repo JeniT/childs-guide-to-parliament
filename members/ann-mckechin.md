@@ -9,8 +9,6 @@ title: "Ann McKechin"
 
 ---
 
-## Ann McKechin
-
 **Ann McKechin** is an MP in the **Labour** party.
 
 {% include members/ann-mckechin.md %}

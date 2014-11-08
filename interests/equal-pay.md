@@ -9,8 +9,6 @@ title: "Equal Pay"
 
 ---
 
-## Equal Pay
-
 {% include interests/equal-pay.md %}
 
 ### Who is interested in Equal Pay?

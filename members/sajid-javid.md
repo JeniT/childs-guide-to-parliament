@@ -9,8 +9,6 @@ title: "Sajid Javid"
 
 ---
 
-## Sajid Javid
-
 **Sajid Javid** is an MP in the **Conservative** party.
 
 {% include members/sajid-javid.md %}

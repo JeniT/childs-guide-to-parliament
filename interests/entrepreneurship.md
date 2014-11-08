@@ -9,8 +9,6 @@ title: "Entrepreneurship"
 
 ---
 
-## Entrepreneurship
-
 {% include interests/entrepreneurship.md %}
 
 ### Who is interested in Entrepreneurship?

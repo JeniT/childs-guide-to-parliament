@@ -9,8 +9,6 @@ title: "Overseas Aid And Development"
 
 ---
 
-## Overseas Aid And Development
-
 {% include interests/overseas-aid-and-development.md %}
 
 ### Who is interested in Overseas Aid And Development?

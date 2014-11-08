@@ -9,8 +9,6 @@ title: "Welfare"
 
 ---
 
-## Welfare
-
 {% include interests/welfare.md %}
 
 ### Who is interested in Welfare?

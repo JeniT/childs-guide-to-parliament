@@ -9,8 +9,6 @@ title: "Jacob Rees-Mogg"
 
 ---
 
-## Jacob Rees-Mogg
-
 **Jacob Rees-Mogg** is an MP in the **Conservative** party.
 
 {% include members/jacob-rees-mogg.md %}

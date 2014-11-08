@@ -9,8 +9,6 @@ title: "Rory Stewart"
 
 ---
 
-## Rory Stewart
-
 **Rory Stewart** is an MP in the **Conservative** party.
 
 {% include members/rory-stewart.md %}

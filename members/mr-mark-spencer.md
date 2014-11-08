@@ -9,8 +9,6 @@ title: "Mr Mark Spencer"
 
 ---
 
-## Mr Mark Spencer
-
 **Mr Mark Spencer** is an MP in the **Conservative** party.
 
 {% include members/mr-mark-spencer.md %}

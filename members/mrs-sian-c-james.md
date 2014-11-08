@@ -9,8 +9,6 @@ title: "Mrs Siân C. James"
 
 ---
 
-## Mrs Siân C. James
-
 **Mrs Siân C. James** is an MP in the **Labour** party.
 
 {% include members/mrs-sian-c-james.md %}

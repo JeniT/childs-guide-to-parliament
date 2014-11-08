@@ -9,8 +9,6 @@ title: "Employment Rights"
 
 ---
 
-## Employment Rights
-
 {% include interests/employment-rights.md %}
 
 ### Who is interested in Employment Rights?

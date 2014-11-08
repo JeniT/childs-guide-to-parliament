@@ -9,8 +9,6 @@ title: "Alec Shelbrooke"
 
 ---
 
-## Alec Shelbrooke
-
 **Alec Shelbrooke** is an MP in the **Conservative** party.
 
 {% include members/alec-shelbrooke.md %}

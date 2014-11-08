@@ -9,8 +9,6 @@ title: "Chris White"
 
 ---
 
-## Chris White
-
 **Chris White** is an MP in the **Conservative** party.
 
 {% include members/chris-white.md %}

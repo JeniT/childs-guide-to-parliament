@@ -9,8 +9,6 @@ title: "Home Affairs And Justice"
 
 ---
 
-## Home Affairs And Justice
-
 {% include interests/home-affairs-and-justice.md %}
 
 ### Who is interested in Home Affairs And Justice?

@@ -9,8 +9,6 @@ title: "Andy Slaughter"
 
 ---
 
-## Andy Slaughter
-
 **Andy Slaughter** is an MP in the **Labour** party.
 
 {% include members/andy-slaughter.md %}

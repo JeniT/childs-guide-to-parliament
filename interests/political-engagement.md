@@ -9,8 +9,6 @@ title: "Political Engagement"
 
 ---
 
-## Political Engagement
-
 {% include interests/political-engagement.md %}
 
 ### Who is interested in Political Engagement?

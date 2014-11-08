@@ -9,8 +9,6 @@ title: "Valerie Vaz"
 
 ---
 
-## Valerie Vaz
-
 **Valerie Vaz** is an MP in the **Labour** party.
 
 {% include members/valerie-vaz.md %}

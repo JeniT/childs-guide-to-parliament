@@ -9,8 +9,6 @@ title: "Lorely Burt"
 
 ---
 
-## Lorely Burt
-
 **Lorely Burt** is an MP in the **Liberal Democrat** party.
 
 {% include members/lorely-burt.md %}

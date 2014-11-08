@@ -9,8 +9,6 @@ title: "Small Nations"
 
 ---
 
-## Small Nations
-
 {% include interests/small-nations.md %}
 
 ### Who is interested in Small Nations?

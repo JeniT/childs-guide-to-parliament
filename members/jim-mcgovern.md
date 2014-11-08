@@ -9,8 +9,6 @@ title: "Jim McGovern"
 
 ---
 
-## Jim McGovern
-
 **Jim McGovern** is an MP in the **Labour** party.
 
 {% include members/jim-mcgovern.md %}

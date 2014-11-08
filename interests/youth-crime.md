@@ -9,8 +9,6 @@ title: "Youth Crime"
 
 ---
 
-## Youth Crime
-
 {% include interests/youth-crime.md %}
 
 ### Who is interested in Youth Crime?

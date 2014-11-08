@@ -9,8 +9,6 @@ title: "Youth Policy"
 
 ---
 
-## Youth Policy
-
 {% include interests/youth-policy.md %}
 
 ### Who is interested in Youth Policy?

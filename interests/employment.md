@@ -9,8 +9,6 @@ title: "Employment"
 
 ---
 
-## Employment
-
 {% include interests/employment.md %}
 
 ### Who is interested in Employment?

@@ -9,8 +9,6 @@ title: "Gregg McClymont"
 
 ---
 
-## Gregg McClymont
-
 **Gregg McClymont** is an MP in the **Labour** party.
 
 {% include members/gregg-mcclymont.md %}

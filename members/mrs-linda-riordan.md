@@ -9,8 +9,6 @@ title: "Mrs Linda Riordan"
 
 ---
 
-## Mrs Linda Riordan
-
 **Mrs Linda Riordan** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mrs-linda-riordan.md %}

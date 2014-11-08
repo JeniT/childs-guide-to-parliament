@@ -9,8 +9,6 @@ title: "Prisons"
 
 ---
 
-## Prisons
-
 {% include interests/prisons.md %}
 
 ### Who is interested in Prisons?

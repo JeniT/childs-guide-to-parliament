@@ -9,8 +9,6 @@ title: "Mike Gapes"
 
 ---
 
-## Mike Gapes
-
 **Mike Gapes** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mike-gapes.md %}

@@ -9,8 +9,6 @@ title: "Deregulation"
 
 ---
 
-## Deregulation
-
 {% include interests/deregulation.md %}
 
 ### Who is interested in Deregulation?

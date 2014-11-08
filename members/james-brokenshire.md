@@ -9,8 +9,6 @@ title: "James Brokenshire"
 
 ---
 
-## James Brokenshire
-
 **James Brokenshire** is an MP in the **Conservative** party.
 
 {% include members/james-brokenshire.md %}

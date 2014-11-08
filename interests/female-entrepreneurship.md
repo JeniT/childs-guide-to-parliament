@@ -9,8 +9,6 @@ title: "Female Entrepreneurship"
 
 ---
 
-## Female Entrepreneurship
-
 {% include interests/female-entrepreneurship.md %}
 
 ### Who is interested in Female Entrepreneurship?

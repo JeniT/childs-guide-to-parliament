@@ -9,8 +9,6 @@ title: "Quality Of Life"
 
 ---
 
-## Quality Of Life
-
 {% include interests/quality-of-life.md %}
 
 ### Who is interested in Quality Of Life?

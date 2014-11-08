@@ -9,8 +9,6 @@ title: "Pension Law"
 
 ---
 
-## Pension Law
-
 {% include interests/pension-law.md %}
 
 ### Who is interested in Pension Law?

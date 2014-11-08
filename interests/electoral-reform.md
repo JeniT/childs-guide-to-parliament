@@ -9,8 +9,6 @@ title: "Electoral Reform"
 
 ---
 
-## Electoral Reform
-
 {% include interests/electoral-reform.md %}
 
 ### Who is interested in Electoral Reform?

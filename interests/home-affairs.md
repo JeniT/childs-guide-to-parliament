@@ -9,8 +9,6 @@ title: "Home Affairs"
 
 ---
 
-## Home Affairs
-
 {% include interests/home-affairs.md %}
 
 ### Who is interested in Home Affairs?

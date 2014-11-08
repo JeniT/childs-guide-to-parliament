@@ -9,8 +9,6 @@ title: "Mark Field"
 
 ---
 
-## Mark Field
-
 **Mark Field** is an MP in the **Conservative** party.
 
 {% include members/mark-field.md %}

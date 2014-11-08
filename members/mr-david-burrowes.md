@@ -9,8 +9,6 @@ title: "Mr David Burrowes"
 
 ---
 
-## Mr David Burrowes
-
 **Mr David Burrowes** is an MP in the **Conservative** party.
 
 {% include members/mr-david-burrowes.md %}

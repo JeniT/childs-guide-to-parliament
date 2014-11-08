@@ -9,8 +9,6 @@ title: "George Eustice"
 
 ---
 
-## George Eustice
-
 **George Eustice** is an MP in the **Conservative** party.
 
 {% include members/george-eustice.md %}

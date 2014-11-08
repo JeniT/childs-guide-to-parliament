@@ -9,8 +9,6 @@ title: "Scotland"
 
 ---
 
-## Scotland
-
 {% include interests/scotland.md %}
 
 ### Who is interested in Scotland?

@@ -9,8 +9,6 @@ title: "Nia Griffith"
 
 ---
 
-## Nia Griffith
-
 **Nia Griffith** is an MP in the **Labour** party.
 
 {% include members/nia-griffith.md %}

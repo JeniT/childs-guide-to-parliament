@@ -9,8 +9,6 @@ title: "Environmental Sustainability"
 
 ---
 
-## Environmental Sustainability
-
 {% include interests/environmental-sustainability.md %}
 
 ### Who is interested in Environmental Sustainability?

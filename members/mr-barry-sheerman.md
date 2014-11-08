@@ -9,8 +9,6 @@ title: "Mr Barry Sheerman"
 
 ---
 
-## Mr Barry Sheerman
-
 **Mr Barry Sheerman** is an MP in the **Labour (Co-op)** party.
 
 {% include members/mr-barry-sheerman.md %}

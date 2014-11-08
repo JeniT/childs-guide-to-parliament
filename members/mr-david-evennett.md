@@ -9,8 +9,6 @@ title: "Mr David Evennett"
 
 ---
 
-## Mr David Evennett
-
 **Mr David Evennett** is an MP in the **Conservative** party.
 
 {% include members/mr-david-evennett.md %}

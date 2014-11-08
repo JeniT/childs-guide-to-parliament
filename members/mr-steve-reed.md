@@ -9,8 +9,6 @@ title: "Mr Steve Reed"
 
 ---
 
-## Mr Steve Reed
-
 **Mr Steve Reed** is an MP in the **Labour** party.
 
 {% include members/mr-steve-reed.md %}

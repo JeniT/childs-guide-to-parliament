@@ -9,8 +9,6 @@ title: "Exports"
 
 ---
 
-## Exports
-
 {% include interests/exports.md %}
 
 ### Who is interested in Exports?

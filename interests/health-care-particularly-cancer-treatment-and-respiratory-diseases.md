@@ -9,8 +9,6 @@ title: "Health Care (Particularly Cancer Treatment And Respiratory Diseases)"
 
 ---
 
-## Health Care (Particularly Cancer Treatment And Respiratory Diseases)
-
 {% include interests/health-care-particularly-cancer-treatment-and-respiratory-diseases.md %}
 
 ### Who is interested in Health Care (Particularly Cancer Treatment And Respiratory Diseases)?

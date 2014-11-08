@@ -9,8 +9,6 @@ title: "Mr Alistair Carmichael"
 
 ---
 
-## Mr Alistair Carmichael
-
 **Mr Alistair Carmichael** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-alistair-carmichael.md %}

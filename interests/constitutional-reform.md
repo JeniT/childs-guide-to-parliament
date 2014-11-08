@@ -9,8 +9,6 @@ title: "Constitutional Reform"
 
 ---
 
-## Constitutional Reform
-
 {% include interests/constitutional-reform.md %}
 
 ### Who is interested in Constitutional Reform?

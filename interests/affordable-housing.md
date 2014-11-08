@@ -9,8 +9,6 @@ title: "Affordable Housing"
 
 ---
 
-## Affordable Housing
-
 {% include interests/affordable-housing.md %}
 
 ### Who is interested in Affordable Housing?

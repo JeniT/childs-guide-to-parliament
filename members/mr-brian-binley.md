@@ -9,8 +9,6 @@ title: "Mr Brian Binley"
 
 ---
 
-## Mr Brian Binley
-
 **Mr Brian Binley** is an MP in the **Conservative** party.
 
 {% include members/mr-brian-binley.md %}

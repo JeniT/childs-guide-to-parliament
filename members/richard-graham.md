@@ -9,8 +9,6 @@ title: "Richard Graham"
 
 ---
 
-## Richard Graham
-
 **Richard Graham** is an MP in the **Conservative** party.
 
 {% include members/richard-graham.md %}

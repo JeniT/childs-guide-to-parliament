@@ -9,8 +9,6 @@ title: "Park Homes"
 
 ---
 
-## Park Homes
-
 {% include interests/park-homes.md %}
 
 ### Who is interested in Park Homes?

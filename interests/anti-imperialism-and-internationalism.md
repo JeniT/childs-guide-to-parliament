@@ -9,8 +9,6 @@ title: "Anti Imperialism And Internationalism"
 
 ---
 
-## Anti Imperialism And Internationalism
-
 {% include interests/anti-imperialism-and-internationalism.md %}
 
 ### Who is interested in Anti Imperialism And Internationalism?

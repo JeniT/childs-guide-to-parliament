@@ -9,8 +9,6 @@ title: "Economic Policy"
 
 ---
 
-## Economic Policy
-
 {% include interests/economic-policy.md %}
 
 ### Who is interested in Economic Policy?

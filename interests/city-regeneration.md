@@ -9,8 +9,6 @@ title: "City Regeneration"
 
 ---
 
-## City Regeneration
-
 {% include interests/city-regeneration.md %}
 
 ### Who is interested in City Regeneration?

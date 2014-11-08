@@ -9,8 +9,6 @@ title: "Albert Owen"
 
 ---
 
-## Albert Owen
-
 **Albert Owen** is an MP in the **Labour** party.
 
 {% include members/albert-owen.md %}

@@ -9,8 +9,6 @@ title: "Angus Robertson"
 
 ---
 
-## Angus Robertson
-
 **Angus Robertson** is an MP in the **Scottish National** party.
 
 {% include members/angus-robertson.md %}

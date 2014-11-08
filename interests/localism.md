@@ -9,8 +9,6 @@ title: "Localism"
 
 ---
 
-## Localism
-
 {% include interests/localism.md %}
 
 ### Who is interested in Localism?

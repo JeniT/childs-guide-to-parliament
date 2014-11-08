@@ -9,8 +9,6 @@ title: "Medicinal And Illegal Drugs"
 
 ---
 
-## Medicinal And Illegal Drugs
-
 {% include interests/medicinal-and-illegal-drugs.md %}
 
 ### Who is interested in Medicinal And Illegal Drugs?

@@ -9,8 +9,6 @@ title: "Northern Ireland"
 
 ---
 
-## Northern Ireland
-
 {% include interests/northern-ireland.md %}
 
 ### Who is interested in Northern Ireland?

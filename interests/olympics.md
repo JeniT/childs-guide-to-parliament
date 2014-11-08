@@ -9,8 +9,6 @@ title: "Olympics"
 
 ---
 
-## Olympics
-
 {% include interests/olympics.md %}
 
 ### Who is interested in Olympics?

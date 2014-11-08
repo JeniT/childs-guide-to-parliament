@@ -9,8 +9,6 @@ title: "Sir Oliver Heald"
 
 ---
 
-## Sir Oliver Heald
-
 **Sir Oliver Heald** is an MP in the **Conservative** party.
 
 {% include members/sir-oliver-heald.md %}

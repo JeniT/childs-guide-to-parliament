@@ -9,8 +9,6 @@ title: "Guto Bebb"
 
 ---
 
-## Guto Bebb
-
 **Guto Bebb** is an MP in the **Conservative** party.
 
 {% include members/guto-bebb.md %}

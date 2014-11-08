@@ -9,8 +9,6 @@ title: "Enterprise"
 
 ---
 
-## Enterprise
-
 {% include interests/enterprise.md %}
 
 ### Who is interested in Enterprise?

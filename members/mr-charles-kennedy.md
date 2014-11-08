@@ -9,8 +9,6 @@ title: "Mr Charles Kennedy"
 
 ---
 
-## Mr Charles Kennedy
-
 **Mr Charles Kennedy** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-charles-kennedy.md %}

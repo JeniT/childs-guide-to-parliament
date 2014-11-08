@@ -9,8 +9,6 @@ title: "Mr Dennis Skinner"
 
 ---
 
-## Mr Dennis Skinner
-
 **Mr Dennis Skinner** is an MP in the **Labour** party.
 
 {% include members/mr-dennis-skinner.md %}

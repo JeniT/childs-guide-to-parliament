@@ -9,8 +9,6 @@ title: "Sir Nicholas Soames"
 
 ---
 
-## Sir Nicholas Soames
-
 **Sir Nicholas Soames** is an MP in the **Conservative** party.
 
 {% include members/sir-nicholas-soames.md %}

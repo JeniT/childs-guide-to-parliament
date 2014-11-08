@@ -9,8 +9,6 @@ title: "Poverty And Income Redistribution"
 
 ---
 
-## Poverty And Income Redistribution
-
 {% include interests/poverty-and-income-redistribution.md %}
 
 ### Who is interested in Poverty And Income Redistribution?

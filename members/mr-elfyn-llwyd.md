@@ -9,8 +9,6 @@ title: "Mr Elfyn Llwyd"
 
 ---
 
-## Mr Elfyn Llwyd
-
 **Mr Elfyn Llwyd** is an MP in the **Plaid Cymru** party.
 
 {% include members/mr-elfyn-llwyd.md %}

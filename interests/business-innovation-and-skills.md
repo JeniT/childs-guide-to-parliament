@@ -9,8 +9,6 @@ title: "Business Innovation And Skills"
 
 ---
 
-## Business Innovation And Skills
-
 {% include interests/business-innovation-and-skills.md %}
 
 ### Who is interested in Business Innovation And Skills?

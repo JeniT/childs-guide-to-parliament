@@ -9,8 +9,6 @@ title: "Communications And Information Technology"
 
 ---
 
-## Communications And Information Technology
-
 {% include interests/communications-and-information-technology.md %}
 
 ### Who is interested in Communications And Information Technology?

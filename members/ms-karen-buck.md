@@ -9,8 +9,6 @@ title: "Ms Karen Buck"
 
 ---
 
-## Ms Karen Buck
-
 **Ms Karen Buck** is an MP in the **Labour** party.
 
 {% include members/ms-karen-buck.md %}

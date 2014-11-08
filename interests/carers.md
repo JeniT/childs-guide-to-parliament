@@ -9,8 +9,6 @@ title: "Carers"
 
 ---
 
-## Carers
-
 {% include interests/carers.md %}
 
 ### Who is interested in Carers?

@@ -9,8 +9,6 @@ title: "Katy Clark"
 
 ---
 
-## Katy Clark
-
 **Katy Clark** is an MP in the **Labour** party.
 
 {% include members/katy-clark.md %}

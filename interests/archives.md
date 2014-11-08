@@ -9,8 +9,6 @@ title: "Archives"
 
 ---
 
-## Archives
-
 {% include interests/archives.md %}
 
 ### Who is interested in Archives?

@@ -9,8 +9,6 @@ title: "Penny Mordaunt"
 
 ---
 
-## Penny Mordaunt
-
 **Penny Mordaunt** is an MP in the **Conservative** party.
 
 {% include members/penny-mordaunt.md %}

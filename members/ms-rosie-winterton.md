@@ -9,8 +9,6 @@ title: "Ms Rosie Winterton"
 
 ---
 
-## Ms Rosie Winterton
-
 **Ms Rosie Winterton** is an MP in the **Labour** party.
 
 {% include members/ms-rosie-winterton.md %}

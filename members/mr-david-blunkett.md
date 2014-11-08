@@ -9,8 +9,6 @@ title: "Mr David Blunkett"
 
 ---
 
-## Mr David Blunkett
-
 **Mr David Blunkett** is an MP in the **Labour** party.
 
 {% include members/mr-david-blunkett.md %}

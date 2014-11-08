@@ -9,8 +9,6 @@ title: "International Politics"
 
 ---
 
-## International Politics
-
 {% include interests/international-politics.md %}
 
 ### Who is interested in International Politics?

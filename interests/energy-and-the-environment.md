@@ -9,8 +9,6 @@ title: "Energy And The Environment"
 
 ---
 
-## Energy And The Environment
-
 {% include interests/energy-and-the-environment.md %}
 
 ### Who is interested in Energy And The Environment?

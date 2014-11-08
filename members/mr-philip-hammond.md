@@ -9,8 +9,6 @@ title: "Mr Philip Hammond"
 
 ---
 
-## Mr Philip Hammond
-
 **Mr Philip Hammond** is an MP in the **Conservative** party.
 
 {% include members/mr-philip-hammond.md %}

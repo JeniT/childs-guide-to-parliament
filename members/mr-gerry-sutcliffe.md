@@ -9,8 +9,6 @@ title: "Mr Gerry Sutcliffe"
 
 ---
 
-## Mr Gerry Sutcliffe
-
 **Mr Gerry Sutcliffe** is an MP in the **Labour** party.
 
 {% include members/mr-gerry-sutcliffe.md %}

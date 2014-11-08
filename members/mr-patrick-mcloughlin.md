@@ -9,8 +9,6 @@ title: "Mr Patrick McLoughlin"
 
 ---
 
-## Mr Patrick McLoughlin
-
 **Mr Patrick McLoughlin** is an MP in the **Conservative** party.
 
 {% include members/mr-patrick-mcloughlin.md %}

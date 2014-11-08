@@ -9,8 +9,6 @@ title: "Women And Boards"
 
 ---
 
-## Women And Boards
-
 {% include interests/women-and-boards.md %}
 
 ### Who is interested in Women And Boards?

@@ -9,8 +9,6 @@ title: "Mr William Bain"
 
 ---
 
-## Mr William Bain
-
 **Mr William Bain** is an MP in the **Labour** party.
 
 {% include members/mr-william-bain.md %}

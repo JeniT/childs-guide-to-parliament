@@ -9,8 +9,6 @@ title: "Teresa Pearce"
 
 ---
 
-## Teresa Pearce
-
 **Teresa Pearce** is an MP in the **Labour** party.
 
 {% include members/teresa-pearce.md %}

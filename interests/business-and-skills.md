@@ -9,8 +9,6 @@ title: "Business And Skills"
 
 ---
 
-## Business And Skills
-
 {% include interests/business-and-skills.md %}
 
 ### Who is interested in Business And Skills?

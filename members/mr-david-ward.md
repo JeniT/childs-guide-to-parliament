@@ -9,8 +9,6 @@ title: "Mr David Ward"
 
 ---
 
-## Mr David Ward
-
 **Mr David Ward** is an MP in the **Liberal Democrat** party.
 
 {% include members/mr-david-ward.md %}

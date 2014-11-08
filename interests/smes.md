@@ -9,8 +9,6 @@ title: "Smes"
 
 ---
 
-## Smes
-
 {% include interests/smes.md %}
 
 ### Who is interested in Smes?

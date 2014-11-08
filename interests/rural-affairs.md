@@ -9,8 +9,6 @@ title: "Rural Affairs"
 
 ---
 
-## Rural Affairs
-
 {% include interests/rural-affairs.md %}
 
 ### Who is interested in Rural Affairs?

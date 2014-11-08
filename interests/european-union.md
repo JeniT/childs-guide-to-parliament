@@ -9,8 +9,6 @@ title: "European Union"
 
 ---
 
-## European Union
-
 {% include interests/european-union.md %}
 
 ### Who is interested in European Union?

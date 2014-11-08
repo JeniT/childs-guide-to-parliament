@@ -9,8 +9,6 @@ title: "Economic Reconstruction"
 
 ---
 
-## Economic Reconstruction
-
 {% include interests/economic-reconstruction.md %}
 
 ### Who is interested in Economic Reconstruction?

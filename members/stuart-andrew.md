@@ -9,8 +9,6 @@ title: "Stuart Andrew"
 
 ---
 
-## Stuart Andrew
-
 **Stuart Andrew** is an MP in the **Conservative** party.
 
 {% include members/stuart-andrew.md %}

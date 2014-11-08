@@ -9,8 +9,6 @@ title: "Mr George Galloway"
 
 ---
 
-## Mr George Galloway
-
 **Mr George Galloway** is an MP in the **Respect** party.
 
 {% include members/mr-george-galloway.md %}

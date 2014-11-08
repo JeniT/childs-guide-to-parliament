@@ -9,8 +9,6 @@ title: "Chloe Smith"
 
 ---
 
-## Chloe Smith
-
 **Chloe Smith** is an MP in the **Conservative** party.
 
 {% include members/chloe-smith.md %}

@@ -9,8 +9,6 @@ title: "Highlands And Islands Issues"
 
 ---
 
-## Highlands And Islands Issues
-
 {% include interests/highlands-and-islands-issues.md %}
 
 ### Who is interested in Highlands And Islands Issues?

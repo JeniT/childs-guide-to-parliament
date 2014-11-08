@@ -9,8 +9,6 @@ title: "Neil Parish"
 
 ---
 
-## Neil Parish
-
 **Neil Parish** is an MP in the **Conservative** party.
 
 {% include members/neil-parish.md %}

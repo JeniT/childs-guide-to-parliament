@@ -9,8 +9,6 @@ title: "Housing Benefit Reform"
 
 ---
 
-## Housing Benefit Reform
-
 {% include interests/housing-benefit-reform.md %}
 
 ### Who is interested in Housing Benefit Reform?

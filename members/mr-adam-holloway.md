@@ -9,8 +9,6 @@ title: "Mr Adam Holloway"
 
 ---
 
-## Mr Adam Holloway
-
 **Mr Adam Holloway** is an MP in the **Conservative** party.
 
 {% include members/mr-adam-holloway.md %}

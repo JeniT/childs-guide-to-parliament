@@ -9,8 +9,6 @@ title: "Agriculture"
 
 ---
 
-## Agriculture
-
 {% include interests/agriculture.md %}
 
 ### Who is interested in Agriculture?

@@ -9,8 +9,6 @@ title: "Transport"
 
 ---
 
-## Transport
-
 {% include interests/transport.md %}
 
 ### Who is interested in Transport?

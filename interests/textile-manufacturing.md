@@ -9,8 +9,6 @@ title: "Textile Manufacturing"
 
 ---
 
-## Textile Manufacturing
-
 {% include interests/textile-manufacturing.md %}
 
 ### Who is interested in Textile Manufacturing?

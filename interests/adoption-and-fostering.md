@@ -9,8 +9,6 @@ title: "Adoption And Fostering"
 
 ---
 
-## Adoption And Fostering
-
 {% include interests/adoption-and-fostering.md %}
 
 ### Who is interested in Adoption And Fostering?

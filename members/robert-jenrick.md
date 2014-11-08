@@ -9,8 +9,6 @@ title: "Robert Jenrick"
 
 ---
 
-## Robert Jenrick
-
 **Robert Jenrick** is an MP in the **Conservative** party.
 
 {% include members/robert-jenrick.md %}

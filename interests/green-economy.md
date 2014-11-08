@@ -9,8 +9,6 @@ title: "Green Economy"
 
 ---
 
-## Green Economy
-
 {% include interests/green-economy.md %}
 
 ### Who is interested in Green Economy?

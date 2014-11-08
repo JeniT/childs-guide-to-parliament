@@ -9,8 +9,6 @@ title: "Nick Boles"
 
 ---
 
-## Nick Boles
-
 **Nick Boles** is an MP in the **Conservative** party.
 
 {% include members/nick-boles.md %}

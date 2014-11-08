@@ -9,8 +9,6 @@ title: "Social Justice"
 
 ---
 
-## Social Justice
-
 {% include interests/social-justice.md %}
 
 ### Who is interested in Social Justice?

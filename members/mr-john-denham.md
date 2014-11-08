@@ -9,8 +9,6 @@ title: "Mr John Denham"
 
 ---
 
-## Mr John Denham
-
 **Mr John Denham** is an MP in the **Labour** party.
 
 {% include members/mr-john-denham.md %}

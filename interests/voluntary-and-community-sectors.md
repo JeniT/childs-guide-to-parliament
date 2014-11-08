@@ -9,8 +9,6 @@ title: "Voluntary And Community Sectors"
 
 ---
 
-## Voluntary And Community Sectors
-
 {% include interests/voluntary-and-community-sectors.md %}
 
 ### Who is interested in Voluntary And Community Sectors?

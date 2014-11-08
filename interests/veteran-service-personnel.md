@@ -9,8 +9,6 @@ title: "Veteran Service Personnel"
 
 ---
 
-## Veteran Service Personnel
-
 {% include interests/veteran-service-personnel.md %}
 
 ### Who is interested in Veteran Service Personnel?

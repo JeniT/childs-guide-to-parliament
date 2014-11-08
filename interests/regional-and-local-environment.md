@@ -9,8 +9,6 @@ title: "Regional And Local Environment"
 
 ---
 
-## Regional And Local Environment
-
 {% include interests/regional-and-local-environment.md %}
 
 ### Who is interested in Regional And Local Environment?

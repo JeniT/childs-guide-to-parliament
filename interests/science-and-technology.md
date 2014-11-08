@@ -9,8 +9,6 @@ title: "Science And Technology"
 
 ---
 
-## Science And Technology
-
 {% include interests/science-and-technology.md %}
 
 ### Who is interested in Science And Technology?

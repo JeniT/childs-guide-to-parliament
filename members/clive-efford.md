@@ -9,8 +9,6 @@ title: "Clive Efford"
 
 ---
 
-## Clive Efford
-
 **Clive Efford** is an MP in the **Labour** party.
 
 {% include members/clive-efford.md %}

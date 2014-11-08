@@ -9,8 +9,6 @@ title: "Alcohol Related Problems"
 
 ---
 
-## Alcohol Related Problems
-
 {% include interests/alcohol-related-problems.md %}
 
 ### Who is interested in Alcohol Related Problems?

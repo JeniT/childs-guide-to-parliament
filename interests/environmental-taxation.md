@@ -9,8 +9,6 @@ title: "Environmental Taxation"
 
 ---
 
-## Environmental Taxation
-
 {% include interests/environmental-taxation.md %}
 
 ### Who is interested in Environmental Taxation?

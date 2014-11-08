@@ -9,8 +9,6 @@ title: "Caroline Flint"
 
 ---
 
-## Caroline Flint
-
 **Caroline Flint** is an MP in the **Labour** party.
 
 {% include members/caroline-flint.md %}

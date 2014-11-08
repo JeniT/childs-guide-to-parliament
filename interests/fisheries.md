@@ -9,8 +9,6 @@ title: "Fisheries"
 
 ---
 
-## Fisheries
-
 {% include interests/fisheries.md %}
 
 ### Who is interested in Fisheries?

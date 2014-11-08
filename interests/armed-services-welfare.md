@@ -9,8 +9,6 @@ title: "Armed Services Welfare"
 
 ---
 
-## Armed Services Welfare
-
 {% include interests/armed-services-welfare.md %}
 
 ### Who is interested in Armed Services Welfare?

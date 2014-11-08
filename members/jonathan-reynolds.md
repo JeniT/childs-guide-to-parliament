@@ -9,8 +9,6 @@ title: "Jonathan Reynolds"
 
 ---
 
-## Jonathan Reynolds
-
 **Jonathan Reynolds** is an MP in the **Labour (Co-op)** party.
 
 {% include members/jonathan-reynolds.md %}

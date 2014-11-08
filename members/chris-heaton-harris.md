@@ -9,8 +9,6 @@ title: "Chris Heaton-Harris"
 
 ---
 
-## Chris Heaton-Harris
-
 **Chris Heaton-Harris** is an MP in the **Conservative** party.
 
 {% include members/chris-heaton-harris.md %}

@@ -9,8 +9,6 @@ title: "Un And Foreign Affairs"
 
 ---
 
-## Un And Foreign Affairs
-
 {% include interests/un-and-foreign-affairs.md %}
 
 ### Who is interested in Un And Foreign Affairs?

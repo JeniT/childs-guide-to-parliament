@@ -9,8 +9,6 @@ title: "Gloria De Piero"
 
 ---
 
-## Gloria De Piero
-
 **Gloria De Piero** is an MP in the **Labour** party.
 
 {% include members/gloria-de-piero.md %}

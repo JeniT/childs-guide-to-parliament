@@ -9,8 +9,6 @@ title: "Food Policy"
 
 ---
 
-## Food Policy
-
 {% include interests/food-policy.md %}
 
 ### Who is interested in Food Policy?

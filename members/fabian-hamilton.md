@@ -9,8 +9,6 @@ title: "Fabian Hamilton"
 
 ---
 
-## Fabian Hamilton
-
 **Fabian Hamilton** is an MP in the **Labour** party.
 
 {% include members/fabian-hamilton.md %}

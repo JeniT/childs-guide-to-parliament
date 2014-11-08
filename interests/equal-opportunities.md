@@ -9,8 +9,6 @@ title: "Equal Opportunities"
 
 ---
 
-## Equal Opportunities
-
 {% include interests/equal-opportunities.md %}
 
 ### Who is interested in Equal Opportunities?

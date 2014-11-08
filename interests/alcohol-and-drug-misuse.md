@@ -9,8 +9,6 @@ title: "Alcohol And Drug Misuse"
 
 ---
 
-## Alcohol And Drug Misuse
-
 {% include interests/alcohol-and-drug-misuse.md %}
 
 ### Who is interested in Alcohol And Drug Misuse?

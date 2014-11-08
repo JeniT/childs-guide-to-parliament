@@ -9,8 +9,6 @@ title: "Mr Frank Roy"
 
 ---
 
-## Mr Frank Roy
-
 **Mr Frank Roy** is an MP in the **Labour** party.
 
 {% include members/mr-frank-roy.md %}

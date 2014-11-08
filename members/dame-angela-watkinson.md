@@ -9,8 +9,6 @@ title: "Dame  Angela Watkinson"
 
 ---
 
-## Dame  Angela Watkinson
-
 **Dame  Angela Watkinson** is an MP in the **Conservative** party.
 
 {% include members/dame-angela-watkinson.md %}

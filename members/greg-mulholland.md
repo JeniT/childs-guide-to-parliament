@@ -9,8 +9,6 @@ title: "Greg Mulholland"
 
 ---
 
-## Greg Mulholland
-
 **Greg Mulholland** is an MP in the **Liberal Democrat** party.
 
 {% include members/greg-mulholland.md %}

@@ -9,8 +9,6 @@ title: "Irish National Self-Determination"
 
 ---
 
-## Irish National Self-Determination
-
 {% include interests/irish-national-self-determination.md %}
 
 ### Who is interested in Irish National Self-Determination?

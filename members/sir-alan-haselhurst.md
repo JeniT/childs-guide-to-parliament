@@ -9,8 +9,6 @@ title: "Sir Alan Haselhurst"
 
 ---
 
-## Sir Alan Haselhurst
-
 **Sir Alan Haselhurst** is an MP in the **Conservative** party.
 
 {% include members/sir-alan-haselhurst.md %}
