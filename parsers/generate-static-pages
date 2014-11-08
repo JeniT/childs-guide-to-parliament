@@ -2,7 +2,6 @@
 
 # Gets the data from the source URL, and parses it into lots of useful JSON.
 
-import urllib2
 import json
 import dateutil.parser
 import xml.etree.ElementTree as etree
@@ -29,20 +28,6 @@ INTERESTS_PAGE_FOLDER = '../interests'
 INTERESTS_MORE_FOLDER = '../_includes/interests'
 
 try:
-    SOURCE_URL_STREAM = urllib2.urlopen(SOURCE_URL)
-except:
-    print 'Cannot get the data from "' + SOURCE_URL + '"!'
-    exit(1)
-
-try:
-    SOURCE_FILE = open(SOURCE_FILE_DESTINATION, 'w')
-    SOURCE_FILE.write(SOURCE_URL_STREAM.read())
-    SOURCE_FILE.close()
-except:
-    print 'Cannot write data to "' + SOURCE_FILE_DESTINATION + '"!'
-    exit(1)
-
-try:
     MEMBERS_XML = etree.parse(SOURCE_FILE_DESTINATION)
 except:
     print 'Oh no! Data from "' + SOURCE_FILE_DESTINATION + '" cannot be parsed!'
@@ -62,7 +47,9 @@ def get_colour(party):
     return {
         'Conservative': '#333399',
         'Labour': '#cc0000',
-        'Liberal Democrat': '#f1cc0a'
+        'Labour (Co-op)': '#cc0000',
+        'Liberal Democrat': '#f1cc0a',
+        'Green': '#99cc33'
     }.get(party, '#999999')
 
 TEMPLATE_MEMBER_FILE = open('../_templates/member.md', 'r')
@@ -76,6 +63,7 @@ TEMPLATE_INTEREST_FILE.close()
 MEMBER_MAP = {}
 INTERESTS_MAP = {}
 MEMBER_SLUG_MAP = {}
+MEMBER_ALL_LIST = []
 
 for member in MEMBERS:
 
@@ -143,6 +131,7 @@ for member in MEMBERS:
 
     MEMBER_MAP[member_id] = member_data
     MEMBER_SLUG_MAP[member_slug] = member_id
+    MEMBER_ALL_LIST.append({'name': member.find('DisplayAs').text})
 
     # Write this member's data
 
@@ -212,5 +201,10 @@ with open(INTERESTS_DATA_FOLDER + '/map.json', 'w') as output_file:
 
 with open(MEMBER_DATA_FOLDER + '/map.json', 'w') as output_file:
     output_file.write(json.dumps(MEMBER_SLUG_MAP, indent=4))
+
+# Spit out the files for visualisation
+
+with open(MEMBER_DATA_FOLDER + '/all.json', 'w') as output_file:
+    output_file.write(json.dumps(MEMBER_ALL_LIST, indent=4))
 
 print 'Hooray, all done!'

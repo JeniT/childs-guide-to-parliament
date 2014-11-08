@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+
+# Gets the data from the source URL.
+
+import urllib2
+
+# The URL we're going to get the data from
+SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/House=Commons%7CIsEligible=true/Committees|BiographyEntries/'
+
+# Where we store a copy of the file locally
+SOURCE_FILE_DESTINATION = '../_source/members.xml'
+
+try:
+    SOURCE_URL_STREAM = urllib2.urlopen(SOURCE_URL)
+except:
+    print 'Cannot get the data from "' + SOURCE_URL + '"!'
+    exit(1)
+
+try:
+    SOURCE_FILE = open(SOURCE_FILE_DESTINATION, 'w')
+    SOURCE_FILE.write(SOURCE_URL_STREAM.read())
+    SOURCE_FILE.close()
+except:
+    print 'Cannot write data to "' + SOURCE_FILE_DESTINATION + '"!'
+    exit(1)
+
+print 'Hooray, all done!'

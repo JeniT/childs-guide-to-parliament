@@ -1,0 +1,102 @@
+#!/usr/bin/env python
+
+# Gets the data from the source URL, and parses it into lots of useful JSON.
+
+import json
+import dateutil.parser
+import xml.etree.ElementTree as etree
+
+from datetime import datetime
+from slugify import slugify
+from string import Template
+
+# Where we store a copy of the file locally
+SOURCE_FILE_DESTINATION = '../_source/members.xml'
+
+# The folders to put the resulting data files in
+MEMBER_DATA_FOLDER = '../data/members'
+INTERESTS_DATA_FOLDER = '../data/interests'
+
+MEMBER_PAGE_FOLDER = '../members'
+MEMBER_MORE_FOLDER = '../_includes/members'
+
+INTERESTS_PAGE_FOLDER = '../interests'
+INTERESTS_MORE_FOLDER = '../_includes/interests'
+
+try:
+    MEMBERS_XML = etree.parse(SOURCE_FILE_DESTINATION)
+except:
+    print 'Oh no! Data from "' + SOURCE_FILE_DESTINATION + '" cannot be parsed!'
+    exit(1)
+
+MEMBERS = MEMBERS_XML.getroot()
+
+print '"' + SOURCE_FILE_DESTINATION + '" has ' + str(len(MEMBERS)) + ' members.'
+
+def get_colour(party):
+    return {
+        'Conservative': '#333399',
+        'Labour': '#cc0000',
+        'Liberal Democrat': '#f1cc0a'
+    }.get(party, '#999999')
+
+INTERESTS_MAP = {}
+MEMBER_ALL_LIST = []
+POSITION_MAP = {}
+
+i = 0
+
+for member in MEMBERS:
+
+    member_id = member.attrib['Member_Id']
+
+    member_interests = []
+
+    for biography_entry in member.find('BiographyEntries'):
+        if biography_entry.attrib['Category_Id'] == '1':
+            interests = biography_entry.find('Entry').text.split(',')
+            for interest in interests:
+                interest_clean_name = interest.strip().title()
+                if interest_clean_name != '':
+                    member_interests.append(interest_clean_name)
+                    if not interest_clean_name in INTERESTS_MAP:
+                        INTERESTS_MAP[interest_clean_name] = []
+                    INTERESTS_MAP[interest_clean_name].append(member_id)
+                    POSITION_MAP[member_id] = i
+                    i = i + 1
+
+    MEMBER_ALL_LIST.append({'name': member.find('DisplayAs').text})
+
+# Spit out individual interest files!
+
+INTERESTS_LINK_LIST = []
+INTERESTS_LINK_SANITY = []
+
+for interest, people in INTERESTS_MAP.iteritems():
+
+    interest_slug = slugify(interest)
+
+    interests_people_list = ''
+
+    for person_src in people:
+        for person_targ in people:
+            if person_src != person_targ:
+                keys = [person_src, person_targ]
+                keys.sort()
+                sanity_key = keys[0] + '-' + keys[1]
+                if sanity_key not in INTERESTS_LINK_SANITY:
+                    INTERESTS_LINK_SANITY.append(sanity_key)
+                    INTERESTS_LINK_LIST.append({
+                        'source': POSITION_MAP[person_src],
+                        'target': POSITION_MAP[person_targ]
+                    })
+
+# Spit out the files for visualisation
+
+with open(MEMBER_DATA_FOLDER + '/all.json', 'w') as output_file:
+    output_file.write(json.dumps(MEMBER_ALL_LIST, indent=4))
+
+with open(MEMBER_DATA_FOLDER + '/shared_interest_links.json', 'w') as output_file:
+    output_file.write(json.dumps(INTERESTS_LINK_LIST, indent=4))
+
+print 'Hooray, all done!'
