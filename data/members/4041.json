@@ -7,9 +7,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4041", 
-    "party": "Conservative", 
     "display_name": "Glyn Davies", 
-    "slug": "glyn-davies"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "glyn-davies", 
+    "id": "4041"
 }

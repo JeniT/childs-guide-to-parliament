@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1458", 
-    "party": "Conservative", 
     "display_name": "Mr George Osborne", 
-    "slug": "mr-george-osborne"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-george-osborne", 
+    "id": "1458"
 }

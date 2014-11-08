@@ -23,9 +23,10 @@
             "name": "Finance and Services Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1399", 
-    "party": "Liberal Democrat", 
     "display_name": "John Thurso", 
-    "slug": "john-thurso"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "john-thurso", 
+    "id": "1399"
 }

@@ -21,9 +21,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1482", 
-    "party": "Conservative", 
     "display_name": "Mr Graham Stuart", 
-    "slug": "mr-graham-stuart"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-graham-stuart", 
+    "id": "1482"
 }

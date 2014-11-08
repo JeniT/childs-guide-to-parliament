@@ -14,9 +14,10 @@
             "name": "Public Accounts Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1518", 
-    "party": "Conservative", 
     "display_name": "Mr David Burrowes", 
-    "slug": "mr-david-burrowes"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-burrowes", 
+    "id": "1518"
 }

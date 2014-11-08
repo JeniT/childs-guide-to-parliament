@@ -21,9 +21,10 @@
             "name": "Human Rights (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "1382", 
-    "party": "Labour", 
     "display_name": "Dr Hywel Francis", 
-    "slug": "dr-hywel-francis"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "dr-hywel-francis", 
+    "id": "1382"
 }

@@ -10,9 +10,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3994", 
-    "party": "Conservative", 
     "display_name": "Andrew Bingham", 
-    "slug": "andrew-bingham"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-bingham", 
+    "id": "3994"
 }

@@ -8,9 +8,10 @@
         "Rural Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "76", 
-    "party": "Conservative", 
     "display_name": "Damian Green", 
-    "slug": "damian-green"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "damian-green", 
+    "id": "76"
 }

@@ -21,9 +21,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "605", 
-    "party": "Labour", 
     "display_name": "John Robertson", 
-    "slug": "john-robertson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "john-robertson", 
+    "id": "605"
 }

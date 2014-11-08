@@ -23,9 +23,10 @@
             "name": "Finance and Services Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "249", 
-    "party": "Conservative", 
     "display_name": "Geoffrey Clifton-Brown", 
-    "slug": "geoffrey-clifton-brown"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "geoffrey-clifton-brown", 
+    "id": "249"
 }

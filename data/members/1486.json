@@ -20,9 +20,10 @@
             "name": "Backbench Business Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1486", 
-    "party": "Labour", 
     "display_name": "Mr David Anderson", 
-    "slug": "mr-david-anderson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-david-anderson", 
+    "id": "1486"
 }

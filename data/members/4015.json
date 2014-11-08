@@ -7,9 +7,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4015", 
-    "party": "Conservative", 
     "display_name": "Iain Stewart", 
-    "slug": "iain-stewart"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "iain-stewart", 
+    "id": "4015"
 }

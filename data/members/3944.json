@@ -10,9 +10,10 @@
             "name": "Welsh Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3944", 
-    "party": "Conservative", 
     "display_name": "Simon Hart", 
-    "slug": "simon-hart"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "simon-hart", 
+    "id": "3944"
 }

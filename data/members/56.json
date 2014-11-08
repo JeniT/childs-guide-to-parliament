@@ -6,9 +6,10 @@
         "Law"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "56", 
-    "party": "Conservative", 
     "display_name": "Mr James Arbuthnot", 
-    "slug": "mr-james-arbuthnot"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-james-arbuthnot", 
+    "id": "56"
 }

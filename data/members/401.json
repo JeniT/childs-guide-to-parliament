@@ -7,9 +7,10 @@
         "Small Businesses"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "401", 
-    "party": "Labour", 
     "display_name": "Mike Wood", 
-    "slug": "mike-wood"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mike-wood", 
+    "id": "401"
 }

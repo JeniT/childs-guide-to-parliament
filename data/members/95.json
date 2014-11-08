@@ -7,9 +7,10 @@
         "Employment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "95", 
-    "party": "Labour", 
     "display_name": "Mr Andrew Smith", 
-    "slug": "mr-andrew-smith"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-andrew-smith", 
+    "id": "95"
 }

@@ -7,9 +7,10 @@
             "name": "Speaker's Committee on the Electoral Commission"
         }
     ], 
-    "gender": "male", 
-    "id": "451", 
-    "party": "Labour", 
     "display_name": "Sir Gerald Kaufman", 
-    "slug": "sir-gerald-kaufman"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sir-gerald-kaufman", 
+    "id": "451"
 }

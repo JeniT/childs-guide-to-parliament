@@ -13,9 +13,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4024", 
-    "party": "Conservative", 
     "display_name": "Mr Marcus Jones", 
-    "slug": "mr-marcus-jones"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-marcus-jones", 
+    "id": "4024"
 }

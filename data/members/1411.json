@@ -17,9 +17,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1411", 
-    "party": "Labour (Co-op)", 
     "display_name": "Mark Lazarowicz", 
-    "slug": "mark-lazarowicz"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mark-lazarowicz", 
+    "id": "1411"
 }

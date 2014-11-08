@@ -15,9 +15,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3930", 
-    "party": "Green", 
     "display_name": "Caroline Lucas", 
-    "slug": "caroline-lucas"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Green", 
+    "slug": "caroline-lucas", 
+    "id": "3930"
 }

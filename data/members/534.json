@@ -15,9 +15,10 @@
             "name": "Political and Constitutional Reform Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "534", 
-    "party": "Labour", 
     "display_name": "Chris Ruane", 
-    "slug": "chris-ruane"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "chris-ruane", 
+    "id": "534"
 }

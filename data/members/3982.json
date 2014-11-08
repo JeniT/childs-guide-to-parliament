@@ -8,9 +8,10 @@
         "Pensions And Welfare"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3982", 
-    "party": "Labour", 
     "display_name": "Margaret Curran", 
-    "slug": "margaret-curran"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "margaret-curran", 
+    "id": "3982"
 }

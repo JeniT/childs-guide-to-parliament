@@ -8,9 +8,10 @@
         "Local Government"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4044", 
-    "party": "Conservative", 
     "display_name": "Andrew Stephenson", 
-    "slug": "andrew-stephenson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-stephenson", 
+    "id": "4044"
 }

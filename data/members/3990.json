@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3990", 
-    "party": "Conservative", 
     "display_name": "Richard Graham", 
-    "slug": "richard-graham"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "richard-graham", 
+    "id": "3990"
 }

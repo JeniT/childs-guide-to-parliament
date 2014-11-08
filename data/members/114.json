@@ -18,9 +18,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "114", 
-    "party": "Conservative", 
     "display_name": "Tim Loughton", 
-    "slug": "tim-loughton"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "tim-loughton", 
+    "id": "114"
 }

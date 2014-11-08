@@ -12,9 +12,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3973", 
-    "party": "Labour", 
     "display_name": "Grahame M. Morris", 
-    "slug": "grahame-m-morris"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "grahame-m-morris", 
+    "id": "3973"
 }

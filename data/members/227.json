@@ -25,9 +25,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "227", 
-    "party": "Liberal Democrat", 
     "display_name": "Andrew George", 
-    "slug": "andrew-george"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "andrew-george", 
+    "id": "227"
 }

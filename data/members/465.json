@@ -18,9 +18,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "465", 
-    "party": "Labour", 
     "display_name": "Mr Gordon Marsden", 
-    "slug": "mr-gordon-marsden"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-gordon-marsden", 
+    "id": "465"
 }

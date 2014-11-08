@@ -11,9 +11,10 @@
         "Genocide Prevention"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1579", 
-    "party": "Labour", 
     "display_name": "Mary Creagh", 
-    "slug": "mary-creagh"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mary-creagh", 
+    "id": "1579"
 }

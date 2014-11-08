@@ -12,9 +12,10 @@
             "name": "Members' Expenses Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "171", 
-    "party": "Labour", 
     "display_name": "Mr Nick Raynsford", 
-    "slug": "mr-nick-raynsford"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-nick-raynsford", 
+    "id": "171"
 }

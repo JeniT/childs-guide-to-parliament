@@ -7,9 +7,10 @@
         "Agriculture"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4118", 
-    "party": "Conservative", 
     "display_name": "Julian Smith", 
-    "slug": "julian-smith"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "julian-smith", 
+    "id": "4118"
 }

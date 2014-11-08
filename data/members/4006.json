@@ -12,9 +12,10 @@
             "name": "Able Marine Energy Park Development Consent Order 2014"
         }
     ], 
-    "gender": "male", 
-    "id": "4006", 
-    "party": "Conservative", 
     "display_name": "Dr Matthew Offord", 
-    "slug": "dr-matthew-offord"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-matthew-offord", 
+    "id": "4006"
 }

@@ -14,9 +14,10 @@
             "name": "Public Accounts Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3928", 
-    "party": "Labour", 
     "display_name": "Nick Smith", 
-    "slug": "nick-smith"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "nick-smith", 
+    "id": "3928"
 }

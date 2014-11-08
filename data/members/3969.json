@@ -6,9 +6,10 @@
         "Social Mobility"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3969", 
-    "party": "Conservative", 
     "display_name": "Damian Hinds", 
-    "slug": "damian-hinds"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "damian-hinds", 
+    "id": "3969"
 }

@@ -11,9 +11,10 @@
             "name": "International Development Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3963", 
-    "party": "Labour", 
     "display_name": "Mr Michael McCann", 
-    "slug": "mr-michael-mccann"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-michael-mccann", 
+    "id": "3963"
 }

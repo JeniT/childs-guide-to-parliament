@@ -17,9 +17,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4073", 
-    "party": "Conservative", 
     "display_name": "Dr Sarah Wollaston", 
-    "slug": "dr-sarah-wollaston"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-sarah-wollaston", 
+    "id": "4073"
 }

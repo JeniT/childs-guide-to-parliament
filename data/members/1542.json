@@ -9,9 +9,10 @@
         "Local Government"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1542", 
-    "party": "Conservative", 
     "display_name": "Mr Philip Dunne", 
-    "slug": "mr-philip-dunne"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-philip-dunne", 
+    "id": "1542"
 }

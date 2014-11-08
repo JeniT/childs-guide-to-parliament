@@ -12,9 +12,10 @@
         "Falkland Islands"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4142", 
-    "party": "Conservative", 
     "display_name": "Guy Opperman", 
-    "slug": "guy-opperman"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "guy-opperman", 
+    "id": "4142"
 }

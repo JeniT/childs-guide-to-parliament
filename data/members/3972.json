@@ -19,9 +19,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "3972", 
-    "party": "Labour", 
     "display_name": "Jenny Chapman", 
-    "slug": "jenny-chapman"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jenny-chapman", 
+    "id": "3972"
 }

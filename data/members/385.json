@@ -19,9 +19,10 @@
             "name": "International Development Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "385", 
-    "party": "Labour", 
     "display_name": "Hugh Bayley", 
-    "slug": "hugh-bayley"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "hugh-bayley", 
+    "id": "385"
 }

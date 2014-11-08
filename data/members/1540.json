@@ -14,9 +14,10 @@
             "name": "Public Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1540", 
-    "party": "Liberal Democrat", 
     "display_name": "Greg Mulholland", 
-    "slug": "greg-mulholland"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "greg-mulholland", 
+    "id": "1540"
 }

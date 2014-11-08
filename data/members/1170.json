@@ -15,9 +15,10 @@
             "name": "Human Rights (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "1170", 
-    "party": "Liberal Democrat", 
     "display_name": "Sarah Teather", 
-    "slug": "sarah-teather"
+    "gender": "female", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sarah-teather", 
+    "id": "1170"
 }

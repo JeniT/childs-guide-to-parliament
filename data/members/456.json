@@ -12,9 +12,10 @@
             "name": "Intelligence and Security (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "456", 
-    "party": "Labour", 
     "display_name": "Hazel Blears", 
-    "slug": "hazel-blears"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "hazel-blears", 
+    "id": "456"
 }

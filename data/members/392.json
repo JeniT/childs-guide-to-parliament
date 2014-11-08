@@ -30,9 +30,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "392", 
-    "party": "Labour", 
     "display_name": "Kevin Barron", 
-    "slug": "kevin-barron"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "kevin-barron", 
+    "id": "392"
 }

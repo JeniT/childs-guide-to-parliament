@@ -19,9 +19,10 @@
             "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "93", 
-    "party": "Conservative", 
     "display_name": "Sir Tony Baldry", 
-    "slug": "sir-tony-baldry"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-tony-baldry", 
+    "id": "93"
 }

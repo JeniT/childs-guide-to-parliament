@@ -7,9 +7,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "316", 
-    "party": "Labour", 
     "display_name": "Mr David Winnick", 
-    "slug": "mr-david-winnick"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-david-winnick", 
+    "id": "316"
 }

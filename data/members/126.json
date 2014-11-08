@@ -7,9 +7,10 @@
         "Countryside"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "126", 
-    "party": "Conservative", 
     "display_name": "Mr Keith Simpson", 
-    "slug": "mr-keith-simpson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-keith-simpson", 
+    "id": "126"
 }

@@ -6,9 +6,10 @@
         "Homelessness"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1453", 
-    "party": "Conservative", 
     "display_name": "Andrew Selous", 
-    "slug": "andrew-selous"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-selous", 
+    "id": "1453"
 }

@@ -5,9 +5,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3995", 
-    "party": "Conservative", 
     "display_name": "Nick Boles", 
-    "slug": "nick-boles"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nick-boles", 
+    "id": "3995"
 }

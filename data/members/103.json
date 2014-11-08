@@ -21,9 +21,10 @@
             "name": "Finance and Services Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "103", 
-    "party": "Conservative", 
     "display_name": "Sir Paul Beresford", 
-    "slug": "sir-paul-beresford"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-paul-beresford", 
+    "id": "103"
 }

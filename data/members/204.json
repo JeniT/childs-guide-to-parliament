@@ -8,9 +8,10 @@
         "Community Safety"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "204", 
-    "party": "Liberal Democrat", 
     "display_name": "Paul Burstow", 
-    "slug": "paul-burstow"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "paul-burstow", 
+    "id": "204"
 }

@@ -11,9 +11,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1598", 
-    "party": "Liberal Democrat", 
     "display_name": "Mark Hunter", 
-    "slug": "mark-hunter"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mark-hunter", 
+    "id": "1598"
 }

@@ -6,9 +6,10 @@
         "Small Businesses"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "586", 
-    "party": "Labour", 
     "display_name": "Mr Brian H. Donohoe", 
-    "slug": "mr-brian-h-donohoe"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-brian-h-donohoe", 
+    "id": "586"
 }

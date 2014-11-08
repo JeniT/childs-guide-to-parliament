@@ -13,9 +13,10 @@
             "name": "Foreign Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1390", 
-    "party": "Conservative", 
     "display_name": "Mr John Baron", 
-    "slug": "mr-john-baron"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-john-baron", 
+    "id": "1390"
 }

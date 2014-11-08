@@ -16,9 +16,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3948", 
-    "party": "Conservative", 
     "display_name": "Rebecca Harris", 
-    "slug": "rebecca-harris"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "rebecca-harris", 
+    "id": "3948"
 }

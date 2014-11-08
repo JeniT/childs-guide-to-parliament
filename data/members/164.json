@@ -12,9 +12,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "164", 
-    "party": "Labour (Co-op)", 
     "display_name": "Mr Andrew Love", 
-    "slug": "mr-andrew-love"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mr-andrew-love", 
+    "id": "164"
 }

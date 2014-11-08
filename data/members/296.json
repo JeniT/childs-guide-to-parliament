@@ -11,9 +11,10 @@
             "name": "Defence Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "296", 
-    "party": "Labour", 
     "display_name": "Ms Gisela Stuart", 
-    "slug": "ms-gisela-stuart"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ms-gisela-stuart", 
+    "id": "296"
 }

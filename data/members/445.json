@@ -7,9 +7,10 @@
         "Climate Change"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "445", 
-    "party": "Liberal Democrat", 
     "display_name": "Sir Andrew Stunell", 
-    "slug": "sir-andrew-stunell"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-andrew-stunell", 
+    "id": "445"
 }

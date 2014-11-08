@@ -21,9 +21,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "155", 
-    "party": "Labour (Co-op)", 
     "display_name": "Geraint Davies", 
-    "slug": "geraint-davies"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "geraint-davies", 
+    "id": "155"
 }

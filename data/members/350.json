@@ -9,9 +9,10 @@
         "Welfare Of The Elderly And Disabled People"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "350", 
-    "party": "Conservative", 
     "display_name": "Mr John Hayes", 
-    "slug": "mr-john-hayes"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-john-hayes", 
+    "id": "350"
 }

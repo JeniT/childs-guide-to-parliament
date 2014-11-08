@@ -7,9 +7,10 @@
         "Defence"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1528", 
-    "party": "Conservative", 
     "display_name": "Mike Penning", 
-    "slug": "mike-penning"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mike-penning", 
+    "id": "1528"
 }

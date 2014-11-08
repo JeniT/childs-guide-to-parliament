@@ -22,9 +22,10 @@
             "name": "Committee on Standards: Standards Review Sub-Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "231", 
-    "party": "Liberal Democrat", 
     "display_name": "Sir Nick Harvey", 
-    "slug": "sir-nick-harvey"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-nick-harvey", 
+    "id": "231"
 }

@@ -12,9 +12,10 @@
             "name": "Selection Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1526", 
-    "party": "Conservative", 
     "display_name": "Greg Hands", 
-    "slug": "greg-hands"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "greg-hands", 
+    "id": "1526"
 }

@@ -22,9 +22,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4099", 
-    "party": "Conservative", 
     "display_name": "Jacob Rees-Mogg", 
-    "slug": "jacob-rees-mogg"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jacob-rees-mogg", 
+    "id": "4099"
 }

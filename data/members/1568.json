@@ -13,9 +13,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "female", 
-    "id": "1568", 
-    "party": "Conservative", 
     "display_name": "Mrs Anne Main", 
-    "slug": "mrs-anne-main"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mrs-anne-main", 
+    "id": "1568"
 }

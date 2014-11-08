@@ -6,9 +6,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "167", 
-    "party": "Labour (Co-op)", 
     "display_name": "Stephen Twigg", 
-    "slug": "stephen-twigg"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "stephen-twigg", 
+    "id": "167"
 }

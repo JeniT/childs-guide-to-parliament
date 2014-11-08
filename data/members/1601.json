@@ -12,9 +12,10 @@
             "name": "Political and Constitutional Reform Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1601", 
-    "party": "Conservative", 
     "display_name": "Robert Neill", 
-    "slug": "robert-neill"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "robert-neill", 
+    "id": "1601"
 }

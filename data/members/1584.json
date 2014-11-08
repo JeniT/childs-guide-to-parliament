@@ -13,9 +13,10 @@
             "name": "Selection Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1584", 
-    "party": "Conservative", 
     "display_name": "John Penrose", 
-    "slug": "john-penrose"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "john-penrose", 
+    "id": "1584"
 }

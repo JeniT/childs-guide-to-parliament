@@ -9,9 +9,10 @@
         "International Development"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "638", 
-    "party": "Liberal Democrat", 
     "display_name": "Michael Moore", 
-    "slug": "michael-moore"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "michael-moore", 
+    "id": "638"
 }

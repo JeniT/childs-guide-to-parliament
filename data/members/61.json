@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "61", 
-    "party": "Labour", 
     "display_name": "Mr John Denham", 
-    "slug": "mr-john-denham"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-john-denham", 
+    "id": "61"
 }

@@ -27,9 +27,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "112", 
-    "party": "Conservative", 
     "display_name": "Mr Andrew Tyrie", 
-    "slug": "mr-andrew-tyrie"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-andrew-tyrie", 
+    "id": "112"
 }

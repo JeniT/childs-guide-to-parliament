@@ -7,9 +7,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "1537", 
-    "party": "Conservative", 
     "display_name": "Mr Philip Hollobone", 
-    "slug": "mr-philip-hollobone"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-philip-hollobone", 
+    "id": "1537"
 }

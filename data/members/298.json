@@ -6,9 +6,10 @@
         "Police And Security Issues"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "298", 
-    "party": "Labour", 
     "display_name": "Steve McCabe", 
-    "slug": "steve-mccabe"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "steve-mccabe", 
+    "id": "298"
 }

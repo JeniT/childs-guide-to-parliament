@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1510", 
-    "party": "Labour", 
     "display_name": "Edward Miliband", 
-    "slug": "edward-miliband"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "edward-miliband", 
+    "id": "1510"
 }

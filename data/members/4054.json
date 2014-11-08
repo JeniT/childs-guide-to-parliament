@@ -16,9 +16,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4054", 
-    "party": "Conservative", 
     "display_name": "Stephen Phillips", 
-    "slug": "stephen-phillips"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stephen-phillips", 
+    "id": "4054"
 }

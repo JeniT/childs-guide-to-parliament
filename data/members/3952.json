@@ -18,9 +18,10 @@
             "name": "Statutory Instruments (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "3952", 
-    "party": "Labour", 
     "display_name": "Toby Perkins", 
-    "slug": "toby-perkins"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "toby-perkins", 
+    "id": "3952"
 }

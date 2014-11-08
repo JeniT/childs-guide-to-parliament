@@ -11,9 +11,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "3971", 
-    "party": "Conservative", 
     "display_name": "Charlie Elphicke", 
-    "slug": "charlie-elphicke"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "charlie-elphicke", 
+    "id": "3971"
 }

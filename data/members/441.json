@@ -8,9 +8,10 @@
         "Media And Sport"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "441", 
-    "party": "Labour", 
     "display_name": "Mr Ivan Lewis", 
-    "slug": "mr-ivan-lewis"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-ivan-lewis", 
+    "id": "441"
 }

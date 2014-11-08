@@ -22,9 +22,10 @@
             "name": "Committee on Standards: Standards Review Sub-Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1508", 
-    "party": "Conservative", 
     "display_name": "Mr Geoffrey Cox", 
-    "slug": "mr-geoffrey-cox"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-geoffrey-cox", 
+    "id": "1508"
 }

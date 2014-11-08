@@ -17,9 +17,10 @@
             "name": "Culture, Media and Sport Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1464", 
-    "party": "Labour", 
     "display_name": "Jim Sheridan", 
-    "slug": "jim-sheridan"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jim-sheridan", 
+    "id": "1464"
 }

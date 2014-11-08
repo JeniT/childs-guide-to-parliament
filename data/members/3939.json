@@ -19,9 +19,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3939", 
-    "party": "Conservative", 
     "display_name": "Andrew Percy", 
-    "slug": "andrew-percy"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-percy", 
+    "id": "3939"
 }

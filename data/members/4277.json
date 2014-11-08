@@ -7,9 +7,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4277", 
-    "party": "Labour", 
     "display_name": "Mrs Emma Lewell-Buck", 
-    "slug": "mrs-emma-lewell-buck"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mrs-emma-lewell-buck", 
+    "id": "4277"
 }

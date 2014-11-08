@@ -11,9 +11,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "435", 
-    "party": "Conservative", 
     "display_name": "Mr Graham Brady", 
-    "slug": "mr-graham-brady"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-graham-brady", 
+    "id": "435"
 }

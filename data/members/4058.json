@@ -18,9 +18,10 @@
             "name": "Able Marine Energy Park Development Consent Order 2014"
         }
     ], 
-    "gender": "male", 
-    "id": "4058", 
-    "party": "Labour", 
     "display_name": "Paul Blomfield", 
-    "slug": "paul-blomfield"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "paul-blomfield", 
+    "id": "4058"
 }

@@ -25,9 +25,10 @@
             "name": "Members' Expenses Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3910", 
-    "party": "Conservative", 
     "display_name": "Guto Bebb", 
-    "slug": "guto-bebb"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "guto-bebb", 
+    "id": "3910"
 }

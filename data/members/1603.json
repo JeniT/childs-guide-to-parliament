@@ -5,9 +5,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1603", 
-    "party": "Labour", 
     "display_name": "Phil Wilson", 
-    "slug": "phil-wilson"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "phil-wilson", 
+    "id": "1603"
 }

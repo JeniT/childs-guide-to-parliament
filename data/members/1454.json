@@ -23,9 +23,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1454", 
-    "party": "Liberal Democrat", 
     "display_name": "John Pugh", 
-    "slug": "john-pugh"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "john-pugh", 
+    "id": "1454"
 }

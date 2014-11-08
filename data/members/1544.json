@@ -5,9 +5,10 @@
         "Commerce"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1544", 
-    "party": "Conservative", 
     "display_name": "Mark Lancaster", 
-    "slug": "mark-lancaster"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mark-lancaster", 
+    "id": "1544"
 }

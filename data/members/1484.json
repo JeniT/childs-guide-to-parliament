@@ -13,9 +13,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "1484", 
-    "party": "Labour", 
     "display_name": "Helen Goodman", 
-    "slug": "helen-goodman"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "helen-goodman", 
+    "id": "1484"
 }

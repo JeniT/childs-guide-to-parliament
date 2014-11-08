@@ -17,9 +17,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "553", 
-    "party": "Labour", 
     "display_name": "Ann Clwyd", 
-    "slug": "ann-clwyd"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ann-clwyd", 
+    "id": "553"
 }

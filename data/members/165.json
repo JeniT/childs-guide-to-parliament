@@ -14,9 +14,10 @@
         "Social Housing"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "165", 
-    "party": "Labour", 
     "display_name": "Clive Efford", 
-    "slug": "clive-efford"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "clive-efford", 
+    "id": "165"
 }

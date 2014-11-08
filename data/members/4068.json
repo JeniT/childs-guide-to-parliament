@@ -7,9 +7,10 @@
         "Apprenticeships"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4068", 
-    "party": "Conservative", 
     "display_name": "Richard Harrington", 
-    "slug": "richard-harrington"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "richard-harrington", 
+    "id": "4068"
 }

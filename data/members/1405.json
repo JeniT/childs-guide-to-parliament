@@ -15,9 +15,10 @@
             "name": "Intelligence and Security (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "1405", 
-    "party": "Conservative", 
     "display_name": "Mark Field", 
-    "slug": "mark-field"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mark-field", 
+    "id": "1405"
 }

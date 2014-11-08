@@ -6,9 +6,10 @@
         "Economy And Transport"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1555", 
-    "party": "Conservative", 
     "display_name": "Justine Greening", 
-    "slug": "justine-greening"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "justine-greening", 
+    "id": "1555"
 }

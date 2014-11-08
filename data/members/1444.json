@@ -6,9 +6,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1444", 
-    "party": "Conservative", 
     "display_name": "Mr Mark Francois", 
-    "slug": "mr-mark-francois"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-mark-francois", 
+    "id": "1444"
 }

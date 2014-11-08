@@ -12,9 +12,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "91", 
-    "party": "Conservative", 
     "display_name": "Sir John Stanley", 
-    "slug": "sir-john-stanley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-john-stanley", 
+    "id": "91"
 }

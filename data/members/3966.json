@@ -9,9 +9,10 @@
         "Business"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3966", 
-    "party": "Labour", 
     "display_name": "Ian Murray", 
-    "slug": "ian-murray"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ian-murray", 
+    "id": "3966"
 }

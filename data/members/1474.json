@@ -16,9 +16,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1474", 
-    "party": "Labour", 
     "display_name": "Albert Owen", 
-    "slug": "albert-owen"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "albert-owen", 
+    "id": "1474"
 }

@@ -14,9 +14,10 @@
             "name": "Procedure Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4056", 
-    "party": "Labour", 
     "display_name": "Nic Dakin", 
-    "slug": "nic-dakin"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "nic-dakin", 
+    "id": "4056"
 }

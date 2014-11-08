@@ -18,9 +18,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "206", 
-    "party": "Labour", 
     "display_name": "Mr David Lammy", 
-    "slug": "mr-david-lammy"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-david-lammy", 
+    "id": "206"
 }

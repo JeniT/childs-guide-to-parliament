@@ -19,9 +19,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "1397", 
-    "party": "Plaid Cymru", 
     "display_name": "Hywel Williams", 
-    "slug": "hywel-williams"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Plaid Cymru", 
+    "slug": "hywel-williams", 
+    "id": "1397"
 }

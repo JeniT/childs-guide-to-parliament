@@ -12,9 +12,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4072", 
-    "party": "Conservative", 
     "display_name": "Neil Parish", 
-    "slug": "neil-parish"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "neil-parish", 
+    "id": "4072"
 }

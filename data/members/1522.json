@@ -10,9 +10,10 @@
             "name": "Public Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1522", 
-    "party": "Conservative", 
     "display_name": "Mr Adam Holloway", 
-    "slug": "mr-adam-holloway"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-adam-holloway", 
+    "id": "1522"
 }

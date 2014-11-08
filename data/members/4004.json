@@ -6,9 +6,10 @@
         "Government Efficiency"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4004", 
-    "party": "Conservative", 
     "display_name": "Mike Freer", 
-    "slug": "mike-freer"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mike-freer", 
+    "id": "4004"
 }
