@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: house
 title: The House of Lords
 house: Lords
 ---

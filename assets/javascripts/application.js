@@ -1,4 +1,4 @@
-var searchBaseUrl = "http://hansard.services.digiminster.com/members/contributions/list.json?startdate=2013-11-08&house=Commons&SearchTerm=";
+var searchBaseUrl = "http://hansard.services.digiminster.com/members/contributions/list.json?startdate=2013-11-08";
 var contributionBaseUrl = "http://hansard.services.digiminster.com/members/contributions/contribution/";
 var mpBaseUrl = "data/members/";
 
@@ -14,9 +14,12 @@ var memberParty = function ( mp ) {
 $('#hansardSearchForm').submit(
 	function( event ) {
 		var searchText = $('#hansardSearchText').val();
+		var searchHouse = $('#hansardSearchHouse').val();
 		var $searchResults = $('#hansardSearchResults');
 		var $mpResults = $('#hansardMPs');
-		$.getJSON( searchBaseUrl + searchText, function( data ) {
+		var searchUrl = searchBaseUrl + "&house=" + searchHouse + "&SearchTerm=" + searchText;
+		console.log(searchUrl);
+		$.getJSON(searchUrl, function( data ) {
 			var debates = {};
 			var debateItems = [];
 			var mps = {};

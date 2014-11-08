@@ -1,0 +1,30 @@
+---
+layout: container
+---
+
+<div class="container">
+  {{ content }}
+</div>
+
+<div class="jumbotron">
+	<div class="container">
+		<form id="hansardSearchForm" role="form" class="form-inline">
+		  <div class="form-group">
+		  	<h3>
+			    <label for="exampleInputEmail1">
+			    	Find out what {% if page.house == 'Commons' %} MPs {% else %} Lords {% endif %} are saying about 
+			   	</label>
+			    <input type="text" class="form-control input-lg" id="hansardSearchText" placeholder="Enter a subject">
+			</h3>
+		  </div>
+		  <input id="hansardSearchHouse" type="hidden" value="{{ page.house }}">
+		</form>
+	</div>
+</div>
+
+<div class="container">
+	<div id="hansardSearchResults" class="col-md-8">
+	</div>
+	<div id="hansardMPs" class="col-md-4">
+	</div>
+</div>
