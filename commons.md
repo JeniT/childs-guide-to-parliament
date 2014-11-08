@@ -16,3 +16,5 @@ title: The House of Commons
   >Of those, 507 were men and 143 were women.
   >That's only 22% of the Mps, but the highest proportion of Women ever elected as MPs!
   
+  {% include hansard-search.html %}
+  
