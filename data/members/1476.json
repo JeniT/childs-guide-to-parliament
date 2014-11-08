@@ -9,9 +9,10 @@
         "Energy And The Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1476", 
-    "party": "Labour", 
     "display_name": "Huw Irranca-Davies", 
-    "slug": "huw-irranca-davies"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "huw-irranca-davies", 
+    "id": "1476"
 }

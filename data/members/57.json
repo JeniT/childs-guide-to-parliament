@@ -6,9 +6,10 @@
         "Constitutional Reform"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "57", 
-    "party": "Conservative", 
     "display_name": "Sir George Young", 
-    "slug": "sir-george-young"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-george-young", 
+    "id": "57"
 }

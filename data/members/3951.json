@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3951", 
-    "party": "Liberal Democrat", 
     "display_name": "Duncan Hames", 
-    "slug": "duncan-hames"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "duncan-hames", 
+    "id": "3951"
 }

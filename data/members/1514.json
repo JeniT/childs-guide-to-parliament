@@ -10,9 +10,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1514", 
-    "party": "Scottish National", 
     "display_name": "Stewart Hosie", 
-    "slug": "stewart-hosie"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Scottish National", 
+    "slug": "stewart-hosie", 
+    "id": "1514"
 }

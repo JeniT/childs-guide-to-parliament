@@ -6,9 +6,10 @@
         "International Development"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1589", 
-    "party": "Labour", 
     "display_name": "Gordon Banks", 
-    "slug": "gordon-banks"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "gordon-banks", 
+    "id": "1589"
 }

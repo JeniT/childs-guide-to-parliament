@@ -17,9 +17,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4069", 
-    "party": "Conservative", 
     "display_name": "Peter Aldous", 
-    "slug": "peter-aldous"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "peter-aldous", 
+    "id": "4069"
 }

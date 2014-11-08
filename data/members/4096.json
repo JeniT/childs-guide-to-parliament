@@ -7,9 +7,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4096", 
-    "party": "Liberal Democrat", 
     "display_name": "Simon Wright", 
-    "slug": "simon-wright"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "simon-wright", 
+    "id": "4096"
 }

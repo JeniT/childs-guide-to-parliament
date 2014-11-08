@@ -11,9 +11,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "133", 
-    "party": "Conservative", 
     "display_name": "Mr David Ruffley", 
-    "slug": "mr-david-ruffley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-ruffley", 
+    "id": "133"
 }

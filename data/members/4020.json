@@ -13,9 +13,10 @@
         "Healthcare Reform"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4020", 
-    "party": "Conservative", 
     "display_name": "George Freeman", 
-    "slug": "george-freeman"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "george-freeman", 
+    "id": "4020"
 }

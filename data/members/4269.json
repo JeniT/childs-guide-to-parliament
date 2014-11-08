@@ -7,9 +7,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4269", 
-    "party": "Labour", 
     "display_name": "Andy McDonald", 
-    "slug": "andy-mcdonald"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "andy-mcdonald", 
+    "id": "4269"
 }

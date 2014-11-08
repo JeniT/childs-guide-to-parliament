@@ -11,9 +11,10 @@
             "name": "Northern Ireland Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3989", 
-    "party": "Conservative", 
     "display_name": "Jack Lopresti", 
-    "slug": "jack-lopresti"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jack-lopresti", 
+    "id": "3989"
 }

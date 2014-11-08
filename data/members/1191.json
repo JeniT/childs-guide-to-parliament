@@ -12,9 +12,10 @@
             "name": "Intelligence and Security (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "1191", 
-    "party": "Conservative", 
     "display_name": "Sir Malcolm Rifkind", 
-    "slug": "sir-malcolm-rifkind"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-malcolm-rifkind", 
+    "id": "1191"
 }

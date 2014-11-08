@@ -6,9 +6,10 @@
         "Elderly Care"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3925", 
-    "party": "Labour", 
     "display_name": "Julie Hilling", 
-    "slug": "julie-hilling"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "julie-hilling", 
+    "id": "3925"
 }

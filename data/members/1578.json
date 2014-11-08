@@ -11,9 +11,10 @@
         "Energy And Climate Change"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1578", 
-    "party": "Conservative", 
     "display_name": "Greg Clark", 
-    "slug": "greg-clark"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "greg-clark", 
+    "id": "1578"
 }

@@ -19,9 +19,10 @@
             "name": "Foreign Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1447", 
-    "party": "Conservative", 
     "display_name": "Andrew Rosindell", 
-    "slug": "andrew-rosindell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-rosindell", 
+    "id": "1447"
 }

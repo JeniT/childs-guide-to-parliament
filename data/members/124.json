@@ -14,9 +14,10 @@
             "name": "Scottish Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "124", 
-    "party": "Conservative", 
     "display_name": "Sir James Paice", 
-    "slug": "sir-james-paice"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-james-paice", 
+    "id": "124"
 }

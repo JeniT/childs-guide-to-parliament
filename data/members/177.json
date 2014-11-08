@@ -6,9 +6,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "177", 
-    "party": "Labour (Co-op)", 
     "display_name": "Mr Gareth Thomas", 
-    "slug": "mr-gareth-thomas"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mr-gareth-thomas", 
+    "id": "177"
 }

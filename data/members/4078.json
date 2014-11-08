@@ -7,9 +7,10 @@
         "Organ Donation"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4078", 
-    "party": "Conservative", 
     "display_name": "Paul Uppal", 
-    "slug": "paul-uppal"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "paul-uppal", 
+    "id": "4078"
 }

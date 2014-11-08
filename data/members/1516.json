@@ -6,9 +6,10 @@
         "Transport"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1516", 
-    "party": "Labour", 
     "display_name": "Andy Slaughter", 
-    "slug": "andy-slaughter"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "andy-slaughter", 
+    "id": "1516"
 }

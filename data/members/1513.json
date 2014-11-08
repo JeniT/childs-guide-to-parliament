@@ -8,9 +8,10 @@
         "Body Image"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1513", 
-    "party": "Liberal Democrat", 
     "display_name": "Jo Swinson", 
-    "slug": "jo-swinson"
+    "gender": "female", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "jo-swinson", 
+    "id": "1513"
 }

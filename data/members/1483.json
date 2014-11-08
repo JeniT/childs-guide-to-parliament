@@ -32,9 +32,10 @@
             "name": "Backbench Business Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1483", 
-    "party": "Liberal Democrat", 
     "display_name": "John Hemming", 
-    "slug": "john-hemming"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "john-hemming", 
+    "id": "1483"
 }

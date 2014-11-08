@@ -6,9 +6,10 @@
         "Public Service Reform"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1473", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr David Laws", 
-    "slug": "mr-david-laws"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-david-laws", 
+    "id": "1473"
 }

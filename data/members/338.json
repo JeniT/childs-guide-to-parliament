@@ -30,9 +30,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "338", 
-    "party": "Labour", 
     "display_name": "Keith Vaz", 
-    "slug": "keith-vaz"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "keith-vaz", 
+    "id": "338"
 }

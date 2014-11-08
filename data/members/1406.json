@@ -7,9 +7,10 @@
         "Community Cohesion"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1406", 
-    "party": "Labour", 
     "display_name": "Jon Cruddas", 
-    "slug": "jon-cruddas"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jon-cruddas", 
+    "id": "1406"
 }

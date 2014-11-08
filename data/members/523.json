@@ -7,9 +7,10 @@
             "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
         }
     ], 
-    "gender": "male", 
-    "id": "523", 
-    "party": "Labour", 
     "display_name": "Mr Nicholas Brown", 
-    "slug": "mr-nicholas-brown"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-nicholas-brown", 
+    "id": "523"
 }

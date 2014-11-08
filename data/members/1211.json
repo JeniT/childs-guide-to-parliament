@@ -6,9 +6,10 @@
         "Economy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1211", 
-    "party": "Conservative", 
     "display_name": "Mr Andrew Mitchell", 
-    "slug": "mr-andrew-mitchell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-andrew-mitchell", 
+    "id": "1211"
 }

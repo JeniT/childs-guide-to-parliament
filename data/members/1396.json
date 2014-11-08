@@ -26,9 +26,10 @@
             "name": "Speaker's Advisory Committee on Works of Art"
         }
     ], 
-    "gender": "male", 
-    "id": "1396", 
-    "party": "Conservative", 
     "display_name": "Mr Ian Liddell-Grainger", 
-    "slug": "mr-ian-liddell-grainger"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-ian-liddell-grainger", 
+    "id": "1396"
 }

@@ -19,9 +19,10 @@
             "name": "Privileges Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "583", 
-    "party": "Labour", 
     "display_name": "Mr Tom Clarke", 
-    "slug": "mr-tom-clarke"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-tom-clarke", 
+    "id": "583"
 }

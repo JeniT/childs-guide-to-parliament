@@ -12,9 +12,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "117", 
-    "party": "Conservative", 
     "display_name": "Sir Peter Bottomley", 
-    "slug": "sir-peter-bottomley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-peter-bottomley", 
+    "id": "117"
 }

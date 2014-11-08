@@ -17,9 +17,10 @@
             "name": "Science and Technology Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "189", 
-    "party": "Labour", 
     "display_name": "Jim Dowd", 
-    "slug": "jim-dowd"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jim-dowd", 
+    "id": "189"
 }

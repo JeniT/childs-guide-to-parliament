@@ -7,9 +7,10 @@
             "name": "Regulatory Reform"
         }
     ], 
-    "gender": "male", 
-    "id": "3912", 
-    "party": "Conservative", 
     "display_name": "Richard Fuller", 
-    "slug": "richard-fuller"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "richard-fuller", 
+    "id": "3912"
 }

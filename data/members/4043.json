@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4043", 
-    "party": "Conservative", 
     "display_name": "Kris Hopkins", 
-    "slug": "kris-hopkins"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "kris-hopkins", 
+    "id": "4043"
 }

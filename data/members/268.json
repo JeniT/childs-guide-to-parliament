@@ -18,9 +18,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "268", 
-    "party": "Conservative", 
     "display_name": "Sir Peter Luff", 
-    "slug": "sir-peter-luff"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-peter-luff", 
+    "id": "268"
 }

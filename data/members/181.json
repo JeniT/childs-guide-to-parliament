@@ -18,9 +18,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "181", 
-    "party": "Labour", 
     "display_name": "John Cryer", 
-    "slug": "john-cryer"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "john-cryer", 
+    "id": "181"
 }

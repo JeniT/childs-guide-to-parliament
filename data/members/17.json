@@ -18,9 +18,10 @@
             "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
         }
     ], 
-    "gender": "male", 
-    "id": "17", 
-    "party": "Speaker", 
     "display_name": "John Bercow", 
-    "slug": "john-bercow"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Speaker", 
+    "slug": "john-bercow", 
+    "id": "17"
 }

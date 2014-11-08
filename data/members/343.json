@@ -6,9 +6,10 @@
         "Middle East"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "343", 
-    "party": "Conservative", 
     "display_name": "Sir Alan Duncan", 
-    "slug": "sir-alan-duncan"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-alan-duncan", 
+    "id": "343"
 }

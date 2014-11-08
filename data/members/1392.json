@@ -6,9 +6,10 @@
         "Terrorism"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1392", 
-    "party": "Labour", 
     "display_name": "Mr Khalid Mahmood", 
-    "slug": "mr-khalid-mahmood"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-khalid-mahmood", 
+    "id": "1392"
 }

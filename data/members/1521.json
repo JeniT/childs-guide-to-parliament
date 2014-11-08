@@ -16,9 +16,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "1521", 
-    "party": "Labour", 
     "display_name": "Mrs Sharon Hodgson", 
-    "slug": "mrs-sharon-hodgson"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mrs-sharon-hodgson", 
+    "id": "1521"
 }

@@ -16,9 +16,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4019", 
-    "party": "Conservative", 
     "display_name": "Nicola Blackwood", 
-    "slug": "nicola-blackwood"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "nicola-blackwood", 
+    "id": "4019"
 }

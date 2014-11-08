@@ -7,9 +7,10 @@
         "Christian Socialism"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "163", 
-    "party": "Labour", 
     "display_name": "Stephen Timms", 
-    "slug": "stephen-timms"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "stephen-timms", 
+    "id": "163"
 }

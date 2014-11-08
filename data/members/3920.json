@@ -16,9 +16,10 @@
             "name": "Northern Ireland Affairs Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3920", 
-    "party": "Alliance", 
     "display_name": "Naomi Long", 
-    "slug": "naomi-long"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Alliance", 
+    "slug": "naomi-long", 
+    "id": "3920"
 }

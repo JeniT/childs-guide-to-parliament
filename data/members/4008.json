@@ -11,9 +11,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4008", 
-    "party": "Conservative", 
     "display_name": "Caroline Dinenage", 
-    "slug": "caroline-dinenage"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "caroline-dinenage", 
+    "id": "4008"
 }

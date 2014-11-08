@@ -8,9 +8,10 @@
         "Third World"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "325", 
-    "party": "Labour", 
     "display_name": "Mr Dennis Skinner", 
-    "slug": "mr-dennis-skinner"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-dennis-skinner", 
+    "id": "325"
 }

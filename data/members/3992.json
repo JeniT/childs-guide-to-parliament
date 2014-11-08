@@ -5,9 +5,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3992", 
-    "party": "Conservative", 
     "display_name": "James Morris", 
-    "slug": "james-morris"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "james-morris", 
+    "id": "3992"
 }

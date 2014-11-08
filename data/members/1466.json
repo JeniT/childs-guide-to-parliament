@@ -4,9 +4,10 @@
         "Defence"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1466", 
-    "party": "Conservative", 
     "display_name": "Dr Andrew Murrison", 
-    "slug": "dr-andrew-murrison"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-andrew-murrison", 
+    "id": "1466"
 }

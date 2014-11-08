@@ -12,9 +12,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "68", 
-    "party": "Conservative", 
     "display_name": "Mr Peter Lilley", 
-    "slug": "mr-peter-lilley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-peter-lilley", 
+    "id": "68"
 }

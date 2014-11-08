@@ -5,9 +5,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4070", 
-    "party": "Conservative", 
     "display_name": "Matthew Hancock", 
-    "slug": "matthew-hancock"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "matthew-hancock", 
+    "id": "4070"
 }

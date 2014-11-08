@@ -10,9 +10,10 @@
             "name": "Human Rights (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "3970", 
-    "party": "Conservative", 
     "display_name": "Gareth Johnson", 
-    "slug": "gareth-johnson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "gareth-johnson", 
+    "id": "3970"
 }

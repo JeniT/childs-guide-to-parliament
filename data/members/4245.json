@@ -6,9 +6,10 @@
         "Poverty"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4245", 
-    "party": "Sinn Fein", 
     "display_name": "Paul Maskey", 
-    "slug": "paul-maskey"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Sinn Fein", 
+    "slug": "paul-maskey", 
+    "id": "4245"
 }

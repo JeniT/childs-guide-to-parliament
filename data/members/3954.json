@@ -11,9 +11,10 @@
             "name": "Science and Technology Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "3954", 
-    "party": "Conservative", 
     "display_name": "Stephen Mosley", 
-    "slug": "stephen-mosley"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stephen-mosley", 
+    "id": "3954"
 }

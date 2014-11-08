@@ -13,9 +13,10 @@
             "name": "International Development Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4109", 
-    "party": "Conservative", 
     "display_name": "Jeremy Lefroy", 
-    "slug": "jeremy-lefroy"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jeremy-lefroy", 
+    "id": "4109"
 }

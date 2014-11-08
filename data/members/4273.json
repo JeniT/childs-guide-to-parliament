@@ -17,9 +17,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4273", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr Mike Thornton", 
-    "slug": "mr-mike-thornton"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-mike-thornton", 
+    "id": "4273"
 }

@@ -6,9 +6,10 @@
         "Countryside"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1502", 
-    "party": "Conservative", 
     "display_name": "Mr David Jones", 
-    "slug": "mr-david-jones"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-jones", 
+    "id": "1502"
 }

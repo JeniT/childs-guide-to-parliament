@@ -6,9 +6,10 @@
         "Community Development"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "458", 
-    "party": "Labour", 
     "display_name": "Ann Coffey", 
-    "slug": "ann-coffey"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ann-coffey", 
+    "id": "458"
 }

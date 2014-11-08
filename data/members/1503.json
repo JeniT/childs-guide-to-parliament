@@ -6,9 +6,10 @@
         "Anglo-American Relations"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1503", 
-    "party": "Labour", 
     "display_name": "Mr Jamie Reed", 
-    "slug": "mr-jamie-reed"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-jamie-reed", 
+    "id": "1503"
 }

@@ -16,9 +16,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "639", 
-    "party": "Liberal Democrat", 
     "display_name": "Sir Robert Smith", 
-    "slug": "sir-robert-smith"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-robert-smith", 
+    "id": "639"
 }

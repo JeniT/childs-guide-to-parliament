@@ -12,9 +12,10 @@
             "name": "Science and Technology Committee (Commons)"
         }
     ], 
-    "gender": "female", 
-    "id": "3909", 
-    "party": "Labour", 
     "display_name": "Pamela Nash", 
-    "slug": "pamela-nash"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "pamela-nash", 
+    "id": "3909"
 }

@@ -18,9 +18,10 @@
             "name": "Public Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1608", 
-    "party": "Labour", 
     "display_name": "Lindsay Roy", 
-    "slug": "lindsay-roy"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "lindsay-roy", 
+    "id": "1608"
 }

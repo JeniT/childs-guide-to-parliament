@@ -10,9 +10,10 @@
         "Social Mobility"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4018", 
-    "party": "Conservative", 
     "display_name": "Mrs Helen Grant", 
-    "slug": "mrs-helen-grant"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mrs-helen-grant", 
+    "id": "4018"
 }

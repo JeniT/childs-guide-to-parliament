@@ -18,9 +18,10 @@
             "name": "Statutory Instruments (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "334", 
-    "party": "Conservative", 
     "display_name": "Mr Andrew Robathan", 
-    "slug": "mr-andrew-robathan"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-andrew-robathan", 
+    "id": "334"
 }

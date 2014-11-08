@@ -10,9 +10,10 @@
         "Asylum And Immigration"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "603", 
-    "party": "Independent", 
     "display_name": "Eric Joyce", 
-    "slug": "eric-joyce"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Independent", 
+    "slug": "eric-joyce", 
+    "id": "603"
 }

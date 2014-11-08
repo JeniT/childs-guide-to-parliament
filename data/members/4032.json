@@ -7,9 +7,10 @@
         "Health"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4032", 
-    "party": "Conservative", 
     "display_name": "Stuart Andrew", 
-    "slug": "stuart-andrew"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stuart-andrew", 
+    "id": "4032"
 }

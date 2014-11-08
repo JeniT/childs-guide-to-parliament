@@ -13,9 +13,10 @@
             "name": "Northern Ireland Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1596", 
-    "party": "Social Democratic & Labour Party", 
     "display_name": "Dr Alasdair McDonnell", 
-    "slug": "dr-alasdair-mcdonnell"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Social Democratic & Labour Party", 
+    "slug": "dr-alasdair-mcdonnell", 
+    "id": "1596"
 }

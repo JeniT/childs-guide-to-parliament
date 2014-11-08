@@ -27,9 +27,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "242", 
-    "party": "Conservative", 
     "display_name": "Mr Christopher Chope", 
-    "slug": "mr-christopher-chope"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-christopher-chope", 
+    "id": "242"
 }

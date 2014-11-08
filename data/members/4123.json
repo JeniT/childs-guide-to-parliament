@@ -5,9 +5,10 @@
         "Law And Order"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4123", 
-    "party": "Conservative", 
     "display_name": "James Wharton", 
-    "slug": "james-wharton"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "james-wharton", 
+    "id": "4123"
 }

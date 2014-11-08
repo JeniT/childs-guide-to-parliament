@@ -20,9 +20,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4139", 
-    "party": "Labour", 
     "display_name": "Ian Lavery", 
-    "slug": "ian-lavery"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ian-lavery", 
+    "id": "4139"
 }

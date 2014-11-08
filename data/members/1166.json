@@ -8,9 +8,10 @@
         "Trade And Industry"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1166", 
-    "party": "Conservative", 
     "display_name": "Jonathan Evans", 
-    "slug": "jonathan-evans"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jonathan-evans", 
+    "id": "1166"
 }

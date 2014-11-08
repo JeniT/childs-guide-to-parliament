@@ -7,9 +7,10 @@
         "Sport"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "360", 
-    "party": "Labour", 
     "display_name": "Vernon Coaker", 
-    "slug": "vernon-coaker"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "vernon-coaker", 
+    "id": "360"
 }

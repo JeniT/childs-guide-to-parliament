@@ -22,9 +22,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "414", 
-    "party": "Labour", 
     "display_name": "Mr George Mudie", 
-    "slug": "mr-george-mudie"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-george-mudie", 
+    "id": "414"
 }

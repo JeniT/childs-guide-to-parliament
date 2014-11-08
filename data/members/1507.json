@@ -19,9 +19,10 @@
             "name": "Backbench Business Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1507", 
-    "party": "Labour", 
     "display_name": "Natascha Engel", 
-    "slug": "natascha-engel"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "natascha-engel", 
+    "id": "1507"
 }

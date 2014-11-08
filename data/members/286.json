@@ -26,9 +26,10 @@
             "name": "Environmental Audit Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "286", 
-    "party": "Labour", 
     "display_name": "Joan Walley", 
-    "slug": "joan-walley"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "joan-walley", 
+    "id": "286"
 }

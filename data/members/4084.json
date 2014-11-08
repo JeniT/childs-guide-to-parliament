@@ -9,9 +9,10 @@
         "Business"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4084", 
-    "party": "Conservative", 
     "display_name": "Esther McVey", 
-    "slug": "esther-mcvey"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "esther-mcvey", 
+    "id": "4084"
 }

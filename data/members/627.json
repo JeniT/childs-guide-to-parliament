@@ -28,9 +28,10 @@
             "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "627", 
-    "party": "Liberal Democrat", 
     "display_name": "Sir Menzies Campbell", 
-    "slug": "sir-menzies-campbell"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-menzies-campbell", 
+    "id": "627"
 }

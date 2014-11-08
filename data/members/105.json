@@ -11,9 +11,10 @@
         "Health"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "105", 
-    "party": "Conservative", 
     "display_name": "Mr Philip Hammond", 
-    "slug": "mr-philip-hammond"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-philip-hammond", 
+    "id": "105"
 }

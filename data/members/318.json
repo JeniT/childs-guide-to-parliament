@@ -7,9 +7,10 @@
         "Defence"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "318", 
-    "party": "Labour", 
     "display_name": "Mr John Spellar", 
-    "slug": "mr-john-spellar"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-john-spellar", 
+    "id": "318"
 }

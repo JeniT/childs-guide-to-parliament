@@ -6,9 +6,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1585", 
-    "party": "Conservative", 
     "display_name": "Stephen Hammond", 
-    "slug": "stephen-hammond"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stephen-hammond", 
+    "id": "1585"
 }

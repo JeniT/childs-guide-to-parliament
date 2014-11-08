@@ -6,9 +6,10 @@
         "Welsh Language"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3956", 
-    "party": "Labour", 
     "display_name": "Susan Elan Jones", 
-    "slug": "susan-elan-jones"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "susan-elan-jones", 
+    "id": "3956"
 }

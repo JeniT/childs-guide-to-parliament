@@ -27,9 +27,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "545", 
-    "party": "Labour", 
     "display_name": "Paul Flynn", 
-    "slug": "paul-flynn"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "paul-flynn", 
+    "id": "545"
 }

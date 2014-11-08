@@ -17,9 +17,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1419", 
-    "party": "Labour", 
     "display_name": "Ann McKechin", 
-    "slug": "ann-mckechin"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ann-mckechin", 
+    "id": "1419"
 }

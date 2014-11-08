@@ -22,9 +22,10 @@
             "name": "Finance and Services Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "481", 
-    "party": "Labour", 
     "display_name": "Mr George Howarth", 
-    "slug": "mr-george-howarth"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-george-howarth", 
+    "id": "481"
 }

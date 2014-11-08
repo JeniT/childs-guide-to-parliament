@@ -8,9 +8,10 @@
         "Local And Regional Government"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "400", 
-    "party": "Labour", 
     "display_name": "John Healey", 
-    "slug": "john-healey"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "john-healey", 
+    "id": "400"
 }

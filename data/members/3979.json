@@ -14,9 +14,10 @@
             "name": "Culture, Media and Sport Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "3979", 
-    "party": "Conservative", 
     "display_name": "Angie Bray", 
-    "slug": "angie-bray"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "angie-bray", 
+    "id": "3979"
 }

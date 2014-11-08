@@ -22,9 +22,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "566", 
-    "party": "Labour", 
     "display_name": "Martin Caton", 
-    "slug": "martin-caton"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "martin-caton", 
+    "id": "566"
 }

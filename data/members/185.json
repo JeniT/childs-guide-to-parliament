@@ -17,9 +17,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "185", 
-    "party": "Labour", 
     "display_name": "Jeremy Corbyn", 
-    "slug": "jeremy-corbyn"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jeremy-corbyn", 
+    "id": "185"
 }

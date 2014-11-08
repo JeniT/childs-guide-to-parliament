@@ -6,9 +6,10 @@
         "Crime And Disorder"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1497", 
-    "party": "Liberal Democrat", 
     "display_name": "Jenny Willott", 
-    "slug": "jenny-willott"
+    "gender": "female", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "jenny-willott", 
+    "id": "1497"
 }

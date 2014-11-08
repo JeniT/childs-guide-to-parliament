@@ -7,9 +7,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1587", 
-    "party": "Labour", 
     "display_name": "Mr Pat McFadden", 
-    "slug": "mr-pat-mcfadden"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-pat-mcfadden", 
+    "id": "1587"
 }

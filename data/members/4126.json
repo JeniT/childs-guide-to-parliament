@@ -18,9 +18,10 @@
             "name": "Communities and Local Government Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4126", 
-    "party": "Labour", 
     "display_name": "Mrs Mary Glindon", 
-    "slug": "mrs-mary-glindon"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mrs-mary-glindon", 
+    "id": "4126"
 }

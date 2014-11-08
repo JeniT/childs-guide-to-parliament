@@ -19,9 +19,10 @@
             "name": "Privileges Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "16", 
-    "party": "Conservative", 
     "display_name": "Mr Dominic Grieve", 
-    "slug": "mr-dominic-grieve"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-dominic-grieve", 
+    "id": "16"
 }

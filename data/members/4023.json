@@ -16,9 +16,10 @@
             "name": "Transport Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4023", 
-    "party": "Conservative", 
     "display_name": "Karen Lumley", 
-    "slug": "karen-lumley"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "karen-lumley", 
+    "id": "4023"
 }

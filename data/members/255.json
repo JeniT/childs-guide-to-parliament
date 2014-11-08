@@ -19,9 +19,10 @@
             "name": "House of Commons Governance Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "255", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr David Heath", 
-    "slug": "mr-david-heath"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-david-heath", 
+    "id": "255"
 }

@@ -7,9 +7,10 @@
             "name": "Transport Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4267", 
-    "party": "Labour", 
     "display_name": "Sarah Champion", 
-    "slug": "sarah-champion"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "sarah-champion", 
+    "id": "4267"
 }

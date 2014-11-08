@@ -14,9 +14,10 @@
             "name": "Members' Expenses Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1586", 
-    "party": "Conservative", 
     "display_name": "Adam Afriyie", 
-    "slug": "adam-afriyie"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "adam-afriyie", 
+    "id": "1586"
 }

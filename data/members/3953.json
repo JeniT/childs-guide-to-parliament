@@ -15,9 +15,10 @@
             "name": "Transport Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3953", 
-    "party": "Conservative", 
     "display_name": "Jason McCartney", 
-    "slug": "jason-mccartney"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jason-mccartney", 
+    "id": "3953"
 }

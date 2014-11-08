@@ -18,9 +18,10 @@
             "name": "National Security Strategy (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "1576", 
-    "party": "Conservative", 
     "display_name": "Mark Pritchard", 
-    "slug": "mark-pritchard"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mark-pritchard", 
+    "id": "1576"
 }

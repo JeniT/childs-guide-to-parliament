@@ -12,9 +12,10 @@
             "name": "Treasury Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4074", 
-    "party": "Conservative", 
     "display_name": "Mark Garnier", 
-    "slug": "mark-garnier"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mark-garnier", 
+    "id": "4074"
 }

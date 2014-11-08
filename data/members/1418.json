@@ -7,9 +7,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1418", 
-    "party": "Labour", 
     "display_name": "Mr Tom Harris", 
-    "slug": "mr-tom-harris"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-tom-harris", 
+    "id": "1418"
 }

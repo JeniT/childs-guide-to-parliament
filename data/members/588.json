@@ -6,9 +6,10 @@
         "Energy Policy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "588", 
-    "party": "Labour", 
     "display_name": "Mr Russell Brown", 
-    "slug": "mr-russell-brown"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-russell-brown", 
+    "id": "588"
 }

@@ -8,9 +8,10 @@
         "Modernisation Of Parliament"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "188", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr Edward Davey", 
-    "slug": "mr-edward-davey"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-edward-davey", 
+    "id": "188"
 }

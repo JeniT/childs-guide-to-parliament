@@ -5,9 +5,10 @@
         "Immigration"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1556", 
-    "party": "Conservative", 
     "display_name": "Mr Rob Wilson", 
-    "slug": "mr-rob-wilson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-rob-wilson", 
+    "id": "1556"
 }

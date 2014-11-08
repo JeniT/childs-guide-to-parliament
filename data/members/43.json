@@ -35,9 +35,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "43", 
-    "party": "Conservative", 
     "display_name": "Sir Alan Haselhurst", 
-    "slug": "sir-alan-haselhurst"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-alan-haselhurst", 
+    "id": "43"
 }

@@ -12,9 +12,10 @@
             "name": "Energy and Climate Change Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4075", 
-    "party": "Conservative", 
     "display_name": "Christopher Pincher", 
-    "slug": "christopher-pincher"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "christopher-pincher", 
+    "id": "4075"
 }

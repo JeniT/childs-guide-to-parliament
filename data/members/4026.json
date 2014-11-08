@@ -4,9 +4,10 @@
         "Care For The Elderly"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4026", 
-    "party": "Labour", 
     "display_name": "Liz Kendall", 
-    "slug": "liz-kendall"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "liz-kendall", 
+    "id": "4026"
 }

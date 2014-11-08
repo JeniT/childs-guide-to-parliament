@@ -6,9 +6,10 @@
         "Regeneration"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3934", 
-    "party": "Conservative", 
     "display_name": "George Eustice", 
-    "slug": "george-eustice"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "george-eustice", 
+    "id": "3934"
 }

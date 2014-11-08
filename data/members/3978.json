@@ -7,9 +7,10 @@
             "name": "Scottish Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3978", 
-    "party": "Conservative", 
     "display_name": "Simon Reevell", 
-    "slug": "simon-reevell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "simon-reevell", 
+    "id": "3978"
 }
