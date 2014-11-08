@@ -17,5 +17,5 @@ Parliment makes laws:
 
 Laws start of as Green papers, change to White papers, and, after discussion, from Bills to Laws.
 
-<a href="http://www.youtube.com/watch?v=1KFGt9M-j28" target="_blank">How is a Law made?</a>  
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/1KFGt9M-j28" frameborder="0" allowfullscreen></iframe>
