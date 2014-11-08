@@ -11,4 +11,4 @@ title: Child's Guide to Parliament
 
 ##The House of Commons
 
-*The members of the House of Commons are ellected by the people every 5 years on the 7th of May.*
+*The members of the House of Commons are ellected by the people. There is an lection every 5 years. The next election is  on the 7th of May 2015. You have to be over the age of 18 to vote. People who are in prison cannot vote.*
