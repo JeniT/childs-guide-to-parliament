@@ -43,7 +43,7 @@ $('#hansardSearchForm').submit(
 					var $mpCell = $("<td class='hansardMP' />");
 					var $textCell = $("<td class='hansardText' />");
 					$.getJSON(mpBaseUrl + val.MemberId + ".json", function (mpData) {
-						$mpCell.html("<a target='_blank' href='http://www.parliament.uk/biographies/commons/" + mpData.slug + "/" + val.MemberId + "'>" + mpData.display_name + "</a>");
+						$mpCell.html("<a href='members/" + mpData.slug + ".html'>" + mpData.display_name + "</a>");
 					});
 					$.getJSON(contributionBaseUrl + val.ContributionId + ".json", function ( contributionData ) {
 						$textCell.html("<p class='contributionText'>" + contributionData[0].ContributionText + "</p><p><a target='_blank' href='http://membersdataportal.digiminster.com/Debates/Commons/" + contributionData[0].SittingDate.substr(0,10) + "/" + contributionData[0].DebateSectionId + "#contribution-" + contributionData[0].ContributionId + "'>Read more <span class='glyphicon glyphicon-new-window'></span></a></p>");
@@ -67,7 +67,7 @@ $('#hansardSearchForm').submit(
 			$.each(mpItems.sort(function(a,b) { return b.count - a.count }), function(key, val) {
 				var $item = $("<li class='list-group-item' />");
 				$.getJSON(mpBaseUrl + val.mp + ".json", function ( mpData ) {
-					$item.html("<span class='badge'>" + val.count + "</span><a target='_blank' href='http://www.parliament.uk/biographies/commons/" + mpData.slug + "/" + val.mp + "'>" + mpData.display_name + "</a>");
+					$item.html("<span class='badge'>" + val.count + "</span><a href='members/" + mpData.slug + ".html'>" + mpData.display_name + "</a>");
 				});
 				$mpResultList.append($item);
 			});
