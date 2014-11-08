@@ -1,15 +1,24 @@
+---
+layout: default
+title: Glossary
+---
+
 # Glossary
 
-Chamber
+### Chamber
 
-House
+### House
 
-Lord
+### Lord
 
-MP=Member of Parliment(/The house of commons)
+### MP
 
-Hon=Honourable
+A **Member of Parliament** in the [House of Commons](commons.html)
 
-Rt Hon=Right Honourable
+### Hon=Honourable
+
+### Rt Hon=Right Honourable
+
+### Party
 
 
