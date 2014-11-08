@@ -9,7 +9,7 @@ title: Child's Guide to Parliament
 
 *Members of the House of Lords are appointed by the Queen on the advice of the Prime Minister. Some non-party-political members are recommended by an independent body, the House of Lords Appointments Commission.*
 
-[![The House of Lords](http://img.youtube.com/vi/U0LhurGWOc-j28/0.jpg)](http://www.youtube.com/watch?v=-U0LhurGWOc)
+[![The House of Lords](http://img.youtube.com/vi/-U0LhurGWOc/0.jpg)](http://www.youtube.com/watch?v=-U0LhurGWOc)
 
 >####Fun Fact!
 
