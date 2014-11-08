@@ -17,7 +17,11 @@ $('#hansardSearchForm').submit(
 		var searchHouse = $('#hansardSearchHouse').val();
 		var $searchResults = $('#hansardSearchResults');
 		var $mpResults = $('#hansardMPs');
+		var mpsOrLords = searchHouse === 'Commons' ? 'MPs' : 'Lords';
 		var searchUrl = searchBaseUrl + "&house=" + searchHouse + "&SearchTerm=" + searchText;
+
+		$searchResults.html("<h4>Debates about " + searchText + "</h4>");
+		$mpResults.html("<h4>" + mpsOrLords + " talking about " + searchText + "</h4>");
 
 		$.getJSON(searchUrl, function( data ) {
 			var debates = {};
@@ -76,7 +80,7 @@ $('#hansardSearchForm').submit(
 				$searchResultList.append($panel);
 			});
 
-			$searchResults.html($searchResultList);
+			$searchResults.append($searchResultList);
 			
 			$.each(mps, function(key, val) {
 				mpItems.push(val);
@@ -99,7 +103,7 @@ $('#hansardSearchForm').submit(
 				$mpResultTable.append($row);
 			});
 
-			$mpResults.html($mpResultList);
+			$mpResults.append($mpResultList);
   	});
 
 		event.preventDefault();
