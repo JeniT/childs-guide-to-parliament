@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The House Of Lords
+title: The House of Lords
 house: Lords
 ---
 
