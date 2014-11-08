@@ -1,10 +1,8 @@
 ---
 layout: default
 title: The House of Commons
+house: Commons
 ---
-
-
-#The House of Commons
 
 *The members of the House of Commons are elected by the people. There is an election every 5 years. The next election is  on the 7th of May, 2015. You have to be over the age of 18 to vote. People who are in prison cannot vote.*
 

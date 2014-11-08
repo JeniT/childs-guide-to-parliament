@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Child's Guide to Parliament
+title: The Houses of Parliament
 ---
 
 *Parliament is made up of the [House of Lords](lords.html) and the [House of Commons](commons.html). It is based at the Palace of Westminster in London.*

@@ -3,13 +3,29 @@
 
 @import "bootstrap";
 
-.commons-bg {
-	background-color: #00843d;
+$parliamentBlue: #085196;
+$commonsGreen: #00843d;
+$lordsRed: #971b2f;
+
+$brand-primary: $parliamentBlue;
+
+.header {
+	padding-top: 25px;
+}
+
+.page-header {
+	background-color: $parliamentBlue;
+	color: white;
+	margin-top: 25px;
+}
+
+body.commons .page-header, .commons-bg {
+	background-color: $commonsGreen;
 	color: white;
 }
 
-.lords-bg {
-	background-color: #971b2f;
+body.lords .page-header, .lords-bg {
+	background-color: $lordsRed;
 	color: white;
 }
 

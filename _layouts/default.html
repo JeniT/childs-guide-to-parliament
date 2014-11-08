@@ -15,14 +15,20 @@
           <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
         <![endif]-->
     </head>
-    <body>
-      <div class="page-header">
+    <body class="{{page.house | downcase}}">
+      <div class="header">
         <div class="container">
           <ul class="nav nav-pills pull-right" role="tablist">
             <li role="presentation"><a class="commons-bg" href="{{site.baseurl}}/commons.html">House of Commons</a></li>
             <li role="presentation"><a class="lords-bg" href="{{site.baseurl}}/lords.html">House of Lords</a></li>
           </ul>
-          <h1 class="text-muted"><a href="{{site.baseurl}}/">{{ site.name }}</a></h1>
+          <h2 class="text-muted"><a href="{{site.baseurl}}/">{{ site.name }}</a></h2>
+        </div>
+      </div>
+
+      <div class="page-header">
+        <div class="container">
+          <h1>{{ page.title }}</h1>
         </div>
       </div>
 
