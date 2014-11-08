@@ -2,6 +2,15 @@ var searchBaseUrl = "http://hansard.services.digiminster.com/members/contributio
 var contributionBaseUrl = "http://hansard.services.digiminster.com/members/contributions/contribution/";
 var mpBaseUrl = "data/members/";
 
+
+var memberLink = function ( mp ) {
+	return "<a href='members/" + mp.slug + ".html'>" + mp.display_name + "</a>";
+};
+
+var memberParty = function ( mp ) {
+	return "<span class='label' style='background-color: " + mp.party_colour + ";'>" + mp.party_name + "</span>";
+};
+
 $('#hansardSearchForm').submit(
 	function( event ) {
 		var searchText = $('#hansardSearchText').val();
@@ -13,7 +22,8 @@ $('#hansardSearchForm').submit(
 			var mps = {};
 			var mpItems = [];
 			var $searchResultList = $("<div class='panel-group' id='hansardAccordian' role='tablist' aria-multiselectable='true' />");
-			var $mpResultList = $("<ul />", { class: 'list-group' });
+			var $mpResultTable = $("<table class='table' />");
+			var $mpResultList = $("<div class='panel panel-default' />").append($mpResultTable);
 
 			$.each( data.Results, function( key, val ) {
 				if (debates[val.DebateSectionId] === undefined) {
@@ -43,7 +53,7 @@ $('#hansardSearchForm').submit(
 					var $mpCell = $("<td class='hansardMP' />");
 					var $textCell = $("<td class='hansardText' />");
 					$.getJSON(mpBaseUrl + val.MemberId + ".json", function (mpData) {
-						$mpCell.html("<a href='members/" + mpData.slug + ".html'>" + mpData.display_name + "</a>");
+						$mpCell.html(memberLink(mpData) + "<br>" + memberParty(mpData));
 					});
 					$.getJSON(contributionBaseUrl + val.ContributionId + ".json", function ( contributionData ) {
 						$textCell.html("<p class='contributionText'>" + contributionData[0].ContributionText + "</p><p><a target='_blank' href='http://membersdataportal.digiminster.com/Debates/Commons/" + contributionData[0].SittingDate.substr(0,10) + "/" + contributionData[0].DebateSectionId + "#contribution-" + contributionData[0].ContributionId + "'>Read more <span class='glyphicon glyphicon-new-window'></span></a></p>");
@@ -65,11 +75,18 @@ $('#hansardSearchForm').submit(
 			});
 
 			$.each(mpItems.sort(function(a,b) { return b.count - a.count }), function(key, val) {
-				var $item = $("<li class='list-group-item' />");
+				var $row = $("<tr />");
+				var $mpCell = $("<td class='hansardMP' />");
+				var $partyCell = $("<td />");
+				var $countCell = $("<td><span class='badge'>" + val.count + "</span></td>");
 				$.getJSON(mpBaseUrl + val.mp + ".json", function ( mpData ) {
-					$item.html("<span class='badge'>" + val.count + "</span><a href='members/" + mpData.slug + ".html'>" + mpData.display_name + "</a>");
+					$mpCell.html(memberLink(mpData));
+					$partyCell.html(memberParty(mpData));
 				});
-				$mpResultList.append($item);
+				$row.append($mpCell);
+				$row.append($partyCell);
+				$row.append($countCell);
+				$mpResultTable.append($row);
 			});
 
 			$mpResults.html($mpResultList);
