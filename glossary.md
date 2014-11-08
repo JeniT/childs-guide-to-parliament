@@ -6,8 +6,7 @@ House
 
 Lord
 
-MP=Member of Parliment(/The house of comm
-ons)
+MP=Member of Parliment(/The house of commons)
 
 Hon=Honourable
 
