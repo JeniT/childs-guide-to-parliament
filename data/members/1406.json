@@ -6,11 +6,10 @@
         "Housing", 
         "Community Cohesion"
     ], 
-    "committees": [], 
     "display_name": "Jon Cruddas", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Dagenham and Rainham", 
+    "id": "1406", 
     "party_name": "Labour", 
     "slug": "jon-cruddas", 
-    "id": "1406"
+    "party_colour": "#cc0000"
 }

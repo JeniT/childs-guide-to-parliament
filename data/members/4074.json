@@ -5,17 +5,10 @@
         "Transport", 
         "Economic Issues"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Mark Garnier", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wyre Forest", 
+    "id": "4074", 
     "party_name": "Conservative", 
     "slug": "mark-garnier", 
-    "id": "4074"
+    "party_colour": "#333399"
 }

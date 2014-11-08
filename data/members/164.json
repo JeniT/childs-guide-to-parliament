@@ -5,17 +5,10 @@
         "Mutuality", 
         "The Economy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Mr Andrew Love", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Edmonton", 
+    "id": "164", 
     "party_name": "Labour (Co-op)", 
     "slug": "mr-andrew-love", 
-    "id": "164"
+    "party_colour": "#cc0000"
 }

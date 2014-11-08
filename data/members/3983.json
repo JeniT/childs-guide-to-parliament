@@ -6,11 +6,10 @@
         "Food And Rural Affairs", 
         "Business Innovation And Skills"
     ], 
-    "committees": [], 
     "display_name": "Amber Rudd", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hastings and Rye", 
+    "id": "3983", 
     "party_name": "Conservative", 
     "slug": "amber-rudd", 
-    "id": "3983"
+    "party_colour": "#333399"
 }

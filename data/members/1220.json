@@ -10,11 +10,10 @@
         "Rural Affairs", 
         "Agriculture"
     ], 
-    "committees": [], 
     "display_name": "Charles Hendry", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wealden", 
+    "id": "1220", 
     "party_name": "Conservative", 
     "slug": "charles-hendry", 
-    "id": "1220"
+    "party_colour": "#333399"
 }

@@ -4,17 +4,10 @@
         "Small Businesses", 
         "Apprenticeships"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "International Development Committee"
-        }
-    ], 
     "display_name": "Fiona Bruce", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Congleton", 
+    "id": "3958", 
     "party_name": "Conservative", 
     "slug": "fiona-bruce", 
-    "id": "3958"
+    "party_colour": "#333399"
 }

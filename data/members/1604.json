@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Human Rights (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Mr Virendra Sharma", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ealing, Southall", 
+    "id": "1604", 
     "party_name": "Labour", 
     "slug": "mr-virendra-sharma", 
-    "id": "1604"
+    "party_colour": "#cc0000"
 }

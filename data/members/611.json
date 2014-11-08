@@ -12,22 +12,10 @@
         "Poverty", 
         "Euro (Against)"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "Scottish Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr Ian Davidson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Glasgow South West", 
+    "id": "611", 
     "party_name": "Labour (Co-op)", 
     "slug": "mr-ian-davidson", 
-    "id": "611"
+    "party_colour": "#cc0000"
 }

@@ -4,22 +4,10 @@
         "Music", 
         "Arts"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-11", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-11", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Mr John Whittingdale", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Maldon", 
+    "id": "39", 
     "party_name": "Conservative", 
     "slug": "mr-john-whittingdale", 
-    "id": "39"
+    "party_colour": "#333399"
 }

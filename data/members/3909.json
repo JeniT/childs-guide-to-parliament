@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-01-23", 
-            "name": "Scottish Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Science and Technology Committee (Commons)"
-        }
-    ], 
     "display_name": "Pamela Nash", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Airdrie and Shotts", 
+    "id": "3909", 
     "party_name": "Labour", 
     "slug": "pamela-nash", 
-    "id": "3909"
+    "party_colour": "#cc0000"
 }

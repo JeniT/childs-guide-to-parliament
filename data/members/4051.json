@@ -7,11 +7,10 @@
         "Education", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "John Glen", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Salisbury", 
+    "id": "4051", 
     "party_name": "Conservative", 
     "slug": "john-glen", 
-    "id": "4051"
+    "party_colour": "#333399"
 }

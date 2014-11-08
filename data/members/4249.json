@@ -7,17 +7,10 @@
         "Smes", 
         "Social Care"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Work and Pensions Committee"
-        }
-    ], 
     "display_name": "Anne Marie Morris", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Newton Abbot", 
+    "id": "4249", 
     "party_name": "Conservative", 
     "slug": "anne-marie-morris", 
-    "id": "4249"
+    "party_colour": "#333399"
 }

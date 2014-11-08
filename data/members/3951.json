@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Duncan Hames", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Chippenham", 
+    "id": "3951", 
     "party_name": "Liberal Democrat", 
     "slug": "duncan-hames", 
-    "id": "3951"
+    "party_colour": "#f1cc0a"
 }

@@ -7,11 +7,10 @@
         "Transport", 
         "Economy"
     ], 
-    "committees": [], 
     "display_name": "Mr John Redwood", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wokingham", 
+    "id": "14", 
     "party_name": "Conservative", 
     "slug": "mr-john-redwood", 
-    "id": "14"
+    "party_colour": "#333399"
 }

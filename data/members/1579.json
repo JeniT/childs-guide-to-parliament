@@ -10,11 +10,10 @@
         "Environment", 
         "Genocide Prevention"
     ], 
-    "committees": [], 
     "display_name": "Mary Creagh", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wakefield", 
+    "id": "1579", 
     "party_name": "Labour", 
     "slug": "mary-creagh", 
-    "id": "1579"
+    "party_colour": "#cc0000"
 }

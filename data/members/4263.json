@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Lucy Powell", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Manchester Central", 
+    "id": "4263", 
     "party_name": "Labour", 
     "slug": "lucy-powell", 
-    "id": "4263"
+    "party_colour": "#cc0000"
 }

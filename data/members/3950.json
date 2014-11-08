@@ -8,27 +8,10 @@
         "Sport", 
         "Animal Welfare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-22", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-10-31", 
-            "name": "Political and Constitutional Reform Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Tracey Crouch", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chatham and Aylesford", 
+    "id": "3950", 
     "party_name": "Conservative", 
     "slug": "tracey-crouch", 
-    "id": "3950"
+    "party_colour": "#333399"
 }

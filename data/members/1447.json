@@ -7,22 +7,10 @@
         "Local And Regional Government", 
         "Animal Welfare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-29", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Foreign Affairs Committee"
-        }
-    ], 
     "display_name": "Andrew Rosindell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Romford", 
+    "id": "1447", 
     "party_name": "Conservative", 
     "slug": "andrew-rosindell", 
-    "id": "1447"
+    "party_colour": "#333399"
 }

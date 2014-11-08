@@ -8,17 +8,10 @@
         "Arts", 
         "Europe"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-07-18", 
-            "name": "Members' Expenses Committee"
-        }
-    ], 
     "display_name": "Stephen Williams", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Bristol West", 
+    "id": "1492", 
     "party_name": "Liberal Democrat", 
     "slug": "stephen-williams", 
-    "id": "1492"
+    "party_colour": "#f1cc0a"
 }

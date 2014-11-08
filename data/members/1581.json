@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-21", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr Peter Bone", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wellingborough", 
+    "id": "1581", 
     "party_name": "Conservative", 
     "slug": "mr-peter-bone", 
-    "id": "1581"
+    "party_colour": "#333399"
 }

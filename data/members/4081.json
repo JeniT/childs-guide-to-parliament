@@ -6,17 +6,10 @@
         "Science", 
         "Healthcare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Work and Pensions Committee"
-        }
-    ], 
     "display_name": "Graham Evans", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Weaver Vale", 
+    "id": "4081", 
     "party_name": "Conservative", 
     "slug": "graham-evans", 
-    "id": "4081"
+    "party_colour": "#333399"
 }

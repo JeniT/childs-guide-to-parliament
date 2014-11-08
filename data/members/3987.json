@@ -5,17 +5,10 @@
         "Foreign Affairs", 
         "Nhs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "Rehman Chishti", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Gillingham and Rainham", 
+    "id": "3987", 
     "party_name": "Conservative", 
     "slug": "rehman-chishti", 
-    "id": "3987"
+    "party_colour": "#333399"
 }

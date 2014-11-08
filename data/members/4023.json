@@ -4,22 +4,10 @@
         "Health", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Welsh Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Transport Committee"
-        }
-    ], 
     "display_name": "Karen Lumley", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Redditch", 
+    "id": "4023", 
     "party_name": "Conservative", 
     "slug": "karen-lumley", 
-    "id": "4023"
+    "party_colour": "#333399"
 }

@@ -5,11 +5,10 @@
         "Local And Regional Government", 
         "Solvent Abuse"
     ], 
-    "committees": [], 
     "display_name": "Mr David Hanson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Delyn", 
+    "id": "533", 
     "party_name": "Labour", 
     "slug": "mr-david-hanson", 
-    "id": "533"
+    "party_colour": "#cc0000"
 }

@@ -5,11 +5,10 @@
         "Health And Safety", 
         "Energy Policy"
     ], 
-    "committees": [], 
     "display_name": "Mr Russell Brown", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Dumfries and Galloway", 
+    "id": "588", 
     "party_name": "Labour", 
     "slug": "mr-russell-brown", 
-    "id": "588"
+    "party_colour": "#cc0000"
 }

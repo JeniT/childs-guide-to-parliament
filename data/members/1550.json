@@ -4,17 +4,10 @@
         "Energy", 
         "Economy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2009-10-01", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Mr Brian Binley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Northampton South", 
+    "id": "1550", 
     "party_name": "Conservative", 
     "slug": "mr-brian-binley", 
-    "id": "1550"
+    "party_colour": "#333399"
 }

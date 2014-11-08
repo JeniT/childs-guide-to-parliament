@@ -6,22 +6,10 @@
         "Agriculture", 
         "Europe"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2001-07-16", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Commission"
-        }
-    ], 
     "display_name": "Mr Richard Bacon", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Norfolk", 
+    "id": "1451", 
     "party_name": "Conservative", 
     "slug": "mr-richard-bacon", 
-    "id": "1451"
+    "party_colour": "#333399"
 }

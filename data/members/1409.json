@@ -6,11 +6,10 @@
         "Enterprise", 
         "Trade And Industry"
     ], 
-    "committees": [], 
     "display_name": "Mr Gregory Campbell", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "East Londonderry", 
+    "id": "1409", 
     "party_name": "Democratic Unionist", 
     "slug": "mr-gregory-campbell", 
-    "id": "1409"
+    "party_colour": "#999999"
 }

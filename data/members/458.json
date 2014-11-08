@@ -5,11 +5,10 @@
         "Education", 
         "Community Development"
     ], 
-    "committees": [], 
     "display_name": "Ann Coffey", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Stockport", 
+    "id": "458", 
     "party_name": "Labour", 
     "slug": "ann-coffey", 
-    "id": "458"
+    "party_colour": "#cc0000"
 }

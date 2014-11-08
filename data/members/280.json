@@ -20,11 +20,10 @@
         "Telecommunications", 
         "Trade And Industry"
     ], 
-    "committees": [], 
     "display_name": "Michael Fabricant", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Lichfield", 
+    "id": "280", 
     "party_name": "Conservative", 
     "slug": "michael-fabricant", 
-    "id": "280"
+    "party_colour": "#333399"
 }

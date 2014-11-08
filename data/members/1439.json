@@ -7,11 +7,10 @@
         "Environment", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Norman Lamb", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "North Norfolk", 
+    "id": "1439", 
     "party_name": "Liberal Democrat", 
     "slug": "norman-lamb", 
-    "id": "1439"
+    "party_colour": "#f1cc0a"
 }

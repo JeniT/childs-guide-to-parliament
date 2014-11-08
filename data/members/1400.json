@@ -4,11 +4,10 @@
         "Constitutional Affairs", 
         "Creative Industries"
     ], 
-    "committees": [], 
     "display_name": "Kevin Brennan", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Cardiff West", 
+    "id": "1400", 
     "party_name": "Labour", 
     "slug": "kevin-brennan", 
-    "id": "1400"
+    "party_colour": "#cc0000"
 }

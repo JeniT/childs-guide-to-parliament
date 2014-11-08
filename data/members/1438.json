@@ -7,11 +7,10 @@
         "Local And Regional Government", 
         "Defence"
     ], 
-    "committees": [], 
     "display_name": "Mr Kevan Jones", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "North Durham", 
+    "id": "1438", 
     "party_name": "Labour", 
     "slug": "mr-kevan-jones", 
-    "id": "1438"
+    "party_colour": "#cc0000"
 }

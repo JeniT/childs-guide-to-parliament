@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Karl Turner", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Kingston upon Hull East", 
+    "id": "4030", 
     "party_name": "Labour", 
     "slug": "karl-turner", 
-    "id": "4030"
+    "party_colour": "#cc0000"
 }

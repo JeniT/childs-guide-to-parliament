@@ -7,17 +7,10 @@
         "Media Issues", 
         "Dangerous Dogs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Angie Bray", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ealing Central and Acton", 
+    "id": "3979", 
     "party_name": "Conservative", 
     "slug": "angie-bray", 
-    "id": "3979"
+    "party_colour": "#333399"
 }

@@ -6,11 +6,10 @@
         "Energy", 
         "Environment And Rural Affairs"
     ], 
-    "committees": [], 
     "display_name": "Nigel Adams", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Selby and Ainsty", 
+    "id": "4057", 
     "party_name": "Conservative", 
     "slug": "nigel-adams", 
-    "id": "4057"
+    "party_colour": "#333399"
 }

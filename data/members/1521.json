@@ -9,17 +9,10 @@
         "Affordable Energy", 
         "Free School Meals"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-26", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Mrs Sharon Hodgson", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Washington and Sunderland West", 
+    "id": "1521", 
     "party_name": "Labour", 
     "slug": "mrs-sharon-hodgson", 
-    "id": "1521"
+    "party_colour": "#cc0000"
 }

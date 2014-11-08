@@ -3,11 +3,10 @@
         "Health", 
         "Defence"
     ], 
-    "committees": [], 
     "display_name": "Dr Andrew Murrison", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South West Wiltshire", 
+    "id": "1466", 
     "party_name": "Conservative", 
     "slug": "dr-andrew-murrison", 
-    "id": "1466"
+    "party_colour": "#333399"
 }

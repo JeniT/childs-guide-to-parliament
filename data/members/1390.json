@@ -6,17 +6,10 @@
         "Defence", 
         "Cancer"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Foreign Affairs Committee"
-        }
-    ], 
     "display_name": "Mr John Baron", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Basildon and Billericay", 
+    "id": "1390", 
     "party_name": "Conservative", 
     "slug": "mr-john-baron", 
-    "id": "1390"
+    "party_colour": "#333399"
 }

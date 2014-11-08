@@ -8,11 +8,10 @@
         "Social Justice", 
         "Northern Ireland"
     ], 
-    "committees": [], 
     "display_name": "Mr Owen Paterson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Shropshire", 
+    "id": "274", 
     "party_name": "Conservative", 
     "slug": "mr-owen-paterson", 
-    "id": "274"
+    "party_colour": "#333399"
 }

@@ -6,17 +6,10 @@
         "Education", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-07-17", 
-            "name": "Selection Committee"
-        }
-    ], 
     "display_name": "John Penrose", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Weston-super-Mare", 
+    "id": "1584", 
     "party_name": "Conservative", 
     "slug": "john-penrose", 
-    "id": "1584"
+    "party_colour": "#333399"
 }

@@ -4,11 +4,10 @@
         "Education", 
         "Overseas Development"
     ], 
-    "committees": [], 
     "display_name": "Gregory Barker", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bexhill and Battle", 
+    "id": "1389", 
     "party_name": "Conservative", 
     "slug": "gregory-barker", 
-    "id": "1389"
+    "party_colour": "#333399"
 }

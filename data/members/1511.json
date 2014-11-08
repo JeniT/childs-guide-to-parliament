@@ -7,17 +7,10 @@
         "Manufacturing And Trade", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Ian Austin", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Dudley North", 
+    "id": "1511", 
     "party_name": "Labour", 
     "slug": "ian-austin", 
-    "id": "1511"
+    "party_colour": "#cc0000"
 }

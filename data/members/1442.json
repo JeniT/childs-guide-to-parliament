@@ -6,11 +6,10 @@
         "Criminal Justice", 
         "Energy"
     ], 
-    "committees": [], 
     "display_name": "Mr Alistair Carmichael", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Orkney and Shetland", 
+    "id": "1442", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-alistair-carmichael", 
-    "id": "1442"
+    "party_colour": "#f1cc0a"
 }

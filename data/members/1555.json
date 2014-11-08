@@ -5,11 +5,10 @@
         "Environment", 
         "Economy And Transport"
     ], 
-    "committees": [], 
     "display_name": "Justine Greening", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Putney", 
+    "id": "1555", 
     "party_name": "Conservative", 
     "slug": "justine-greening", 
-    "id": "1555"
+    "party_colour": "#333399"
 }

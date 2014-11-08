@@ -3,11 +3,10 @@
         "Foreign Affairs", 
         "Economics And Finance"
     ], 
-    "committees": [], 
     "display_name": "Sir Peter Tapsell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Louth and Horncastle", 
+    "id": "348", 
     "party_name": "Conservative", 
     "slug": "sir-peter-tapsell", 
-    "id": "348"
+    "party_colour": "#333399"
 }

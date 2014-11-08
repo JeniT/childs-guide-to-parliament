@@ -6,22 +6,10 @@
         "Jobs And Regeneration", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Select Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Joint Committee)"
-        }
-    ], 
     "display_name": "Toby Perkins", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Chesterfield", 
+    "id": "3952", 
     "party_name": "Labour", 
     "slug": "toby-perkins", 
-    "id": "3952"
+    "party_colour": "#cc0000"
 }

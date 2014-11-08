@@ -4,17 +4,10 @@
         "International Aid", 
         "Economics"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "International Development Committee"
-        }
-    ], 
     "display_name": "Mr Michael McCann", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "East Kilbride, Strathaven and Lesmahagow", 
+    "id": "3963", 
     "party_name": "Labour", 
     "slug": "mr-michael-mccann", 
-    "id": "3963"
+    "party_colour": "#cc0000"
 }

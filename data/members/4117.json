@@ -4,17 +4,10 @@
         "Economy", 
         "Early Years Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-05-12", 
-            "name": "Public Accounts Committee"
-        }
-    ], 
     "display_name": "Andrea Leadsom", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Northamptonshire", 
+    "id": "4117", 
     "party_name": "Conservative", 
     "slug": "andrea-leadsom", 
-    "id": "4117"
+    "party_colour": "#333399"
 }

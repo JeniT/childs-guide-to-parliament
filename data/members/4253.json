@@ -10,11 +10,10 @@
         "Women Offenders", 
         "Equalities"
     ], 
-    "committees": [], 
     "display_name": "Seema Malhotra", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Feltham and Heston", 
+    "id": "4253", 
     "party_name": "Labour (Co-op)", 
     "slug": "seema-malhotra", 
-    "id": "4253"
+    "party_colour": "#cc0000"
 }

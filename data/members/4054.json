@@ -4,22 +4,10 @@
         "Defence", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-08", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Stephen Phillips", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Sleaford and North Hykeham", 
+    "id": "4054", 
     "party_name": "Conservative", 
     "slug": "stephen-phillips", 
-    "id": "4054"
+    "party_colour": "#333399"
 }

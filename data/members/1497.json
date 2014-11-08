@@ -5,11 +5,10 @@
         "Children'S Issues", 
         "Crime And Disorder"
     ], 
-    "committees": [], 
     "display_name": "Jenny Willott", 
-    "gender": "female", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Cardiff Central", 
+    "id": "1497", 
     "party_name": "Liberal Democrat", 
     "slug": "jenny-willott", 
-    "id": "1497"
+    "party_colour": "#f1cc0a"
 }

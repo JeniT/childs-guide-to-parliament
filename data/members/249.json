@@ -6,27 +6,10 @@
         "Environment", 
         "Agriculture"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-21", 
-            "name": "Selection Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Finance and Services Committee"
-        }
-    ], 
     "display_name": "Geoffrey Clifton-Brown", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "The Cotswolds", 
+    "id": "249", 
     "party_name": "Conservative", 
     "slug": "geoffrey-clifton-brown", 
-    "id": "249"
+    "party_colour": "#333399"
 }

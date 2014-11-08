@@ -6,27 +6,10 @@
         "Transport", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-30", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-01-28", 
-            "name": "Communities and Local Government Committee"
-        }
-    ], 
     "display_name": "John Pugh", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Southport", 
+    "id": "1454", 
     "party_name": "Liberal Democrat", 
     "slug": "john-pugh", 
-    "id": "1454"
+    "party_colour": "#f1cc0a"
 }

@@ -7,17 +7,10 @@
         "Umbilical Cord Blood Banking", 
         "Stem Cell Transplantation And Research"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-23", 
-            "name": "Public Accounts Committee"
-        }
-    ], 
     "display_name": "Mr David Burrowes", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Enfield, Southgate", 
+    "id": "1518", 
     "party_name": "Conservative", 
     "slug": "mr-david-burrowes", 
-    "id": "1518"
+    "party_colour": "#333399"
 }

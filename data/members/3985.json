@@ -14,11 +14,10 @@
         "Technology", 
         "Big Society"
     ], 
-    "committees": [], 
     "display_name": "Robert Halfon", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Harlow", 
+    "id": "3985", 
     "party_name": "Conservative", 
     "slug": "robert-halfon", 
-    "id": "3985"
+    "party_colour": "#333399"
 }

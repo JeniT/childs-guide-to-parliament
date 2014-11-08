@@ -4,17 +4,10 @@
         "Defence", 
         "Food Retailing"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-07-14", 
-            "name": "Scottish Affairs Committee"
-        }
-    ], 
     "display_name": "Mark Menzies", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Fylde", 
+    "id": "3998", 
     "party_name": "Conservative", 
     "slug": "mark-menzies", 
-    "id": "3998"
+    "party_colour": "#333399"
 }

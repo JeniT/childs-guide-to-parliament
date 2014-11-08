@@ -8,17 +8,10 @@
         "Security", 
         "Employment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-09-13", 
-            "name": "Intelligence and Security (Joint Committee)"
-        }
-    ], 
     "display_name": "Mark Field", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Cities of London and Westminster", 
+    "id": "1405", 
     "party_name": "Conservative", 
     "slug": "mark-field", 
-    "id": "1405"
+    "party_colour": "#333399"
 }

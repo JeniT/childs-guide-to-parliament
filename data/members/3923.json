@@ -6,17 +6,10 @@
         "Textile Manufacturing", 
         "Palestine"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-06-11", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Mr David Ward", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Bradford East", 
+    "id": "3923", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-david-ward", 
-    "id": "3923"
+    "party_colour": "#f1cc0a"
 }

@@ -7,22 +7,10 @@
         "Education", 
         "Mental Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "Foreign Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2008-03-10", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Mike Gapes", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ilford South", 
+    "id": "184", 
     "party_name": "Labour (Co-op)", 
     "slug": "mike-gapes", 
-    "id": "184"
+    "party_colour": "#cc0000"
 }

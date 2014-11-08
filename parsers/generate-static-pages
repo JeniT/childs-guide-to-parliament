@@ -52,7 +52,7 @@ def get_colour(party):
         'Green': '#99cc33'
     }.get(party, '#999999')
 
-TEMPLATE_MEMBER_FILE = open('../_templates/member.md', 'r')
+TEMPLATE_MEMBER_FILE = open('../_templates/member.html', 'r')
 TEMPLATE_MEMBER = Template(TEMPLATE_MEMBER_FILE.read())
 TEMPLATE_MEMBER_FILE.close()
 
@@ -111,26 +111,25 @@ for member in MEMBERS:
         'slug': member_slug,
         'id': member_id,
         'display_name': member.find('DisplayAs').text,
-        'gender': parse_gender(member.find('Gender').text),
         'party_name': member.find('Party').text,
         'party_colour': get_colour(member.find('Party').text),
-        'committees': member_committees,
-        'interests': member_interests
+        'interests': member_interests,
+        'constituency_name': member.find('MemberFrom').text
     }
 
     person_interests_list = ''
 
     for interest in member_interests:
         person_interests_list = person_interests_list + '''
-* [''' + interest + '](/interests/' + slugify(interest) + '.html)'
+<li><a href="/interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
 
     member_template_data = {
         'slug': member_slug,
         'display_name': member.find('DisplayAs').text,
-        'gender': parse_gender(member.find('Gender').text),
         'party_name': member.find('Party').text,
         'party_colour': get_colour(member.find('Party').text),
-        'interests_list': person_interests_list
+        'interests_list': person_interests_list,
+        'constituency_name': member.find('MemberFrom').text
     }
 
     MEMBER_MAP[member_id] = member_data
@@ -145,9 +144,9 @@ for member in MEMBERS:
     # Make sure there's a more data file, and spit out their page file.
 
     if not os.path.isfile(MEMBER_MORE_FOLDER + '/' + member_slug + '.md'):
-        open(MEMBER_MORE_FOLDER + '/' + member_slug + '.md', 'a').close()
+        open(MEMBER_MORE_FOLDER + '/' + member_slug + '.html', 'a').close()
 
-    with open(MEMBER_PAGE_FOLDER + '/' + member_slug + '.md', 'w') as output_file:
+    with open(MEMBER_PAGE_FOLDER + '/' + member_slug + '.html', 'w') as output_file:
         output_file.write(TEMPLATE_MEMBER.substitute(member_template_data).encode('utf8'))
 
 # Spit out the interests file!

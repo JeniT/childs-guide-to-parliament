@@ -8,17 +8,10 @@
         "Small Businesses", 
         "Human Rights"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Michael Connarty", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Linlithgow and East Falkirk", 
+    "id": "602", 
     "party_name": "Labour", 
     "slug": "michael-connarty", 
-    "id": "602"
+    "party_colour": "#cc0000"
 }

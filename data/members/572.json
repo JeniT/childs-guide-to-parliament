@@ -8,22 +8,10 @@
         "Pensions", 
         "Equalities"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2001-07-16", 
-            "name": "Work and Pensions Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Dame  Anne Begg", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Aberdeen South", 
+    "id": "572", 
     "party_name": "Labour", 
     "slug": "dame-anne-begg", 
-    "id": "572"
+    "party_colour": "#cc0000"
 }

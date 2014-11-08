@@ -7,11 +7,10 @@
         "Housing", 
         "Environment"
     ], 
-    "committees": [], 
     "display_name": "Simon Hughes", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Bermondsey and Old Southwark", 
+    "id": "194", 
     "party_name": "Liberal Democrat", 
     "slug": "simon-hughes", 
-    "id": "194"
+    "party_colour": "#f1cc0a"
 }

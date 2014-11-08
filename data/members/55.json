@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mr Desmond Swayne", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "New Forest West", 
+    "id": "55", 
     "party_name": "Conservative", 
     "slug": "mr-desmond-swayne", 
-    "id": "55"
+    "party_colour": "#333399"
 }

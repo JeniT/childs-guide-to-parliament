@@ -7,22 +7,10 @@
         "Kurdish Issues", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-18", 
-            "name": "Speaker's Advisory Committee on Works of Art"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-05-24", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Hywel Williams", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Arfon", 
+    "id": "1397", 
     "party_name": "Plaid Cymru", 
     "slug": "hywel-williams", 
-    "id": "1397"
+    "party_colour": "#999999"
 }

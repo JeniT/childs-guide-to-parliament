@@ -6,11 +6,10 @@
         "Environment", 
         "Transport"
     ], 
-    "committees": [], 
     "display_name": "Andrew Gwynne", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Denton and Reddish", 
+    "id": "1506", 
     "party_name": "Labour", 
     "slug": "andrew-gwynne", 
-    "id": "1506"
+    "party_colour": "#cc0000"
 }

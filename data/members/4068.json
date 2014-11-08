@@ -6,11 +6,10 @@
         "Treasury", 
         "Apprenticeships"
     ], 
-    "committees": [], 
     "display_name": "Richard Harrington", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Watford", 
+    "id": "4068", 
     "party_name": "Conservative", 
     "slug": "richard-harrington", 
-    "id": "4068"
+    "party_colour": "#333399"
 }

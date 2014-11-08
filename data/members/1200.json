@@ -6,22 +6,10 @@
         "Arts", 
         "Home Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-14", 
-            "name": "Finance and Services Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-06-15", 
-            "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Greg Knight", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "East Yorkshire", 
+    "id": "1200", 
     "party_name": "Conservative", 
     "slug": "sir-greg-knight", 
-    "id": "1200"
+    "party_colour": "#333399"
 }

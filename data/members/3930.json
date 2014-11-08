@@ -8,17 +8,10 @@
         "Economy", 
         "Drugs And Alcohol"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Caroline Lucas", 
-    "gender": "female", 
-    "party_colour": "#99cc33", 
+    "constituency_name": "Brighton, Pavilion", 
+    "id": "3930", 
     "party_name": "Green", 
     "slug": "caroline-lucas", 
-    "id": "3930"
+    "party_colour": "#99cc33"
 }

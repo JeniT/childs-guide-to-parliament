@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-26", 
-            "name": "Welsh Affairs Committee"
-        }
-    ], 
     "display_name": "Stephen Doughty", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Cardiff South and Penarth", 
+    "id": "4264", 
     "party_name": "Labour (Co-op)", 
     "slug": "stephen-doughty", 
-    "id": "4264"
+    "party_colour": "#cc0000"
 }

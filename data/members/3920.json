@@ -4,22 +4,10 @@
         "Religious Freedom", 
         "Human Rights"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-11", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Northern Ireland Affairs Committee"
-        }
-    ], 
     "display_name": "Naomi Long", 
-    "gender": "female", 
-    "party_colour": "#999999", 
+    "constituency_name": "Belfast East", 
+    "id": "3920", 
     "party_name": "Alliance", 
     "slug": "naomi-long", 
-    "id": "3920"
+    "party_colour": "#999999"
 }

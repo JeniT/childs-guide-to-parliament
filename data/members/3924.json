@@ -4,27 +4,10 @@
         "Education", 
         "Young People"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Justice Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Home Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-04-29", 
-            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
-        }
-    ], 
     "display_name": "Yasmin Qureshi", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bolton South East", 
+    "id": "3924", 
     "party_name": "Labour", 
     "slug": "yasmin-qureshi", 
-    "id": "3924"
+    "party_colour": "#cc0000"
 }

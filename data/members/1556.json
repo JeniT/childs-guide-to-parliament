@@ -4,11 +4,10 @@
         "Education", 
         "Immigration"
     ], 
-    "committees": [], 
     "display_name": "Mr Rob Wilson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Reading East", 
+    "id": "1556", 
     "party_name": "Conservative", 
     "slug": "mr-rob-wilson", 
-    "id": "1556"
+    "party_colour": "#333399"
 }

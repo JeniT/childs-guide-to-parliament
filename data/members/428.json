@@ -6,22 +6,10 @@
         "Communications And Information Technology", 
         "Pensions"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Science and Technology Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Andrew Miller", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ellesmere Port and Neston", 
+    "id": "428", 
     "party_name": "Labour", 
     "slug": "andrew-miller", 
-    "id": "428"
+    "party_colour": "#cc0000"
 }

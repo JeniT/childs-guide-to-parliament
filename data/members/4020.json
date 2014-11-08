@@ -12,11 +12,10 @@
         "Bioethics", 
         "Healthcare Reform"
     ], 
-    "committees": [], 
     "display_name": "George Freeman", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Mid Norfolk", 
+    "id": "4020", 
     "party_name": "Conservative", 
     "slug": "george-freeman", 
-    "id": "4020"
+    "party_colour": "#333399"
 }

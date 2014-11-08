@@ -4,11 +4,10 @@
         "Young People", 
         "Law And Order"
     ], 
-    "committees": [], 
     "display_name": "James Wharton", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Stockton South", 
+    "id": "4123", 
     "party_name": "Conservative", 
     "slug": "james-wharton", 
-    "id": "4123"
+    "party_colour": "#333399"
 }

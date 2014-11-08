@@ -6,11 +6,10 @@
         "Education", 
         "Crime"
     ], 
-    "committees": [], 
     "display_name": "Andy Burnham", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leigh", 
+    "id": "1427", 
     "party_name": "Labour", 
     "slug": "andy-burnham", 
-    "id": "1427"
+    "party_colour": "#cc0000"
 }

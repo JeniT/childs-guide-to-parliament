@@ -2,17 +2,10 @@
     "interests": [
         "Defence"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Richard Drax", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Dorset", 
+    "id": "4132", 
     "party_name": "Conservative", 
     "slug": "richard-drax", 
-    "id": "4132"
+    "party_colour": "#333399"
 }

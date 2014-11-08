@@ -3,11 +3,10 @@
         "Small Businesses", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Ms Diane Abbott", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Hackney North and Stoke Newington", 
+    "id": "172", 
     "party_name": "Labour", 
     "slug": "ms-diane-abbott", 
-    "id": "172"
+    "party_colour": "#cc0000"
 }

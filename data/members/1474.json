@@ -4,22 +4,10 @@
         "Welfare", 
         "Economic Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-20", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Energy and Climate Change Committee"
-        }
-    ], 
     "display_name": "Albert Owen", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ynys M\u00f4n", 
+    "id": "1474", 
     "party_name": "Labour", 
     "slug": "albert-owen", 
-    "id": "1474"
+    "party_colour": "#cc0000"
 }

@@ -6,11 +6,10 @@
         "Equality", 
         "Justice"
     ], 
-    "committees": [], 
     "display_name": "Kate Green", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Stretford and Urmston", 
+    "id": "4120", 
     "party_name": "Labour", 
     "slug": "kate-green", 
-    "id": "4120"
+    "party_colour": "#cc0000"
 }

@@ -6,32 +6,10 @@
         "Charity Reform", 
         "Rural Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-30", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-21", 
-            "name": "National Policy Statements Sub-Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-12-14", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Energy and Climate Change Committee"
-        }
-    ], 
     "display_name": "Mr Tim Yeo", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Suffolk", 
+    "id": "136", 
     "party_name": "Conservative", 
     "slug": "mr-tim-yeo", 
-    "id": "136"
+    "party_colour": "#333399"
 }

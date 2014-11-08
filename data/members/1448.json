@@ -9,11 +9,10 @@
         "Technology", 
         "Child Protection"
     ], 
-    "committees": [], 
     "display_name": "Meg Munn", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sheffield, Heeley", 
+    "id": "1448", 
     "party_name": "Labour (Co-op)", 
     "slug": "meg-munn", 
-    "id": "1448"
+    "party_colour": "#cc0000"
 }

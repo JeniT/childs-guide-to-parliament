@@ -9,22 +9,10 @@
         "Countryside", 
         "Northern Ireland"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Northern Ireland Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr Laurence Robertson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Tewkesbury", 
+    "id": "253", 
     "party_name": "Conservative", 
     "slug": "mr-laurence-robertson", 
-    "id": "253"
+    "party_colour": "#333399"
 }

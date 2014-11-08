@@ -5,17 +5,10 @@
         "Agriculture", 
         "Eu Enlargement"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Neil Parish", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Tiverton and Honiton", 
+    "id": "4072", 
     "party_name": "Conservative", 
     "slug": "neil-parish", 
-    "id": "4072"
+    "party_colour": "#333399"
 }

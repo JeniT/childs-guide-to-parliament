@@ -4,11 +4,10 @@
         "Northern Ireland", 
         "Human Rights And Equalities Issues"
     ], 
-    "committees": [], 
     "display_name": "Mr Shaun Woodward", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "St Helens South and Whiston", 
+    "id": "98", 
     "party_name": "Labour", 
     "slug": "mr-shaun-woodward", 
-    "id": "98"
+    "party_colour": "#cc0000"
 }

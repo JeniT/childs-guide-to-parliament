@@ -7,17 +7,10 @@
         "Military Matters", 
         "Crime And The Judiciary"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Transport Committee"
-        }
-    ], 
     "display_name": "Karl McCartney", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Lincoln", 
+    "id": "4028", 
     "party_name": "Conservative", 
     "slug": "karl-mccartney", 
-    "id": "4028"
+    "party_colour": "#333399"
 }

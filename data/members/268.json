@@ -6,22 +6,10 @@
         "Rural Affairs", 
         "Performing Arts"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-11", 
-            "name": "International Development Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-12-18", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Sir Peter Luff", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Mid Worcestershire", 
+    "id": "268", 
     "party_name": "Conservative", 
     "slug": "sir-peter-luff", 
-    "id": "268"
+    "party_colour": "#333399"
 }

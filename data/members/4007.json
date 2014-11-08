@@ -5,17 +5,10 @@
         "Business Competitiveness", 
         "Foreign Policy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Mr Dominic Raab", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Esher and Walton", 
+    "id": "4007", 
     "party_name": "Conservative", 
     "slug": "mr-dominic-raab", 
-    "id": "4007"
+    "party_colour": "#333399"
 }

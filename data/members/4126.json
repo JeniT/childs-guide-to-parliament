@@ -6,22 +6,10 @@
         "Environment", 
         "Older People'S Issues"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-02-25", 
-            "name": "Communities and Local Government Committee"
-        }
-    ], 
     "display_name": "Mrs Mary Glindon", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "North Tyneside", 
+    "id": "4126", 
     "party_name": "Labour", 
     "slug": "mrs-mary-glindon", 
-    "id": "4126"
+    "party_colour": "#cc0000"
 }

@@ -8,17 +8,10 @@
         "Defence", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-05-12", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Steve Baker", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wycombe", 
+    "id": "4064", 
     "party_name": "Conservative", 
     "slug": "steve-baker", 
-    "id": "4064"
+    "party_colour": "#333399"
 }

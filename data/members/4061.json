@@ -2,17 +2,10 @@
     "interests": [
         "Children'S Service"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Bill Esterson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sefton Central", 
+    "id": "4061", 
     "party_name": "Labour", 
     "slug": "bill-esterson", 
-    "id": "4061"
+    "party_colour": "#cc0000"
 }

@@ -4,11 +4,10 @@
         "Policing", 
         "Criminal Justice System"
     ], 
-    "committees": [], 
     "display_name": "Gavin Barwell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Croydon Central", 
+    "id": "3955", 
     "party_name": "Conservative", 
     "slug": "gavin-barwell", 
-    "id": "3955"
+    "party_colour": "#333399"
 }

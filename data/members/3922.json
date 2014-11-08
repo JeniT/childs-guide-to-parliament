@@ -5,22 +5,10 @@
         "Northern Ireland", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Culture, Media and Sport Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-03-10", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Conor Burns", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bournemouth West", 
+    "id": "3922", 
     "party_name": "Conservative", 
     "slug": "conor-burns", 
-    "id": "3922"
+    "party_colour": "#333399"
 }

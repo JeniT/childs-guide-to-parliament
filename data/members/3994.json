@@ -3,17 +3,10 @@
         "Small Businesses", 
         "Pensions"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-07-16", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Andrew Bingham", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "High Peak", 
+    "id": "3994", 
     "party_name": "Conservative", 
     "slug": "andrew-bingham", 
-    "id": "3994"
+    "party_colour": "#333399"
 }

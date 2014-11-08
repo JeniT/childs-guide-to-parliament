@@ -7,37 +7,10 @@
         "Transport", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2009-01-12", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-21", 
-            "name": "National Policy Statements Sub-Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-17", 
-            "name": "Finance and Services Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2006-06-27", 
-            "name": "Communities and Local Government Committee"
-        }
-    ], 
     "display_name": "Mr Clive Betts", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sheffield South East", 
+    "id": "394", 
     "party_name": "Labour", 
     "slug": "mr-clive-betts", 
-    "id": "394"
+    "party_colour": "#cc0000"
 }

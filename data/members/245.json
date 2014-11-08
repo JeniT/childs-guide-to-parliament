@@ -4,32 +4,10 @@
         "Constitution", 
         "Local And Regional Government"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-04-29", 
-            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-12-10", 
-            "name": "Finance and Services Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-03-15", 
-            "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-10-28", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mr Robert Syms", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Poole", 
+    "id": "245", 
     "party_name": "Conservative", 
     "slug": "mr-robert-syms", 
-    "id": "245"
+    "party_colour": "#333399"
 }

@@ -7,11 +7,10 @@
         "Country Sports", 
         "Armed Forces Parliamentary Scheme"
     ], 
-    "committees": [], 
     "display_name": "Jim Shannon", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Strangford", 
+    "id": "4131", 
     "party_name": "Democratic Unionist", 
     "slug": "jim-shannon", 
-    "id": "4131"
+    "party_colour": "#999999"
 }

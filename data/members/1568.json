@@ -6,17 +6,10 @@
         "Europe", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-23", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mrs Anne Main", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "St Albans", 
+    "id": "1568", 
     "party_name": "Conservative", 
     "slug": "mrs-anne-main", 
-    "id": "1568"
+    "party_colour": "#333399"
 }

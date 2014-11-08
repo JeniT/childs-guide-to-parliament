@@ -18,17 +18,10 @@
         "Blood Stocks", 
         "Regional And Local Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-01-24", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Sir Alan Meale", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Mansfield", 
+    "id": "361", 
     "party_name": "Labour", 
     "slug": "sir-alan-meale", 
-    "id": "361"
+    "party_colour": "#cc0000"
 }

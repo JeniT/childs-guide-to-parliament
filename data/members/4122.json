@@ -9,17 +9,10 @@
         "Carers", 
         "Poverty"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-11-07", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Alex Cunningham", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Stockton North", 
+    "id": "4122", 
     "party_name": "Labour", 
     "slug": "alex-cunningham", 
-    "id": "4122"
+    "party_colour": "#cc0000"
 }

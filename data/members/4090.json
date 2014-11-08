@@ -4,11 +4,10 @@
         "Media And Sport", 
         "Business"
     ], 
-    "committees": [], 
     "display_name": "Jonathan Lord", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Woking", 
+    "id": "4090", 
     "party_name": "Conservative", 
     "slug": "jonathan-lord", 
-    "id": "4090"
+    "party_colour": "#333399"
 }

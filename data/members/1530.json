@@ -4,11 +4,10 @@
         "Housing And Regeneration", 
         "Law And Order"
     ], 
-    "committees": [], 
     "display_name": "James Brokenshire", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Old Bexley and Sidcup", 
+    "id": "1530", 
     "party_name": "Conservative", 
     "slug": "james-brokenshire", 
-    "id": "1530"
+    "party_colour": "#333399"
 }

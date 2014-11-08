@@ -6,11 +6,10 @@
         "Education", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Mr Jeremy Hunt", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South West Surrey", 
+    "id": "1572", 
     "party_name": "Conservative", 
     "slug": "mr-jeremy-hunt", 
-    "id": "1572"
+    "party_colour": "#333399"
 }

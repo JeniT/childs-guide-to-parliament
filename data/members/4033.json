@@ -4,11 +4,10 @@
         "Local Economy", 
         "Anti-Social Behaviour"
     ], 
-    "committees": [], 
     "display_name": "David Rutley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Macclesfield", 
+    "id": "4033", 
     "party_name": "Conservative", 
     "slug": "david-rutley", 
-    "id": "4033"
+    "party_colour": "#333399"
 }

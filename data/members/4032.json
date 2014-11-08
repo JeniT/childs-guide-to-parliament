@@ -6,11 +6,10 @@
         "Charities", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Stuart Andrew", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Pudsey", 
+    "id": "4032", 
     "party_name": "Conservative", 
     "slug": "stuart-andrew", 
-    "id": "4032"
+    "party_colour": "#333399"
 }

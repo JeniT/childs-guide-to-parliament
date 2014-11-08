@@ -4,17 +4,10 @@
         "Energy", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Work and Pensions Committee"
-        }
-    ], 
     "display_name": "Kwasi Kwarteng", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Spelthorne", 
+    "id": "4134", 
     "party_name": "Conservative", 
     "slug": "kwasi-kwarteng", 
-    "id": "4134"
+    "party_colour": "#333399"
 }

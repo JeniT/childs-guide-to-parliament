@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "International Development Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Chris White", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Warwick and Leamington", 
+    "id": "4114", 
     "party_name": "Conservative", 
     "slug": "chris-white", 
-    "id": "4114"
+    "party_colour": "#333399"
 }

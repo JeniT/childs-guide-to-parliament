@@ -5,27 +5,10 @@
         "Constitutional Affairs", 
         "Legal"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-10-16", 
-            "name": "House of Commons Governance Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Valerie Vaz", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Walsall South", 
+    "id": "4076", 
     "party_name": "Labour", 
     "slug": "valerie-vaz", 
-    "id": "4076"
+    "party_colour": "#cc0000"
 }

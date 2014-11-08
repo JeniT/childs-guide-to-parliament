@@ -11,11 +11,10 @@
         "Living Wage", 
         "Falkland Islands"
     ], 
-    "committees": [], 
     "display_name": "Guy Opperman", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hexham", 
+    "id": "4142", 
     "party_name": "Conservative", 
     "slug": "guy-opperman", 
-    "id": "4142"
+    "party_colour": "#333399"
 }

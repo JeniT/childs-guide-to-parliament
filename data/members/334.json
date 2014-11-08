@@ -6,22 +6,10 @@
         "Defence", 
         "Northern Ireland"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-11-03", 
-            "name": "Statutory Instruments (Select Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-11-03", 
-            "name": "Statutory Instruments (Joint Committee)"
-        }
-    ], 
     "display_name": "Mr Andrew Robathan", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Leicestershire", 
+    "id": "334", 
     "party_name": "Conservative", 
     "slug": "mr-andrew-robathan", 
-    "id": "334"
+    "party_colour": "#333399"
 }

@@ -6,11 +6,10 @@
         "Housing", 
         "Home Affairs"
     ], 
-    "committees": [], 
     "display_name": "Ms Rosie Winterton", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Doncaster Central", 
+    "id": "390", 
     "party_name": "Labour", 
     "slug": "ms-rosie-winterton", 
-    "id": "390"
+    "party_colour": "#cc0000"
 }

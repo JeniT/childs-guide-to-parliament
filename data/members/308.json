@@ -5,11 +5,10 @@
         "Industrial Relations", 
         "Nhs"
     ], 
-    "committees": [], 
     "display_name": "Mr Jim Cunningham", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Coventry South", 
+    "id": "308", 
     "party_name": "Labour", 
     "slug": "mr-jim-cunningham", 
-    "id": "308"
+    "party_colour": "#cc0000"
 }

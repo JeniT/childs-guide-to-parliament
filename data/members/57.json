@@ -5,11 +5,10 @@
         "Health Education", 
         "Constitutional Reform"
     ], 
-    "committees": [], 
     "display_name": "Sir George Young", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North West Hampshire", 
+    "id": "57", 
     "party_name": "Conservative", 
     "slug": "sir-george-young", 
-    "id": "57"
+    "party_colour": "#333399"
 }

@@ -5,11 +5,10 @@
         "Social Security", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Mr David Willetts", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Havant", 
+    "id": "53", 
     "party_name": "Conservative", 
     "slug": "mr-david-willetts", 
-    "id": "53"
+    "party_colour": "#333399"
 }

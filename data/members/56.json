@@ -5,11 +5,10 @@
         "Foreign Affairs", 
         "Law"
     ], 
-    "committees": [], 
     "display_name": "Mr James Arbuthnot", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North East Hampshire", 
+    "id": "56", 
     "party_name": "Conservative", 
     "slug": "mr-james-arbuthnot", 
-    "id": "56"
+    "party_colour": "#333399"
 }

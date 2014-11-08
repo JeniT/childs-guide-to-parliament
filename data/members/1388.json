@@ -4,11 +4,10 @@
         "Constitution", 
         "Social Policy"
     ], 
-    "committees": [], 
     "display_name": "Mr Nigel Dodds", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Belfast North", 
+    "id": "1388", 
     "party_name": "Democratic Unionist", 
     "slug": "mr-nigel-dodds", 
-    "id": "1388"
+    "party_colour": "#999999"
 }

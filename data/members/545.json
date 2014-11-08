@@ -10,27 +10,10 @@
         "Constitutional Reform", 
         "Modernisation Of Parliament"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "Public Administration Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-12-12", 
-            "name": "Political and Constitutional Reform Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Paul Flynn", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Newport West", 
+    "id": "545", 
     "party_name": "Labour", 
     "slug": "paul-flynn", 
-    "id": "545"
+    "party_colour": "#cc0000"
 }

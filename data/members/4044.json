@@ -7,11 +7,10 @@
         "Economy", 
         "Local Government"
     ], 
-    "committees": [], 
     "display_name": "Andrew Stephenson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Pendle", 
+    "id": "4044", 
     "party_name": "Conservative", 
     "slug": "andrew-stephenson", 
-    "id": "4044"
+    "party_colour": "#333399"
 }

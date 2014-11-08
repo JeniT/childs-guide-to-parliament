@@ -3,17 +3,10 @@
         "Employment", 
         "Social Welfare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Foreign Affairs Committee"
-        }
-    ], 
     "display_name": "Mr Frank Roy", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Motherwell and Wishaw", 
+    "id": "626", 
     "party_name": "Labour", 
     "slug": "mr-frank-roy", 
-    "id": "626"
+    "party_colour": "#cc0000"
 }

@@ -4,11 +4,10 @@
         "Racing", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Matthew Hancock", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "West Suffolk", 
+    "id": "4070", 
     "party_name": "Conservative", 
     "slug": "matthew-hancock", 
-    "id": "4070"
+    "party_colour": "#333399"
 }

@@ -8,11 +8,10 @@
         "International Development", 
         "Defence"
     ], 
-    "committees": [], 
     "display_name": "Alun Cairns", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Vale of Glamorgan", 
+    "id": "4086", 
     "party_name": "Conservative", 
     "slug": "alun-cairns", 
-    "id": "4086"
+    "party_colour": "#333399"
 }

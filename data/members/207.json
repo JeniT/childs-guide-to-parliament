@@ -6,11 +6,10 @@
         "Energy", 
         "Environment"
     ], 
-    "committees": [], 
     "display_name": "Vince Cable", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Twickenham", 
+    "id": "207", 
     "party_name": "Liberal Democrat", 
     "slug": "vince-cable", 
-    "id": "207"
+    "party_colour": "#f1cc0a"
 }

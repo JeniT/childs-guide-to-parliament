@@ -6,11 +6,10 @@
         "Development", 
         "Small Businesses"
     ], 
-    "committees": [], 
     "display_name": "Mr Mark Prisk", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hertford and Stortford", 
+    "id": "1424", 
     "party_name": "Conservative", 
     "slug": "mr-mark-prisk", 
-    "id": "1424"
+    "party_colour": "#333399"
 }

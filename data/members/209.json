@@ -7,27 +7,10 @@
         "Human Trafficking", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-11", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-09-11", 
-            "name": "Privileges Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-01", 
-            "name": "Joint Committee on Security"
-        }
-    ], 
     "display_name": "Sir John Randall", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Uxbridge and South Ruislip", 
+    "id": "209", 
     "party_name": "Conservative", 
     "slug": "sir-john-randall", 
-    "id": "209"
+    "party_colour": "#333399"
 }

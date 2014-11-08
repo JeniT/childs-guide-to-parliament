@@ -5,11 +5,10 @@
         "Pensions", 
         "Public Service Reform"
     ], 
-    "committees": [], 
     "display_name": "Mr David Laws", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Yeovil", 
+    "id": "1473", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-david-laws", 
-    "id": "1473"
+    "party_colour": "#f1cc0a"
 }

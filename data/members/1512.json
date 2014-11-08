@@ -4,11 +4,10 @@
         "Commerce", 
         "Rural Affairs"
     ], 
-    "committees": [], 
     "display_name": "David Mundell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Dumfriesshire, Clydesdale and Tweeddale", 
+    "id": "1512", 
     "party_name": "Conservative", 
     "slug": "david-mundell", 
-    "id": "1512"
+    "party_colour": "#333399"
 }

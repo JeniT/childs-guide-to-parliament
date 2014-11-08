@@ -7,11 +7,10 @@
         "Anti-Common Market", 
         "Third World"
     ], 
-    "committees": [], 
     "display_name": "Mr Dennis Skinner", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bolsover", 
+    "id": "325", 
     "party_name": "Labour", 
     "slug": "mr-dennis-skinner", 
-    "id": "325"
+    "party_colour": "#cc0000"
 }

@@ -8,11 +8,10 @@
         "Science", 
         "Business"
     ], 
-    "committees": [], 
     "display_name": "Esther McVey", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wirral West", 
+    "id": "4084", 
     "party_name": "Conservative", 
     "slug": "esther-mcvey", 
-    "id": "4084"
+    "party_colour": "#333399"
 }

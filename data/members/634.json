@@ -5,17 +5,10 @@
         "Broadcasting", 
         "European Union"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-18", 
-            "name": "Speaker's Advisory Committee on Works of Art"
-        }
-    ], 
     "display_name": "Mr Charles Kennedy", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Ross, Skye and Lochaber", 
+    "id": "634", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-charles-kennedy", 
-    "id": "634"
+    "party_colour": "#f1cc0a"
 }

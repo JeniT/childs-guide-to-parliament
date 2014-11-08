@@ -10,11 +10,10 @@
         "Housing Development", 
         "Energy And Climate Change"
     ], 
-    "committees": [], 
     "display_name": "Greg Clark", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Tunbridge Wells", 
+    "id": "1578", 
     "party_name": "Conservative", 
     "slug": "greg-clark", 
-    "id": "1578"
+    "party_colour": "#333399"
 }

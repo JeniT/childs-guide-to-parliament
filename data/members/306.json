@@ -6,11 +6,10 @@
         "Defence", 
         "Foreign Policy"
     ], 
-    "committees": [], 
     "display_name": "Mr Bob Ainsworth", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Coventry North East", 
+    "id": "306", 
     "party_name": "Labour", 
     "slug": "mr-bob-ainsworth", 
-    "id": "306"
+    "party_colour": "#cc0000"
 }

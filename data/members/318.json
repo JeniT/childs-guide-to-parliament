@@ -6,11 +6,10 @@
         "Construction Industry", 
         "Defence"
     ], 
-    "committees": [], 
     "display_name": "Mr John Spellar", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Warley", 
+    "id": "318", 
     "party_name": "Labour", 
     "slug": "mr-john-spellar", 
-    "id": "318"
+    "party_colour": "#cc0000"
 }

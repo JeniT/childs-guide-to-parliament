@@ -10,17 +10,10 @@
         "Small Businesses", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2007-01-15", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Mark Lazarowicz", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Edinburgh North and Leith", 
+    "id": "1411", 
     "party_name": "Labour (Co-op)", 
     "slug": "mark-lazarowicz", 
-    "id": "1411"
+    "party_colour": "#cc0000"
 }

@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "1992-04-27", 
-            "name": "Foreign Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2008-03-10", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Sir John Stanley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Tonbridge and Malling", 
+    "id": "91", 
     "party_name": "Conservative", 
     "slug": "sir-john-stanley", 
-    "id": "91"
+    "party_colour": "#333399"
 }

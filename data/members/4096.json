@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Simon Wright", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Norwich South", 
+    "id": "4096", 
     "party_name": "Liberal Democrat", 
     "slug": "simon-wright", 
-    "id": "4096"
+    "party_colour": "#f1cc0a"
 }

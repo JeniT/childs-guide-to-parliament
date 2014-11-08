@@ -2,11 +2,10 @@
     "interests": [
         "Irish National Self-Determination"
     ], 
-    "committees": [], 
     "display_name": "Mr Pat Doherty", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "West Tyrone", 
+    "id": "1465", 
     "party_name": "Sinn Fein", 
     "slug": "mr-pat-doherty", 
-    "id": "1465"
+    "party_colour": "#999999"
 }

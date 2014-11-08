@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Stephen Pound", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ealing North", 
+    "id": "161", 
     "party_name": "Labour", 
     "slug": "stephen-pound", 
-    "id": "161"
+    "party_colour": "#cc0000"
 }

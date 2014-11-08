@@ -6,17 +6,10 @@
         "Health", 
         "Home Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-11-03", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Richard Benyon", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Newbury", 
+    "id": "1547", 
     "party_name": "Conservative", 
     "slug": "richard-benyon", 
-    "id": "1547"
+    "party_colour": "#333399"
 }

@@ -5,11 +5,10 @@
         "Penal Reform", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Mr Nick Hurd", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ruislip, Northwood and Pinner", 
+    "id": "1561", 
     "party_name": "Conservative", 
     "slug": "mr-nick-hurd", 
-    "id": "1561"
+    "party_colour": "#333399"
 }

@@ -4,11 +4,10 @@
         "Health And Social Care", 
         "Voluntary Sector"
     ], 
-    "committees": [], 
     "display_name": "Anne Milton", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Guildford", 
+    "id": "1523", 
     "party_name": "Conservative", 
     "slug": "anne-milton", 
-    "id": "1523"
+    "party_colour": "#333399"
 }

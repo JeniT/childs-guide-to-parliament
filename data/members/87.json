@@ -8,22 +8,10 @@
         "Leisure Industry", 
         "Licensed Trade"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2007-06-11", 
-            "name": "Procedure Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2001-06-26", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Sir Roger Gale", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Thanet", 
+    "id": "87", 
     "party_name": "Conservative", 
     "slug": "sir-roger-gale", 
-    "id": "87"
+    "party_colour": "#333399"
 }

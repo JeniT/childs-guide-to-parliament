@@ -6,17 +6,10 @@
         "Education", 
         "Constitutional Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-04-07", 
-            "name": "Human Rights (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Edward Garnier", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Harborough", 
+    "id": "337", 
     "party_name": "Conservative", 
     "slug": "sir-edward-garnier", 
-    "id": "337"
+    "party_colour": "#333399"
 }

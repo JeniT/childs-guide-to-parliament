@@ -4,17 +4,10 @@
         "Constitutional Reform", 
         "European Union"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Ms Gisela Stuart", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Birmingham, Edgbaston", 
+    "id": "296", 
     "party_name": "Labour", 
     "slug": "ms-gisela-stuart", 
-    "id": "296"
+    "party_colour": "#cc0000"
 }

@@ -18,17 +18,10 @@
         "Global Tb", 
         "Gypsies And Travellers"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Andrew George", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "St Ives", 
+    "id": "227", 
     "party_name": "Liberal Democrat", 
     "slug": "andrew-george", 
-    "id": "227"
+    "party_colour": "#f1cc0a"
 }

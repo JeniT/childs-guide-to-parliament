@@ -5,17 +5,10 @@
         "Foreign Affairs", 
         "Exports And Inward Investment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-10-31", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "Nick de Bois", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Enfield North", 
+    "id": "4002", 
     "party_name": "Conservative", 
     "slug": "nick-de-bois", 
-    "id": "4002"
+    "party_colour": "#333399"
 }

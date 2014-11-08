@@ -8,32 +8,10 @@
         "International Development", 
         "British Film"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-27", 
-            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Privileges Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-11", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Kevin Barron", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Rother Valley", 
+    "id": "392", 
     "party_name": "Labour", 
     "slug": "kevin-barron", 
-    "id": "392"
+    "party_colour": "#cc0000"
 }

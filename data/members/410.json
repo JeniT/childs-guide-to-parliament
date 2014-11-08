@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Jon Trickett", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Hemsworth", 
+    "id": "410", 
     "party_name": "Labour", 
     "slug": "jon-trickett", 
-    "id": "410"
+    "party_colour": "#cc0000"
 }

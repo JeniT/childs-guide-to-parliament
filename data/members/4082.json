@@ -6,11 +6,10 @@
         "Poverty", 
         "International Corporate Accountability"
     ], 
-    "committees": [], 
     "display_name": "Lisa Nandy", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wigan", 
+    "id": "4082", 
     "party_name": "Labour", 
     "slug": "lisa-nandy", 
-    "id": "4082"
+    "party_colour": "#cc0000"
 }

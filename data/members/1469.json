@@ -6,17 +6,10 @@
         "Sport", 
         "Small Businesses"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "International Development Committee"
-        }
-    ], 
     "display_name": "Sir Tony Cunningham", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Workington", 
+    "id": "1469", 
     "party_name": "Labour", 
     "slug": "sir-tony-cunningham", 
-    "id": "1469"
+    "party_colour": "#cc0000"
 }

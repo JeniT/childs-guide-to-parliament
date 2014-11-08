@@ -9,22 +9,10 @@
         "Housing Benefit Reform", 
         "Welfare Reform"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Communities and Local Government Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-30", 
-            "name": "Backbench Business Committee"
-        }
-    ], 
     "display_name": "Bob Blackman", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Harrow East", 
+    "id": "4005", 
     "party_name": "Conservative", 
     "slug": "bob-blackman", 
-    "id": "4005"
+    "party_colour": "#333399"
 }

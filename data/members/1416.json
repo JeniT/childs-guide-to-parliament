@@ -4,11 +4,10 @@
         "Rural Affairs", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Michelle Gildernew", 
-    "gender": "female", 
-    "party_colour": "#999999", 
+    "constituency_name": "Fermanagh and South Tyrone", 
+    "id": "1416", 
     "party_name": "Sinn Fein", 
     "slug": "michelle-gildernew", 
-    "id": "1416"
+    "party_colour": "#999999"
 }

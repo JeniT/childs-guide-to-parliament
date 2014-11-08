@@ -9,22 +9,10 @@
         "Human Rights", 
         "Equality"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Welsh Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-07-05", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Geraint Davies", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Swansea West", 
+    "id": "155", 
     "party_name": "Labour (Co-op)", 
     "slug": "geraint-davies", 
-    "id": "155"
+    "party_colour": "#cc0000"
 }

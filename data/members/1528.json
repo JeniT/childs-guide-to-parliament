@@ -6,11 +6,10 @@
         "Home Affairs", 
         "Defence"
     ], 
-    "committees": [], 
     "display_name": "Mike Penning", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hemel Hempstead", 
+    "id": "1528", 
     "party_name": "Conservative", 
     "slug": "mike-penning", 
-    "id": "1528"
+    "party_colour": "#333399"
 }

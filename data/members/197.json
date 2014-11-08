@@ -7,22 +7,10 @@
         "Animal Welfare", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Transport Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Jim Fitzpatrick", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Poplar and Limehouse", 
+    "id": "197", 
     "party_name": "Labour", 
     "slug": "jim-fitzpatrick", 
-    "id": "197"
+    "party_colour": "#cc0000"
 }

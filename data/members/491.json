@@ -4,17 +4,10 @@
         "Nhs", 
         "Politics Of Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-12-07", 
-            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
-        }
-    ], 
     "display_name": "Ms Angela Eagle", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wallasey", 
+    "id": "491", 
     "party_name": "Labour", 
     "slug": "ms-angela-eagle", 
-    "id": "491"
+    "party_colour": "#cc0000"
 }

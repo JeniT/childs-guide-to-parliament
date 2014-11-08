@@ -7,17 +7,10 @@
         "Simpler Tax And Benefit System", 
         "Science And Innovation"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-07-18", 
-            "name": "Members' Expenses Committee"
-        }
-    ], 
     "display_name": "Adam Afriyie", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Windsor", 
+    "id": "1586", 
     "party_name": "Conservative", 
     "slug": "adam-afriyie", 
-    "id": "1586"
+    "party_colour": "#333399"
 }

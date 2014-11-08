@@ -5,17 +5,10 @@
         "Housing", 
         "Local Government"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-10-09", 
-            "name": "Selection Committee"
-        }
-    ], 
     "display_name": "Greg Hands", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chelsea and Fulham", 
+    "id": "1526", 
     "party_name": "Conservative", 
     "slug": "greg-hands", 
-    "id": "1526"
+    "party_colour": "#333399"
 }

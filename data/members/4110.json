@@ -5,11 +5,10 @@
         "Home Affairs", 
         "Welfare And Pensions"
     ], 
-    "committees": [], 
     "display_name": "Karen Bradley", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Staffordshire Moorlands", 
+    "id": "4110", 
     "party_name": "Conservative", 
     "slug": "karen-bradley", 
-    "id": "4110"
+    "party_colour": "#333399"
 }

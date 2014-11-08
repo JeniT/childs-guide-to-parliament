@@ -11,17 +11,10 @@
         "Poverty", 
         "Social Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-07-17", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Alistair Burt", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North East Bedfordshire", 
+    "id": "1201", 
     "party_name": "Conservative", 
     "slug": "alistair-burt", 
-    "id": "1201"
+    "party_colour": "#333399"
 }

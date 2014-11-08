@@ -6,17 +6,10 @@
         "Transport", 
         "International Development (Including Supply Chain Ethical Trading)"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }
-    ], 
     "display_name": "Jack Dromey", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Birmingham, Erdington", 
+    "id": "3913", 
     "party_name": "Labour", 
     "slug": "jack-dromey", 
-    "id": "3913"
+    "party_colour": "#cc0000"
 }

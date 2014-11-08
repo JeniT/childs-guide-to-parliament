@@ -4,11 +4,10 @@
         "Economic Policy", 
         "New Technology"
     ], 
-    "committees": [], 
     "display_name": "Mr Geoffrey Robinson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Coventry North West", 
+    "id": "307", 
     "party_name": "Labour", 
     "slug": "mr-geoffrey-robinson", 
-    "id": "307"
+    "party_colour": "#cc0000"
 }

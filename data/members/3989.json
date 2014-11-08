@@ -4,17 +4,10 @@
         "Foreign Affairs", 
         "Social Mobility"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Northern Ireland Affairs Committee"
-        }
-    ], 
     "display_name": "Jack Lopresti", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Filton and Bradley Stoke", 
+    "id": "3989", 
     "party_name": "Conservative", 
     "slug": "jack-lopresti", 
-    "id": "3989"
+    "party_colour": "#333399"
 }

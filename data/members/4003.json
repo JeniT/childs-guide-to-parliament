@@ -3,22 +3,10 @@
         "Tax Reform", 
         "Children In Care"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Work and Pensions Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-11-14", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Teresa Pearce", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Erith and Thamesmead", 
+    "id": "4003", 
     "party_name": "Labour", 
     "slug": "teresa-pearce", 
-    "id": "4003"
+    "party_colour": "#cc0000"
 }

@@ -5,11 +5,10 @@
         "Small Business", 
         "Intellectual Property"
     ], 
-    "committees": [], 
     "display_name": "Mike Weatherley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hove", 
+    "id": "3984", 
     "party_name": "Conservative", 
     "slug": "mike-weatherley", 
-    "id": "3984"
+    "party_colour": "#333399"
 }

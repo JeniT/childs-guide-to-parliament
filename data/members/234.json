@@ -4,27 +4,10 @@
         "Family Moral And Social Affairs", 
         "Developing World"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2006-10-09", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2009-01-12", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-10-26", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Mr Gary Streeter", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South West Devon", 
+    "id": "234", 
     "party_name": "Conservative", 
     "slug": "mr-gary-streeter", 
-    "id": "234"
+    "party_colour": "#333399"
 }

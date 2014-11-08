@@ -8,11 +8,10 @@
         "Defence", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Michael Moore", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Berwickshire, Roxburgh and Selkirk", 
+    "id": "638", 
     "party_name": "Liberal Democrat", 
     "slug": "michael-moore", 
-    "id": "638"
+    "party_colour": "#f1cc0a"
 }

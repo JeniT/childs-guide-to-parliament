@@ -6,11 +6,10 @@
         "Male Health", 
         "Organ Donation"
     ], 
-    "committees": [], 
     "display_name": "Paul Uppal", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wolverhampton South West", 
+    "id": "4078", 
     "party_name": "Conservative", 
     "slug": "paul-uppal", 
-    "id": "4078"
+    "party_colour": "#333399"
 }

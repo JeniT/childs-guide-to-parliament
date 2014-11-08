@@ -7,17 +7,10 @@
         "Special Needs Education", 
         "Planning"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2006-11-16", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Dr William McCrea", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "South Antrim", 
+    "id": "655", 
     "party_name": "Democratic Unionist", 
     "slug": "dr-william-mccrea", 
-    "id": "655"
+    "party_colour": "#999999"
 }

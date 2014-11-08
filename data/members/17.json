@@ -6,22 +6,10 @@
         "Constitutional Reform", 
         "Lgbt And Equality Issues"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-05-18", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-23", 
-            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
-        }
-    ], 
     "display_name": "John Bercow", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Buckingham", 
+    "id": "17", 
     "party_name": "Speaker", 
     "slug": "john-bercow", 
-    "id": "17"
+    "party_colour": "#999999"
 }

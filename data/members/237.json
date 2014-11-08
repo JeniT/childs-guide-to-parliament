@@ -5,22 +5,10 @@
         "Tourism", 
         "Diabetes"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-21", 
-            "name": "Transport Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-07-11", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr Adrian Sanders", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Torbay", 
+    "id": "237", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-adrian-sanders", 
-    "id": "237"
+    "party_colour": "#f1cc0a"
 }

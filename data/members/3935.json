@@ -4,11 +4,10 @@
         "Welfare Reform", 
         "Social Justice"
     ], 
-    "committees": [], 
     "display_name": "Mel Stride", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Central Devon", 
+    "id": "3935", 
     "party_name": "Conservative", 
     "slug": "mel-stride", 
-    "id": "3935"
+    "party_colour": "#333399"
 }

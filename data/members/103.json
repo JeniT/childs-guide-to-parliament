@@ -4,27 +4,10 @@
         "Housing", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Privileges Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Finance and Services Committee"
-        }
-    ], 
     "display_name": "Sir Paul Beresford", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Mole Valley", 
+    "id": "103", 
     "party_name": "Conservative", 
     "slug": "sir-paul-beresford", 
-    "id": "103"
+    "party_colour": "#333399"
 }

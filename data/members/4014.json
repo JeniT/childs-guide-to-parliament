@@ -4,17 +4,10 @@
         "Industry", 
         "Finance"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-12", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Alok Sharma", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Reading West", 
+    "id": "4014", 
     "party_name": "Conservative", 
     "slug": "alok-sharma", 
-    "id": "4014"
+    "party_colour": "#333399"
 }

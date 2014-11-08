@@ -7,22 +7,10 @@
         "Food Security", 
         "Trade"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-23", 
-            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-10-15", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Laura Sandys", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Thanet", 
+    "id": "4094", 
     "party_name": "Conservative", 
     "slug": "laura-sandys", 
-    "id": "4094"
+    "party_colour": "#333399"
 }

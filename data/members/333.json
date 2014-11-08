@@ -3,11 +3,10 @@
         "Agriculture", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Mr Patrick McLoughlin", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Derbyshire Dales", 
+    "id": "333", 
     "party_name": "Conservative", 
     "slug": "mr-patrick-mcloughlin", 
-    "id": "333"
+    "party_colour": "#333399"
 }

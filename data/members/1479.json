@@ -4,11 +4,10 @@
         "Public Services", 
         "The Economy"
     ], 
-    "committees": [], 
     "display_name": "Nick Herbert", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Arundel and South Downs", 
+    "id": "1479", 
     "party_name": "Conservative", 
     "slug": "nick-herbert", 
-    "id": "1479"
+    "party_colour": "#333399"
 }

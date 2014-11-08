@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Chris Kelly", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Dudley South", 
+    "id": "3975", 
     "party_name": "Conservative", 
     "slug": "chris-kelly", 
-    "id": "3975"
+    "party_colour": "#333399"
 }

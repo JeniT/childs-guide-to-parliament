@@ -7,11 +7,10 @@
         "Defence", 
         "Technology"
     ], 
-    "committees": [], 
     "display_name": "Mr Tom Watson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "West Bromwich East", 
+    "id": "1463", 
     "party_name": "Labour", 
     "slug": "mr-tom-watson", 
-    "id": "1463"
+    "party_colour": "#cc0000"
 }

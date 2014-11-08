@@ -7,11 +7,10 @@
         "Media", 
         "Sport And Tourism"
     ], 
-    "committees": [], 
     "display_name": "Mr Don Foster", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Bath", 
+    "id": "214", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-don-foster", 
-    "id": "214"
+    "party_colour": "#f1cc0a"
 }

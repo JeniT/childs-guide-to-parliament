@@ -2,27 +2,10 @@
     "interests": [
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Northern Ireland Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Andrew Percy", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Brigg and Goole", 
+    "id": "3939", 
     "party_name": "Conservative", 
     "slug": "andrew-percy", 
-    "id": "3939"
+    "party_colour": "#333399"
 }

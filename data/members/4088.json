@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-01-26", 
-            "name": "Public Accounts Commission"
-        }
-    ], 
     "display_name": "Stella Creasy", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Walthamstow", 
+    "id": "4088", 
     "party_name": "Labour (Co-op)", 
     "slug": "stella-creasy", 
-    "id": "4088"
+    "party_colour": "#cc0000"
 }

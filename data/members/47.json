@@ -6,11 +6,10 @@
         "Media", 
         "Privatisation"
     ], 
-    "committees": [], 
     "display_name": "Sir Gerald Howarth", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Aldershot", 
+    "id": "47", 
     "party_name": "Conservative", 
     "slug": "sir-gerald-howarth", 
-    "id": "47"
+    "party_colour": "#333399"
 }

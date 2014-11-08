@@ -4,11 +4,10 @@
         "Older People", 
         "Hiv And Aids"
     ], 
-    "committees": [], 
     "display_name": "Simon Kirby", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Brighton, Kemptown", 
+    "id": "3929", 
     "party_name": "Conservative", 
     "slug": "simon-kirby", 
-    "id": "3929"
+    "party_colour": "#333399"
 }

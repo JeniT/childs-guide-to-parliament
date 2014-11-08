@@ -7,17 +7,10 @@
         "Planning", 
         "The Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Tessa Munt", 
-    "gender": "female", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Wells", 
+    "id": "4089", 
     "party_name": "Liberal Democrat", 
     "slug": "tessa-munt", 
-    "id": "4089"
+    "party_colour": "#f1cc0a"
 }

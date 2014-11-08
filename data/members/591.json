@@ -6,11 +6,10 @@
         "Social Security", 
         "Scotland"
     ], 
-    "committees": [], 
     "display_name": "Mr Gordon Brown", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Kirkcaldy and Cowdenbeath", 
+    "id": "591", 
     "party_name": "Labour", 
     "slug": "mr-gordon-brown", 
-    "id": "591"
+    "party_colour": "#cc0000"
 }

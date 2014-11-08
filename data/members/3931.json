@@ -13,17 +13,10 @@
         "Environment", 
         "Climate Change"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Dr Julian Huppert", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Cambridge", 
+    "id": "3931", 
     "party_name": "Liberal Democrat", 
     "slug": "dr-julian-huppert", 
-    "id": "3931"
+    "party_colour": "#f1cc0a"
 }

@@ -5,27 +5,10 @@
         "Foreign Affairs", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-02-11", 
-            "name": "Human Rights (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-10", 
-            "name": "Committee on Standards: Standards Review Sub-Committee"
-        }
-    ], 
     "display_name": "Mr Robert Buckland", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Swindon", 
+    "id": "4106", 
     "party_name": "Conservative", 
     "slug": "mr-robert-buckland", 
-    "id": "4106"
+    "party_colour": "#333399"
 }

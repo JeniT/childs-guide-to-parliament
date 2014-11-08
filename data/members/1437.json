@@ -6,17 +6,10 @@
         "Health", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "Northern Ireland Affairs Committee"
-        }
-    ], 
     "display_name": "Lady Hermon", 
-    "gender": "female", 
-    "party_colour": "#999999", 
+    "constituency_name": "North Down", 
+    "id": "1437", 
     "party_name": "Independent", 
     "slug": "lady-hermon", 
-    "id": "1437"
+    "party_colour": "#999999"
 }

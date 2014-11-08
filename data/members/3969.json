@@ -5,11 +5,10 @@
         "Affordable Credit", 
         "Social Mobility"
     ], 
-    "committees": [], 
     "display_name": "Damian Hinds", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "East Hampshire", 
+    "id": "3969", 
     "party_name": "Conservative", 
     "slug": "damian-hinds", 
-    "id": "3969"
+    "party_colour": "#333399"
 }

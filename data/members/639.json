@@ -4,22 +4,10 @@
         "Offshore Oil And Gas Industry", 
         "Rural Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Energy and Climate Change Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Robert Smith", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "West Aberdeenshire and Kincardine", 
+    "id": "639", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-robert-smith", 
-    "id": "639"
+    "party_colour": "#f1cc0a"
 }

@@ -5,11 +5,10 @@
         "Dementia", 
         "Government Efficiency"
     ], 
-    "committees": [], 
     "display_name": "Mike Freer", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Finchley and Golders Green", 
+    "id": "4004", 
     "party_name": "Conservative", 
     "slug": "mike-freer", 
-    "id": "4004"
+    "party_colour": "#333399"
 }

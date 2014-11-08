@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mr David Cameron", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Witney", 
+    "id": "1467", 
     "party_name": "Conservative", 
     "slug": "mr-david-cameron", 
-    "id": "1467"
+    "party_colour": "#333399"
 }

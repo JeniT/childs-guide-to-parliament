@@ -9,17 +9,10 @@
         "Foreign Affairs", 
         "European Union"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-10", 
-            "name": "House of Commons Governance Committee"
-        }
-    ], 
     "display_name": "Mr Jack Straw", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Blackburn", 
+    "id": "463", 
     "party_name": "Labour", 
     "slug": "mr-jack-straw", 
-    "id": "463"
+    "party_colour": "#cc0000"
 }

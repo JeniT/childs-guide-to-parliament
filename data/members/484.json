@@ -6,27 +6,10 @@
         "Public Services", 
         "Arts"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2002-07-22", 
-            "name": "Transport Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-21", 
-            "name": "National Policy Statements Sub-Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2008-05-21", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mrs Louise Ellman", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Liverpool, Riverside", 
+    "id": "484", 
     "party_name": "Labour (Co-op)", 
     "slug": "mrs-louise-ellman", 
-    "id": "484"
+    "party_colour": "#cc0000"
 }

@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Welsh Affairs Committee"
-        }
-    ], 
     "display_name": "Glyn Davies", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Montgomeryshire", 
+    "id": "4041", 
     "party_name": "Conservative", 
     "slug": "glyn-davies", 
-    "id": "4041"
+    "party_colour": "#333399"
 }

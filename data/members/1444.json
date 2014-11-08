@@ -5,11 +5,10 @@
         "Housing", 
         "Environment"
     ], 
-    "committees": [], 
     "display_name": "Mr Mark Francois", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Rayleigh and Wickford", 
+    "id": "1444", 
     "party_name": "Conservative", 
     "slug": "mr-mark-francois", 
-    "id": "1444"
+    "party_colour": "#333399"
 }

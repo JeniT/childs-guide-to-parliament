@@ -3,17 +3,10 @@
         "Poverty And Income Redistribution", 
         "Church Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-26", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Mr Frank Field", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Birkenhead", 
+    "id": "478", 
     "party_name": "Labour", 
     "slug": "mr-frank-field", 
-    "id": "478"
+    "party_colour": "#cc0000"
 }

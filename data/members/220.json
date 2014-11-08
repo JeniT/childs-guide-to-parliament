@@ -5,11 +5,10 @@
         "Third World", 
         "Internet"
     ], 
-    "committees": [], 
     "display_name": "Steve Webb", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Thornbury and Yate", 
+    "id": "220", 
     "party_name": "Liberal Democrat", 
     "slug": "steve-webb", 
-    "id": "220"
+    "party_colour": "#f1cc0a"
 }

@@ -3,17 +3,10 @@
         "Social Justice", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-03-10", 
-            "name": "Welsh Affairs Committee"
-        }
-    ], 
     "display_name": "Jonathan Edwards", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Carmarthen East and Dinefwr", 
+    "id": "3943", 
     "party_name": "Plaid Cymru", 
     "slug": "jonathan-edwards", 
-    "id": "3943"
+    "party_colour": "#999999"
 }

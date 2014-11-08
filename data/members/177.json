@@ -5,11 +5,10 @@
         "Health", 
         "Environment"
     ], 
-    "committees": [], 
     "display_name": "Mr Gareth Thomas", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Harrow West", 
+    "id": "177", 
     "party_name": "Labour (Co-op)", 
     "slug": "mr-gareth-thomas", 
-    "id": "177"
+    "party_colour": "#cc0000"
 }

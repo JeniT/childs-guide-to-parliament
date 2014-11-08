@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "1997-06-01", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Mr David Winnick", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Walsall North", 
+    "id": "316", 
     "party_name": "Labour", 
     "slug": "mr-david-winnick", 
-    "id": "316"
+    "party_colour": "#cc0000"
 }

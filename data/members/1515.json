@@ -5,17 +5,10 @@
         "Job Creation", 
         "Blacklisting"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2008-02-04", 
-            "name": "Scottish Affairs Committee"
-        }
-    ], 
     "display_name": "Jim McGovern", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Dundee West", 
+    "id": "1515", 
     "party_name": "Labour", 
     "slug": "jim-mcgovern", 
-    "id": "1515"
+    "party_colour": "#cc0000"
 }

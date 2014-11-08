@@ -6,22 +6,10 @@
         "Employment", 
         "Business"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Mr Mark Spencer", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Sherwood", 
+    "id": "4055", 
     "party_name": "Conservative", 
     "slug": "mr-mark-spencer", 
-    "id": "4055"
+    "party_colour": "#333399"
 }

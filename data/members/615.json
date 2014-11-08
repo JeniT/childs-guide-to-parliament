@@ -8,32 +8,10 @@
         "Deaf Children", 
         "Scottish Home Rule And Federalism"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-01-13", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-11", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "International Development Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2008-03-10", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Sir Malcolm Bruce", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Gordon", 
+    "id": "615", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-malcolm-bruce", 
-    "id": "615"
+    "party_colour": "#f1cc0a"
 }

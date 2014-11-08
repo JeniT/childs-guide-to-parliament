@@ -6,17 +6,10 @@
         "Northern Ireland", 
         "Tourism"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-04-29", 
-            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
-        }
-    ], 
     "display_name": "Mr Henry Bellingham", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North West Norfolk", 
+    "id": "1441", 
     "party_name": "Conservative", 
     "slug": "mr-henry-bellingham", 
-    "id": "1441"
+    "party_colour": "#333399"
 }

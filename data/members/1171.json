@@ -6,11 +6,10 @@
         "Welfare Reform", 
         "Youth Policy"
     ], 
-    "committees": [], 
     "display_name": "Mr Liam Byrne", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Birmingham, Hodge Hill", 
+    "id": "1171", 
     "party_name": "Labour", 
     "slug": "mr-liam-byrne", 
-    "id": "1171"
+    "party_colour": "#cc0000"
 }

@@ -5,17 +5,10 @@
         "The Economy", 
         "Law And Order"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-07-18", 
-            "name": "Members' Expenses Committee"
-        }
-    ], 
     "display_name": "Priti Patel", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Witham", 
+    "id": "4066", 
     "party_name": "Conservative", 
     "slug": "priti-patel", 
-    "id": "4066"
+    "party_colour": "#333399"
 }

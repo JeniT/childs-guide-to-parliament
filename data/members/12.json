@@ -7,17 +7,10 @@
         "Arts", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-05-13", 
-            "name": "Intelligence and Security (Joint Committee)"
-        }
-    ], 
     "display_name": "Fiona Mactaggart", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Slough", 
+    "id": "12", 
     "party_name": "Labour", 
     "slug": "fiona-mactaggart", 
-    "id": "12"
+    "party_colour": "#cc0000"
 }

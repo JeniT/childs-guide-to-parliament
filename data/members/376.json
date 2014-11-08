@@ -5,11 +5,10 @@
         "Employment", 
         "Post Office"
     ], 
-    "committees": [], 
     "display_name": "Alan Johnson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Kingston upon Hull West and Hessle", 
+    "id": "376", 
     "party_name": "Labour", 
     "slug": "alan-johnson", 
-    "id": "376"
+    "party_colour": "#cc0000"
 }

@@ -5,17 +5,10 @@
         "Local Government", 
         "Trade"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-29", 
-            "name": "Communities and Local Government Committee"
-        }
-    ], 
     "display_name": "Mark Pawsey", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Rugby", 
+    "id": "4052", 
     "party_name": "Conservative", 
     "slug": "mark-pawsey", 
-    "id": "4052"
+    "party_colour": "#333399"
 }

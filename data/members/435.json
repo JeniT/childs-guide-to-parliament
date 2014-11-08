@@ -4,17 +4,10 @@
         "Health", 
         "Europe"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-05-26", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr Graham Brady", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Altrincham and Sale West", 
+    "id": "435", 
     "party_name": "Conservative", 
     "slug": "mr-graham-brady", 
-    "id": "435"
+    "party_colour": "#333399"
 }

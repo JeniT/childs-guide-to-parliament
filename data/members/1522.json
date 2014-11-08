@@ -3,17 +3,10 @@
         "Defence", 
         "Crime"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-05-12", 
-            "name": "Public Administration Committee"
-        }
-    ], 
     "display_name": "Mr Adam Holloway", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Gravesham", 
+    "id": "1522", 
     "party_name": "Conservative", 
     "slug": "mr-adam-holloway", 
-    "id": "1522"
+    "party_colour": "#333399"
 }

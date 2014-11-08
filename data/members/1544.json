@@ -4,11 +4,10 @@
         "International Development", 
         "Commerce"
     ], 
-    "committees": [], 
     "display_name": "Mark Lancaster", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Milton Keynes North", 
+    "id": "1544", 
     "party_name": "Conservative", 
     "slug": "mark-lancaster", 
-    "id": "1544"
+    "party_colour": "#333399"
 }

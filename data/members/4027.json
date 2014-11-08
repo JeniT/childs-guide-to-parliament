@@ -8,11 +8,10 @@
         "Railways", 
         "Heritage Railways"
     ], 
-    "committees": [], 
     "display_name": "Nicky Morgan", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Loughborough", 
+    "id": "4027", 
     "party_name": "Conservative", 
     "slug": "nicky-morgan", 
-    "id": "4027"
+    "party_colour": "#333399"
 }

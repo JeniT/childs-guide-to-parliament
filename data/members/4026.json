@@ -3,11 +3,10 @@
         "Employment", 
         "Care For The Elderly"
     ], 
-    "committees": [], 
     "display_name": "Liz Kendall", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leicester West", 
+    "id": "4026", 
     "party_name": "Labour", 
     "slug": "liz-kendall", 
-    "id": "4026"
+    "party_colour": "#cc0000"
 }

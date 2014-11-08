@@ -6,27 +6,10 @@
         "Homeland Security", 
         "Welsh Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-17", 
-            "name": "Welsh Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-21", 
-            "name": "National Policy Statements Sub-Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "David T. C. Davies", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Monmouth", 
+    "id": "1545", 
     "party_name": "Conservative", 
     "slug": "david-t-c-davies", 
-    "id": "1545"
+    "party_colour": "#333399"
 }

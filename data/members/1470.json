@@ -7,11 +7,10 @@
         "Environment", 
         "Manufacturing"
     ], 
-    "committees": [], 
     "display_name": "Ian Lucas", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wrexham", 
+    "id": "1470", 
     "party_name": "Labour", 
     "slug": "ian-lucas", 
-    "id": "1470"
+    "party_colour": "#cc0000"
 }

@@ -6,11 +6,10 @@
         "Foreign Affairs", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Jonathan Ashworth", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leicester South", 
+    "id": "4244", 
     "party_name": "Labour", 
     "slug": "jonathan-ashworth", 
-    "id": "4244"
+    "party_colour": "#cc0000"
 }

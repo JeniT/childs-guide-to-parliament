@@ -8,11 +8,10 @@
         "International Affairs", 
         "Local Government"
     ], 
-    "committees": [], 
     "display_name": "Mr Philip Dunne", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ludlow", 
+    "id": "1542", 
     "party_name": "Conservative", 
     "slug": "mr-philip-dunne", 
-    "id": "1542"
+    "party_colour": "#333399"
 }

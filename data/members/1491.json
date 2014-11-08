@@ -7,11 +7,10 @@
         "The Environment", 
         "Food Policy"
     ], 
-    "committees": [], 
     "display_name": "Kerry McCarthy", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bristol East", 
+    "id": "1491", 
     "party_name": "Labour", 
     "slug": "kerry-mccarthy", 
-    "id": "1491"
+    "party_colour": "#cc0000"
 }

@@ -7,17 +7,10 @@
         "Economic Policy", 
         "Equal Opportunities"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-08", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Dame Dawn Primarolo", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bristol South", 
+    "id": "217", 
     "party_name": "Labour", 
     "slug": "dame-dawn-primarolo", 
-    "id": "217"
+    "party_colour": "#cc0000"
 }

@@ -1,31 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Treasury Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Select Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr George Mudie", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leeds East", 
+    "id": "414", 
     "party_name": "Labour", 
     "slug": "mr-george-mudie", 
-    "id": "414"
+    "party_colour": "#cc0000"
 }

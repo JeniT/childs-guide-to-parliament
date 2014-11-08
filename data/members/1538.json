@@ -4,17 +4,10 @@
         "Disability Equality", 
         "Housing"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Rosie Cooper", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "West Lancashire", 
+    "id": "1538", 
     "party_name": "Labour", 
     "slug": "rosie-cooper", 
-    "id": "1538"
+    "party_colour": "#cc0000"
 }

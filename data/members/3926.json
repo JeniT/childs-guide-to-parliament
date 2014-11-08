@@ -3,17 +3,10 @@
         "Education", 
         "Social Policy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-08", 
-            "name": "Work and Pensions Committee"
-        }
-    ], 
     "display_name": "Paul Maynard", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Blackpool North and Cleveleys", 
+    "id": "3926", 
     "party_name": "Conservative", 
     "slug": "paul-maynard", 
-    "id": "3926"
+    "party_colour": "#333399"
 }

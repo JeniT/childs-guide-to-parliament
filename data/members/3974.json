@@ -6,11 +6,10 @@
         "Justice", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Claire Perry", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Devizes", 
+    "id": "3974", 
     "party_name": "Conservative", 
     "slug": "claire-perry", 
-    "id": "3974"
+    "party_colour": "#333399"
 }

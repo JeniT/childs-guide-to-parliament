@@ -5,27 +5,10 @@
         "Economy", 
         "Constitution"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Public Administration Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Political and Constitutional Reform Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-21", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr Andrew Turner", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Isle of Wight", 
+    "id": "1426", 
     "party_name": "Conservative", 
     "slug": "mr-andrew-turner", 
-    "id": "1426"
+    "party_colour": "#333399"
 }

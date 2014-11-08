@@ -9,11 +9,10 @@
         "Debt Reduction", 
         "Civil Liberties"
     ], 
-    "committees": [], 
     "display_name": "Gavin Shuker", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Luton South", 
+    "id": "4013", 
     "party_name": "Labour (Co-op)", 
     "slug": "gavin-shuker", 
-    "id": "4013"
+    "party_colour": "#cc0000"
 }

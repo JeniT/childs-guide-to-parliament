@@ -5,11 +5,10 @@
         "Social Services", 
         "Local And Regional Government"
     ], 
-    "committees": [], 
     "display_name": "Mr Eric Pickles", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Brentwood and Ongar", 
+    "id": "33", 
     "party_name": "Conservative", 
     "slug": "mr-eric-pickles", 
-    "id": "33"
+    "party_colour": "#333399"
 }

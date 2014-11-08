@@ -5,11 +5,10 @@
         "Education", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Mr Mark Hoban", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Fareham", 
+    "id": "1414", 
     "party_name": "Conservative", 
     "slug": "mr-mark-hoban", 
-    "id": "1414"
+    "party_colour": "#333399"
 }

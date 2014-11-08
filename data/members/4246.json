@@ -3,17 +3,10 @@
         "Europe", 
         "Employment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-01-23", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Iain McKenzie", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Inverclyde", 
+    "id": "4246", 
     "party_name": "Labour", 
     "slug": "iain-mckenzie", 
-    "id": "4246"
+    "party_colour": "#cc0000"
 }

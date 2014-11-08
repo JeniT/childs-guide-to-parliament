@@ -4,22 +4,10 @@
         "Aerospace", 
         "Animal Welfare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-13", 
-            "name": "Selection Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-01-23", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mark Tami", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Alyn and Deeside", 
+    "id": "1383", 
     "party_name": "Labour", 
     "slug": "mark-tami", 
-    "id": "1383"
+    "party_colour": "#cc0000"
 }

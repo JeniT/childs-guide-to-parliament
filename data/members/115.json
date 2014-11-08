@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mr Francis Maude", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Horsham", 
+    "id": "115", 
     "party_name": "Conservative", 
     "slug": "mr-francis-maude", 
-    "id": "115"
+    "party_colour": "#333399"
 }

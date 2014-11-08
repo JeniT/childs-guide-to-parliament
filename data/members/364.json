@@ -4,27 +4,10 @@
         "Democratic Renewal", 
         "Early Intervention"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Political and Constitutional Reform Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr Graham Allen", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Nottingham North", 
+    "id": "364", 
     "party_name": "Labour", 
     "slug": "mr-graham-allen", 
-    "id": "364"
+    "party_colour": "#cc0000"
 }

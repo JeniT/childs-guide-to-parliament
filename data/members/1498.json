@@ -3,17 +3,10 @@
         "Education", 
         "Rural Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-17", 
-            "name": "Welsh Affairs Committee"
-        }
-    ], 
     "display_name": "Mr Mark Williams", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Ceredigion", 
+    "id": "1498", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-mark-williams", 
-    "id": "1498"
+    "party_colour": "#f1cc0a"
 }

@@ -5,11 +5,10 @@
         "Local Economic Regeneration", 
         "Anglo-American Relations"
     ], 
-    "committees": [], 
     "display_name": "Mr Jamie Reed", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Copeland", 
+    "id": "1503", 
     "party_name": "Labour", 
     "slug": "mr-jamie-reed", 
-    "id": "1503"
+    "party_colour": "#cc0000"
 }

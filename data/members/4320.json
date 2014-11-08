@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-07-07", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Robert Jenrick", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Newark", 
+    "id": "4320", 
     "party_name": "Conservative", 
     "slug": "robert-jenrick", 
-    "id": "4320"
+    "party_colour": "#333399"
 }

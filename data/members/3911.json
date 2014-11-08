@@ -4,17 +4,10 @@
         "Agriculture And Fisheries", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Scottish Affairs Committee"
-        }
-    ], 
     "display_name": "Dr Eilidh Whiteford", 
-    "gender": "female", 
-    "party_colour": "#999999", 
+    "constituency_name": "Banff and Buchan", 
+    "id": "3911", 
     "party_name": "Scottish National", 
     "slug": "dr-eilidh-whiteford", 
-    "id": "3911"
+    "party_colour": "#999999"
 }

@@ -6,17 +6,10 @@
         "Local Government", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Justin Tomlinson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Swindon", 
+    "id": "4105", 
     "party_name": "Conservative", 
     "slug": "justin-tomlinson", 
-    "id": "4105"
+    "party_colour": "#333399"
 }

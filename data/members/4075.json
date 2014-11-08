@@ -5,17 +5,10 @@
         "Education", 
         "Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Energy and Climate Change Committee"
-        }
-    ], 
     "display_name": "Christopher Pincher", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Tamworth", 
+    "id": "4075", 
     "party_name": "Conservative", 
     "slug": "christopher-pincher", 
-    "id": "4075"
+    "party_colour": "#333399"
 }

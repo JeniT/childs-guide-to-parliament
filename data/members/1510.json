@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Edward Miliband", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Doncaster North", 
+    "id": "1510", 
     "party_name": "Labour", 
     "slug": "edward-miliband", 
-    "id": "1510"
+    "party_colour": "#cc0000"
 }

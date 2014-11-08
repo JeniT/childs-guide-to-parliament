@@ -5,17 +5,10 @@
         "Local Government", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-08", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "John Howell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Henley", 
+    "id": "1606", 
     "party_name": "Conservative", 
     "slug": "john-howell", 
-    "id": "1606"
+    "party_colour": "#333399"
 }

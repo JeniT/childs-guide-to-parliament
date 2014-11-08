@@ -3,11 +3,10 @@
         "Agriculture", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Daniel Kawczynski", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Shrewsbury and Atcham", 
+    "id": "1566", 
     "party_name": "Conservative", 
     "slug": "daniel-kawczynski", 
-    "id": "1566"
+    "party_colour": "#333399"
 }

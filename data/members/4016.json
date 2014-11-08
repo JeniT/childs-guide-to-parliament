@@ -6,17 +6,10 @@
         "Local Government", 
         "Angling"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-18", 
-            "name": "Speaker's Advisory Committee on Works of Art"
-        }
-    ], 
     "display_name": "George Hollingbery", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Meon Valley", 
+    "id": "4016", 
     "party_name": "Conservative", 
     "slug": "george-hollingbery", 
-    "id": "4016"
+    "party_colour": "#333399"
 }

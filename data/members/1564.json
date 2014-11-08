@@ -5,11 +5,10 @@
         "Environment And Conservation", 
         "Transport"
     ], 
-    "committees": [], 
     "display_name": "Angela Smith", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Penistone and Stocksbridge", 
+    "id": "1564", 
     "party_name": "Labour", 
     "slug": "angela-smith", 
-    "id": "1564"
+    "party_colour": "#cc0000"
 }

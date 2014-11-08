@@ -7,17 +7,10 @@
         "Transport", 
         "Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Committee"
-        }
-    ], 
     "display_name": "Jackie Doyle-Price", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Thurrock", 
+    "id": "4065", 
     "party_name": "Conservative", 
     "slug": "jackie-doyle-price", 
-    "id": "4065"
+    "party_colour": "#333399"
 }

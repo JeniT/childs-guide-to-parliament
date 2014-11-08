@@ -3,17 +3,10 @@
         "Education", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "International Development Committee"
-        }
-    ], 
     "display_name": "Pauline Latham", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Mid Derbyshire", 
+    "id": "4025", 
     "party_name": "Conservative", 
     "slug": "pauline-latham", 
-    "id": "4025"
+    "party_colour": "#333399"
 }

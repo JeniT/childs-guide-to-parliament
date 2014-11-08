@@ -4,11 +4,10 @@
         "Economy", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Wayne David", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Caerphilly", 
+    "id": "1398", 
     "party_name": "Labour", 
     "slug": "wayne-david", 
-    "id": "1398"
+    "party_colour": "#cc0000"
 }

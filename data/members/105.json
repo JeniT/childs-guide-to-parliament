@@ -10,11 +10,10 @@
         "Energy", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Mr Philip Hammond", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Runnymede and Weybridge", 
+    "id": "105", 
     "party_name": "Conservative", 
     "slug": "mr-philip-hammond", 
-    "id": "105"
+    "party_colour": "#333399"
 }

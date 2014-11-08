@@ -9,11 +9,10 @@
         "Justice Issues", 
         "Advance Manufacturing And Technology"
     ], 
-    "committees": [], 
     "display_name": "Mr Ben Wallace", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wyre and Preston North", 
+    "id": "1539", 
     "party_name": "Conservative", 
     "slug": "mr-ben-wallace", 
-    "id": "1539"
+    "party_colour": "#333399"
 }

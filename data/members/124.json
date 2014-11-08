@@ -7,17 +7,10 @@
         "Training", 
         "Waste Management"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-02-04", 
-            "name": "Scottish Affairs Committee"
-        }
-    ], 
     "display_name": "Sir James Paice", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South East Cambridgeshire", 
+    "id": "124", 
     "party_name": "Conservative", 
     "slug": "sir-james-paice", 
-    "id": "124"
+    "party_colour": "#333399"
 }

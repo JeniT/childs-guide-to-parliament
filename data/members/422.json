@@ -5,11 +5,10 @@
         "Environment", 
         "Local And Regional Government"
     ], 
-    "committees": [], 
     "display_name": "Chris Leslie", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Nottingham East", 
+    "id": "422", 
     "party_name": "Labour (Co-op)", 
     "slug": "chris-leslie", 
-    "id": "422"
+    "party_colour": "#cc0000"
 }

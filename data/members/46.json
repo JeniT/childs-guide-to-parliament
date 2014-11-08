@@ -2,11 +2,10 @@
     "interests": [
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Mr Simon Burns", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chelmsford", 
+    "id": "46", 
     "party_name": "Conservative", 
     "slug": "mr-simon-burns", 
-    "id": "46"
+    "party_colour": "#333399"
 }

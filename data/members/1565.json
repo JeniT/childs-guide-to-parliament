@@ -4,22 +4,10 @@
         "Europe", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-28", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2006-02-27", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Philip Davies", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Shipley", 
+    "id": "1565", 
     "party_name": "Conservative", 
     "slug": "philip-davies", 
-    "id": "1565"
+    "party_colour": "#333399"
 }

@@ -3,11 +3,10 @@
         "Economic Policy", 
         "National Health Service"
     ], 
-    "committees": [], 
     "display_name": "Mr Kenneth Clarke", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Rushcliffe", 
+    "id": "366", 
     "party_name": "Conservative", 
     "slug": "mr-kenneth-clarke", 
-    "id": "366"
+    "party_colour": "#333399"
 }

@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-07-05", 
-            "name": "Transport Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Procedure Committee"
-        }
-    ], 
     "display_name": "Martin Vickers", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Cleethorpes", 
+    "id": "3957", 
     "party_name": "Conservative", 
     "slug": "martin-vickers", 
-    "id": "3957"
+    "party_colour": "#333399"
 }

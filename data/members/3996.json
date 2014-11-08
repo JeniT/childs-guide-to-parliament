@@ -5,17 +5,10 @@
         "Business", 
         "Recycling And Renewable Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }
-    ], 
     "display_name": "Andrew Jones", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Harrogate and Knaresborough", 
+    "id": "3996", 
     "party_name": "Conservative", 
     "slug": "andrew-jones", 
-    "id": "3996"
+    "party_colour": "#333399"
 }

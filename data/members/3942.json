@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Communities and Local Government Committee"
-        }
-    ], 
     "display_name": "John Stevenson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Carlisle", 
+    "id": "3942", 
     "party_name": "Conservative", 
     "slug": "john-stevenson", 
-    "id": "3942"
+    "party_colour": "#333399"
 }

@@ -5,11 +5,10 @@
         "Pensions", 
         "Home Affairs"
     ], 
-    "committees": [], 
     "display_name": "Chris Grayling", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Epsom and Ewell", 
+    "id": "1413", 
     "party_name": "Conservative", 
     "slug": "chris-grayling", 
-    "id": "1413"
+    "party_colour": "#333399"
 }

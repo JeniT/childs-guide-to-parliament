@@ -8,11 +8,10 @@
         "Agriculture And Countryside Matters", 
         "Immigration"
     ], 
-    "committees": [], 
     "display_name": "Sir Nicholas Soames", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Mid Sussex", 
+    "id": "116", 
     "party_name": "Conservative", 
     "slug": "sir-nicholas-soames", 
-    "id": "116"
+    "party_colour": "#333399"
 }

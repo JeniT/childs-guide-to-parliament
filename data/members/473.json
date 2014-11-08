@@ -6,17 +6,10 @@
         "Economic And Industrial Affairs", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-06-18", 
-            "name": "Foreign Affairs Committee"
-        }
-    ], 
     "display_name": "Mark Hendrick", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Preston", 
+    "id": "473", 
     "party_name": "Labour (Co-op)", 
     "slug": "mark-hendrick", 
-    "id": "473"
+    "party_colour": "#cc0000"
 }

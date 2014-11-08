@@ -6,17 +6,10 @@
         "Housing", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-30", 
-            "name": "National Security Strategy (Joint Committee)"
-        }
-    ], 
     "display_name": "Paul Murphy", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Torfaen", 
+    "id": "546", 
     "party_name": "Labour", 
     "slug": "paul-murphy", 
-    "id": "546"
+    "party_colour": "#cc0000"
 }

@@ -13,11 +13,10 @@
         "Education", 
         "Constitutional Affairs"
     ], 
-    "committees": [], 
     "display_name": "Mr Stephen O'Brien", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Eddisbury", 
+    "id": "427", 
     "party_name": "Conservative", 
     "slug": "mr-stephen-obrien", 
-    "id": "427"
+    "party_colour": "#333399"
 }

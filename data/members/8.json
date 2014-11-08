@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mrs Theresa May", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Maidenhead", 
+    "id": "8", 
     "party_name": "Conservative", 
     "slug": "mrs-theresa-may", 
-    "id": "8"
+    "party_colour": "#333399"
 }

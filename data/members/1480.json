@@ -4,11 +4,10 @@
         "Education", 
         "Media"
     ], 
-    "committees": [], 
     "display_name": "Maria Miller", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Basingstoke", 
+    "id": "1480", 
     "party_name": "Conservative", 
     "slug": "maria-miller", 
-    "id": "1480"
+    "party_colour": "#333399"
 }

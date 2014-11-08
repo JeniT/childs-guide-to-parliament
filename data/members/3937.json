@@ -5,11 +5,10 @@
         "Welfare", 
         "Disability Issues"
     ], 
-    "committees": [], 
     "display_name": "Mr Aidan Burley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Cannock Chase", 
+    "id": "3937", 
     "party_name": "Conservative", 
     "slug": "mr-aidan-burley", 
-    "id": "3937"
+    "party_colour": "#333399"
 }

@@ -4,11 +4,10 @@
         "Economic Policy", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Dr Liam Fox", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Somerset", 
+    "id": "223", 
     "party_name": "Conservative", 
     "slug": "dr-liam-fox", 
-    "id": "223"
+    "party_colour": "#333399"
 }

@@ -14,17 +14,10 @@
         "Employment Law", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-05-09", 
-            "name": "Selection Committee"
-        }
-    ], 
     "display_name": "Tom Blenkinsop", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Middlesbrough South and East Cleveland", 
+    "id": "4037", 
     "party_name": "Labour", 
     "slug": "tom-blenkinsop", 
-    "id": "4037"
+    "party_colour": "#cc0000"
 }

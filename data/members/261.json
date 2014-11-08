@@ -6,32 +6,10 @@
         "Environment", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Procedure Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-21", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Defence Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-12-01", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Mr James Gray", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Wiltshire", 
+    "id": "261", 
     "party_name": "Conservative", 
     "slug": "mr-james-gray", 
-    "id": "261"
+    "party_colour": "#333399"
 }

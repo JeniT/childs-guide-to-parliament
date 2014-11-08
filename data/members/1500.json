@@ -10,11 +10,10 @@
         "Financial Services", 
         "Environment"
     ], 
-    "committees": [], 
     "display_name": "Mrs Theresa Villiers", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chipping Barnet", 
+    "id": "1500", 
     "party_name": "Conservative", 
     "slug": "mrs-theresa-villiers", 
-    "id": "1500"
+    "party_colour": "#333399"
 }

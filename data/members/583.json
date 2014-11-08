@@ -7,22 +7,10 @@
         "Local And Regional Government", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Privileges Committee"
-        }
-    ], 
     "display_name": "Mr Tom Clarke", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Coatbridge, Chryston and Bellshill", 
+    "id": "583", 
     "party_name": "Labour", 
     "slug": "mr-tom-clarke", 
-    "id": "583"
+    "party_colour": "#cc0000"
 }

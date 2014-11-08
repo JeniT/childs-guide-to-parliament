@@ -6,11 +6,10 @@
         "Redistribution Of Wealth", 
         "Government Reform"
     ], 
-    "committees": [], 
     "display_name": "Frank Dobson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Holborn and St Pancras", 
+    "id": "180", 
     "party_name": "Labour", 
     "slug": "frank-dobson", 
-    "id": "180"
+    "party_colour": "#cc0000"
 }

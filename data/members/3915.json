@@ -4,11 +4,10 @@
         "Crime", 
         "Regeneration"
     ], 
-    "committees": [], 
     "display_name": "Gloria De Piero", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ashfield", 
+    "id": "3915", 
     "party_name": "Labour", 
     "slug": "gloria-de-piero", 
-    "id": "3915"
+    "party_colour": "#cc0000"
 }

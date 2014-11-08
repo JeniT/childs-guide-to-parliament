@@ -5,17 +5,10 @@
         "Environment", 
         "Civil Liberties"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-25", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Stephen Gilbert", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "St Austell and Newquay", 
+    "id": "4101", 
     "party_name": "Liberal Democrat", 
     "slug": "stephen-gilbert", 
-    "id": "4101"
+    "party_colour": "#f1cc0a"
 }

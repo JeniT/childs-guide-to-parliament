@@ -13,11 +13,10 @@
         "Recycling", 
         "Social Housing"
     ], 
-    "committees": [], 
     "display_name": "Clive Efford", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Eltham", 
+    "id": "165", 
     "party_name": "Labour", 
     "slug": "clive-efford", 
-    "id": "165"
+    "party_colour": "#cc0000"
 }

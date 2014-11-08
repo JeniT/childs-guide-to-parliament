@@ -5,11 +5,10 @@
         "Defence", 
         "Welfare Policy"
     ], 
-    "committees": [], 
     "display_name": "Sajid Javid", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bromsgrove", 
+    "id": "3945", 
     "party_name": "Conservative", 
     "slug": "sajid-javid", 
-    "id": "3945"
+    "party_colour": "#333399"
 }

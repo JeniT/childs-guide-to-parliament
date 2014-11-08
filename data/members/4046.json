@@ -6,17 +6,10 @@
         "Uk Software Industry", 
         "Jobs And Economy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-11", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }
-    ], 
     "display_name": "Bridget Phillipson", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Houghton and Sunderland South", 
+    "id": "4046", 
     "party_name": "Labour", 
     "slug": "bridget-phillipson", 
-    "id": "4046"
+    "party_colour": "#cc0000"
 }

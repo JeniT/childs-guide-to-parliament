@@ -5,22 +5,10 @@
         "Disabled Children", 
         "Pensioners"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Defence Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Bob Stewart", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Beckenham", 
+    "id": "3919", 
     "party_name": "Conservative", 
     "slug": "bob-stewart", 
-    "id": "3919"
+    "party_colour": "#333399"
 }

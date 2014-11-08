@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-11-14", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Mr Pat McFadden", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wolverhampton South East", 
+    "id": "1587", 
     "party_name": "Labour", 
     "slug": "mr-pat-mcfadden", 
-    "id": "1587"
+    "party_colour": "#cc0000"
 }

@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-09", 
-            "name": "Able Marine Energy Park Development Consent Order 2014"
-        }
-    ], 
     "display_name": "Dr Matthew Offord", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hendon", 
+    "id": "4006", 
     "party_name": "Conservative", 
     "slug": "dr-matthew-offord", 
-    "id": "4006"
+    "party_colour": "#333399"
 }

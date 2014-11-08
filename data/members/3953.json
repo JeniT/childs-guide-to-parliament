@@ -8,17 +8,10 @@
         "Transport", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-06-10", 
-            "name": "Transport Committee"
-        }
-    ], 
     "display_name": "Jason McCartney", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Colne Valley", 
+    "id": "3953", 
     "party_name": "Conservative", 
     "slug": "jason-mccartney", 
-    "id": "3953"
+    "party_colour": "#333399"
 }

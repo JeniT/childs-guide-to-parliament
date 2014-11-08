@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Rushanara Ali", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bethnal Green and Bow", 
+    "id": "4138", 
     "party_name": "Labour", 
     "slug": "rushanara-ali", 
-    "id": "4138"
+    "party_colour": "#cc0000"
 }

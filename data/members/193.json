@@ -5,17 +5,10 @@
         "Quality Of Life", 
         "Welfare Reform"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-09-10", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Siobhain McDonagh", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Mitcham and Morden", 
+    "id": "193", 
     "party_name": "Labour", 
     "slug": "siobhain-mcdonagh", 
-    "id": "193"
+    "party_colour": "#cc0000"
 }

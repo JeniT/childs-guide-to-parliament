@@ -8,11 +8,10 @@
         "Fishing", 
         "Sustainable Development And Youth Issues"
     ], 
-    "committees": [], 
     "display_name": "Angus Robertson", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Moray", 
+    "id": "1433", 
     "party_name": "Scottish National", 
     "slug": "angus-robertson", 
-    "id": "1433"
+    "party_colour": "#999999"
 }

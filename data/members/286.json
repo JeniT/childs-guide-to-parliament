@@ -4,32 +4,10 @@
         "Health", 
         "Small Businesses"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-21", 
-            "name": "National Policy Statements Sub-Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-07-18", 
-            "name": "Members' Expenses Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "1997-11-12", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Joan Walley", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Stoke-on-Trent North", 
+    "id": "286", 
     "party_name": "Labour", 
     "slug": "joan-walley", 
-    "id": "286"
+    "party_colour": "#cc0000"
 }

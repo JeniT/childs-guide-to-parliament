@@ -5,11 +5,10 @@
         "Rural Affairs", 
         "Science And Engineering"
     ], 
-    "committees": [], 
     "display_name": "Dr Th\u00e9r\u00e8se Coffey", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Suffolk Coastal", 
+    "id": "4098", 
     "party_name": "Conservative", 
     "slug": "dr-therese-coffey", 
-    "id": "4098"
+    "party_colour": "#333399"
 }

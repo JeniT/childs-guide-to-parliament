@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-29", 
-            "name": "Scottish Affairs Committee"
-        }
-    ], 
     "display_name": "Simon Reevell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Dewsbury", 
+    "id": "3978", 
     "party_name": "Conservative", 
     "slug": "simon-reevell", 
-    "id": "3978"
+    "party_colour": "#333399"
 }

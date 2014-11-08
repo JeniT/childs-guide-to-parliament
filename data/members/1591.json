@@ -7,11 +7,10 @@
         "Crime And Policing", 
         "Social Care"
     ], 
-    "committees": [], 
     "display_name": "Tim Farron", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Westmorland and Lonsdale", 
+    "id": "1591", 
     "party_name": "Liberal Democrat", 
     "slug": "tim-farron", 
-    "id": "1591"
+    "party_colour": "#f1cc0a"
 }

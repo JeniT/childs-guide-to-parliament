@@ -3,17 +3,10 @@
         "Employment", 
         "Local And Regional Employment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-12-12", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Mr Gerry Sutcliffe", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bradford South", 
+    "id": "403", 
     "party_name": "Labour", 
     "slug": "mr-gerry-sutcliffe", 
-    "id": "403"
+    "party_colour": "#cc0000"
 }

@@ -9,27 +9,10 @@
         "Education", 
         "Council Of Europe"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Select Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-11-18", 
-            "name": "Speaker's Advisory Committee on Works of Art"
-        }
-    ], 
     "display_name": "Mr Ian Liddell-Grainger", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bridgwater and West Somerset", 
+    "id": "1396", 
     "party_name": "Conservative", 
     "slug": "mr-ian-liddell-grainger", 
-    "id": "1396"
+    "party_colour": "#333399"
 }

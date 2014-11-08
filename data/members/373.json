@@ -5,11 +5,10 @@
         "Industry", 
         "Agriculture"
     ], 
-    "committees": [], 
     "display_name": "Mr David Davis", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Haltemprice and Howden", 
+    "id": "373", 
     "party_name": "Conservative", 
     "slug": "mr-david-davis", 
-    "id": "373"
+    "party_colour": "#333399"
 }

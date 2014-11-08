@@ -3,17 +3,10 @@
         "Environment", 
         "Democratic Reform"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Zac Goldsmith", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Richmond Park", 
+    "id": "4062", 
     "party_name": "Conservative", 
     "slug": "zac-goldsmith", 
-    "id": "4062"
+    "party_colour": "#333399"
 }

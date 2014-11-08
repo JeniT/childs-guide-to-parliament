@@ -4,11 +4,10 @@
         "Crime", 
         "Terrorism"
     ], 
-    "committees": [], 
     "display_name": "Michael Gove", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Surrey Heath", 
+    "id": "1571", 
     "party_name": "Conservative", 
     "slug": "michael-gove", 
-    "id": "1571"
+    "party_colour": "#333399"
 }

@@ -11,22 +11,10 @@
         "Telecommunications", 
         "Space"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-23", 
-            "name": "Public Administration Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-07-07", 
-            "name": "Backbench Business Committee"
-        }
-    ], 
     "display_name": "Mr Nigel Evans", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ribble Valley", 
+    "id": "474", 
     "party_name": "Conservative", 
     "slug": "mr-nigel-evans", 
-    "id": "474"
+    "party_colour": "#333399"
 }

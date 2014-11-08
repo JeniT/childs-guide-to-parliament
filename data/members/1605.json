@@ -6,11 +6,10 @@
         "Looked After Children And Care Leavers", 
         "Adoption And Fostering"
     ], 
-    "committees": [], 
     "display_name": "Mr Edward Timpson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Crewe and Nantwich", 
+    "id": "1605", 
     "party_name": "Conservative", 
     "slug": "mr-edward-timpson", 
-    "id": "1605"
+    "party_colour": "#333399"
 }

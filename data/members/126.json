@@ -6,11 +6,10 @@
         "Farming", 
         "Countryside"
     ], 
-    "committees": [], 
     "display_name": "Mr Keith Simpson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Broadland", 
+    "id": "126", 
     "party_name": "Conservative", 
     "slug": "mr-keith-simpson", 
-    "id": "126"
+    "party_colour": "#333399"
 }

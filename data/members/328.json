@@ -2,17 +2,10 @@
     "interests": [
         "Industry"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-01-13", 
-            "name": "National Security Strategy (Joint Committee)"
-        }
-    ], 
     "display_name": "Margaret Beckett", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Derby South", 
+    "id": "328", 
     "party_name": "Labour", 
     "slug": "margaret-beckett", 
-    "id": "328"
+    "party_colour": "#cc0000"
 }

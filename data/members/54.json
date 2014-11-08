@@ -6,22 +6,10 @@
         "European Affairs", 
         "Mental Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-09-13", 
-            "name": "Intelligence and Security (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-11-03", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Dr Julian Lewis", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "New Forest East", 
+    "id": "54", 
     "party_name": "Conservative", 
     "slug": "dr-julian-lewis", 
-    "id": "54"
+    "party_colour": "#333399"
 }

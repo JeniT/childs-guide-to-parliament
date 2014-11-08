@@ -6,22 +6,10 @@
         "Environment", 
         "Pro-Life Movement"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-05-26", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-30", 
-            "name": "Backbench Business Committee"
-        }
-    ], 
     "display_name": "Mr David Amess", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Southend West", 
+    "id": "44", 
     "party_name": "Conservative", 
     "slug": "mr-david-amess", 
-    "id": "44"
+    "party_colour": "#333399"
 }

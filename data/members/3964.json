@@ -5,32 +5,10 @@
         "Carers", 
         "Equality Issues"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-01-07", 
-            "name": "Privileges Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-06-18", 
-            "name": "International Development Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-10", 
-            "name": "Committee on Standards: Standards Review Sub-Committee"
-        }
-    ], 
     "display_name": "Fiona O'Donnell", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "East Lothian", 
+    "id": "3964", 
     "party_name": "Labour", 
     "slug": "fiona-odonnell", 
-    "id": "3964"
+    "party_colour": "#cc0000"
 }

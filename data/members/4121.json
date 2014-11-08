@@ -5,17 +5,10 @@
         "Immigration", 
         "Eu"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Lorraine Fullbrook", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Ribble", 
+    "id": "4121", 
     "party_name": "Conservative", 
     "slug": "lorraine-fullbrook", 
-    "id": "4121"
+    "party_colour": "#333399"
 }

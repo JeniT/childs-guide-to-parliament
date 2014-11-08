@@ -8,27 +8,10 @@
         "Debt Relief", 
         "Water And Sanitation"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Parliamentary Privilege (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-09-08", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "1998-11-17", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Sir William Cash", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Stone", 
+    "id": "288", 
     "party_name": "Conservative", 
     "slug": "sir-william-cash", 
-    "id": "288"
+    "party_colour": "#333399"
 }

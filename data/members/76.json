@@ -7,11 +7,10 @@
         "Employment", 
         "Rural Affairs"
     ], 
-    "committees": [], 
     "display_name": "Damian Green", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ashford", 
+    "id": "76", 
     "party_name": "Conservative", 
     "slug": "damian-green", 
-    "id": "76"
+    "party_colour": "#333399"
 }

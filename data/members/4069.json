@@ -10,17 +10,10 @@
         "Urban Regeneration", 
         "Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Peter Aldous", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Waveney", 
+    "id": "4069", 
     "party_name": "Conservative", 
     "slug": "peter-aldous", 
-    "id": "4069"
+    "party_colour": "#333399"
 }

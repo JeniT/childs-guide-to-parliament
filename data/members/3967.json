@@ -1,26 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Scottish Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-12-18", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-07-16", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Mike Crockart", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Edinburgh West", 
+    "id": "3967", 
     "party_name": "Liberal Democrat", 
     "slug": "mike-crockart", 
-    "id": "3967"
+    "party_colour": "#f1cc0a"
 }

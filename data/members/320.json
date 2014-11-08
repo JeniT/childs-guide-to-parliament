@@ -7,27 +7,10 @@
         "Economic Policy", 
         "Child Protection Policy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-30", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Mr Adrian Bailey", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "West Bromwich West", 
+    "id": "320", 
     "party_name": "Labour (Co-op)", 
     "slug": "mr-adrian-bailey", 
-    "id": "320"
+    "party_colour": "#cc0000"
 }

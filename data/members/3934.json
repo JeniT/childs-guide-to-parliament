@@ -5,11 +5,10 @@
         "Europe", 
         "Regeneration"
     ], 
-    "committees": [], 
     "display_name": "George Eustice", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Camborne and Redruth", 
+    "id": "3934", 
     "party_name": "Conservative", 
     "slug": "george-eustice", 
-    "id": "3934"
+    "party_colour": "#333399"
 }

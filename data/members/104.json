@@ -5,11 +5,10 @@
         "Environment", 
         "Energy"
     ], 
-    "committees": [], 
     "display_name": "Crispin Blunt", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Reigate", 
+    "id": "104", 
     "party_name": "Conservative", 
     "slug": "crispin-blunt", 
-    "id": "104"
+    "party_colour": "#333399"
 }

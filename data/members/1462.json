@@ -9,11 +9,10 @@
         "Sustainable Resources", 
         "Dance"
     ], 
-    "committees": [], 
     "display_name": "Dame  Angela Watkinson", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hornchurch and Upminster", 
+    "id": "1462", 
     "party_name": "Conservative", 
     "slug": "dame-angela-watkinson", 
-    "id": "1462"
+    "party_colour": "#333399"
 }

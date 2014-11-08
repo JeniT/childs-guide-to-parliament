@@ -5,11 +5,10 @@
         "Transport", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Stephen Hammond", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wimbledon", 
+    "id": "1585", 
     "party_name": "Conservative", 
     "slug": "stephen-hammond", 
-    "id": "1585"
+    "party_colour": "#333399"
 }

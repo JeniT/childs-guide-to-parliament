@@ -7,27 +7,10 @@
         "Foreign Affairs", 
         "Good Governance"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Public Administration Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Parliamentary Privilege (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr Bernard Jenkin", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Harwich and North Essex", 
+    "id": "40", 
     "party_name": "Conservative", 
     "slug": "mr-bernard-jenkin", 
-    "id": "40"
+    "party_colour": "#333399"
 }

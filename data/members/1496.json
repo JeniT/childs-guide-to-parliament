@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mr Shailesh Vara", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North West Cambridgeshire", 
+    "id": "1496", 
     "party_name": "Conservative", 
     "slug": "mr-shailesh-vara", 
-    "id": "1496"
+    "party_colour": "#333399"
 }

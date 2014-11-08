@@ -3,11 +3,10 @@
         "African Politics", 
         "Pensions"
     ], 
-    "committees": [], 
     "display_name": "James Duddridge", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Rochford and Southend East", 
+    "id": "1559", 
     "party_name": "Conservative", 
     "slug": "james-duddridge", 
-    "id": "1559"
+    "party_colour": "#333399"
 }

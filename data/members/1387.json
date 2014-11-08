@@ -6,17 +6,10 @@
         "Sport", 
         "Drugs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2009-01-12", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "John Mann", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bassetlaw", 
+    "id": "1387", 
     "party_name": "Labour", 
     "slug": "john-mann", 
-    "id": "1387"
+    "party_colour": "#cc0000"
 }

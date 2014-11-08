@@ -4,11 +4,10 @@
         "Energy", 
         "Private Occupational Pensions"
     ], 
-    "committees": [], 
     "display_name": "David Mowat", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Warrington South", 
+    "id": "4080", 
     "party_name": "Conservative", 
     "slug": "david-mowat", 
-    "id": "4080"
+    "party_colour": "#333399"
 }

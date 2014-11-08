@@ -4,11 +4,10 @@
         "Local Government", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Nick Boles", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Grantham and Stamford", 
+    "id": "3995", 
     "party_name": "Conservative", 
     "slug": "nick-boles", 
-    "id": "3995"
+    "party_colour": "#333399"
 }

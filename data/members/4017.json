@@ -6,11 +6,10 @@
         "The Arts", 
         "Space"
     ], 
-    "committees": [], 
     "display_name": "Penny Mordaunt", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Portsmouth North", 
+    "id": "4017", 
     "party_name": "Conservative", 
     "slug": "penny-mordaunt", 
-    "id": "4017"
+    "party_colour": "#333399"
 }

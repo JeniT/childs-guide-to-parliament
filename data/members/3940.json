@@ -4,22 +4,10 @@
         "Children", 
         "Aged Care"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Education Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-09", 
-            "name": "Able Marine Energy Park Development Consent Order 2014"
-        }
-    ], 
     "display_name": "Craig Whittaker", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Calder Valley", 
+    "id": "3940", 
     "party_name": "Conservative", 
     "slug": "craig-whittaker", 
-    "id": "3940"
+    "party_colour": "#333399"
 }

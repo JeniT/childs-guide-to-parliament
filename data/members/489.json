@@ -4,22 +4,10 @@
         "Education", 
         "Training"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-10-16", 
-            "name": "House of Commons Governance Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mr Dave Watts", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "St Helens North", 
+    "id": "489", 
     "party_name": "Labour", 
     "slug": "mr-dave-watts", 
-    "id": "489"
+    "party_colour": "#cc0000"
 }

@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-10", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "Andy McDonald", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Middlesbrough", 
+    "id": "4269", 
     "party_name": "Labour", 
     "slug": "andy-mcdonald", 
-    "id": "4269"
+    "party_colour": "#cc0000"
 }

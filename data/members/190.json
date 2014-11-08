@@ -4,11 +4,10 @@
         "Women", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Dame Joan Ruddock", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Lewisham, Deptford", 
+    "id": "190", 
     "party_name": "Labour", 
     "slug": "dame-joan-ruddock", 
-    "id": "190"
+    "party_colour": "#cc0000"
 }

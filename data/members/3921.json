@@ -5,17 +5,10 @@
         "Space Industry", 
         "Healthcare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Energy and Climate Change Committee"
-        }
-    ], 
     "display_name": "Dr Phillip Lee", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bracknell", 
+    "id": "3921", 
     "party_name": "Conservative", 
     "slug": "dr-phillip-lee", 
-    "id": "3921"
+    "party_colour": "#333399"
 }

@@ -4,11 +4,10 @@
         "Prison Reform", 
         "Tax Reform"
     ], 
-    "committees": [], 
     "display_name": "Ben Gummer", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ipswich", 
+    "id": "3988", 
     "party_name": "Conservative", 
     "slug": "ben-gummer", 
-    "id": "3988"
+    "party_colour": "#333399"
 }

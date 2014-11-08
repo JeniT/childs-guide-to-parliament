@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-23", 
-            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
-        }
-    ], 
     "display_name": "Mr Nicholas Brown", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Newcastle upon Tyne East", 
+    "id": "523", 
     "party_name": "Labour", 
     "slug": "mr-nicholas-brown", 
-    "id": "523"
+    "party_colour": "#cc0000"
 }

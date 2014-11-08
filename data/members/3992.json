@@ -4,11 +4,10 @@
         "Local Government", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "James Morris", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Halesowen and Rowley Regis", 
+    "id": "3992", 
     "party_name": "Conservative", 
     "slug": "james-morris", 
-    "id": "3992"
+    "party_colour": "#333399"
 }

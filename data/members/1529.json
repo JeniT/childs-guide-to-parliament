@@ -5,11 +5,10 @@
         "Education", 
         "Europe"
     ], 
-    "committees": [], 
     "display_name": "Mr David Gauke", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South West Hertfordshire", 
+    "id": "1529", 
     "party_name": "Conservative", 
     "slug": "mr-david-gauke", 
-    "id": "1529"
+    "party_colour": "#333399"
 }

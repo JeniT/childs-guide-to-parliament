@@ -6,11 +6,10 @@
         "Environmental Issues And World Development", 
         "Small Businesses"
     ], 
-    "committees": [], 
     "display_name": "Mike Wood", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Batley and Spen", 
+    "id": "401", 
     "party_name": "Labour", 
     "slug": "mike-wood", 
-    "id": "401"
+    "party_colour": "#cc0000"
 }

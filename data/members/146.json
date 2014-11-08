@@ -7,11 +7,10 @@
         "Education", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Barry Gardiner", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Brent North", 
+    "id": "146", 
     "party_name": "Labour", 
     "slug": "barry-gardiner", 
-    "id": "146"
+    "party_colour": "#cc0000"
 }

@@ -9,17 +9,10 @@
         "Energy", 
         "Industry/Business"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-05-26", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr Mike Weir", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Angus", 
+    "id": "1384", 
     "party_name": "Scottish National", 
     "slug": "mr-mike-weir", 
-    "id": "1384"
+    "party_colour": "#999999"
 }

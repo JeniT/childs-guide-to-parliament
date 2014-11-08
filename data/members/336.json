@@ -4,17 +4,10 @@
         "Economics", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Mr Stephen Dorrell", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Charnwood", 
+    "id": "336", 
     "party_name": "Conservative", 
     "slug": "mr-stephen-dorrell", 
-    "id": "336"
+    "party_colour": "#333399"
 }

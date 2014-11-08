@@ -5,22 +5,10 @@
         "Employment Law", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-01-27", 
-            "name": "Procedure Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Yvonne Fovargue", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Makerfield", 
+    "id": "4034", 
     "party_name": "Labour", 
     "slug": "yvonne-fovargue", 
-    "id": "4034"
+    "party_colour": "#cc0000"
 }

@@ -5,22 +5,10 @@
         "Small Businesses", 
         "Higher Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Ann McKechin", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Glasgow North", 
+    "id": "1419", 
     "party_name": "Labour", 
     "slug": "ann-mckechin", 
-    "id": "1419"
+    "party_colour": "#cc0000"
 }

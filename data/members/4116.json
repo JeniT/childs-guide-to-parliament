@@ -5,27 +5,10 @@
         "Constitution", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Select Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Statutory Instruments (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-02-14", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Michael Ellis", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Northampton North", 
+    "id": "4116", 
     "party_name": "Conservative", 
     "slug": "michael-ellis", 
-    "id": "4116"
+    "party_colour": "#333399"
 }

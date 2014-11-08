@@ -6,22 +6,10 @@
         "Voluntary And Community Sector", 
         "Youth Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Business, Innovation and Skills Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-09", 
-            "name": "Able Marine Energy Park Development Consent Order 2014"
-        }
-    ], 
     "display_name": "Paul Blomfield", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sheffield Central", 
+    "id": "4058", 
     "party_name": "Labour", 
     "slug": "paul-blomfield", 
-    "id": "4058"
+    "party_colour": "#cc0000"
 }

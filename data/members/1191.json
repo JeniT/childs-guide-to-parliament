@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-30", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-06", 
-            "name": "Intelligence and Security (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Malcolm Rifkind", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Kensington", 
+    "id": "1191", 
     "party_name": "Conservative", 
     "slug": "sir-malcolm-rifkind", 
-    "id": "1191"
+    "party_colour": "#333399"
 }

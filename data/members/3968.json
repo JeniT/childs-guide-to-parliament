@@ -7,11 +7,10 @@
         "Advocacy Services", 
         "Microfinance"
     ], 
-    "committees": [], 
     "display_name": "Stephen Lloyd", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Eastbourne", 
+    "id": "3968", 
     "party_name": "Liberal Democrat", 
     "slug": "stephen-lloyd", 
-    "id": "3968"
+    "party_colour": "#f1cc0a"
 }

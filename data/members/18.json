@@ -8,17 +8,10 @@
         "Employment", 
         "Constitutional Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-05-12", 
-            "name": "Public Administration Committee"
-        }
-    ], 
     "display_name": "Mrs Cheryl Gillan", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chesham and Amersham", 
+    "id": "18", 
     "party_name": "Conservative", 
     "slug": "mrs-cheryl-gillan", 
-    "id": "18"
+    "party_colour": "#333399"
 }

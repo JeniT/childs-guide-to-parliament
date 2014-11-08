@@ -7,22 +7,10 @@
         "European Union", 
         "Constitution"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-11", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-09-11", 
-            "name": "Privileges Committee"
-        }
-    ], 
     "display_name": "Mr Dominic Grieve", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Beaconsfield", 
+    "id": "16", 
     "party_name": "Conservative", 
     "slug": "mr-dominic-grieve", 
-    "id": "16"
+    "party_colour": "#333399"
 }

@@ -6,11 +6,10 @@
         "Energy", 
         "Social Mobility"
     ], 
-    "committees": [], 
     "display_name": "Eric Ollerenshaw", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Lancaster and Fleetwood", 
+    "id": "4141", 
     "party_name": "Conservative", 
     "slug": "eric-ollerenshaw", 
-    "id": "4141"
+    "party_colour": "#333399"
 }

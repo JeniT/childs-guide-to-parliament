@@ -6,27 +6,10 @@
         "Education", 
         "Taxation"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-10-29", 
-            "name": "Work and Pensions Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-11-28", 
-            "name": "Northern Ireland Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Nigel Mills", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Amber Valley", 
+    "id": "4136", 
     "party_name": "Conservative", 
     "slug": "nigel-mills", 
-    "id": "4136"
+    "party_colour": "#333399"
 }

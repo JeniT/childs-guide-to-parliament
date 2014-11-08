@@ -4,11 +4,10 @@
         "Education", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Jeremy Wright", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Kenilworth and Southam", 
+    "id": "1560", 
     "party_name": "Conservative", 
     "slug": "jeremy-wright", 
-    "id": "1560"
+    "party_colour": "#333399"
 }

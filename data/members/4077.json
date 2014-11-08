@@ -7,11 +7,10 @@
         "Manufacturing", 
         "Skills"
     ], 
-    "committees": [], 
     "display_name": "Emma Reynolds", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wolverhampton North East", 
+    "id": "4077", 
     "party_name": "Labour", 
     "slug": "emma-reynolds", 
-    "id": "4077"
+    "party_colour": "#cc0000"
 }

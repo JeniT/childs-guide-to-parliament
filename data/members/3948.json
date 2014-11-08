@@ -4,22 +4,10 @@
         "Education And Skills", 
         "Planning"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Regulatory Reform"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Rebecca Harris", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Castle Point", 
+    "id": "3948", 
     "party_name": "Conservative", 
     "slug": "rebecca-harris", 
-    "id": "3948"
+    "party_colour": "#333399"
 }

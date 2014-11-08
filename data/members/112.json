@@ -5,32 +5,10 @@
         "European And International Affairs", 
         "Human Rights"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "1997-06-06", 
-            "name": "Treasury Sub-committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2009-02-09", 
-            "name": "Treasury Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "1997-06-06", 
-            "name": "Public Accounts Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr Andrew Tyrie", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chichester", 
+    "id": "112", 
     "party_name": "Conservative", 
     "slug": "mr-andrew-tyrie", 
-    "id": "112"
+    "party_colour": "#333399"
 }

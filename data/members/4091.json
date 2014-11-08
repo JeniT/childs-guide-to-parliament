@@ -7,17 +7,10 @@
         "Defence", 
         "Business"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Mr Robin Walker", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Worcester", 
+    "id": "4091", 
     "party_name": "Conservative", 
     "slug": "mr-robin-walker", 
-    "id": "4091"
+    "party_colour": "#333399"
 }

@@ -9,11 +9,10 @@
         "Urban Regeneration", 
         "Government Procurement Of It Projects"
     ], 
-    "committees": [], 
     "display_name": "Stephen McPartland", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Stevenage", 
+    "id": "4093", 
     "party_name": "Conservative", 
     "slug": "stephen-mcpartland", 
-    "id": "4093"
+    "party_colour": "#333399"
 }

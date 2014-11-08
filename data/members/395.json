@@ -4,11 +4,10 @@
         "Empolyment And Welfare To Work", 
         "Citizenship And Civil Renewal"
     ], 
-    "committees": [], 
     "display_name": "Mr David Blunkett", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sheffield, Brightside and Hillsborough", 
+    "id": "395", 
     "party_name": "Labour", 
     "slug": "mr-david-blunkett", 
-    "id": "395"
+    "party_colour": "#cc0000"
 }

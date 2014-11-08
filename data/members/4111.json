@@ -6,17 +6,10 @@
         "Re-Industrialisation", 
         "Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Parliamentary Privilege (Joint Committee)"
-        }
-    ], 
     "display_name": "Tristram Hunt", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Stoke-on-Trent Central", 
+    "id": "4111", 
     "party_name": "Labour", 
     "slug": "tristram-hunt", 
-    "id": "4111"
+    "party_colour": "#cc0000"
 }

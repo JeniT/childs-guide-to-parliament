@@ -6,17 +6,10 @@
         "Welfare Reform", 
         "Thalidomide Victims"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-23", 
-            "name": "Communities and Local Government Committee"
-        }
-    ], 
     "display_name": "Alec Shelbrooke", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Elmet and Rothwell", 
+    "id": "3997", 
     "party_name": "Conservative", 
     "slug": "alec-shelbrooke", 
-    "id": "3997"
+    "party_colour": "#333399"
 }

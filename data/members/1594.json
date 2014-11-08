@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-10-31", 
-            "name": "Political and Constitutional Reform Committee"
-        }
-    ], 
     "display_name": "Mark Durkan", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Foyle", 
+    "id": "1594", 
     "party_name": "Social Democratic & Labour Party", 
     "slug": "mark-durkan", 
-    "id": "1594"
+    "party_colour": "#999999"
 }

@@ -11,17 +11,10 @@
         "European Union", 
         "Defence"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2001-06-26", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr Jim Hood", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Lanark and Hamilton East", 
+    "id": "582", 
     "party_name": "Labour", 
     "slug": "mr-jim-hood", 
-    "id": "582"
+    "party_colour": "#cc0000"
 }

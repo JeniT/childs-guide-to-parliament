@@ -5,17 +5,10 @@
         "Health", 
         "Rural Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-05-26", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Nadine Dorries", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Mid Bedfordshire", 
+    "id": "1481", 
     "party_name": "Conservative", 
     "slug": "nadine-dorries", 
-    "id": "1481"
+    "party_colour": "#333399"
 }

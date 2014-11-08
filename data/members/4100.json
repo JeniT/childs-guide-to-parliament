@@ -4,17 +4,10 @@
         "Tourism", 
         "Royal Navy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Sheryll Murray", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "South East Cornwall", 
+    "id": "4100", 
     "party_name": "Conservative", 
     "slug": "sheryll-murray", 
-    "id": "4100"
+    "party_colour": "#333399"
 }

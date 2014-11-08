@@ -4,17 +4,10 @@
         "Wealth Creation", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Charlie Elphicke", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Dover", 
+    "id": "3971", 
     "party_name": "Conservative", 
     "slug": "charlie-elphicke", 
-    "id": "3971"
+    "party_colour": "#333399"
 }

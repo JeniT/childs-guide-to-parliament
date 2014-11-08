@@ -5,11 +5,10 @@
         "Environment", 
         "Transport"
     ], 
-    "committees": [], 
     "display_name": "Mr Robert Goodwill", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Scarborough and Whitby", 
+    "id": "1562", 
     "party_name": "Conservative", 
     "slug": "mr-robert-goodwill", 
-    "id": "1562"
+    "party_colour": "#333399"
 }

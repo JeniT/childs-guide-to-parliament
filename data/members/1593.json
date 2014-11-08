@@ -4,11 +4,10 @@
         "Policing", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Sammy Wilson", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "East Antrim", 
+    "id": "1593", 
     "party_name": "Democratic Unionist", 
     "slug": "sammy-wilson", 
-    "id": "1593"
+    "party_colour": "#999999"
 }

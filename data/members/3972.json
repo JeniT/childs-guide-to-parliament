@@ -7,22 +7,10 @@
         "Transport", 
         "Economy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Procedure Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Jenny Chapman", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Darlington", 
+    "id": "3972", 
     "party_name": "Labour", 
     "slug": "jenny-chapman", 
-    "id": "3972"
+    "party_colour": "#cc0000"
 }

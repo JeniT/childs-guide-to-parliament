@@ -9,22 +9,10 @@
         "Climate Change", 
         "Rural Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Mr Graham Stuart", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Beverley and Holderness", 
+    "id": "1482", 
     "party_name": "Conservative", 
     "slug": "mr-graham-stuart", 
-    "id": "1482"
+    "party_colour": "#333399"
 }

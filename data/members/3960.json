@@ -3,17 +3,10 @@
         "Local Government", 
         "Foreign Policy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Henry Smith", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Crawley", 
+    "id": "3960", 
     "party_name": "Conservative", 
     "slug": "henry-smith", 
-    "id": "3960"
+    "party_colour": "#333399"
 }

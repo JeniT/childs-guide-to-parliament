@@ -6,17 +6,10 @@
         "Constitutional Reform", 
         "Europe"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-05-26", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }
-    ], 
     "display_name": "Mr Nick Clegg", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Sheffield, Hallam", 
+    "id": "1563", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-nick-clegg", 
-    "id": "1563"
+    "party_colour": "#f1cc0a"
 }

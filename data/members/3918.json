@@ -4,11 +4,10 @@
         "Public Transport", 
         "Public Services"
     ], 
-    "committees": [], 
     "display_name": "Jane Ellison", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Battersea", 
+    "id": "3918", 
     "party_name": "Conservative", 
     "slug": "jane-ellison", 
-    "id": "3918"
+    "party_colour": "#333399"
 }

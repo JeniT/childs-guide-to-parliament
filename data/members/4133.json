@@ -5,17 +5,10 @@
         "Law And Order", 
         "Armed Forces"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }
-    ], 
     "display_name": "Andrew Bridgen", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North West Leicestershire", 
+    "id": "4133", 
     "party_name": "Conservative", 
     "slug": "andrew-bridgen", 
-    "id": "4133"
+    "party_colour": "#333399"
 }

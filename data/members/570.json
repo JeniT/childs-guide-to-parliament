@@ -6,17 +6,10 @@
         "Mental Health", 
         "Employment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-18", 
-            "name": "Speaker's Advisory Committee on Works of Art"
-        }
-    ], 
     "display_name": "Mr Frank Doran", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Aberdeen North", 
+    "id": "570", 
     "party_name": "Labour", 
     "slug": "mr-frank-doran", 
-    "id": "570"
+    "party_colour": "#cc0000"
 }

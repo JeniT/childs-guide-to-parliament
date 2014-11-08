@@ -2,11 +2,10 @@
     "interests": [
         "Economics Of Small States"
     ], 
-    "committees": [], 
     "display_name": "Mr Angus Brendan MacNeil", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Na h-Eileanan an Iar", 
+    "id": "1546", 
     "party_name": "Scottish National", 
     "slug": "mr-angus-brendan-macneil", 
-    "id": "1546"
+    "party_colour": "#999999"
 }

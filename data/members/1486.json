@@ -3,27 +3,10 @@
         "Public Services", 
         "Employment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Northern Ireland Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-30", 
-            "name": "Backbench Business Committee"
-        }
-    ], 
     "display_name": "Mr David Anderson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Blaydon", 
+    "id": "1486", 
     "party_name": "Labour", 
     "slug": "mr-david-anderson", 
-    "id": "1486"
+    "party_colour": "#cc0000"
 }

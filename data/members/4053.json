@@ -3,22 +3,10 @@
         "Affordable Housing", 
         "Economic Regeneration"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-05-23", 
-            "name": "Communities and Local Government Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-10", 
-            "name": "Committee on Standards: Standards Review Sub-Committee"
-        }
-    ], 
     "display_name": "Heather Wheeler", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Derbyshire", 
+    "id": "4053", 
     "party_name": "Conservative", 
     "slug": "heather-wheeler", 
-    "id": "4053"
+    "party_colour": "#333399"
 }

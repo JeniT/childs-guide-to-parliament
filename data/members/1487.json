@@ -5,11 +5,10 @@
         "Environment", 
         "Tourism"
     ], 
-    "committees": [], 
     "display_name": "Mr Tobias Ellwood", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bournemouth East", 
+    "id": "1487", 
     "party_name": "Conservative", 
     "slug": "mr-tobias-ellwood", 
-    "id": "1487"
+    "party_colour": "#333399"
 }

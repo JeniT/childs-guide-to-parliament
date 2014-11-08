@@ -8,17 +8,10 @@
         "Guantanamo Bay", 
         "Civil Liberties"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-01-27", 
-            "name": "Human Rights (Joint Committee)"
-        }
-    ], 
     "display_name": "Sarah Teather", 
-    "gender": "female", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Brent Central", 
+    "id": "1170", 
     "party_name": "Liberal Democrat", 
     "slug": "sarah-teather", 
-    "id": "1170"
+    "party_colour": "#f1cc0a"
 }

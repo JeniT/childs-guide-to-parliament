@@ -1,21 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-04-29", 
-            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-10-26", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Peter Bottomley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Worthing West", 
+    "id": "117", 
     "party_name": "Conservative", 
     "slug": "sir-peter-bottomley", 
-    "id": "117"
+    "party_colour": "#333399"
 }

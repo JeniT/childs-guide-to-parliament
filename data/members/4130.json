@@ -7,17 +7,10 @@
         "Economy", 
         "Regional Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-01-23", 
-            "name": "Environment, Food and Rural Affairs Committee"
-        }
-    ], 
     "display_name": "Ms Margaret Ritchie", 
-    "gender": "female", 
-    "party_colour": "#999999", 
+    "constituency_name": "South Down", 
+    "id": "4130", 
     "party_name": "Social Democratic & Labour Party", 
     "slug": "ms-margaret-ritchie", 
-    "id": "4130"
+    "party_colour": "#999999"
 }

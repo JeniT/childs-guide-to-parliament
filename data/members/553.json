@@ -5,22 +5,10 @@
         "Animal Welfare", 
         "Foreign Policy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Foreign Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Ann Clwyd", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Cynon Valley", 
+    "id": "553", 
     "party_name": "Labour", 
     "slug": "ann-clwyd", 
-    "id": "553"
+    "party_colour": "#cc0000"
 }

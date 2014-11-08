@@ -4,17 +4,10 @@
         "Further Education", 
         "Apprenticeships"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Steve Rotheram", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Liverpool, Walton", 
+    "id": "4035", 
     "party_name": "Labour", 
     "slug": "steve-rotheram", 
-    "id": "4035"
+    "party_colour": "#cc0000"
 }

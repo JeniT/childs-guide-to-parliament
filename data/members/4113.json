@@ -3,27 +3,10 @@
         "Business", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-30", 
-            "name": "Foreign Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Nadhim Zahawi", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Stratford-on-Avon", 
+    "id": "4113", 
     "party_name": "Conservative", 
     "slug": "nadhim-zahawi", 
-    "id": "4113"
+    "party_colour": "#333399"
 }

@@ -4,17 +4,10 @@
         "Carers", 
         "Women In Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Barbara Keeley", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Worsley and Eccles South", 
+    "id": "1588", 
     "party_name": "Labour", 
     "slug": "barbara-keeley", 
-    "id": "1588"
+    "party_colour": "#cc0000"
 }

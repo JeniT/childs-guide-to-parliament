@@ -3,11 +3,10 @@
         "Agriculture", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Mr Robert Walter", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Dorset", 
+    "id": "244", 
     "party_name": "Conservative", 
     "slug": "mr-robert-walter", 
-    "id": "244"
+    "party_colour": "#333399"
 }

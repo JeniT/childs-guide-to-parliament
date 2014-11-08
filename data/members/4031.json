@@ -3,11 +3,10 @@
         "Economy", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Rachel Reeves", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leeds West", 
+    "id": "4031", 
     "party_name": "Labour", 
     "slug": "rachel-reeves", 
-    "id": "4031"
+    "party_colour": "#cc0000"
 }

@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mr David Lidington", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Aylesbury", 
+    "id": "15", 
     "party_name": "Conservative", 
     "slug": "mr-david-lidington", 
-    "id": "15"
+    "party_colour": "#333399"
 }

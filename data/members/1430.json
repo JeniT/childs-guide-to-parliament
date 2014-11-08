@@ -6,22 +6,10 @@
         "Cancer And Blood", 
         "Industrial Relations And Working Conditions"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-01-24", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2003-10-20", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Mr Dai Havard", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Merthyr Tydfil and Rhymney", 
+    "id": "1430", 
     "party_name": "Labour", 
     "slug": "mr-dai-havard", 
-    "id": "1430"
+    "party_colour": "#cc0000"
 }

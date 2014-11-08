@@ -5,17 +5,10 @@
         "Energy Security", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Energy and Climate Change Committee"
-        }
-    ], 
     "display_name": "Dan Byles", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "North Warwickshire", 
+    "id": "4112", 
     "party_name": "Conservative", 
     "slug": "dan-byles", 
-    "id": "4112"
+    "party_colour": "#333399"
 }

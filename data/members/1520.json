@@ -6,17 +6,10 @@
         "Health", 
         "Defence"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-03-10", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mr Mark Harper", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Forest of Dean", 
+    "id": "1520", 
     "party_name": "Conservative", 
     "slug": "mr-mark-harper", 
-    "id": "1520"
+    "party_colour": "#333399"
 }

@@ -4,17 +4,10 @@
         "Welfare Reform", 
         "Home Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-29", 
-            "name": "Treasury Committee"
-        }
-    ], 
     "display_name": "Mr David Ruffley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bury St Edmunds", 
+    "id": "133", 
     "party_name": "Conservative", 
     "slug": "mr-david-ruffley", 
-    "id": "133"
+    "party_colour": "#333399"
 }

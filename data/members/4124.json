@@ -5,11 +5,10 @@
         "Manufacturing", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Chi Onwurah", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Newcastle upon Tyne Central", 
+    "id": "4124", 
     "party_name": "Labour", 
     "slug": "chi-onwurah", 
-    "id": "4124"
+    "party_colour": "#cc0000"
 }

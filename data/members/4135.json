@@ -4,22 +4,10 @@
         "Small Business", 
         "Maritime Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Science and Technology Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-01-20", 
-            "name": "Political and Constitutional Reform Committee"
-        }
-    ], 
     "display_name": "David Morris", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Morecambe and Lunesdale", 
+    "id": "4135", 
     "party_name": "Conservative", 
     "slug": "david-morris", 
-    "id": "4135"
+    "party_colour": "#333399"
 }

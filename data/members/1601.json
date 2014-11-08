@@ -5,17 +5,10 @@
         "Policing And Criminal Justice", 
         "Arts"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-12-10", 
-            "name": "Political and Constitutional Reform Committee"
-        }
-    ], 
     "display_name": "Robert Neill", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bromley and Chislehurst", 
+    "id": "1601", 
     "party_name": "Conservative", 
     "slug": "robert-neill", 
-    "id": "1601"
+    "party_colour": "#333399"
 }

@@ -5,17 +5,10 @@
         "Housing", 
         "Defence"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-21", 
-            "name": "Panel of Chairs"
-        }
-    ], 
     "display_name": "Mr David Crausby", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bolton North East", 
+    "id": "437", 
     "party_name": "Labour", 
     "slug": "mr-david-crausby", 
-    "id": "437"
+    "party_colour": "#cc0000"
 }

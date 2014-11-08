@@ -5,32 +5,10 @@
         "Human Rights", 
         "Transport And Environmental Issues"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-21", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Katy Clark", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "North Ayrshire and Arran", 
+    "id": "1590", 
     "party_name": "Labour", 
     "slug": "katy-clark", 
-    "id": "1590"
+    "party_colour": "#cc0000"
 }

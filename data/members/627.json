@@ -6,32 +6,10 @@
         "Sport", 
         "Arts"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Parliamentary Privilege (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-09-13", 
-            "name": "Intelligence and Security (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Foreign Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-06-15", 
-            "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Menzies Campbell", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "North East Fife", 
+    "id": "627", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-menzies-campbell", 
-    "id": "627"
+    "party_colour": "#f1cc0a"
 }

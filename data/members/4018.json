@@ -9,11 +9,10 @@
         "Children And Families", 
         "Social Mobility"
     ], 
-    "committees": [], 
     "display_name": "Mrs Helen Grant", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Maidstone and The Weald", 
+    "id": "4018", 
     "party_name": "Conservative", 
     "slug": "mrs-helen-grant", 
-    "id": "4018"
+    "party_colour": "#333399"
 }

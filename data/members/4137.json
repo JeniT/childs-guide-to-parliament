@@ -5,27 +5,10 @@
         "Broadband", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-16", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-05-14", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-05-14", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Rory Stewart", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Penrith and The Border", 
+    "id": "4137", 
     "party_name": "Conservative", 
     "slug": "rory-stewart", 
-    "id": "4137"
+    "party_colour": "#333399"
 }

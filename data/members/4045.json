@@ -8,11 +8,10 @@
         "Chemical Industry", 
         "Social Justice"
     ], 
-    "committees": [], 
     "display_name": "Ian Swales", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Redcar", 
+    "id": "4045", 
     "party_name": "Liberal Democrat", 
     "slug": "ian-swales", 
-    "id": "4045"
+    "party_colour": "#f1cc0a"
 }

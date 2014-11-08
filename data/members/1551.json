@@ -6,17 +6,10 @@
         "Regeneration", 
         "Immigration"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-02-27", 
-            "name": "Public Accounts Committee"
-        }
-    ], 
     "display_name": "Mr Stewart Jackson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Peterborough", 
+    "id": "1551", 
     "party_name": "Conservative", 
     "slug": "mr-stewart-jackson", 
-    "id": "1551"
+    "party_colour": "#333399"
 }

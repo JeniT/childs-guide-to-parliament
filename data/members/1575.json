@@ -7,17 +7,10 @@
         "Pensions", 
         "Human Rights"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-10-31", 
-            "name": "Political and Constitutional Reform Committee"
-        }
-    ], 
     "display_name": "Mr Jeremy Browne", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Taunton Deane", 
+    "id": "1575", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-jeremy-browne", 
-    "id": "1575"
+    "party_colour": "#f1cc0a"
 }

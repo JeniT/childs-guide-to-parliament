@@ -5,11 +5,10 @@
         "Education", 
         "Treasury"
     ], 
-    "committees": [], 
     "display_name": "Michael Fallon", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Sevenoaks", 
+    "id": "88", 
     "party_name": "Conservative", 
     "slug": "michael-fallon", 
-    "id": "88"
+    "party_colour": "#333399"
 }

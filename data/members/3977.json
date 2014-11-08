@@ -8,22 +8,10 @@
         "Europe", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Chris Heaton-Harris", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Daventry", 
+    "id": "3977", 
     "party_name": "Conservative", 
     "slug": "chris-heaton-harris", 
-    "id": "3977"
+    "party_colour": "#333399"
 }

@@ -5,22 +5,10 @@
         "Transport", 
         "London"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-05-09", 
-            "name": "Selection Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-10-28", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mr David Evennett", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bexleyheath and Crayford", 
+    "id": "1198", 
     "party_name": "Conservative", 
     "slug": "mr-david-evennett", 
-    "id": "1198"
+    "party_colour": "#333399"
 }

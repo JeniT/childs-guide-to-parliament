@@ -4,17 +4,10 @@
         "Housing", 
         "Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Work and Pensions Committee"
-        }
-    ], 
     "display_name": "Glenda Jackson", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Hampstead and Kilburn", 
+    "id": "175", 
     "party_name": "Labour", 
     "slug": "glenda-jackson", 
-    "id": "175"
+    "party_colour": "#cc0000"
 }

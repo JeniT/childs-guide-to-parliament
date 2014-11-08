@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Jake Berry", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Rossendale and Darwen", 
+    "id": "4060", 
     "party_name": "Conservative", 
     "slug": "jake-berry", 
-    "id": "4060"
+    "party_colour": "#333399"
 }

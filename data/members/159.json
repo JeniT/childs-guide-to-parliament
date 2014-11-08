@@ -4,11 +4,10 @@
         "Political Engagement", 
         "Community Empowerment"
     ], 
-    "committees": [], 
     "display_name": "Dame  Tessa Jowell", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Dulwich and West Norwood", 
+    "id": "159", 
     "party_name": "Labour", 
     "slug": "dame-tessa-jowell", 
-    "id": "159"
+    "party_colour": "#cc0000"
 }

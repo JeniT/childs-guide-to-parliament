@@ -6,17 +6,10 @@
         "Small Business", 
         "Health"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "International Development Committee"
-        }
-    ], 
     "display_name": "Jeremy Lefroy", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Stafford", 
+    "id": "4109", 
     "party_name": "Conservative", 
     "slug": "jeremy-lefroy", 
-    "id": "4109"
+    "party_colour": "#333399"
 }

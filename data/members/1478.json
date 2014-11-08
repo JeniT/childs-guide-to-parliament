@@ -3,17 +3,10 @@
         "Economics", 
         "Regeneration"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Finance and Services Committee"
-        }
-    ], 
     "display_name": "Mr Iain Wright", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Hartlepool", 
+    "id": "1478", 
     "party_name": "Labour", 
     "slug": "mr-iain-wright", 
-    "id": "1478"
+    "party_colour": "#cc0000"
 }

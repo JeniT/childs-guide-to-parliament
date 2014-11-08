@@ -6,22 +6,10 @@
         "Cyber-Security", 
         "Animal Welfare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-11-30", 
-            "name": "National Security Strategy (Joint Committee)"
-        }
-    ], 
     "display_name": "Mark Pritchard", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "The Wrekin", 
+    "id": "1576", 
     "party_name": "Conservative", 
     "slug": "mark-pritchard", 
-    "id": "1576"
+    "party_colour": "#333399"
 }

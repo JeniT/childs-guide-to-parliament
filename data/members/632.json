@@ -4,11 +4,10 @@
         "Economic Policy", 
         "Employment"
     ], 
-    "committees": [], 
     "display_name": "Mr Douglas Alexander", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Paisley and Renfrewshire South", 
+    "id": "632", 
     "party_name": "Labour", 
     "slug": "mr-douglas-alexander", 
-    "id": "632"
+    "party_colour": "#cc0000"
 }

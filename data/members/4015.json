@@ -6,11 +6,10 @@
         "Energy Security", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Iain Stewart", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Milton Keynes South", 
+    "id": "4015", 
     "party_name": "Conservative", 
     "slug": "iain-stewart", 
-    "id": "4015"
+    "party_colour": "#333399"
 }

@@ -6,27 +6,10 @@
         "Financial Services And Banking Reform", 
         "Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2006-04-24", 
-            "name": "Treasury Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-27", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Finance and Services Committee"
-        }
-    ], 
     "display_name": "John Thurso", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Caithness, Sutherland and Easter Ross", 
+    "id": "1399", 
     "party_name": "Liberal Democrat", 
     "slug": "john-thurso", 
-    "id": "1399"
+    "party_colour": "#f1cc0a"
 }

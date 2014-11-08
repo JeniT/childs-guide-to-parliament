@@ -8,17 +8,10 @@
         "Sport - Boxing", 
         "Swimming"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-06-17", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Charlotte Leslie", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bristol North West", 
+    "id": "3933", 
     "party_name": "Conservative", 
     "slug": "charlotte-leslie", 
-    "id": "3933"
+    "party_colour": "#333399"
 }

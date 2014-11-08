@@ -9,17 +9,10 @@
         "Women", 
         "Peace And Security"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Nicola Blackwood", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Oxford West and Abingdon", 
+    "id": "4019", 
     "party_name": "Conservative", 
     "slug": "nicola-blackwood", 
-    "id": "4019"
+    "party_colour": "#333399"
 }

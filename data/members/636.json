@@ -4,22 +4,10 @@
         "Rural Development", 
         "Urban Regeneration"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-04-07", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Commission"
-        }
-    ], 
     "display_name": "Mrs Anne McGuire", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Stirling", 
+    "id": "636", 
     "party_name": "Labour", 
     "slug": "mrs-anne-mcguire", 
-    "id": "636"
+    "party_colour": "#cc0000"
 }

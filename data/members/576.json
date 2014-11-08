@@ -3,22 +3,10 @@
         "Equalities", 
         "Foreign Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-01-10", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-05-20", 
-            "name": "Foreign Affairs Committee"
-        }
-    ], 
     "display_name": "Sandra Osborne", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Ayr, Carrick and Cumnock", 
+    "id": "576", 
     "party_name": "Labour", 
     "slug": "sandra-osborne", 
-    "id": "576"
+    "party_colour": "#cc0000"
 }

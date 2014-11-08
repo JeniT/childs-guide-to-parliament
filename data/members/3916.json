@@ -3,11 +3,10 @@
         "Economy", 
         "Defence"
     ], 
-    "committees": [], 
     "display_name": "Michael Dugher", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Barnsley East", 
+    "id": "3916", 
     "party_name": "Labour", 
     "slug": "michael-dugher", 
-    "id": "3916"
+    "party_colour": "#cc0000"
 }

@@ -7,11 +7,10 @@
         "Disability", 
         "Local And Regional Government"
     ], 
-    "committees": [], 
     "display_name": "John Healey", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wentworth and Dearne", 
+    "id": "400", 
     "party_name": "Labour", 
     "slug": "john-healey", 
-    "id": "400"
+    "party_colour": "#cc0000"
 }

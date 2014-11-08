@@ -5,22 +5,10 @@
         "Transport", 
         "Tamil Community"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-09-12", 
-            "name": "Regulatory Reform"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-10-14", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Mr Lee Scott", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Ilford North", 
+    "id": "1534", 
     "party_name": "Conservative", 
     "slug": "mr-lee-scott", 
-    "id": "1534"
+    "party_colour": "#333399"
 }

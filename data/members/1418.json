@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-07-01", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mr Tom Harris", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Glasgow South", 
+    "id": "1418", 
     "party_name": "Labour", 
     "slug": "mr-tom-harris", 
-    "id": "1418"
+    "party_colour": "#cc0000"
 }

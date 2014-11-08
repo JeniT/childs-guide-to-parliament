@@ -1,26 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-01-27", 
-            "name": "Work and Pensions Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-04-29", 
-            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-11-25", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Mr Mike Thornton", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Eastleigh", 
+    "id": "4273", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-mike-thornton", 
-    "id": "4273"
+    "party_colour": "#f1cc0a"
 }

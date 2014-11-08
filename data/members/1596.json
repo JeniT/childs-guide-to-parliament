@@ -6,17 +6,10 @@
         "Information Technology", 
         "Biotechnology"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Northern Ireland Affairs Committee"
-        }
-    ], 
     "display_name": "Dr Alasdair McDonnell", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Belfast South", 
+    "id": "1596", 
     "party_name": "Social Democratic & Labour Party", 
     "slug": "dr-alasdair-mcdonnell", 
-    "id": "1596"
+    "party_colour": "#999999"
 }

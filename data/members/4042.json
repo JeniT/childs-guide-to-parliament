@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Owen Smith", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Pontypridd", 
+    "id": "4042", 
     "party_name": "Labour", 
     "slug": "owen-smith", 
-    "id": "4042"
+    "party_colour": "#cc0000"
 }

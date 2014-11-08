@@ -5,17 +5,10 @@
         "Education", 
         "Race Relations"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Energy and Climate Change Committee"
-        }
-    ], 
     "display_name": "Mr Peter Lilley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hitchin and Harpenden", 
+    "id": "68", 
     "party_name": "Conservative", 
     "slug": "mr-peter-lilley", 
-    "id": "68"
+    "party_colour": "#333399"
 }

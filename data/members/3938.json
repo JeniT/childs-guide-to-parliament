@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Anna Soubry", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Broxtowe", 
+    "id": "3938", 
     "party_name": "Conservative", 
     "slug": "anna-soubry", 
-    "id": "3938"
+    "party_colour": "#333399"
 }

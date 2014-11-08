@@ -7,27 +7,10 @@
         "Democratic Reform", 
         "London Government"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-10", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }
-    ], 
     "display_name": "Margaret Hodge", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Barking", 
+    "id": "140", 
     "party_name": "Labour", 
     "slug": "margaret-hodge", 
-    "id": "140"
+    "party_colour": "#cc0000"
 }

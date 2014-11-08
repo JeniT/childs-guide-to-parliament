@@ -5,22 +5,10 @@
         "Health And Poverty", 
         "Defence"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-06-10", 
-            "name": "Defence Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-07-01", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Derek Twigg", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Halton", 
+    "id": "429", 
     "party_name": "Labour", 
     "slug": "derek-twigg", 
-    "id": "429"
+    "party_colour": "#cc0000"
 }

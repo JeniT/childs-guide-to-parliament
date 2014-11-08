@@ -5,17 +5,10 @@
         "Health Inequalities", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Julie Elliott", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sunderland Central", 
+    "id": "4127", 
     "party_name": "Labour", 
     "slug": "julie-elliott", 
-    "id": "4127"
+    "party_colour": "#cc0000"
 }

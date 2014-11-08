@@ -7,17 +7,10 @@
         "Children'S Issues", 
         "Domestic Abuse"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-07-17", 
-            "name": "Welsh Affairs Committee"
-        }
-    ], 
     "display_name": "Mrs Si\u00e2n C. James", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Swansea East", 
+    "id": "1573", 
     "party_name": "Labour", 
     "slug": "mrs-sian-c-james", 
-    "id": "1573"
+    "party_colour": "#cc0000"
 }

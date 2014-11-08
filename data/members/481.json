@@ -5,27 +5,10 @@
         "Crime", 
         "Disorder"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2009-10-13", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-17", 
-            "name": "Intelligence and Security (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2012-01-30", 
-            "name": "Finance and Services Committee"
-        }
-    ], 
     "display_name": "Mr George Howarth", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Knowsley", 
+    "id": "481", 
     "party_name": "Labour", 
     "slug": "mr-george-howarth", 
-    "id": "481"
+    "party_colour": "#cc0000"
 }

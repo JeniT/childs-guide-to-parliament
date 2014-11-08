@@ -5,17 +5,10 @@
         "Tourism", 
         "Home Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "Mr Elfyn Llwyd", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Dwyfor Meirionnydd", 
+    "id": "549", 
     "party_name": "Plaid Cymru", 
     "slug": "mr-elfyn-llwyd", 
-    "id": "549"
+    "party_colour": "#999999"
 }

@@ -12,22 +12,10 @@
         "Constitutional Reform", 
         "Small Businesses"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2005-12-05", 
-            "name": "Public Accounts Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Accounts Commission"
-        }
-    ], 
     "display_name": "Austin Mitchell", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Great Grimsby", 
+    "id": "372", 
     "party_name": "Labour", 
     "slug": "austin-mitchell", 
-    "id": "372"
+    "party_colour": "#cc0000"
 }

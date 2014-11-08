@@ -3,32 +3,10 @@
         "Parliamentary And Constitutional Affairs", 
         "Architectural And Artistic Heritage"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-01-13", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-21", 
-            "name": "National Policy Statements Sub-Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2003-02-04", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2007-11-06", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "Sir Alan Beith", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Berwick-upon-Tweed", 
+    "id": "513", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-alan-beith", 
-    "id": "513"
+    "party_colour": "#f1cc0a"
 }

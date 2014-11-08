@@ -4,17 +4,10 @@
         "Human Rights", 
         "International Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-11-14", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mark Hunter", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Cheadle", 
+    "id": "1598", 
     "party_name": "Liberal Democrat", 
     "slug": "mark-hunter", 
-    "id": "1598"
+    "party_colour": "#f1cc0a"
 }

@@ -10,17 +10,10 @@
         "Transport Safety", 
         "The Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-05-16", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "Jeremy Corbyn", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Islington North", 
+    "id": "185", 
     "party_name": "Labour", 
     "slug": "jeremy-corbyn", 
-    "id": "185"
+    "party_colour": "#cc0000"
 }

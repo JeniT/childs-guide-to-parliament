@@ -6,11 +6,10 @@
         "Foreign Affairs", 
         "Health"
     ], 
-    "committees": [], 
     "display_name": "Mark Simmonds", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Boston and Skegness", 
+    "id": "1393", 
     "party_name": "Conservative", 
     "slug": "mark-simmonds", 
-    "id": "1393"
+    "party_colour": "#333399"
 }

@@ -5,11 +5,10 @@
         "Welsh Affairs", 
         "Countryside"
     ], 
-    "committees": [], 
     "display_name": "Mr David Jones", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Clwyd West", 
+    "id": "1502", 
     "party_name": "Conservative", 
     "slug": "mr-david-jones", 
-    "id": "1502"
+    "party_colour": "#333399"
 }

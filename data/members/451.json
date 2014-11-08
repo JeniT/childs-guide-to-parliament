@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2003-01-01", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }
-    ], 
     "display_name": "Sir Gerald Kaufman", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Manchester, Gorton", 
+    "id": "451", 
     "party_name": "Labour", 
     "slug": "sir-gerald-kaufman", 
-    "id": "451"
+    "party_colour": "#cc0000"
 }

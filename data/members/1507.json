@@ -7,22 +7,10 @@
         "Youth", 
         "Welfare Rights"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-19", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-11", 
-            "name": "Backbench Business Committee"
-        }
-    ], 
     "display_name": "Natascha Engel", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "North East Derbyshire", 
+    "id": "1507", 
     "party_name": "Labour", 
     "slug": "natascha-engel", 
-    "id": "1507"
+    "party_colour": "#cc0000"
 }

@@ -5,17 +5,10 @@
         "Small Business", 
         "European Union"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Procedure Committee"
-        }
-    ], 
     "display_name": "Mr David Nuttall", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bury North", 
+    "id": "4140", 
     "party_name": "Conservative", 
     "slug": "mr-david-nuttall", 
-    "id": "4140"
+    "party_colour": "#333399"
 }

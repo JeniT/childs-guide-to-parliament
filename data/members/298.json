@@ -5,11 +5,10 @@
         "Economic Issues", 
         "Police And Security Issues"
     ], 
-    "committees": [], 
     "display_name": "Steve McCabe", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Birmingham, Selly Oak", 
+    "id": "298", 
     "party_name": "Labour", 
     "slug": "steve-mccabe", 
-    "id": "298"
+    "party_colour": "#cc0000"
 }

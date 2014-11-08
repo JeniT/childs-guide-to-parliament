@@ -4,27 +4,10 @@
         "Sport", 
         "Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-18", 
-            "name": "Speaker's Advisory Committee on Works of Art"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-03-18", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Caroline Nokes", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Romsey and Southampton North", 
+    "id": "4048", 
     "party_name": "Conservative", 
     "slug": "caroline-nokes", 
-    "id": "4048"
+    "party_colour": "#333399"
 }

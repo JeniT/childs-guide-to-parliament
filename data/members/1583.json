@@ -7,11 +7,10 @@
         "Sexual And Reproductive Health", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Lyn Brown", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "West Ham", 
+    "id": "1583", 
     "party_name": "Labour", 
     "slug": "lyn-brown", 
-    "id": "1583"
+    "party_colour": "#cc0000"
 }

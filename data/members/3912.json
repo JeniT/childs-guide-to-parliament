@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Regulatory Reform"
-        }
-    ], 
     "display_name": "Richard Fuller", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bedford", 
+    "id": "3912", 
     "party_name": "Conservative", 
     "slug": "richard-fuller", 
-    "id": "3912"
+    "party_colour": "#333399"
 }

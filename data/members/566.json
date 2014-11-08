@@ -5,27 +5,10 @@
         "Education", 
         "European Union"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2003-12-16", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2005-07-12", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Martin Caton", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Gower", 
+    "id": "566", 
     "party_name": "Labour", 
     "slug": "martin-caton", 
-    "id": "566"
+    "party_colour": "#cc0000"
 }

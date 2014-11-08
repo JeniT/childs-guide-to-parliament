@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Public Accounts Committee"
-        }
-    ], 
     "display_name": "Meg Hillier", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Hackney South and Shoreditch", 
+    "id": "1524", 
     "party_name": "Labour (Co-op)", 
     "slug": "meg-hillier", 
-    "id": "1524"
+    "party_colour": "#cc0000"
 }

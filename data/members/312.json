@@ -8,22 +8,10 @@
         "Transport", 
         "Local Government"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-12-16", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-02-25", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Mrs Caroline Spelman", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Meriden", 
+    "id": "312", 
     "party_name": "Conservative", 
     "slug": "mrs-caroline-spelman", 
-    "id": "312"
+    "party_colour": "#333399"
 }

@@ -2,27 +2,10 @@
     "interests": [
         "Public Services"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Treasury Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-10-16", 
-            "name": "House of Commons Governance Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Jesse Norman", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hereford and South Herefordshire", 
+    "id": "3991", 
     "party_name": "Conservative", 
     "slug": "jesse-norman", 
-    "id": "3991"
+    "party_colour": "#333399"
 }

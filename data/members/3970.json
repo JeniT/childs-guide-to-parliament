@@ -3,17 +3,10 @@
         "Home Affairs", 
         "Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-04-07", 
-            "name": "Human Rights (Joint Committee)"
-        }
-    ], 
     "display_name": "Gareth Johnson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Dartford", 
+    "id": "3970", 
     "party_name": "Conservative", 
     "slug": "gareth-johnson", 
-    "id": "3970"
+    "party_colour": "#333399"
 }

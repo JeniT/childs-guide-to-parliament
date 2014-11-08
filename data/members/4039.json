@@ -3,11 +3,10 @@
         "Business", 
         "Finance"
     ], 
-    "committees": [], 
     "display_name": "Joseph Johnson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Orpington", 
+    "id": "4039", 
     "party_name": "Conservative", 
     "slug": "joseph-johnson", 
-    "id": "4039"
+    "party_colour": "#333399"
 }

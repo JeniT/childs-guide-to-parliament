@@ -5,11 +5,10 @@
         "International Affairs", 
         "Public Services"
     ], 
-    "committees": [], 
     "display_name": "Sadiq Khan", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Tooting", 
+    "id": "1577", 
     "party_name": "Labour", 
     "slug": "sadiq-khan", 
-    "id": "1577"
+    "party_colour": "#cc0000"
 }

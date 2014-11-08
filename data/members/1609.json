@@ -3,17 +3,10 @@
         "Work And Pensions", 
         "Public Services"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-04", 
-            "name": "Transport Committee"
-        }
-    ], 
     "display_name": "Chloe Smith", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Norwich North", 
+    "id": "1609", 
     "party_name": "Conservative", 
     "slug": "chloe-smith", 
-    "id": "1609"
+    "party_colour": "#333399"
 }

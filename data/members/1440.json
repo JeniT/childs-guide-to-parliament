@@ -4,11 +4,10 @@
         "Justice And Equality", 
         "Intellectual Property"
     ], 
-    "committees": [], 
     "display_name": "Pete Wishart", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Perth and North Perthshire", 
+    "id": "1440", 
     "party_name": "Scottish National", 
     "slug": "pete-wishart", 
-    "id": "1440"
+    "party_colour": "#999999"
 }

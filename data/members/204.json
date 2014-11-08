@@ -7,11 +7,10 @@
         "Environment", 
         "Community Safety"
     ], 
-    "committees": [], 
     "display_name": "Paul Burstow", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Sutton and Cheam", 
+    "id": "204", 
     "party_name": "Liberal Democrat", 
     "slug": "paul-burstow", 
-    "id": "204"
+    "party_colour": "#f1cc0a"
 }

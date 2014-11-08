@@ -5,11 +5,10 @@
         "Trade", 
         "Voluntary Sector"
     ], 
-    "committees": [], 
     "display_name": "Stephen Crabb", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Preseli Pembrokeshire", 
+    "id": "1554", 
     "party_name": "Conservative", 
     "slug": "stephen-crabb", 
-    "id": "1554"
+    "party_colour": "#333399"
 }

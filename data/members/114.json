@@ -11,17 +11,10 @@
         "Health", 
         "Children'S Issues"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-11-03", 
-            "name": "Home Affairs Committee"
-        }
-    ], 
     "display_name": "Tim Loughton", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "East Worthing and Shoreham", 
+    "id": "114", 
     "party_name": "Conservative", 
     "slug": "tim-loughton", 
-    "id": "114"
+    "party_colour": "#333399"
 }

@@ -9,22 +9,10 @@
         "Law And Order", 
         "Environment"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-02-04", 
-            "name": "Science and Technology Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "David Tredinnick", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Bosworth", 
+    "id": "335", 
     "party_name": "Conservative", 
     "slug": "david-tredinnick", 
-    "id": "335"
+    "party_colour": "#333399"
 }

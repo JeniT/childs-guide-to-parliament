@@ -6,11 +6,10 @@
         "Energy", 
         "Climate Change"
     ], 
-    "committees": [], 
     "display_name": "Sir Andrew Stunell", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Hazel Grove", 
+    "id": "445", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-andrew-stunell", 
-    "id": "445"
+    "party_colour": "#f1cc0a"
 }

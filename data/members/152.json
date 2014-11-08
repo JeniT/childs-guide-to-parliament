@@ -7,11 +7,10 @@
         "Environment", 
         "Social Policy"
     ], 
-    "committees": [], 
     "display_name": "Mr Iain Duncan Smith", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Chingford and Woodford Green", 
+    "id": "152", 
     "party_name": "Conservative", 
     "slug": "mr-iain-duncan-smith", 
-    "id": "152"
+    "party_colour": "#333399"
 }

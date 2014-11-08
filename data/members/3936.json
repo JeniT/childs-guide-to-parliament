@@ -5,11 +5,10 @@
         "Drugs And Alcohol Rehabilitation", 
         "Brewery And Pub Industry"
     ], 
-    "committees": [], 
     "display_name": "Andrew Griffiths", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Burton", 
+    "id": "3936", 
     "party_name": "Conservative", 
     "slug": "andrew-griffiths", 
-    "id": "3936"
+    "party_colour": "#333399"
 }

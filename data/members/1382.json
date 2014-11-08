@@ -9,22 +9,10 @@
         "Coal", 
         "Archives"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-09-08", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Human Rights (Joint Committee)"
-        }
-    ], 
     "display_name": "Dr Hywel Francis", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Aberavon", 
+    "id": "1382", 
     "party_name": "Labour", 
     "slug": "dr-hywel-francis", 
-    "id": "1382"
+    "party_colour": "#cc0000"
 }

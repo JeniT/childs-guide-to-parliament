@@ -5,11 +5,10 @@
         "Social Security", 
         "Middle East"
     ], 
-    "committees": [], 
     "display_name": "Sir Alan Duncan", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Rutland and Melton", 
+    "id": "343", 
     "party_name": "Conservative", 
     "slug": "sir-alan-duncan", 
-    "id": "343"
+    "party_colour": "#333399"
 }

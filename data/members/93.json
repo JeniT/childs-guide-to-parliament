@@ -7,22 +7,10 @@
         "European Union", 
         "Childcare"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-10-26", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-03-15", 
-            "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Sir Tony Baldry", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Banbury", 
+    "id": "93", 
     "party_name": "Conservative", 
     "slug": "sir-tony-baldry", 
-    "id": "93"
+    "party_colour": "#333399"
 }

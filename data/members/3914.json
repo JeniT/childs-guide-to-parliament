@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Shabana Mahmood", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Birmingham, Ladywood", 
+    "id": "3914", 
     "party_name": "Labour", 
     "slug": "shabana-mahmood", 
-    "id": "3914"
+    "party_colour": "#cc0000"
 }

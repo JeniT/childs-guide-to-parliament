@@ -8,17 +8,10 @@
         "International Development", 
         "Finance And Economy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-07-18", 
-            "name": "Members' Expenses Committee"
-        }
-    ], 
     "display_name": "Cathy Jamieson", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Kilmarnock and Loudoun", 
+    "id": "4011", 
     "party_name": "Labour (Co-op)", 
     "slug": "cathy-jamieson", 
-    "id": "4011"
+    "party_colour": "#cc0000"
 }

@@ -10,17 +10,10 @@
         "Defence", 
         "Women'S Role In Public Life"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2009-01-19", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Mrs Madeleine Moon", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bridgend", 
+    "id": "1490", 
     "party_name": "Labour", 
     "slug": "mrs-madeleine-moon", 
-    "id": "1490"
+    "party_colour": "#cc0000"
 }

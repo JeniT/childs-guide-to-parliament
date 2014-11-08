@@ -8,11 +8,10 @@
         "Commerce And Industry", 
         "Welfare Of The Elderly And Disabled People"
     ], 
-    "committees": [], 
     "display_name": "Mr John Hayes", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Holland and The Deepings", 
+    "id": "350", 
     "party_name": "Conservative", 
     "slug": "mr-john-hayes", 
-    "id": "350"
+    "party_colour": "#333399"
 }

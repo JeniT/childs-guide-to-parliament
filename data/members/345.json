@@ -5,27 +5,10 @@
         "Agriculture", 
         "Families"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-03-16", 
-            "name": "Public Accounts Commission"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-07", 
-            "name": "Panel of Chairs"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-07-18", 
-            "name": "Members' Expenses Committee"
-        }
-    ], 
     "display_name": "Sir Edward Leigh", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Gainsborough", 
+    "id": "345", 
     "party_name": "Conservative", 
     "slug": "sir-edward-leigh", 
-    "id": "345"
+    "party_colour": "#333399"
 }

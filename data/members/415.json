@@ -11,32 +11,10 @@
         "Prison Health", 
         "Hospices And Palliative Care"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-11-08", 
-            "name": "Political and Constitutional Reform Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-11-30", 
-            "name": "National Security Strategy (Joint Committee)"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-02-04", 
-            "name": "International Development Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-06-24", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Fabian Hamilton", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leeds North East", 
+    "id": "415", 
     "party_name": "Labour", 
     "slug": "fabian-hamilton", 
-    "id": "415"
+    "party_colour": "#cc0000"
 }

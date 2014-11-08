@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Mr George Galloway", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Bradford West", 
+    "id": "609", 
     "party_name": "Respect", 
     "slug": "mr-george-galloway", 
-    "id": "609"
+    "party_colour": "#999999"
 }

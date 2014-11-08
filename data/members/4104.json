@@ -6,22 +6,10 @@
         "Rural Affairs", 
         "Public Services"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Environmental Audit Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Education Committee"
-        }
-    ], 
     "display_name": "Neil Carmichael", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Stroud", 
+    "id": "4104", 
     "party_name": "Conservative", 
     "slug": "neil-carmichael", 
-    "id": "4104"
+    "party_colour": "#333399"
 }

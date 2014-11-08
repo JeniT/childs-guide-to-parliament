@@ -5,22 +5,10 @@
         "Health", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2002-11-18", 
-            "name": "Home Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2007-01-22", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Mr James Clappison", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Hertsmere", 
+    "id": "67", 
     "party_name": "Conservative", 
     "slug": "mr-james-clappison", 
-    "id": "67"
+    "party_colour": "#333399"
 }

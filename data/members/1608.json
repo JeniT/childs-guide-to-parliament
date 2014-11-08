@@ -6,22 +6,10 @@
         "Foreign Policy", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2009-02-03", 
-            "name": "Scottish Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-11-02", 
-            "name": "Public Administration Committee"
-        }
-    ], 
     "display_name": "Lindsay Roy", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Glenrothes", 
+    "id": "1608", 
     "party_name": "Labour", 
     "slug": "lindsay-roy", 
-    "id": "1608"
+    "party_colour": "#cc0000"
 }

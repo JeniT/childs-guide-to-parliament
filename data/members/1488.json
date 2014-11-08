@@ -6,11 +6,10 @@
         "Foreign Policy", 
         "Women'S Issues"
     ], 
-    "committees": [], 
     "display_name": "Mr Brooks Newmark", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Braintree", 
+    "id": "1488", 
     "party_name": "Conservative", 
     "slug": "mr-brooks-newmark", 
-    "id": "1488"
+    "party_colour": "#333399"
 }

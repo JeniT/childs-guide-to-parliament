@@ -5,11 +5,10 @@
         "Job Creation And Inward Investment", 
         "Poverty"
     ], 
-    "committees": [], 
     "display_name": "Paul Maskey", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Belfast West", 
+    "id": "4245", 
     "party_name": "Sinn Fein", 
     "slug": "paul-maskey", 
-    "id": "4245"
+    "party_colour": "#999999"
 }

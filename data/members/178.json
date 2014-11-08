@@ -7,17 +7,10 @@
         "Aviation", 
         "Public Administration"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-25", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "John McDonnell", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Hayes and Harlington", 
+    "id": "178", 
     "party_name": "Labour", 
     "slug": "john-mcdonnell", 
-    "id": "178"
+    "party_colour": "#cc0000"
 }

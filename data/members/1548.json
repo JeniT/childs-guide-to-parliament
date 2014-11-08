@@ -6,17 +6,10 @@
         "Children", 
         "Steel Industry"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Welsh Affairs Committee"
-        }
-    ], 
     "display_name": "Jessica Morden", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Newport East", 
+    "id": "1548", 
     "party_name": "Labour", 
     "slug": "jessica-morden", 
-    "id": "1548"
+    "party_colour": "#cc0000"
 }

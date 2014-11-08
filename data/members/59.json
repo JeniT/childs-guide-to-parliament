@@ -7,11 +7,10 @@
         "Health", 
         "Local Government"
     ], 
-    "committees": [], 
     "display_name": "Mr Mike Hancock", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Portsmouth South", 
+    "id": "59", 
     "party_name": "Independent", 
     "slug": "mr-mike-hancock", 
-    "id": "59"
+    "party_colour": "#999999"
 }

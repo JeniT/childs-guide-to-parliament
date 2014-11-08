@@ -6,11 +6,10 @@
         "Foreign Policy", 
         "Sport"
     ], 
-    "committees": [], 
     "display_name": "Vernon Coaker", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Gedling", 
+    "id": "360", 
     "party_name": "Labour", 
     "slug": "vernon-coaker", 
-    "id": "360"
+    "party_colour": "#cc0000"
 }

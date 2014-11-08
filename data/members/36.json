@@ -6,17 +6,10 @@
         "Constitution", 
         "Devolution"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Parliamentary Privilege (Joint Committee)"
-        }
-    ], 
     "display_name": "Mrs Eleanor Laing", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Epping Forest", 
+    "id": "36", 
     "party_name": "Conservative", 
     "slug": "mrs-eleanor-laing", 
-    "id": "36"
+    "party_colour": "#333399"
 }

@@ -6,17 +6,10 @@
         "Hunting With Dogs (Against)", 
         "Poverty"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-07-01", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "David Wright", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Telford", 
+    "id": "1461", 
     "party_name": "Labour", 
     "slug": "david-wright", 
-    "id": "1461"
+    "party_colour": "#cc0000"
 }

@@ -11,17 +11,10 @@
         "Coal Industry", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-02-24", 
-            "name": "Justice Committee"
-        }
-    ], 
     "display_name": "John Cryer", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leyton and Wanstead", 
+    "id": "181", 
     "party_name": "Labour", 
     "slug": "john-cryer", 
-    "id": "181"
+    "party_colour": "#cc0000"
 }

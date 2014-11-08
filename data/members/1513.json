@@ -7,11 +7,10 @@
         "Allergy", 
         "Body Image"
     ], 
-    "committees": [], 
     "display_name": "Jo Swinson", 
-    "gender": "female", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "East Dunbartonshire", 
+    "id": "1513", 
     "party_name": "Liberal Democrat", 
     "slug": "jo-swinson", 
-    "id": "1513"
+    "party_colour": "#f1cc0a"
 }

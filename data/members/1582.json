@@ -5,11 +5,10 @@
         "Home Affairs", 
         "Foreign Affairs"
     ], 
-    "committees": [], 
     "display_name": "Grant Shapps", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Welwyn Hatfield", 
+    "id": "1582", 
     "party_name": "Conservative", 
     "slug": "grant-shapps", 
-    "id": "1582"
+    "party_colour": "#333399"
 }

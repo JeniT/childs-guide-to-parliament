@@ -6,17 +6,10 @@
         "Business", 
         "Transport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-18", 
-            "name": "Speaker's Committee on the Electoral Commission"
-        }
-    ], 
     "display_name": "Brandon Lewis", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Great Yarmouth", 
+    "id": "4009", 
     "party_name": "Conservative", 
     "slug": "brandon-lewis", 
-    "id": "4009"
+    "party_colour": "#333399"
 }

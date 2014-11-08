@@ -9,11 +9,10 @@
         "Urban Policy", 
         "Local Government"
     ], 
-    "committees": [], 
     "display_name": "Hilary Benn", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Leeds Central", 
+    "id": "413", 
     "party_name": "Labour", 
     "slug": "hilary-benn", 
-    "id": "413"
+    "party_colour": "#cc0000"
 }

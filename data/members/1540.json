@@ -7,17 +7,10 @@
         "Work And Pensions", 
         "Social Care"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Public Administration Committee"
-        }
-    ], 
     "display_name": "Greg Mulholland", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Leeds North West", 
+    "id": "1540", 
     "party_name": "Liberal Democrat", 
     "slug": "greg-mulholland", 
-    "id": "1540"
+    "party_colour": "#f1cc0a"
 }

@@ -4,17 +4,10 @@
         "Science And Technology", 
         "Business"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Science and Technology Committee (Commons)"
-        }
-    ], 
     "display_name": "Stephen Mosley", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "City of Chester", 
+    "id": "3954", 
     "party_name": "Conservative", 
     "slug": "stephen-mosley", 
-    "id": "3954"
+    "party_colour": "#333399"
 }

@@ -8,17 +8,10 @@
         "Tourism", 
         "Mindfulness"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-01-20", 
-            "name": "Political and Constitutional Reform Committee"
-        }
-    ], 
     "display_name": "Chris Ruane", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Vale of Clwyd", 
+    "id": "534", 
     "party_name": "Labour", 
     "slug": "chris-ruane", 
-    "id": "534"
+    "party_colour": "#cc0000"
 }

@@ -2,17 +2,10 @@
     "interests": [
         "Small Businesses"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2004-03-15", 
-            "name": "Northern Ireland Affairs Committee"
-        }
-    ], 
     "display_name": "Mr Stephen Hepburn", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Jarrow", 
+    "id": "520", 
     "party_name": "Labour", 
     "slug": "mr-stephen-hepburn", 
-    "id": "520"
+    "party_colour": "#cc0000"
 }

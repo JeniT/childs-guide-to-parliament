@@ -9,11 +9,10 @@
         "Higher Education", 
         "Asylum And Immigration"
     ], 
-    "committees": [], 
     "display_name": "Eric Joyce", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Falkirk", 
+    "id": "603", 
     "party_name": "Independent", 
     "slug": "eric-joyce", 
-    "id": "603"
+    "party_colour": "#999999"
 }

@@ -6,11 +6,10 @@
         "Universities And Skills", 
         "Agriculture"
     ], 
-    "committees": [], 
     "display_name": "Julian Smith", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Skipton and Ripon", 
+    "id": "4118", 
     "party_name": "Conservative", 
     "slug": "julian-smith", 
-    "id": "4118"
+    "party_colour": "#333399"
 }

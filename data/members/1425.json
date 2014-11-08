@@ -7,11 +7,10 @@
         "Transport", 
         "Planning"
     ], 
-    "committees": [], 
     "display_name": "Mr Jonathan Djanogly", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Huntingdon", 
+    "id": "1425", 
     "party_name": "Conservative", 
     "slug": "mr-jonathan-djanogly", 
-    "id": "1425"
+    "party_colour": "#333399"
 }

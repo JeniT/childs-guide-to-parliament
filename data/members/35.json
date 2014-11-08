@@ -9,22 +9,10 @@
         "Youth Organisations", 
         "Defence"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-06-23", 
-            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
-        }, 
-        {
-            "to": null, 
-            "from": "2011-10-24", 
-            "name": "Defence Committee"
-        }
-    ], 
     "display_name": "Sir Bob Russell", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Colchester", 
+    "id": "35", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-bob-russell", 
-    "id": "35"
+    "party_colour": "#f1cc0a"
 }

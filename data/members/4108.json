@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Gavin Williamson", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "South Staffordshire", 
+    "id": "4108", 
     "party_name": "Conservative", 
     "slug": "gavin-williamson", 
-    "id": "4108"
+    "party_colour": "#333399"
 }

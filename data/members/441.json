@@ -7,11 +7,10 @@
         "Culture", 
         "Media And Sport"
     ], 
-    "committees": [], 
     "display_name": "Mr Ivan Lewis", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Bury South", 
+    "id": "441", 
     "party_name": "Labour", 
     "slug": "mr-ivan-lewis", 
-    "id": "441"
+    "party_colour": "#cc0000"
 }

@@ -6,22 +6,10 @@
         "Pharmacy", 
         "Renewables"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Northern Ireland Affairs Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-30", 
-            "name": "Backbench Business Committee"
-        }
-    ], 
     "display_name": "Oliver Colvile", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Plymouth, Sutton and Devonport", 
+    "id": "4022", 
     "party_name": "Conservative", 
     "slug": "oliver-colvile", 
-    "id": "4022"
+    "party_colour": "#333399"
 }

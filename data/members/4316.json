@@ -1,16 +1,9 @@
 {
     "interests": [], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-03-18", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Mike Kane", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Wythenshawe and Sale East", 
+    "id": "4316", 
     "party_name": "Labour", 
     "slug": "mike-kane", 
-    "id": "4316"
+    "party_colour": "#cc0000"
 }

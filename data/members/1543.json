@@ -5,17 +5,10 @@
         "Transport", 
         "Sport"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-21", 
-            "name": "Culture, Media and Sport Committee"
-        }
-    ], 
     "display_name": "Mr John Leech", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Manchester, Withington", 
+    "id": "1543", 
     "party_name": "Liberal Democrat", 
     "slug": "mr-john-leech", 
-    "id": "1543"
+    "party_colour": "#f1cc0a"
 }

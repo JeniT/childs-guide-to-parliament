@@ -5,11 +5,10 @@
         "Poverty", 
         "Equal Opportunities"
     ], 
-    "committees": [], 
     "display_name": "Yvette Cooper", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Normanton, Pontefract and Castleford", 
+    "id": "420", 
     "party_name": "Labour", 
     "slug": "yvette-cooper", 
-    "id": "420"
+    "party_colour": "#cc0000"
 }

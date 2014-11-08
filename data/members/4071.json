@@ -4,22 +4,10 @@
         "Rural Affairs", 
         "Sustainable Energy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-02-27", 
-            "name": "Science and Technology Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-19", 
-            "name": "Ecclesiastical Committee (Joint Committee)"
-        }
-    ], 
     "display_name": "Sarah Newton", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Truro and Falmouth", 
+    "id": "4071", 
     "party_name": "Conservative", 
     "slug": "sarah-newton", 
-    "id": "4071"
+    "party_colour": "#333399"
 }

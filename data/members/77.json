@@ -7,11 +7,10 @@
         "Families", 
         "Countryside"
     ], 
-    "committees": [], 
     "display_name": "Mr Julian Brazier", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Canterbury", 
+    "id": "77", 
     "party_name": "Conservative", 
     "slug": "mr-julian-brazier", 
-    "id": "77"
+    "party_colour": "#333399"
 }

@@ -5,27 +5,10 @@
         "Defence", 
         "Foreign Policy"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-02-12", 
-            "name": "Standards Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2013-02-12", 
-            "name": "Privileges Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2014-06-10", 
-            "name": "Committee on Standards: Standards Review Sub-Committee"
-        }
-    ], 
     "display_name": "Sir Nick Harvey", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "North Devon", 
+    "id": "231", 
     "party_name": "Liberal Democrat", 
     "slug": "sir-nick-harvey", 
-    "id": "231"
+    "party_colour": "#f1cc0a"
 }

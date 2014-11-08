@@ -1,10 +1,9 @@
 {
     "interests": [], 
-    "committees": [], 
     "display_name": "Andy Sawford", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Corby", 
+    "id": "4265", 
     "party_name": "Labour (Co-op)", 
     "slug": "andy-sawford", 
-    "id": "4265"
+    "party_colour": "#cc0000"
 }

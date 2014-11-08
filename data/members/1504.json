@@ -11,17 +11,10 @@
         "Education", 
         "Agriculture"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-11-25", 
-            "name": "Environmental Audit Committee"
-        }
-    ], 
     "display_name": "Dan Rogerson", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "North Cornwall", 
+    "id": "1504", 
     "party_name": "Liberal Democrat", 
     "slug": "dan-rogerson", 
-    "id": "1504"
+    "party_colour": "#f1cc0a"
 }

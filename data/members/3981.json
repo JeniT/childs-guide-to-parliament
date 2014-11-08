@@ -5,11 +5,10 @@
         "Foreign Policy", 
         "International Development"
     ], 
-    "committees": [], 
     "display_name": "Anas Sarwar", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Glasgow Central", 
+    "id": "3981", 
     "party_name": "Labour", 
     "slug": "anas-sarwar", 
-    "id": "3981"
+    "party_colour": "#cc0000"
 }

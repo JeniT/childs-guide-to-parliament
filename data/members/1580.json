@@ -6,11 +6,10 @@
         "Science And Technology", 
         "Environment"
     ], 
-    "committees": [], 
     "display_name": "Mr Edward Vaizey", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Wantage", 
+    "id": "1580", 
     "party_name": "Conservative", 
     "slug": "mr-edward-vaizey", 
-    "id": "1580"
+    "party_colour": "#333399"
 }

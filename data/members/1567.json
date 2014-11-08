@@ -9,11 +9,10 @@
         "Funerals And Bereavement", 
         "Personal Debt"
     ], 
-    "committees": [], 
     "display_name": "Lorely Burt", 
-    "gender": "female", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Solihull", 
+    "id": "1567", 
     "party_name": "Liberal Democrat", 
     "slug": "lorely-burt", 
-    "id": "1567"
+    "party_colour": "#f1cc0a"
 }

@@ -5,22 +5,10 @@
         "Human Rights", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-05-09", 
-            "name": "Selection Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-26", 
-            "name": "Regulatory Reform"
-        }
-    ], 
     "display_name": "Heidi Alexander", 
-    "gender": "female", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Lewisham East", 
+    "id": "4038", 
     "party_name": "Labour", 
     "slug": "heidi-alexander", 
-    "id": "4038"
+    "party_colour": "#cc0000"
 }

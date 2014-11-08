@@ -8,17 +8,10 @@
         "Creative Industries", 
         "International Relations"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-12-06", 
-            "name": "Consolidation Bills (Joint Committee)"
-        }
-    ], 
     "display_name": "Damian Collins", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Folkestone and Hythe", 
+    "id": "3986", 
     "party_name": "Conservative", 
     "slug": "damian-collins", 
-    "id": "3986"
+    "party_colour": "#333399"
 }

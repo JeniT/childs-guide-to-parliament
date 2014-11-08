@@ -6,22 +6,10 @@
         "Defence", 
         "International Development"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Defence Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
-        }
-    ], 
     "display_name": "Mr Jeffrey M. Donaldson", 
-    "gender": "male", 
-    "party_colour": "#999999", 
+    "constituency_name": "Lagan Valley", 
+    "id": "650", 
     "party_name": "Democratic Unionist", 
     "slug": "mr-jeffrey-m-donaldson", 
-    "id": "650"
+    "party_colour": "#999999"
 }

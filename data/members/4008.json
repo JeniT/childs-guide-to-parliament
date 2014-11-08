@@ -4,17 +4,10 @@
         "Defence (Particularly Supporting Service Families)", 
         "Education"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-11-05", 
-            "name": "Business, Innovation and Skills Committee"
-        }
-    ], 
     "display_name": "Caroline Dinenage", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Gosport", 
+    "id": "4008", 
     "party_name": "Conservative", 
     "slug": "caroline-dinenage", 
-    "id": "4008"
+    "party_colour": "#333399"
 }

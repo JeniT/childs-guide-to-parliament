@@ -6,17 +6,10 @@
         "Town Centre", 
         "Social Mobility"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2012-12-03", 
-            "name": "Administration Committee"
-        }
-    ], 
     "display_name": "Mr Marcus Jones", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Nuneaton", 
+    "id": "4024", 
     "party_name": "Conservative", 
     "slug": "mr-marcus-jones", 
-    "id": "4024"
+    "party_colour": "#333399"
 }

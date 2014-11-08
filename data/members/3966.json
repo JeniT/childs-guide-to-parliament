@@ -8,11 +8,10 @@
         "Conservation", 
         "Business"
     ], 
-    "committees": [], 
     "display_name": "Ian Murray", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Edinburgh South", 
+    "id": "3966", 
     "party_name": "Labour", 
     "slug": "ian-murray", 
-    "id": "3966"
+    "party_colour": "#cc0000"
 }

@@ -5,11 +5,10 @@
         "Broadcasting", 
         "Information Economy"
     ], 
-    "committees": [], 
     "display_name": "Chris Bryant", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Rhondda", 
+    "id": "1446", 
     "party_name": "Labour", 
     "slug": "chris-bryant", 
-    "id": "1446"
+    "party_colour": "#cc0000"
 }

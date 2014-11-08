@@ -4,11 +4,10 @@
         "Sustainable Communities", 
         "Education"
     ], 
-    "committees": [], 
     "display_name": "Phil Wilson", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Sedgefield", 
+    "id": "1603", 
     "party_name": "Labour", 
     "slug": "phil-wilson", 
-    "id": "1603"
+    "party_colour": "#cc0000"
 }

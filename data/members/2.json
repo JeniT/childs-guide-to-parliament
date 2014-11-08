@@ -5,22 +5,10 @@
         "Arts", 
         "European Union"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2011-01-17", 
-            "name": "Public Administration Committee"
-        }, 
-        {
-            "to": null, 
-            "from": "2007-04-25", 
-            "name": "European Scrutiny Committee"
-        }
-    ], 
     "display_name": "Kelvin Hopkins", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Luton North", 
+    "id": "2", 
     "party_name": "Labour", 
     "slug": "kelvin-hopkins", 
-    "id": "2"
+    "party_colour": "#cc0000"
 }

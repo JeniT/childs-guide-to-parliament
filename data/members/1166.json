@@ -7,11 +7,10 @@
         "Economic And Monetary Affairs", 
         "Trade And Industry"
     ], 
-    "committees": [], 
     "display_name": "Jonathan Evans", 
-    "gender": "male", 
-    "party_colour": "#333399", 
+    "constituency_name": "Cardiff North", 
+    "id": "1166", 
     "party_name": "Conservative", 
     "slug": "jonathan-evans", 
-    "id": "1166"
+    "party_colour": "#333399"
 }

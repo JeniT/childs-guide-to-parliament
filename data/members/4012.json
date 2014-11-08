@@ -4,17 +4,10 @@
         "Nhs", 
         "Local Government"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2013-01-28", 
-            "name": "Scottish Affairs Committee"
-        }
-    ], 
     "display_name": "Graeme Morrice", 
-    "gender": "male", 
-    "party_colour": "#cc0000", 
+    "constituency_name": "Livingston", 
+    "id": "4012", 
     "party_name": "Labour", 
     "slug": "graeme-morrice", 
-    "id": "4012"
+    "party_colour": "#cc0000"
 }

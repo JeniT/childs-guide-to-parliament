@@ -6,17 +6,10 @@
         "International Development", 
         "Home Affairs"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-11-05", 
-            "name": "Selection Committee"
-        }
-    ], 
     "display_name": "Tom Brake", 
-    "gender": "male", 
-    "party_colour": "#f1cc0a", 
+    "constituency_name": "Carshalton and Wallington", 
+    "id": "151", 
     "party_name": "Liberal Democrat", 
     "slug": "tom-brake", 
-    "id": "151"
+    "party_colour": "#f1cc0a"
 }

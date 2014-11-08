@@ -5,22 +5,10 @@
         "Bovine Tb", 
         "Rural Communities"
     ], 
-    "committees": [
-        {
-            "to": null, 
-            "from": "2014-06-18", 
-            "name": "Liaison Committee (Commons)"
-        }, 
-        {
-            "to": null, 
-            "from": "2010-07-12", 
-            "name": "Health Committee"
-        }
-    ], 
     "display_name": "Dr Sarah Wollaston", 
-    "gender": "female", 
-    "party_colour": "#333399", 
+    "constituency_name": "Totnes", 
+    "id": "4073", 
     "party_name": "Conservative", 
     "slug": "dr-sarah-wollaston", 
-    "id": "4073"
+    "party_colour": "#333399"
 }
