@@ -18,7 +18,7 @@ $('#hansardSearchForm').submit(
 		var $searchResults = $('#hansardSearchResults');
 		var $mpResults = $('#hansardMPs');
 		var searchUrl = searchBaseUrl + "&house=" + searchHouse + "&SearchTerm=" + searchText;
-		console.log(searchUrl);
+
 		$.getJSON(searchUrl, function( data ) {
 			var debates = {};
 			var debateItems = [];
@@ -49,23 +49,28 @@ $('#hansardSearchForm').submit(
 				var $panel = $("<div class='panel panel-default' />");
 				var $panelCollapse = $("<div id='debate-" + val[0].DebateSectionId + "-speeches' class='panel-collapse collapse' role='tabpanel' aria-labelledby='debate-" + val[0].DebateSectionId + "' />");
 				var $table = $("<table class='table' />");
-				$panel.append("<div class='panel-heading' role='tab', id='debate-" + val[0].DebateSectionId + "'><a data-toggle='collapse' data-parent='#hansardAccordian' href='#debate-" + val[0].DebateSectionId + "-speeches' aria-expanded='true' aria-controls='debate-" + val[0].DebateSectionId + "-speeches'><div>" + val[0].DebateSection + "<span class='badge pull-right'>" + val.length + "</span></div></a></div>");
+				var date = new Date(val[0].SittingDate);
+
+				$panel.append("<div class='panel-heading' role='tab', id='debate-" + val[0].DebateSectionId + "'><a data-toggle='collapse' data-parent='#hansardAccordian' href='#debate-" + val[0].DebateSectionId + "-speeches' aria-expanded='true' aria-controls='debate-" + val[0].DebateSectionId + "-speeches'><div>" + date.toLocaleDateString() + " " + val[0].DebateSection + "<span class='badge pull-right'>" + val.length + "</span></div></a></div>");
+
 				$.each(val, function(key, val) {
 					var $row = $("<tr />");
-					var $dateCell = $("<th class='hansardDate'>" + val.SittingDate.substr(0,10) + "</th>");
 					var $mpCell = $("<td class='hansardMP' />");
 					var $textCell = $("<td class='hansardText' />");
+
 					$.getJSON(mpBaseUrl + val.MemberId + ".json", function (mpData) {
 						$mpCell.html(memberLink(mpData) + "<br>" + memberParty(mpData));
 					});
+
 					$.getJSON(contributionBaseUrl + val.ContributionId + ".json", function ( contributionData ) {
 						$textCell.html("<p class='contributionText'>" + contributionData[0].ContributionText + "</p><p><a target='_blank' href='http://membersdataportal.digiminster.com/Debates/Commons/" + contributionData[0].SittingDate.substr(0,10) + "/" + contributionData[0].DebateSectionId + "#contribution-" + contributionData[0].ContributionId + "'>Read more <span class='glyphicon glyphicon-new-window'></span></a></p>");
 					});
-					$row.append($dateCell);
+
 					$row.append($mpCell);
 					$row.append($textCell);
 					$table.append($row);
 				});
+
 				$panelCollapse.append($table);
 				$panel.append($panelCollapse);
 				$searchResultList.append($panel);
@@ -82,10 +87,12 @@ $('#hansardSearchForm').submit(
 				var $mpCell = $("<td class='hansardMP' />");
 				var $partyCell = $("<td />");
 				var $countCell = $("<td><span class='badge'>" + val.count + "</span></td>");
+
 				$.getJSON(mpBaseUrl + val.mp + ".json", function ( mpData ) {
 					$mpCell.html(memberLink(mpData));
 					$partyCell.html(memberParty(mpData));
 				});
+
 				$row.append($mpCell);
 				$row.append($partyCell);
 				$row.append($countCell);
@@ -94,6 +101,7 @@ $('#hansardSearchForm').submit(
 
 			$mpResults.html($mpResultList);
   	});
+
 		event.preventDefault();
 	}
 );
