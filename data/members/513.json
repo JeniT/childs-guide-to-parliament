@@ -25,9 +25,10 @@
             "name": "Justice Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "513", 
-    "party": "Liberal Democrat", 
     "display_name": "Sir Alan Beith", 
-    "slug": "sir-alan-beith"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-alan-beith", 
+    "id": "513"
 }

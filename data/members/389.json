@@ -11,9 +11,10 @@
         "Education"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "389", 
-    "party": "Labour", 
     "display_name": "Caroline Flint", 
-    "slug": "caroline-flint"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "caroline-flint", 
+    "id": "389"
 }

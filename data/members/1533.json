@@ -7,9 +7,10 @@
         "Policing"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1533", 
-    "party": "Labour", 
     "display_name": "Diana Johnson", 
-    "slug": "diana-johnson"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "diana-johnson", 
+    "id": "1533"
 }

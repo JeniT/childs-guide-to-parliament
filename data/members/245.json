@@ -26,9 +26,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "245", 
-    "party": "Conservative", 
     "display_name": "Mr Robert Syms", 
-    "slug": "mr-robert-syms"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-robert-syms", 
+    "id": "245"
 }

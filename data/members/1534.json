@@ -17,9 +17,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "1534", 
-    "party": "Conservative", 
     "display_name": "Mr Lee Scott", 
-    "slug": "mr-lee-scott"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-lee-scott", 
+    "id": "1534"
 }

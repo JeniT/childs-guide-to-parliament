@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3999", 
-    "party": "Labour", 
     "display_name": "Graham Jones", 
-    "slug": "graham-jones"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "graham-jones", 
+    "id": "3999"
 }

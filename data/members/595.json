@@ -8,9 +8,10 @@
         "Sport"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "595", 
-    "party": "Labour", 
     "display_name": "Mr Jim Murphy", 
-    "slug": "mr-jim-murphy"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-jim-murphy", 
+    "id": "595"
 }

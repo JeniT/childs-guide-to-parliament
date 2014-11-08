@@ -7,9 +7,10 @@
         "Voluntary Sector"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3932", 
-    "party": "Conservative", 
     "display_name": "Dr Daniel Poulter", 
-    "slug": "dr-daniel-poulter"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "dr-daniel-poulter", 
+    "id": "3932"
 }

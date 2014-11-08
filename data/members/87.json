@@ -20,9 +20,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "87", 
-    "party": "Conservative", 
     "display_name": "Sir Roger Gale", 
-    "slug": "sir-roger-gale"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-roger-gale", 
+    "id": "87"
 }

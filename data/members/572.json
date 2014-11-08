@@ -20,9 +20,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "female", 
-    "id": "572", 
-    "party": "Labour", 
     "display_name": "Dame  Anne Begg", 
-    "slug": "dame-anne-begg"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "dame-anne-begg", 
+    "id": "572"
 }

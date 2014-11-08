@@ -6,9 +6,10 @@
         "Internet"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "220", 
-    "party": "Liberal Democrat", 
     "display_name": "Steve Webb", 
-    "slug": "steve-webb"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "steve-webb", 
+    "id": "220"
 }

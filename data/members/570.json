@@ -13,9 +13,10 @@
             "name": "Speaker's Advisory Committee on Works of Art"
         }
     ], 
-    "gender": "male", 
-    "id": "570", 
-    "party": "Labour", 
     "display_name": "Mr Frank Doran", 
-    "slug": "mr-frank-doran"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-frank-doran", 
+    "id": "570"
 }

@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4342", 
-    "party": "Labour", 
     "display_name": "Liz McInnes", 
-    "slug": "liz-mcinnes"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "liz-mcinnes", 
+    "id": "4342"
 }

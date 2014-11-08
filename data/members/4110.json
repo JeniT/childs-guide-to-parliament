@@ -6,9 +6,10 @@
         "Welfare And Pensions"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4110", 
-    "party": "Conservative", 
     "display_name": "Karen Bradley", 
-    "slug": "karen-bradley"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "karen-bradley", 
+    "id": "4110"
 }

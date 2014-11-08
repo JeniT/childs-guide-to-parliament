@@ -3,9 +3,10 @@
         "Irish National Self-Determination"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1465", 
-    "party": "Sinn Fein", 
     "display_name": "Mr Pat Doherty", 
-    "slug": "mr-pat-doherty"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Sinn Fein", 
+    "slug": "mr-pat-doherty", 
+    "id": "1465"
 }

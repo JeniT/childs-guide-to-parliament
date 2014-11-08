@@ -9,9 +9,10 @@
         "Northern Ireland"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "274", 
-    "party": "Conservative", 
     "display_name": "Mr Owen Paterson", 
-    "slug": "mr-owen-paterson"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-owen-paterson", 
+    "id": "274"
 }

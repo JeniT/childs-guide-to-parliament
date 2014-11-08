@@ -6,9 +6,10 @@
         "Defence"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "1552", 
-    "party": "Labour", 
     "display_name": "Alison Seabeck", 
-    "slug": "alison-seabeck"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "alison-seabeck", 
+    "id": "1552"
 }

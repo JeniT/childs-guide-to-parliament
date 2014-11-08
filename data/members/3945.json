@@ -6,9 +6,10 @@
         "Welfare Policy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3945", 
-    "party": "Conservative", 
     "display_name": "Sajid Javid", 
-    "slug": "sajid-javid"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sajid-javid", 
+    "id": "3945"
 }

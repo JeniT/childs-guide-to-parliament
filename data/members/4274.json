@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4274", 
-    "party": "Sinn Fein", 
     "display_name": "Francie Molloy", 
-    "slug": "francie-molloy"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Sinn Fein", 
+    "slug": "francie-molloy", 
+    "id": "4274"
 }

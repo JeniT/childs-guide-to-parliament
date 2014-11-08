@@ -18,9 +18,10 @@
             "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "1200", 
-    "party": "Conservative", 
     "display_name": "Sir Greg Knight", 
-    "slug": "sir-greg-knight"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sir-greg-knight", 
+    "id": "1200"
 }

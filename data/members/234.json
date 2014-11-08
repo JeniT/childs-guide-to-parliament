@@ -21,9 +21,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "234", 
-    "party": "Conservative", 
     "display_name": "Mr Gary Streeter", 
-    "slug": "mr-gary-streeter"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-gary-streeter", 
+    "id": "234"
 }

@@ -8,9 +8,10 @@
         "Armed Forces Parliamentary Scheme"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4131", 
-    "party": "Democratic Unionist", 
     "display_name": "Jim Shannon", 
-    "slug": "jim-shannon"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "jim-shannon", 
+    "id": "4131"
 }

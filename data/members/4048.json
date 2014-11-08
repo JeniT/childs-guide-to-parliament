@@ -21,9 +21,10 @@
             "name": "Education Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4048", 
-    "party": "Conservative", 
     "display_name": "Caroline Nokes", 
-    "slug": "caroline-nokes"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "caroline-nokes", 
+    "id": "4048"
 }

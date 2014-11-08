@@ -13,9 +13,10 @@
             "name": "Regulatory Reform"
         }
     ], 
-    "gender": "male", 
-    "id": "3913", 
-    "party": "Labour", 
     "display_name": "Jack Dromey", 
-    "slug": "jack-dromey"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jack-dromey", 
+    "id": "3913"
 }

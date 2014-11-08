@@ -7,9 +7,10 @@
         "Women'S Issues"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1488", 
-    "party": "Conservative", 
     "display_name": "Mr Brooks Newmark", 
-    "slug": "mr-brooks-newmark"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-brooks-newmark", 
+    "id": "1488"
 }

@@ -11,9 +11,10 @@
             "name": "Scottish Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4012", 
-    "party": "Labour", 
     "display_name": "Graeme Morrice", 
-    "slug": "graeme-morrice"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "graeme-morrice", 
+    "id": "4012"
 }

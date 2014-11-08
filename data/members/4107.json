@@ -16,9 +16,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4107", 
-    "party": "Conservative", 
     "display_name": "Harriett Baldwin", 
-    "slug": "harriett-baldwin"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "harriett-baldwin", 
+    "id": "4107"
 }

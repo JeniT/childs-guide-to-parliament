@@ -11,9 +11,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "336", 
-    "party": "Conservative", 
     "display_name": "Mr Stephen Dorrell", 
-    "slug": "mr-stephen-dorrell"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-stephen-dorrell", 
+    "id": "336"
 }

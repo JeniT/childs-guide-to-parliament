@@ -16,9 +16,10 @@
             "name": "Public Accounts Commission"
         }
     ], 
-    "gender": "female", 
-    "id": "636", 
-    "party": "Labour", 
     "display_name": "Mrs Anne McGuire", 
-    "slug": "mrs-anne-mcguire"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mrs-anne-mcguire", 
+    "id": "636"
 }

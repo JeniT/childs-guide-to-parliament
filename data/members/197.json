@@ -19,9 +19,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "197", 
-    "party": "Labour", 
     "display_name": "Jim Fitzpatrick", 
-    "slug": "jim-fitzpatrick"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "jim-fitzpatrick", 
+    "id": "197"
 }

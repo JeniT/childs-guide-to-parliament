@@ -21,9 +21,10 @@
         "Trade And Industry"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "280", 
-    "party": "Conservative", 
     "display_name": "Michael Fabricant", 
-    "slug": "michael-fabricant"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "michael-fabricant", 
+    "id": "280"
 }

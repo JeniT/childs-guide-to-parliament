@@ -7,9 +7,10 @@
         "Small Businesses"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1424", 
-    "party": "Conservative", 
     "display_name": "Mr Mark Prisk", 
-    "slug": "mr-mark-prisk"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-mark-prisk", 
+    "id": "1424"
 }

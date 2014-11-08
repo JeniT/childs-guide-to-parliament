@@ -15,9 +15,10 @@
             "name": "Committee on Standards: Standards Review Sub-Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4053", 
-    "party": "Conservative", 
     "display_name": "Heather Wheeler", 
-    "slug": "heather-wheeler"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "heather-wheeler", 
+    "id": "4053"
 }

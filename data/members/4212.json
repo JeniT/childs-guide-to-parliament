@@ -12,9 +12,10 @@
             "name": "Work and Pensions Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4212", 
-    "party": "Labour", 
     "display_name": "Debbie Abrahams", 
-    "slug": "debbie-abrahams"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "debbie-abrahams", 
+    "id": "4212"
 }

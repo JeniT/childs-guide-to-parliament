@@ -17,9 +17,10 @@
             "name": "Regulatory Reform"
         }
     ], 
-    "gender": "female", 
-    "id": "4038", 
-    "party": "Labour", 
     "display_name": "Heidi Alexander", 
-    "slug": "heidi-alexander"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "heidi-alexander", 
+    "id": "4038"
 }

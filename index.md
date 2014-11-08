@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Houses of Parliament
+title: Child's Guide to Parliament
 ---
 
 *Parliament is made up of the [House of Lords](lords.html) and the [House of Commons](commons.html). It is based at the Palace of Westminster in London.*
@@ -11,5 +11,11 @@ title: The Houses of Parliament
 
 ##What does Parliament do?
 
-<a href="http://www.youtube.com/watch?v=1KFGt9M-j28" target="_blank">How is a Law made?</a>  
+
+
+Parliment makes laws:
+
+Laws start of as Green papers, change to White papers, and, after discussion, from Bills to Laws.
+
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/1KFGt9M-j28" frameborder="0" allowfullscreen></iframe>

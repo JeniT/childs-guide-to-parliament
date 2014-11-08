@@ -7,9 +7,10 @@
         "Scotland"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "591", 
-    "party": "Labour", 
     "display_name": "Mr Gordon Brown", 
-    "slug": "mr-gordon-brown"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-gordon-brown", 
+    "id": "591"
 }

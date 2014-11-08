@@ -13,9 +13,10 @@
             "name": "Foreign Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "473", 
-    "party": "Labour (Co-op)", 
     "display_name": "Mark Hendrick", 
-    "slug": "mark-hendrick"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mark-hendrick", 
+    "id": "473"
 }

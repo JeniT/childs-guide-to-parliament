@@ -12,9 +12,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4101", 
-    "party": "Liberal Democrat", 
     "display_name": "Stephen Gilbert", 
-    "slug": "stephen-gilbert"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "stephen-gilbert", 
+    "id": "4101"
 }

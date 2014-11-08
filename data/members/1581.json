@@ -7,9 +7,10 @@
             "name": "Panel of Chairs"
         }
     ], 
-    "gender": "male", 
-    "id": "1581", 
-    "party": "Conservative", 
     "display_name": "Mr Peter Bone", 
-    "slug": "mr-peter-bone"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-peter-bone", 
+    "id": "1581"
 }

@@ -5,9 +5,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1499", 
-    "party": "Liberal Democrat", 
     "display_name": "Martin Horwood", 
-    "slug": "martin-horwood"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "martin-horwood", 
+    "id": "1499"
 }

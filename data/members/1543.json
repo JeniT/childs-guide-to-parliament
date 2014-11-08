@@ -12,9 +12,10 @@
             "name": "Culture, Media and Sport Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1543", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr John Leech", 
-    "slug": "mr-john-leech"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-john-leech", 
+    "id": "1543"
 }

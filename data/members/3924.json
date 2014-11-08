@@ -21,9 +21,10 @@
             "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
         }
     ], 
-    "gender": "female", 
-    "id": "3924", 
-    "party": "Labour", 
     "display_name": "Yasmin Qureshi", 
-    "slug": "yasmin-qureshi"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "yasmin-qureshi", 
+    "id": "3924"
 }

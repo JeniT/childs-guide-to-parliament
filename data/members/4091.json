@@ -14,9 +14,10 @@
             "name": "Business, Innovation and Skills Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4091", 
-    "party": "Conservative", 
     "display_name": "Mr Robin Walker", 
-    "slug": "mr-robin-walker"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-robin-walker", 
+    "id": "4091"
 }

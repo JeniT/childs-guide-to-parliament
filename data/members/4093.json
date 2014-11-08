@@ -10,9 +10,10 @@
         "Government Procurement Of It Projects"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4093", 
-    "party": "Conservative", 
     "display_name": "Stephen McPartland", 
-    "slug": "stephen-mcpartland"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "stephen-mcpartland", 
+    "id": "4093"
 }

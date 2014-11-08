@@ -15,9 +15,10 @@
         "Big Society"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "3985", 
-    "party": "Conservative", 
     "display_name": "Robert Halfon", 
-    "slug": "robert-halfon"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "robert-halfon", 
+    "id": "3985"
 }

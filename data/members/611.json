@@ -24,9 +24,10 @@
             "name": "Liaison Committee (Commons)"
         }
     ], 
-    "gender": "male", 
-    "id": "611", 
-    "party": "Labour (Co-op)", 
     "display_name": "Mr Ian Davidson", 
-    "slug": "mr-ian-davidson"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mr-ian-davidson", 
+    "id": "611"
 }

@@ -12,9 +12,10 @@
             "name": "Regulatory Reform"
         }
     ], 
-    "gender": "male", 
-    "id": "3996", 
-    "party": "Conservative", 
     "display_name": "Andrew Jones", 
-    "slug": "andrew-jones"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "andrew-jones", 
+    "id": "3996"
 }

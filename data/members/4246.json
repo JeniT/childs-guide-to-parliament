@@ -10,9 +10,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4246", 
-    "party": "Labour", 
     "display_name": "Iain McKenzie", 
-    "slug": "iain-mckenzie"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "iain-mckenzie", 
+    "id": "4246"
 }

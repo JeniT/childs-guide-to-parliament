@@ -17,9 +17,10 @@
             "name": "Administration Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3922", 
-    "party": "Conservative", 
     "display_name": "Conor Burns", 
-    "slug": "conor-burns"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "conor-burns", 
+    "id": "3922"
 }

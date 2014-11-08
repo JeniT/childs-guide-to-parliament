@@ -11,9 +11,10 @@
             "name": "Work and Pensions Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "175", 
-    "party": "Labour", 
     "display_name": "Glenda Jackson", 
-    "slug": "glenda-jackson"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "glenda-jackson", 
+    "id": "175"
 }

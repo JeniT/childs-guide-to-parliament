@@ -10,9 +10,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "3960", 
-    "party": "Conservative", 
     "display_name": "Henry Smith", 
-    "slug": "henry-smith"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "henry-smith", 
+    "id": "3960"
 }

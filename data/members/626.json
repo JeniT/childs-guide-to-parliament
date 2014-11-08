@@ -10,9 +10,10 @@
             "name": "Foreign Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "626", 
-    "party": "Labour", 
     "display_name": "Mr Frank Roy", 
-    "slug": "mr-frank-roy"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-frank-roy", 
+    "id": "626"
 }

@@ -15,9 +15,10 @@
             "name": "Consolidation Bills (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "3986", 
-    "party": "Conservative", 
     "display_name": "Damian Collins", 
-    "slug": "damian-collins"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "damian-collins", 
+    "id": "3986"
 }

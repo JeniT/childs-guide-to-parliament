@@ -16,9 +16,10 @@
             "name": "House of Commons Governance Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "463", 
-    "party": "Labour", 
     "display_name": "Mr Jack Straw", 
-    "slug": "mr-jack-straw"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-jack-straw", 
+    "id": "463"
 }

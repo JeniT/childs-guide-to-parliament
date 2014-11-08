@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4268", 
-    "party": "Labour", 
     "display_name": "Mr Steve Reed", 
-    "slug": "mr-steve-reed"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-steve-reed", 
+    "id": "4268"
 }

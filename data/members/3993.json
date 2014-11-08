@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3993", 
-    "party": "Conservative", 
     "display_name": "Jessica Lee", 
-    "slug": "jessica-lee"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "jessica-lee", 
+    "id": "3993"
 }

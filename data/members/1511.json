@@ -14,9 +14,10 @@
             "name": "Home Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1511", 
-    "party": "Labour", 
     "display_name": "Ian Austin", 
-    "slug": "ian-austin"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "ian-austin", 
+    "id": "1511"
 }

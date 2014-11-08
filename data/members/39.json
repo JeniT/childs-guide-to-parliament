@@ -16,9 +16,10 @@
             "name": "Culture, Media and Sport Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "39", 
-    "party": "Conservative", 
     "display_name": "Mr John Whittingdale", 
-    "slug": "mr-john-whittingdale"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-john-whittingdale", 
+    "id": "39"
 }

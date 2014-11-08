@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4265", 
-    "party": "Labour (Co-op)", 
     "display_name": "Andy Sawford", 
-    "slug": "andy-sawford"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "andy-sawford", 
+    "id": "4265"
 }

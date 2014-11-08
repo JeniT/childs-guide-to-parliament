@@ -17,9 +17,10 @@
             "name": "European Scrutiny Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "1525", 
-    "party": "Labour (Co-op)", 
     "display_name": "Mrs Linda Riordan", 
-    "slug": "mrs-linda-riordan"
+    "gender": "female", 
+    "party_colour": "#999999", 
+    "party_name": "Labour (Co-op)", 
+    "slug": "mrs-linda-riordan", 
+    "id": "1525"
 }

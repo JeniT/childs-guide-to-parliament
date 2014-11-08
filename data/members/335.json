@@ -21,9 +21,10 @@
             "name": "Health Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "335", 
-    "party": "Conservative", 
     "display_name": "David Tredinnick", 
-    "slug": "david-tredinnick"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "david-tredinnick", 
+    "id": "335"
 }

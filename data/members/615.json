@@ -30,9 +30,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "615", 
-    "party": "Liberal Democrat", 
     "display_name": "Sir Malcolm Bruce", 
-    "slug": "sir-malcolm-bruce"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "sir-malcolm-bruce", 
+    "id": "615"
 }

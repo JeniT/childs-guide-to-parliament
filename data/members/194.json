@@ -8,9 +8,10 @@
         "Environment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "194", 
-    "party": "Liberal Democrat", 
     "display_name": "Simon Hughes", 
-    "slug": "simon-hughes"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "simon-hughes", 
+    "id": "194"
 }

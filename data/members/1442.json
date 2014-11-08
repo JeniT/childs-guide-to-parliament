@@ -7,9 +7,10 @@
         "Energy"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1442", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr Alistair Carmichael", 
-    "slug": "mr-alistair-carmichael"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-alistair-carmichael", 
+    "id": "1442"
 }

@@ -7,9 +7,10 @@
         "Social Mobility"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "4141", 
-    "party": "Conservative", 
     "display_name": "Eric Ollerenshaw", 
-    "slug": "eric-ollerenshaw"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "eric-ollerenshaw", 
+    "id": "4141"
 }

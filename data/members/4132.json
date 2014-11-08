@@ -9,9 +9,10 @@
             "name": "Environment, Food and Rural Affairs Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4132", 
-    "party": "Conservative", 
     "display_name": "Richard Drax", 
-    "slug": "richard-drax"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "richard-drax", 
+    "id": "4132"
 }

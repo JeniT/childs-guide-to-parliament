@@ -5,9 +5,10 @@
         "Employment"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "632", 
-    "party": "Labour", 
     "display_name": "Mr Douglas Alexander", 
-    "slug": "mr-douglas-alexander"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-douglas-alexander", 
+    "id": "632"
 }

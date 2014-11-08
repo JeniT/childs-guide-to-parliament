@@ -1,9 +1,10 @@
 {
     "interests": [], 
     "committees": [], 
-    "gender": "female", 
-    "id": "4115", 
-    "party": "Conservative", 
     "display_name": "Margot James", 
-    "slug": "margot-james"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "margot-james", 
+    "id": "4115"
 }

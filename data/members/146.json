@@ -8,9 +8,10 @@
         "Foreign Affairs"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "146", 
-    "party": "Labour", 
     "display_name": "Barry Gardiner", 
-    "slug": "barry-gardiner"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "barry-gardiner", 
+    "id": "146"
 }

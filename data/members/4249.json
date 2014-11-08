@@ -14,9 +14,10 @@
             "name": "Work and Pensions Committee"
         }
     ], 
-    "gender": "female", 
-    "id": "4249", 
-    "party": "Conservative", 
     "display_name": "Anne Marie Morris", 
-    "slug": "anne-marie-morris"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "anne-marie-morris", 
+    "id": "4249"
 }

@@ -12,9 +12,10 @@
             "name": "Procedure Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "4140", 
-    "party": "Conservative", 
     "display_name": "Mr David Nuttall", 
-    "slug": "mr-david-nuttall"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-david-nuttall", 
+    "id": "4140"
 }

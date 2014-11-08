@@ -7,9 +7,10 @@
         "Business Innovation And Skills"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "3983", 
-    "party": "Conservative", 
     "display_name": "Amber Rudd", 
-    "slug": "amber-rudd"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "amber-rudd", 
+    "id": "3983"
 }

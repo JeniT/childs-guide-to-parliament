@@ -13,9 +13,10 @@
             "name": "National Security Strategy (Joint Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "546", 
-    "party": "Labour", 
     "display_name": "Paul Murphy", 
-    "slug": "paul-murphy"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "paul-murphy", 
+    "id": "546"
 }

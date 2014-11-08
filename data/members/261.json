@@ -28,9 +28,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "261", 
-    "party": "Conservative", 
     "display_name": "Mr James Gray", 
-    "slug": "mr-james-gray"
+    "gender": "male", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "mr-james-gray", 
+    "id": "261"
 }

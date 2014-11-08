@@ -7,9 +7,10 @@
         "Immigration"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "304", 
-    "party": "Labour", 
     "display_name": "Mr Roger Godsiff", 
-    "slug": "mr-roger-godsiff"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-roger-godsiff", 
+    "id": "304"
 }

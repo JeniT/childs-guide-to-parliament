@@ -18,9 +18,10 @@
             "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
         }
     ], 
-    "gender": "male", 
-    "id": "650", 
-    "party": "Democratic Unionist", 
     "display_name": "Mr Jeffrey M. Donaldson", 
-    "slug": "mr-jeffrey-m-donaldson"
+    "gender": "male", 
+    "party_colour": "#999999", 
+    "party_name": "Democratic Unionist", 
+    "slug": "mr-jeffrey-m-donaldson", 
+    "id": "650"
 }

@@ -5,9 +5,10 @@
         "Biotechnology"
     ], 
     "committees": [], 
-    "gender": "male", 
-    "id": "1432", 
-    "party": "Labour", 
     "display_name": "Mr David Hamilton", 
-    "slug": "mr-david-hamilton"
+    "gender": "male", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "mr-david-hamilton", 
+    "id": "1432"
 }

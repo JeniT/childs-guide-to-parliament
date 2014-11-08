@@ -14,9 +14,10 @@
             "name": "Political and Constitutional Reform Committee"
         }
     ], 
-    "gender": "male", 
-    "id": "1575", 
-    "party": "Liberal Democrat", 
     "display_name": "Mr Jeremy Browne", 
-    "slug": "mr-jeremy-browne"
+    "gender": "male", 
+    "party_colour": "#f1cc0a", 
+    "party_name": "Liberal Democrat", 
+    "slug": "mr-jeremy-browne", 
+    "id": "1575"
 }

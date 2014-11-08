@@ -16,9 +16,10 @@
             "name": "Ecclesiastical Committee (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "4071", 
-    "party": "Conservative", 
     "display_name": "Sarah Newton", 
-    "slug": "sarah-newton"
+    "gender": "female", 
+    "party_colour": "#333399", 
+    "party_name": "Conservative", 
+    "slug": "sarah-newton", 
+    "id": "4071"
 }

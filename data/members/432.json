@@ -5,9 +5,10 @@
         "International Development"
     ], 
     "committees": [], 
-    "gender": "female", 
-    "id": "432", 
-    "party": "Labour", 
     "display_name": "Helen Jones", 
-    "slug": "helen-jones"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "helen-jones", 
+    "id": "432"
 }

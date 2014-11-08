@@ -14,9 +14,10 @@
             "name": "Intelligence and Security (Joint Committee)"
         }
     ], 
-    "gender": "female", 
-    "id": "12", 
-    "party": "Labour", 
     "display_name": "Fiona Mactaggart", 
-    "slug": "fiona-mactaggart"
+    "gender": "female", 
+    "party_colour": "#cc0000", 
+    "party_name": "Labour", 
+    "slug": "fiona-mactaggart", 
+    "id": "12"
 }
