@@ -9,6 +9,7 @@ title: The House of Commons
 *The members of the House of Commons are elected by the people. There is an election every 5 years. The next election is  on the 7th of May, 2015. You have to be over the age of 18 to vote. People who are in prison cannot vote.*
 
 ##What do The House of Commons do?
+
 The House of Commons debate important issues, make and look over laws, represent the Public by saying what their constituency wants and makes sure the Government is doing the right thing.
 
 [The House Of Commons](http://www.youtube.com/watch?v=dS_SLF92e5A&list=PL03FFE1F0B34AA057)
