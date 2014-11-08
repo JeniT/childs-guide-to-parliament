@@ -8,8 +8,7 @@ title: The House Of Lords
 
 *Members of the House of Lords are appointed by the Queen on the advice of the Prime Minister. Some non-party-political members are recommended by an independent body, the House of Lords Appointments Commission.*
 
-<a href="http://www.youtube.com/watch?v=-U0LhurGWOc" target="_blank">The House of Lords</a> 
-[![The House of Lords](http://img.youtube.com/vi/-U0LhurGWOc/0.jpg)](http://www.youtube.com/watch?v=-U0LhurGWOc)
+<embed src="http://www.youtube.com/watch?v=-U0LhurGWOc"  height="300px" width="500px" />
 
 >####Fun Fact!
 
