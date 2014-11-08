@@ -4,9 +4,9 @@ title: The House of Lords
 house: Lords
 ---
 
-*Members of the House of Lords are appointed by the Queen on the advice of the Prime Minister. Some non-party-political members are recommended by an independent body, the House of Lords Appointments Commission.*
+<iframe class="pull-right" width="560" height="315" src="//www.youtube.com/embed/-U0LhurGWOc" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/-U0LhurGWOc" frameborder="0" allowfullscreen></iframe>
+*Members of the House of Lords are appointed by the Queen on the advice of the Prime Minister. Some non-party-political members are recommended by an independent body, the House of Lords Appointments Commission.*
 
 >####Fun Fact!
 

@@ -8,6 +8,8 @@ $lordsRed: #971b2f;
 $icon-font-path: "../assets/fonts/bootstrap/";
 $brand-primary: $parliamentBlue;
 
+$font-size-base: 16px;
+
 @import "bootstrap";
 
 .header {
@@ -28,6 +30,11 @@ body.commons .page-header, .commons-bg {
 body.lords .page-header, .lords-bg {
 	background-color: $lordsRed;
 	color: white;
+}
+
+iframe.pull-right {
+	margin-left: 20px;
+	margin-bottom: 20px;
 }
 
 .contributionText {
