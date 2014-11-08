@@ -25,7 +25,7 @@ $('#hansardSearchForm').submit(
 			var $mpResultTable = $("<table class='table' />");
 			var $mpResultList = $("<div class='panel panel-default' />").append($mpResultTable);
 
-			$.each( data.Results, function( key, val ) {
+			$.each( data.Results.sort(function(a,b) { return a.ContributionId - b.ContributionId }), function( key, val ) {
 				if (debates[val.DebateSectionId] === undefined) {
 					debates[val.DebateSectionId] = [val];
 				} else {
