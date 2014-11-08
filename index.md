@@ -26,4 +26,4 @@ title: Child's Guide to Parliament
   
   ##What does Parliment do?
   
-  [How is a Law made?](http://www.youtube.com/watch?v=1KFGt9M-j28)
+  [![How is a Law made?](http://www.youtube.com/watch?v=1KFGt9M-j28)](http://www.youtube.com/watch?v=1KFGt9M-j28)
