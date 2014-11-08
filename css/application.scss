@@ -1,13 +1,14 @@
 ---
 ---
 
-@import "bootstrap";
-
 $parliamentBlue: #085196;
 $commonsGreen: #00843d;
 $lordsRed: #971b2f;
 
+$icon-font-path: "../assets/fonts/bootstrap/";
 $brand-primary: $parliamentBlue;
+
+@import "bootstrap";
 
 .header {
 	padding-top: 25px;
@@ -27,6 +28,11 @@ body.commons .page-header, .commons-bg {
 body.lords .page-header, .lords-bg {
 	background-color: $lordsRed;
 	color: white;
+}
+
+.contributionText {
+	height: $line-height-computed * 2;
+	overflow: hidden;
 }
 
 .footer {

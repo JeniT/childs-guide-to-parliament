@@ -46,7 +46,7 @@ $('#hansardSearchForm').submit(
 						$mpCell.html("<a target='_blank' href='http://www.parliament.uk/biographies/commons/" + mpData.slug + "/" + val.MemberId + "'>" + mpData.display_name + "</a>");
 					});
 					$.getJSON(contributionBaseUrl + val.ContributionId + ".json", function ( contributionData ) {
-						$textCell.html("<a target='_blank' href='http://membersdataportal.digiminster.com/Debates/Commons/" + val.SittingDate.substr(0,10) + "/" + val.DebateSectionId + "#contribution-" + val.ContributionId + "'>" + val.ContributionText + "</a>");
+						$textCell.html("<p class='contributionText'>" + contributionData[0].ContributionText + "</p><p><a target='_blank' href='http://membersdataportal.digiminster.com/Debates/Commons/" + contributionData[0].SittingDate.substr(0,10) + "/" + contributionData[0].DebateSectionId + "#contribution-" + contributionData[0].ContributionId + "'>Read more <span class='glyphicon glyphicon-new-window'></span></a></p>");
 					});
 					$row.append($dateCell);
 					$row.append($mpCell);
