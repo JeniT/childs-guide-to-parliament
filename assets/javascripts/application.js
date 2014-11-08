@@ -1,4 +1,5 @@
 var searchBaseUrl = "http://hansard.services.digiminster.com/members/contributions/list.json?startdate=2013-11-08&house=Commons&SearchTerm=";
+var mpBaseUrl = "data/members/";
 
 $('#hansardSearchForm').submit(
 	function( event ) {
@@ -9,7 +10,8 @@ $('#hansardSearchForm').submit(
 			var items = [];
 			var mps = {};
 			var mpItems = [];
-			var mpList = [];
+			var $mpResultList = $("<ul />", { class: 'list-group' });
+
 			$.each( data.Results, function( key, val ) {
 				items.push( "<li class='list-group-item'>" + val.ContributionText + "</li>" );
 				if (mps[val.MemberId] === undefined) {
@@ -29,13 +31,12 @@ $('#hansardSearchForm').submit(
 			});
 
 			$.each(mpItems.sort(function(a,b) { return b.count - a.count }), function(key, val) {
-				mpList.push("<li class='list-group-item'><span class='badge'>" + val.count + "</span>" + val.mp + "</li>");
+				$.getJSON(mpBaseUrl + val.mp + ".json", function ( mpData ) {
+					$mpResultList.append("<li class='list-group-item'><span class='badge'>" + val.count + "</span><a target='_blank' href='http://www.parliament.uk/biographies/commons/" + mpData.slug + "/" + val.mp + "'>" + mpData.display_name + "</a></li>");
+				});
 			});
 
-			$mpResults.html($( "<ul />", {
-				class: 'list-group',
-			  html: mpList.join( "" )
-			}));
+			$mpResults.html($mpResultList);
   	});
 		event.preventDefault();
 	}
