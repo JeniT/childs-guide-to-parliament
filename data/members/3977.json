@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Economic Policy", 
+        "Campaign Strategy", 
+        "Defence", 
+        "Education", 
+        "Youth Policy", 
+        "Europe", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3977", 
+    "party": "Conservative", 
+    "display_name": "Chris Heaton-Harris", 
+    "slug": "chris-heaton-harris"
+}

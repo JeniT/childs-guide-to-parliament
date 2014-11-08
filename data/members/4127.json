@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Employment And Skills", 
+        "Regeneration", 
+        "Health Inequalities", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4127", 
+    "party": "Labour", 
+    "display_name": "Julie Elliott", 
+    "slug": "julie-elliott"
+}

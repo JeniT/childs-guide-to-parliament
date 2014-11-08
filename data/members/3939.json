@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Northern Ireland Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Health Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3939", 
+    "party": "Conservative", 
+    "display_name": "Andrew Percy", 
+    "slug": "andrew-percy"
+}

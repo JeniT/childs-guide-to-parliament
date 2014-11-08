@@ -1,0 +1,43 @@
+{
+    "interests": [
+        "Education", 
+        "Aerospace", 
+        "Aviation", 
+        "Youth Affairs", 
+        "European Union", 
+        "Agriculture", 
+        "Community Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-27", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2008-03-25", 
+            "name": "Finance and Services Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "43", 
+    "party": "Conservative", 
+    "display_name": "Sir Alan Haselhurst", 
+    "slug": "sir-alan-haselhurst"
+}

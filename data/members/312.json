@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Environment", 
+        "Agriculture", 
+        "International Development", 
+        "Sustainability", 
+        "Human Trafficking", 
+        "Transport", 
+        "Local Government"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-12-16", 
+            "name": "Environmental Audit Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-02-25", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "312", 
+    "party": "Conservative", 
+    "display_name": "Mrs Caroline Spelman", 
+    "slug": "mrs-caroline-spelman"
+}

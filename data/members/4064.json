@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Enterprise", 
+        "Economics", 
+        "Money And Banking", 
+        "Health", 
+        "Education", 
+        "Defence", 
+        "Transport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-05-12", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4064", 
+    "party": "Conservative", 
+    "display_name": "Steve Baker", 
+    "slug": "steve-baker"
+}

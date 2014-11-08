@@ -1,0 +1,14 @@
+{
+    "interests": [
+        "Health", 
+        "Education", 
+        "Home Affairs", 
+        "Foreign Affairs"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "1582", 
+    "party": "Conservative", 
+    "display_name": "Grant Shapps", 
+    "slug": "grant-shapps"
+}

@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Construction Industry", 
+        "Further Education", 
+        "Apprenticeships"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-10-24", 
+            "name": "Culture, Media and Sport Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4035", 
+    "party": "Labour", 
+    "display_name": "Steve Rotheram", 
+    "slug": "steve-rotheram"
+}

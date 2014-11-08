@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Pension Law", 
+        "Constitutional Reform", 
+        "European Union"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "296", 
+    "party": "Labour", 
+    "display_name": "Ms Gisela Stuart", 
+    "slug": "ms-gisela-stuart"
+}

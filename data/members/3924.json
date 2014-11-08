@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Crime", 
+        "Education", 
+        "Young People"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Justice Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Home Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-04-29", 
+            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3924", 
+    "party": "Labour", 
+    "display_name": "Yasmin Qureshi", 
+    "slug": "yasmin-qureshi"
+}

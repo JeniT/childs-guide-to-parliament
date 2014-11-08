@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Trade And Industry", 
+        "Community Issues", 
+        "Transport", 
+        "Tamil Community"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-12", 
+            "name": "Regulatory Reform"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-10-14", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1534", 
+    "party": "Conservative", 
+    "display_name": "Mr Lee Scott", 
+    "slug": "mr-lee-scott"
+}

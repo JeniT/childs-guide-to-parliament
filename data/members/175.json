@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Overseas Aid And Development", 
+        "Housing", 
+        "Environment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Work and Pensions Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "175", 
+    "party": "Labour", 
+    "display_name": "Glenda Jackson", 
+    "slug": "glenda-jackson"
+}

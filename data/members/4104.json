@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "International Affairs", 
+        "European Union", 
+        "Education", 
+        "Rural Affairs", 
+        "Public Services"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4104", 
+    "party": "Conservative", 
+    "display_name": "Neil Carmichael", 
+    "slug": "neil-carmichael"
+}

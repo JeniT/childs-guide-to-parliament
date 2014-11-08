@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Consumer Issues", 
+        "Information Technology", 
+        "Music", 
+        "Arts", 
+        "Home Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-14", 
+            "name": "Finance and Services Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-06-15", 
+            "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1200", 
+    "party": "Conservative", 
+    "display_name": "Sir Greg Knight", 
+    "slug": "sir-greg-knight"
+}

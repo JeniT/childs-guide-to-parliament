@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Employment", 
+        "Crime", 
+        "Anti-Social Behaviour", 
+        "Education", 
+        "Taxation"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Work and Pensions Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-11-28", 
+            "name": "Northern Ireland Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4136", 
+    "party": "Conservative", 
+    "display_name": "Nigel Mills", 
+    "slug": "nigel-mills"
+}

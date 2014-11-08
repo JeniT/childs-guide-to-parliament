@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Sport", 
+        "Foreign Affairs", 
+        "Housing", 
+        "Countryside"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2007-11-09", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "210", 
+    "party": "Labour", 
+    "display_name": "Kate Hoey", 
+    "slug": "kate-hoey"
+}

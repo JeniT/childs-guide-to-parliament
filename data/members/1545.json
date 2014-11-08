@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Home Affairs", 
+        "Including Prisons And Sentencing", 
+        "Defence", 
+        "Homeland Security", 
+        "Welsh Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-17", 
+            "name": "Welsh Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-21", 
+            "name": "National Policy Statements Sub-Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1545", 
+    "party": "Conservative", 
+    "display_name": "David T. C. Davies", 
+    "slug": "david-t-c-davies"
+}

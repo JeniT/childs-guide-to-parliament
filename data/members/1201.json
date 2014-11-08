@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Church Affairs", 
+        "Trade And Industry", 
+        "Third World", 
+        "Foreign Affairs", 
+        "Agriculture", 
+        "Rural Affairs", 
+        "Disability", 
+        "Sport", 
+        "Poverty", 
+        "Social Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-07-17", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1201", 
+    "party": "Conservative", 
+    "display_name": "Alistair Burt", 
+    "slug": "alistair-burt"
+}

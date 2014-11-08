@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Law And Order", 
+        "Economy", 
+        "Immigration", 
+        "Eu"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4121", 
+    "party": "Conservative", 
+    "display_name": "Lorraine Fullbrook", 
+    "slug": "lorraine-fullbrook"
+}

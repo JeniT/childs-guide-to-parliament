@@ -1,0 +1,33 @@
+{
+    "interests": [
+        "Europe", 
+        "Taxation", 
+        "Reform Of The Welfare State", 
+        "Devolution", 
+        "Economy", 
+        "Rural Development", 
+        "Regeneration Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Welsh Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-11-12", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3910", 
+    "party": "Conservative", 
+    "display_name": "Guto Bebb", 
+    "slug": "guto-bebb"
+}

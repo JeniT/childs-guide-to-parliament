@@ -1,0 +1,17 @@
+{
+    "interests": [
+        "Defence"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4132", 
+    "party": "Conservative", 
+    "display_name": "Richard Drax", 
+    "slug": "richard-drax"
+}

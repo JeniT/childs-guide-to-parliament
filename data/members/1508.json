@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Agriculture", 
+        "Education", 
+        "Defence", 
+        "Legal And Constitutional Issues"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Privileges Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-10", 
+            "name": "Committee on Standards: Standards Review Sub-Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1508", 
+    "party": "Conservative", 
+    "display_name": "Mr Geoffrey Cox", 
+    "slug": "mr-geoffrey-cox"
+}

@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Environment", 
+        "Democratic Reform"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4062", 
+    "party": "Conservative", 
+    "display_name": "Zac Goldsmith", 
+    "slug": "zac-goldsmith"
+}

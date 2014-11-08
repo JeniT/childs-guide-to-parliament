@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "European Reform", 
+        "Economy", 
+        "Early Years Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-05-12", 
+            "name": "Public Accounts Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4117", 
+    "party": "Conservative", 
+    "display_name": "Andrea Leadsom", 
+    "slug": "andrea-leadsom"
+}

@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Regional Policy", 
+        "Education", 
+        "Training"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-10-16", 
+            "name": "House of Commons Governance Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "489", 
+    "party": "Labour", 
+    "display_name": "Mr Dave Watts", 
+    "slug": "mr-dave-watts"
+}

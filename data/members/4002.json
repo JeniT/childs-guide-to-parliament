@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Crime", 
+        "Healthcare", 
+        "Foreign Affairs", 
+        "Exports And Inward Investment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-10-31", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4002", 
+    "party": "Conservative", 
+    "display_name": "Nick de Bois", 
+    "slug": "nick-de-bois"
+}

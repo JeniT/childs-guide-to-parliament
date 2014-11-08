@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Employment", 
+        "Home Affairs", 
+        "Treasury Matters", 
+        "Transport", 
+        "Defence", 
+        "Special Needs Education", 
+        "Environmental Sustainability"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1569", 
+    "party": "Labour", 
+    "display_name": "Robert Flello", 
+    "slug": "robert-flello"
+}

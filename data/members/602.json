@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Economy And Enterprise", 
+        "International Development", 
+        "European Union", 
+        "Industry", 
+        "Skills And Training", 
+        "Small Businesses", 
+        "Human Rights"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "602", 
+    "party": "Labour", 
+    "display_name": "Michael Connarty", 
+    "slug": "michael-connarty"
+}

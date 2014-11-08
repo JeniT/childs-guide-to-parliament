@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4041", 
+    "party": "Conservative", 
+    "display_name": "Glyn Davies", 
+    "slug": "glyn-davies"
+}

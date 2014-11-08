@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-07-01", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1418", 
+    "party": "Labour", 
+    "display_name": "Mr Tom Harris", 
+    "slug": "mr-tom-harris"
+}

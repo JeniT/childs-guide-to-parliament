@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Energy", 
+        "Childcare", 
+        "Families", 
+        "Mental Health", 
+        "Employment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }
+    ], 
+    "gender": "male", 
+    "id": "570", 
+    "party": "Labour", 
+    "display_name": "Mr Frank Doran", 
+    "slug": "mr-frank-doran"
+}

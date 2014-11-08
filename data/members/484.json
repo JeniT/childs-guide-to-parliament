@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Regional Policy", 
+        "Local Government", 
+        "Transport", 
+        "Public Services", 
+        "Arts"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2002-07-22", 
+            "name": "Transport Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-21", 
+            "name": "National Policy Statements Sub-Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2008-05-21", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "484", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Mrs Louise Ellman", 
+    "slug": "mrs-louise-ellman"
+}

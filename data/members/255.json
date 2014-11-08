@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Education", 
+        "Local And Regional Government", 
+        "Rural Affairs", 
+        "Environment", 
+        "Home Affairs", 
+        "Constitutional Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-25", 
+            "name": "Science and Technology Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-10-16", 
+            "name": "House of Commons Governance Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "255", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr David Heath", 
+    "slug": "mr-david-heath"
+}

@@ -1,0 +1,38 @@
+{
+    "interests": [
+        "Legal Services", 
+        "Race Relations", 
+        "Urban Policy", 
+        "Small Businesses", 
+        "Diabetes", 
+        "Succession", 
+        "Home Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-30", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2007-07-26", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2007-07-25", 
+            "name": "Home Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "338", 
+    "party": "Labour", 
+    "display_name": "Keith Vaz", 
+    "slug": "keith-vaz"
+}

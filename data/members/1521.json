@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "North/South Divide", 
+        "Employment (Especially Green Jobs)", 
+        "Education And Special Educational Needs", 
+        "Health (Especially Cancer Issues)", 
+        "Transport", 
+        "Child Poverty", 
+        "Affordable Energy", 
+        "Free School Meals"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1521", 
+    "party": "Labour", 
+    "display_name": "Mrs Sharon Hodgson", 
+    "slug": "mrs-sharon-hodgson"
+}

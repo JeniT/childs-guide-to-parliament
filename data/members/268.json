@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Engineering", 
+        "Defence", 
+        "Trade And Industry", 
+        "Rural Affairs", 
+        "Performing Arts"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-11", 
+            "name": "International Development Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-12-18", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "268", 
+    "party": "Conservative", 
+    "display_name": "Sir Peter Luff", 
+    "slug": "sir-peter-luff"
+}

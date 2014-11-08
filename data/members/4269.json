@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-10", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4269", 
+    "party": "Labour", 
+    "display_name": "Andy McDonald", 
+    "slug": "andy-mcdonald"
+}

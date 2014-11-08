@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Employment Rights", 
+        "Pensions", 
+        "Transport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4029", 
+    "party": "Labour", 
+    "display_name": "Lilian Greenwood", 
+    "slug": "lilian-greenwood"
+}

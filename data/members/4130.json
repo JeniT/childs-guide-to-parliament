@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Health", 
+        "Environment", 
+        "Europe", 
+        "Provision Facilities For The Young", 
+        "Economy", 
+        "Regional Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-01-23", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4130", 
+    "party": "Social Democratic & Labour Party", 
+    "display_name": "Ms Margaret Ritchie", 
+    "slug": "ms-margaret-ritchie"
+}

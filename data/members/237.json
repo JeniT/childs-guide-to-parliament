@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Local And Regional Government", 
+        "Voluntary Sector", 
+        "Tourism", 
+        "Diabetes"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-21", 
+            "name": "Transport Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-07-11", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "237", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr Adrian Sanders", 
+    "slug": "mr-adrian-sanders"
+}

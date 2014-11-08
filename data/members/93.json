@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Employment", 
+        "Youth Affairs", 
+        "Legal Affairs", 
+        "Overseas Aid And Development", 
+        "European Union", 
+        "Childcare"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-03-15", 
+            "name": "Draft Detention of Terrorist Suspects (Temporary Extension) Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "93", 
+    "party": "Conservative", 
+    "display_name": "Sir Tony Baldry", 
+    "slug": "sir-tony-baldry"
+}

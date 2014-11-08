@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Industrial Relations", 
+        "Pensions", 
+        "Housing", 
+        "Defence"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "437", 
+    "party": "Labour", 
+    "display_name": "Mr David Crausby", 
+    "slug": "mr-david-crausby"
+}

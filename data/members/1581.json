@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1581", 
+    "party": "Conservative", 
+    "display_name": "Mr Peter Bone", 
+    "slug": "mr-peter-bone"
+}

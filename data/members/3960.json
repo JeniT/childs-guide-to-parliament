@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Local Government", 
+        "Foreign Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3960", 
+    "party": "Conservative", 
+    "display_name": "Henry Smith", 
+    "slug": "henry-smith"
+}

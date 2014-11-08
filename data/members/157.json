@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Foreign Affairs", 
+        "Defence", 
+        "Industry", 
+        "Commerce", 
+        "World Population"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-30", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Foreign Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "157", 
+    "party": "Conservative", 
+    "display_name": "Sir Richard Ottaway", 
+    "slug": "sir-richard-ottaway"
+}

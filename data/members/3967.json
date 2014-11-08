@@ -1,0 +1,25 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Scottish Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-12-18", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-07-16", 
+            "name": "Business, Innovation and Skills Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3967", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mike Crockart", 
+    "slug": "mike-crockart"
+}

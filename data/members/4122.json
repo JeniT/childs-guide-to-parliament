@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Children'S Services", 
+        "Education", 
+        "Health", 
+        "Leisure", 
+        "Culture", 
+        "Energy", 
+        "Carers", 
+        "Poverty"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-11-07", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4122", 
+    "party": "Labour", 
+    "display_name": "Alex Cunningham", 
+    "slug": "alex-cunningham"
+}

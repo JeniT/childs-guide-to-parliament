@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Foreign Affairs", 
+        "Transport", 
+        "Treasury", 
+        "Welfare Reform", 
+        "Thalidomide Victims"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-23", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3997", 
+    "party": "Conservative", 
+    "display_name": "Alec Shelbrooke", 
+    "slug": "alec-shelbrooke"
+}

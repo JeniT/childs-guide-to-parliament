@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Workers' Rights (Including Equalities And The Vulnerable Workers' Agenda)", 
+        "Manufacturing", 
+        "Housing", 
+        "Transport", 
+        "International Development (Including Supply Chain Ethical Trading)"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3913", 
+    "party": "Labour", 
+    "display_name": "Jack Dromey", 
+    "slug": "jack-dromey"
+}

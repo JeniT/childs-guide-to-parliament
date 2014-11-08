@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Taxation", 
+        "Education", 
+        "Preventive Health Care", 
+        "Transport", 
+        "Civil Rights", 
+        "Arts", 
+        "Europe"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1492", 
+    "party": "Liberal Democrat", 
+    "display_name": "Stephen Williams", 
+    "slug": "stephen-williams"
+}

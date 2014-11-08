@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Treasury", 
+        "Welfare Reform", 
+        "Home Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-29", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "133", 
+    "party": "Conservative", 
+    "display_name": "Mr David Ruffley", 
+    "slug": "mr-david-ruffley"
+}

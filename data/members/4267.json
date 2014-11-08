@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-10", 
+            "name": "Transport Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4267", 
+    "party": "Labour", 
+    "display_name": "Sarah Champion", 
+    "slug": "sarah-champion"
+}

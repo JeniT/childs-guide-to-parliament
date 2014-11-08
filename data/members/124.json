@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Small Businesses", 
+        "Employment", 
+        "Agriculture", 
+        "Rural Affairs", 
+        "Training", 
+        "Waste Management"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-02-04", 
+            "name": "Scottish Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "124", 
+    "party": "Conservative", 
+    "display_name": "Sir James Paice", 
+    "slug": "sir-james-paice"
+}

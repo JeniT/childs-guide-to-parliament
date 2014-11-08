@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Education", 
+        "Social Services", 
+        "Economy", 
+        "Constitution"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Public Administration Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Political and Constitutional Reform Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1426", 
+    "party": "Conservative", 
+    "display_name": "Mr Andrew Turner", 
+    "slug": "mr-andrew-turner"
+}

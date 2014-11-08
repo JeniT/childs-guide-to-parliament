@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Education", 
+        "Animal Welfare", 
+        "Media", 
+        "Broadcasting", 
+        "Tourism", 
+        "Leisure Industry", 
+        "Licensed Trade"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2007-06-11", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2001-06-26", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "87", 
+    "party": "Conservative", 
+    "display_name": "Sir Roger Gale", 
+    "slug": "sir-roger-gale"
+}

@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Treasury", 
+        "Trade And Industry", 
+        "Housing", 
+        "Children'S Issues", 
+        "Transport", 
+        "Environment", 
+        "Human Rights", 
+        "Equality"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Welsh Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-07-05", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "155", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Geraint Davies", 
+    "slug": "geraint-davies"
+}

@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Education", 
+        "Transport", 
+        "Economic Policy", 
+        "Constitution", 
+        "Devolution"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Parliamentary Privilege (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "36", 
+    "party": "Conservative", 
+    "display_name": "Mrs Eleanor Laing", 
+    "slug": "mrs-eleanor-laing"
+}

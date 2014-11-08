@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Economic Policy", 
+        "European Union", 
+        "Education", 
+        "Race Relations"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "68", 
+    "party": "Conservative", 
+    "display_name": "Mr Peter Lilley", 
+    "slug": "mr-peter-lilley"
+}

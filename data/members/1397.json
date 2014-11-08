@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Social Affairs", 
+        "Social Security", 
+        "Social Work", 
+        "Language Issues", 
+        "Kurdish Issues", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-05-24", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1397", 
+    "party": "Plaid Cymru", 
+    "display_name": "Hywel Williams", 
+    "slug": "hywel-williams"
+}

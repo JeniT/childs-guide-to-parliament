@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Local Democracy", 
+        "Rural Affairs", 
+        "Broadband", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-16", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-05-14", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-05-14", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4137", 
+    "party": "Conservative", 
+    "display_name": "Rory Stewart", 
+    "slug": "rory-stewart"
+}

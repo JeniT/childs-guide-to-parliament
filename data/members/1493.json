@@ -1,0 +1,35 @@
+{
+    "interests": [
+        "Employment", 
+        "Taxation", 
+        "The Economy", 
+        "Mental Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-23", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-10-17", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-10-17", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1493", 
+    "party": "Conservative", 
+    "display_name": "Mr Charles Walker", 
+    "slug": "mr-charles-walker"
+}

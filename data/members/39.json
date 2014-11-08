@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Broadcasting And Media: Film", 
+        "Music", 
+        "Arts"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-11", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-11", 
+            "name": "Culture, Media and Sport Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "39", 
+    "party": "Conservative", 
+    "display_name": "Mr John Whittingdale", 
+    "slug": "mr-john-whittingdale"
+}

@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Employment", 
+        "Health", 
+        "Arts", 
+        "Urban Regeneration"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-09-13", 
+            "name": "Intelligence and Security (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "456", 
+    "party": "Labour", 
+    "display_name": "Hazel Blears", 
+    "slug": "hazel-blears"
+}

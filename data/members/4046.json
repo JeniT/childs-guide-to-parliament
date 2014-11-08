@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Housing", 
+        "Families And Older People", 
+        "Women And Equality", 
+        "Uk Software Industry", 
+        "Jobs And Economy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-11", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4046", 
+    "party": "Labour", 
+    "display_name": "Bridget Phillipson", 
+    "slug": "bridget-phillipson"
+}

@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Defence", 
+        "Foreign Affairs", 
+        "Agriculture", 
+        "Families"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-03-16", 
+            "name": "Public Accounts Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-07", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "345", 
+    "party": "Conservative", 
+    "display_name": "Sir Edward Leigh", 
+    "slug": "sir-edward-leigh"
+}

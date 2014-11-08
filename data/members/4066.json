@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Trade", 
+        "Business", 
+        "The Economy", 
+        "Law And Order"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4066", 
+    "party": "Conservative", 
+    "display_name": "Priti Patel", 
+    "slug": "priti-patel"
+}

@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Welsh Affairs", 
+        "Welfare", 
+        "Economic Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-20", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1474", 
+    "party": "Labour", 
+    "display_name": "Albert Owen", 
+    "slug": "albert-owen"
+}

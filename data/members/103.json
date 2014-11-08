@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Inner Cities", 
+        "Housing", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Privileges Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "103", 
+    "party": "Conservative", 
+    "display_name": "Sir Paul Beresford", 
+    "slug": "sir-paul-beresford"
+}

@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Education", 
+        "Health", 
+        "Employment", 
+        "Trade And Industry", 
+        "Regeneration", 
+        "Investment", 
+        "European Affairs", 
+        "Pensions", 
+        "Crime"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "Culture, Media and Sport Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1436", 
+    "party": "Labour", 
+    "display_name": "Paul Farrelly", 
+    "slug": "paul-farrelly"
+}

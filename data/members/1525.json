@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Transport", 
+        "Culture", 
+        "Media And Sport", 
+        "Justice"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-03-04", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1525", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Mrs Linda Riordan", 
+    "slug": "mrs-linda-riordan"
+}

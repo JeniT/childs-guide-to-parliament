@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-29", 
+            "name": "Scottish Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3978", 
+    "party": "Conservative", 
+    "display_name": "Simon Reevell", 
+    "slug": "simon-reevell"
+}

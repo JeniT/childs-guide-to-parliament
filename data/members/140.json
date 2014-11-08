@@ -1,0 +1,32 @@
+{
+    "interests": [
+        "Education", 
+        "Local And Regional Government", 
+        "Housing", 
+        "Inner Cities", 
+        "Democratic Reform", 
+        "London Government"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "140", 
+    "party": "Labour", 
+    "display_name": "Margaret Hodge", 
+    "slug": "margaret-hodge"
+}

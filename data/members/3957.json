@@ -1,0 +1,20 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-07-05", 
+            "name": "Transport Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Procedure Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3957", 
+    "party": "Conservative", 
+    "display_name": "Martin Vickers", 
+    "slug": "martin-vickers"
+}

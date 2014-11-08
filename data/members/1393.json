@@ -1,0 +1,15 @@
+{
+    "interests": [
+        "Economy", 
+        "Education", 
+        "Agriculture", 
+        "Foreign Affairs", 
+        "Health"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "1393", 
+    "party": "Conservative", 
+    "display_name": "Mark Simmonds", 
+    "slug": "mark-simmonds"
+}

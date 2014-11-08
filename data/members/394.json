@@ -1,0 +1,42 @@
+{
+    "interests": [
+        "Local And Regional Government", 
+        "Housing", 
+        "Planning", 
+        "Regeneration", 
+        "Transport", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2009-01-12", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-21", 
+            "name": "National Policy Statements Sub-Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-17", 
+            "name": "Finance and Services Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2006-06-27", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "394", 
+    "party": "Labour", 
+    "display_name": "Mr Clive Betts", 
+    "slug": "mr-clive-betts"
+}

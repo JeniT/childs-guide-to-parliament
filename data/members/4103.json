@@ -1,0 +1,17 @@
+{
+    "interests": [
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4103", 
+    "party": "Labour", 
+    "display_name": "Pat Glass", 
+    "slug": "pat-glass"
+}

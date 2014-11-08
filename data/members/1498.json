@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Education", 
+        "Rural Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-17", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1498", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr Mark Williams", 
+    "slug": "mr-mark-williams"
+}

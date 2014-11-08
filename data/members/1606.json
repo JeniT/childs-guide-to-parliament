@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Rural Issues", 
+        "Social Policy", 
+        "Local Government", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-08", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1606", 
+    "party": "Conservative", 
+    "display_name": "John Howell", 
+    "slug": "john-howell"
+}

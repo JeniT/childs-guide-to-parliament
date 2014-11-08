@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Education", 
+        "Urban Regeneration", 
+        "Constitutional Reform", 
+        "Re-Industrialisation", 
+        "Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Parliamentary Privilege (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4111", 
+    "party": "Labour", 
+    "display_name": "Tristram Hunt", 
+    "slug": "tristram-hunt"
+}

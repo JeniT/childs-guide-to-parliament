@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Health And Social Care", 
+        "Carers", 
+        "Women In Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-10-24", 
+            "name": "Health Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1588", 
+    "party": "Labour", 
+    "display_name": "Barbara Keeley", 
+    "slug": "barbara-keeley"
+}

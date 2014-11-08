@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Education", 
+        "Economy", 
+        "Transport", 
+        "London"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-05-09", 
+            "name": "Selection Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-10-28", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1198", 
+    "party": "Conservative", 
+    "display_name": "Mr David Evennett", 
+    "slug": "mr-david-evennett"
+}

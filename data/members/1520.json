@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Education", 
+        "Special Needs Education", 
+        "Law And Order", 
+        "Health", 
+        "Defence"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-03-10", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1520", 
+    "party": "Conservative", 
+    "display_name": "Mr Mark Harper", 
+    "slug": "mr-mark-harper"
+}

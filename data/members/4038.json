@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Housing", 
+        "Urban Regeneration", 
+        "Human Rights", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-05-09", 
+            "name": "Selection Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4038", 
+    "party": "Labour", 
+    "display_name": "Heidi Alexander", 
+    "slug": "heidi-alexander"
+}

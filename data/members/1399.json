@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Tourism", 
+        "House Of Lords Reform", 
+        "Treasury", 
+        "Financial Services And Banking Reform", 
+        "Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2006-04-24", 
+            "name": "Treasury Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-27", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1399", 
+    "party": "Liberal Democrat", 
+    "display_name": "John Thurso", 
+    "slug": "john-thurso"
+}

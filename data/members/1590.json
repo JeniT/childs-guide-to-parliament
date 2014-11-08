@@ -1,0 +1,35 @@
+{
+    "interests": [
+        "Economic And Social Justice", 
+        "Equality", 
+        "Human Rights", 
+        "Transport And Environmental Issues"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Business, Innovation and Skills Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1590", 
+    "party": "Labour", 
+    "display_name": "Katy Clark", 
+    "slug": "katy-clark"
+}

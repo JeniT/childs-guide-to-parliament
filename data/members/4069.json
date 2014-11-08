@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Employment", 
+        "Transport", 
+        "Broadband", 
+        "Offshore Renewables", 
+        "Fishing", 
+        "Agriculture", 
+        "Town Planning", 
+        "Urban Regeneration", 
+        "Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4069", 
+    "party": "Conservative", 
+    "display_name": "Peter Aldous", 
+    "slug": "peter-aldous"
+}

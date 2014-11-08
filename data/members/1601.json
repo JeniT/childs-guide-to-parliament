@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Local Government", 
+        "Environment", 
+        "Policing And Criminal Justice", 
+        "Arts"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-12-10", 
+            "name": "Political and Constitutional Reform Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1601", 
+    "party": "Conservative", 
+    "display_name": "Robert Neill", 
+    "slug": "robert-neill"
+}

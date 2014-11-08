@@ -1,0 +1,32 @@
+{
+    "interests": [
+        "Urban Regeneration", 
+        "House Of Lords Reform", 
+        "Revitalising Local Democracy", 
+        "Aviation And Airports", 
+        "Bus Regulation", 
+        "Science Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Transport Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Science and Technology Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "449", 
+    "party": "Labour", 
+    "display_name": "Graham Stringer", 
+    "slug": "graham-stringer"
+}

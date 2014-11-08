@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Business", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-30", 
+            "name": "Foreign Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Business, Innovation and Skills Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4113", 
+    "party": "Conservative", 
+    "display_name": "Nadhim Zahawi", 
+    "slug": "nadhim-zahawi"
+}

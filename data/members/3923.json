@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Education", 
+        "Community Cohesion", 
+        "Business Growth And Job Creation", 
+        "Textile Manufacturing", 
+        "Palestine"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-06-11", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3923", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr David Ward", 
+    "slug": "mr-david-ward"
+}

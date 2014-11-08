@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Environment", 
+        "Planning", 
+        "Education", 
+        "European Union"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2003-12-16", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "Environmental Audit Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "566", 
+    "party": "Labour", 
+    "display_name": "Martin Caton", 
+    "slug": "martin-caton"
+}

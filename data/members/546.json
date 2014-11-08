@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Local And Regional Government", 
+        "Wales", 
+        "Education", 
+        "Housing", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-30", 
+            "name": "National Security Strategy (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "546", 
+    "party": "Labour", 
+    "display_name": "Paul Murphy", 
+    "slug": "paul-murphy"
+}

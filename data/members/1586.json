@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Business And Enterprise", 
+        "Trade", 
+        "Social Mobility", 
+        "Mental Health", 
+        "Simpler Tax And Benefit System", 
+        "Science And Innovation"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1586", 
+    "party": "Conservative", 
+    "display_name": "Adam Afriyie", 
+    "slug": "adam-afriyie"
+}

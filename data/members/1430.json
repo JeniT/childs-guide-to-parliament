@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Education", 
+        "Lifelong Learning", 
+        "Health", 
+        "Cancer And Blood", 
+        "Industrial Relations And Working Conditions"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-01-24", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2003-10-20", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1430", 
+    "party": "Labour", 
+    "display_name": "Mr Dai Havard", 
+    "slug": "mr-dai-havard"
+}

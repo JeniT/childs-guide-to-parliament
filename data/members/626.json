@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Employment", 
+        "Social Welfare"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Foreign Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "626", 
+    "party": "Labour", 
+    "display_name": "Mr Frank Roy", 
+    "slug": "mr-frank-roy"
+}

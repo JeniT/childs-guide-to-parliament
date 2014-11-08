@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Nhs", 
+        "Alcohol Related Problems", 
+        "Bovine Tb", 
+        "Rural Communities"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-18", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Health Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4073", 
+    "party": "Conservative", 
+    "display_name": "Dr Sarah Wollaston", 
+    "slug": "dr-sarah-wollaston"
+}

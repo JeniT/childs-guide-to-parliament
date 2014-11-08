@@ -1,0 +1,34 @@
+{
+    "interests": [
+        "Environment", 
+        "Health", 
+        "Small Businesses"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-21", 
+            "name": "National Policy Statements Sub-Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "1997-11-12", 
+            "name": "Environmental Audit Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "286", 
+    "party": "Labour", 
+    "display_name": "Joan Walley", 
+    "slug": "joan-walley"
+}

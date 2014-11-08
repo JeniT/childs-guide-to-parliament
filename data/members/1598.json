@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Local Government", 
+        "Human Rights", 
+        "International Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-11-14", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1598", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mark Hunter", 
+    "slug": "mark-hunter"
+}

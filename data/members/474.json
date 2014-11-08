@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Education", 
+        "Small Businesses", 
+        "Us Elections", 
+        "Local And Regional Government", 
+        "Defence", 
+        "Agriculture", 
+        "International Politics", 
+        "European Affairs", 
+        "Telecommunications", 
+        "Space"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-23", 
+            "name": "Public Administration Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-07-07", 
+            "name": "Backbench Business Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "474", 
+    "party": "Conservative", 
+    "display_name": "Mr Nigel Evans", 
+    "slug": "mr-nigel-evans"
+}

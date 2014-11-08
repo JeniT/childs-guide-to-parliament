@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Public Services"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Treasury Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-10-16", 
+            "name": "House of Commons Governance Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3991", 
+    "party": "Conservative", 
+    "display_name": "Jesse Norman", 
+    "slug": "jesse-norman"
+}

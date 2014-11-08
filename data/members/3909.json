@@ -1,0 +1,20 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-01-23", 
+            "name": "Scottish Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Science and Technology Committee (Commons)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3909", 
+    "party": "Labour", 
+    "display_name": "Pamela Nash", 
+    "slug": "pamela-nash"
+}

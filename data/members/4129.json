@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Justice", 
+        "Europe", 
+        "Agriculture", 
+        "Policing", 
+        "Foreign Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Northern Ireland Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-10-16", 
+            "name": "House of Commons Governance Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4129", 
+    "party": "Democratic Unionist", 
+    "display_name": "Ian Paisley", 
+    "slug": "ian-paisley"
+}

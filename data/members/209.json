@@ -1,0 +1,32 @@
+{
+    "interests": [
+        "Environment", 
+        "Trade And Industry", 
+        "Foreign Affairs", 
+        "Transport", 
+        "Human Trafficking", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-11", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-09-11", 
+            "name": "Privileges Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-01", 
+            "name": "Joint Committee on Security"
+        }
+    ], 
+    "gender": "male", 
+    "id": "209", 
+    "party": "Conservative", 
+    "display_name": "Sir John Randall", 
+    "slug": "sir-john-randall"
+}

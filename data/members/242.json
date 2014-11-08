@@ -1,0 +1,35 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Privileges Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Political and Constitutional Reform Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-05-24", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "242", 
+    "party": "Conservative", 
+    "display_name": "Mr Christopher Chope", 
+    "slug": "mr-christopher-chope"
+}

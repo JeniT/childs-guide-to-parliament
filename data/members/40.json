@@ -1,0 +1,32 @@
+{
+    "interests": [
+        "Economic Policy", 
+        "Trade", 
+        "European Union", 
+        "Defence", 
+        "Foreign Affairs", 
+        "Good Governance"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Public Administration Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Parliamentary Privilege (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "40", 
+    "party": "Conservative", 
+    "display_name": "Mr Bernard Jenkin", 
+    "slug": "mr-bernard-jenkin"
+}

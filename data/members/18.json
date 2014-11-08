@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Industry", 
+        "Space", 
+        "International Affairs", 
+        "Defence", 
+        "Education", 
+        "Employment", 
+        "Constitutional Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-05-12", 
+            "name": "Public Administration Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "18", 
+    "party": "Conservative", 
+    "display_name": "Mrs Cheryl Gillan", 
+    "slug": "mrs-cheryl-gillan"
+}

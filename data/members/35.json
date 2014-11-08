@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Environment", 
+        "Local And Regional Government", 
+        "Sport", 
+        "Transport", 
+        "Animal Welfare", 
+        "Voluntary Sector", 
+        "Youth Organisations", 
+        "Defence"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-23", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-10-24", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "35", 
+    "party": "Liberal Democrat", 
+    "display_name": "Sir Bob Russell", 
+    "slug": "sir-bob-russell"
+}

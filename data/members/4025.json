@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Education", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "International Development Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4025", 
+    "party": "Conservative", 
+    "display_name": "Pauline Latham", 
+    "slug": "pauline-latham"
+}

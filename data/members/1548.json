@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Anti-Social Behaviour", 
+        "Electoral Issues", 
+        "Police", 
+        "Children", 
+        "Steel Industry"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1548", 
+    "party": "Labour", 
+    "display_name": "Jessica Morden", 
+    "slug": "jessica-morden"
+}

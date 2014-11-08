@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Economic Policy", 
+        "Transport", 
+        "Arts", 
+        "European Union"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-01-17", 
+            "name": "Public Administration Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2007-04-25", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "2", 
+    "party": "Labour", 
+    "display_name": "Kelvin Hopkins", 
+    "slug": "kelvin-hopkins"
+}

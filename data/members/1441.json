@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Small Businesses", 
+        "Agriculture", 
+        "Defence", 
+        "Northern Ireland", 
+        "Tourism"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-04-29", 
+            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1441", 
+    "party": "Conservative", 
+    "display_name": "Mr Henry Bellingham", 
+    "slug": "mr-henry-bellingham"
+}

@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Health", 
+        "Education", 
+        "Nhs", 
+        "Micro Businesses", 
+        "Smes", 
+        "Social Care"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Work and Pensions Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4249", 
+    "party": "Conservative", 
+    "display_name": "Anne Marie Morris", 
+    "slug": "anne-marie-morris"
+}

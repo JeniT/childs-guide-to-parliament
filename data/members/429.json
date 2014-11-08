@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Economy", 
+        "Education", 
+        "Health And Poverty", 
+        "Defence"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-06-10", 
+            "name": "Defence Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-07-01", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "429", 
+    "party": "Labour", 
+    "display_name": "Derek Twigg", 
+    "slug": "derek-twigg"
+}

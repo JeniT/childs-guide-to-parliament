@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3975", 
+    "party": "Conservative", 
+    "display_name": "Chris Kelly", 
+    "slug": "chris-kelly"
+}

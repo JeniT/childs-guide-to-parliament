@@ -1,0 +1,20 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-30", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-06", 
+            "name": "Intelligence and Security (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1191", 
+    "party": "Conservative", 
+    "display_name": "Sir Malcolm Rifkind", 
+    "slug": "sir-malcolm-rifkind"
+}

@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Education", 
+        "Health And Welfare", 
+        "Economy", 
+        "Foreign Policy", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2009-02-03", 
+            "name": "Scottish Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Public Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1608", 
+    "party": "Labour", 
+    "display_name": "Lindsay Roy", 
+    "slug": "lindsay-roy"
+}

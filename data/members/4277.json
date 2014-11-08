@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-06-10", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4277", 
+    "party": "Labour", 
+    "display_name": "Mrs Emma Lewell-Buck", 
+    "slug": "mrs-emma-lewell-buck"
+}

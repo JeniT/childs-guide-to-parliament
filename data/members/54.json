@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Defence", 
+        "Security", 
+        "Foreign Affairs", 
+        "European Affairs", 
+        "Mental Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-09-13", 
+            "name": "Intelligence and Security (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-11-03", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "54", 
+    "party": "Conservative", 
+    "display_name": "Dr Julian Lewis", 
+    "slug": "dr-julian-lewis"
+}

@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Economy", 
+        "Policing", 
+        "Armed Forces", 
+        "Parkinson'S Disease", 
+        "Pensions", 
+        "Human Rights"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-10-31", 
+            "name": "Political and Constitutional Reform Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1575", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr Jeremy Browne", 
+    "slug": "mr-jeremy-browne"
+}

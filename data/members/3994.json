@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Small Businesses", 
+        "Pensions"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-07-16", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3994", 
+    "party": "Conservative", 
+    "display_name": "Andrew Bingham", 
+    "slug": "andrew-bingham"
+}

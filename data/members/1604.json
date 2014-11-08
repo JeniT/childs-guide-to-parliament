@@ -1,0 +1,20 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Human Rights (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Health Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1604", 
+    "party": "Labour", 
+    "display_name": "Mr Virendra Sharma", 
+    "slug": "mr-virendra-sharma"
+}

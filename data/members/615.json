@@ -1,0 +1,38 @@
+{
+    "interests": [
+        "Energy", 
+        "Gas Industry", 
+        "Oil Industry", 
+        "Industrial Policy", 
+        "Trade Policy", 
+        "Deaf Children", 
+        "Scottish Home Rule And Federalism"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-01-13", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-11", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "International Development Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2008-03-10", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "615", 
+    "party": "Liberal Democrat", 
+    "display_name": "Sir Malcolm Bruce", 
+    "slug": "sir-malcolm-bruce"
+}

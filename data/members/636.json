@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "European Union", 
+        "Rural Development", 
+        "Urban Regeneration"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-04-07", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Commission"
+        }
+    ], 
+    "gender": "female", 
+    "id": "636", 
+    "party": "Labour", 
+    "display_name": "Mrs Anne McGuire", 
+    "slug": "mrs-anne-mcguire"
+}

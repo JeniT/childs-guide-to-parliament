@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Health", 
+        "Treasury (Regeneration)", 
+        "Arts And Culture", 
+        "Education", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "206", 
+    "party": "Labour", 
+    "display_name": "Mr David Lammy", 
+    "slug": "mr-david-lammy"
+}

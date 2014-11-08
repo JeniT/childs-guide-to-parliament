@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Housing", 
+        "Planning", 
+        "Home Affairs", 
+        "Regeneration", 
+        "Immigration"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-02-27", 
+            "name": "Public Accounts Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1551", 
+    "party": "Conservative", 
+    "display_name": "Mr Stewart Jackson", 
+    "slug": "mr-stewart-jackson"
+}

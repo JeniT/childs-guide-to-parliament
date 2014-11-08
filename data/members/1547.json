@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Rural Matters", 
+        "Social Affairs", 
+        "Defence", 
+        "Health", 
+        "Home Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-11-03", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1547", 
+    "party": "Conservative", 
+    "display_name": "Richard Benyon", 
+    "slug": "richard-benyon"
+}

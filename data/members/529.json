@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Crime And Policing", 
+        "Shipbuilding And Offshore Industries", 
+        "Fishing"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-13", 
+            "name": "Selection Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "529", 
+    "party": "Labour", 
+    "display_name": "Mr Alan Campbell", 
+    "slug": "mr-alan-campbell"
+}

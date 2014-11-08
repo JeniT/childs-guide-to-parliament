@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Education", 
+        "Nhs", 
+        "Local Government"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-28", 
+            "name": "Scottish Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4012", 
+    "party": "Labour", 
+    "display_name": "Graeme Morrice", 
+    "slug": "graeme-morrice"
+}

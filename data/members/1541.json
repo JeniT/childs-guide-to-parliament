@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Environment", 
+        "Europe", 
+        "Community Issues", 
+        "Cycling", 
+        "Industry", 
+        "Energy", 
+        "Equalities"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-11-28", 
+            "name": "Welsh Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1541", 
+    "party": "Labour", 
+    "display_name": "Nia Griffith", 
+    "slug": "nia-griffith"
+}

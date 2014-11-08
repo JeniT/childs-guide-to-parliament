@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Economic Policy", 
+        "Nhs", 
+        "Politics Of Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-12-07", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }
+    ], 
+    "gender": "female", 
+    "id": "491", 
+    "party": "Labour", 
+    "display_name": "Ms Angela Eagle", 
+    "slug": "ms-angela-eagle"
+}

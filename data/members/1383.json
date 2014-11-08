@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Manufacturing", 
+        "Aerospace", 
+        "Animal Welfare"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-13", 
+            "name": "Selection Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-01-23", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1383", 
+    "party": "Labour", 
+    "display_name": "Mark Tami", 
+    "slug": "mark-tami"
+}

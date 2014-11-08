@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Housing", 
+        "Environment", 
+        "Crime", 
+        "Disorder"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2009-10-13", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-17", 
+            "name": "Intelligence and Security (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-01-30", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "481", 
+    "party": "Labour", 
+    "display_name": "Mr George Howarth", 
+    "slug": "mr-george-howarth"
+}

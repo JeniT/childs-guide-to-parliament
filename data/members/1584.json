@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Drug Addiction", 
+        "Pensions", 
+        "Environment", 
+        "Education", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-07-17", 
+            "name": "Selection Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1584", 
+    "party": "Conservative", 
+    "display_name": "John Penrose", 
+    "slug": "john-penrose"
+}

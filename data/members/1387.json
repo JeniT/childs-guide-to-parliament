@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Small Businesses", 
+        "Training", 
+        "Economic Regeneration", 
+        "Sport", 
+        "Drugs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2009-01-12", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1387", 
+    "party": "Labour", 
+    "display_name": "John Mann", 
+    "slug": "john-mann"
+}

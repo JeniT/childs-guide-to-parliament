@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Planning", 
+        "Environment", 
+        "Local Government", 
+        "Trade"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-29", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4052", 
+    "party": "Conservative", 
+    "display_name": "Mark Pawsey", 
+    "slug": "mark-pawsey"
+}

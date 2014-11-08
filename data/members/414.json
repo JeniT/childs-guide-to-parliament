@@ -1,0 +1,30 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Treasury Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Select Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "414", 
+    "party": "Labour", 
+    "display_name": "Mr George Mudie", 
+    "slug": "mr-george-mudie"
+}

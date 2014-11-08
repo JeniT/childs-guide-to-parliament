@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Environment", 
+        "Employment", 
+        "Fuel Tax", 
+        "Health", 
+        "Fishing Industry", 
+        "Local Issues", 
+        "Elderly", 
+        "Farming", 
+        "Rural Development", 
+        "International Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Scottish Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1385", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr Alan Reid", 
+    "slug": "mr-alan-reid"
+}

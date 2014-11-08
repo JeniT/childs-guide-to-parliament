@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Small Businesses", 
+        "Care Of The Elderly", 
+        "Defence Policy", 
+        "Green Economy", 
+        "Food Security", 
+        "Trade", 
+        ""
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-23", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-10-15", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4094", 
+    "party": "Conservative", 
+    "display_name": "Laura Sandys", 
+    "slug": "laura-sandys"
+}

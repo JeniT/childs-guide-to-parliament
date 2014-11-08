@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Local And Regional Government", 
+        "Elderly", 
+        "Education", 
+        "Transport", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-30", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-01-28", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1454", 
+    "party": "Liberal Democrat", 
+    "display_name": "John Pugh", 
+    "slug": "john-pugh"
+}

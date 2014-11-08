@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Third Sector", 
+        "Consumer Credit And Debt", 
+        "Employment Law", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-01-27", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4034", 
+    "party": "Labour", 
+    "display_name": "Yvonne Fovargue", 
+    "slug": "yvonne-fovargue"
+}

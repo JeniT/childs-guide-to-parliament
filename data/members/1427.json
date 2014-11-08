@@ -1,0 +1,15 @@
+{
+    "interests": [
+        "Health", 
+        "Sport", 
+        "Media", 
+        "Education", 
+        "Crime"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "1427", 
+    "party": "Labour", 
+    "display_name": "Andy Burnham", 
+    "slug": "andy-burnham"
+}

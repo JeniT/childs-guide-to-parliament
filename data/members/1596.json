@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Urban Renewal", 
+        "Economic Reconstruction", 
+        "Job Creation", 
+        "Information Technology", 
+        "Biotechnology"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1596", 
+    "party": "Social Democratic & Labour Party", 
+    "display_name": "Dr Alasdair McDonnell", 
+    "slug": "dr-alasdair-mcdonnell"
+}

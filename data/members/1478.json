@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Economics", 
+        "Regeneration"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1478", 
+    "party": "Labour", 
+    "display_name": "Mr Iain Wright", 
+    "slug": "mr-iain-wright"
+}

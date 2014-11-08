@@ -1,0 +1,34 @@
+{
+    "interests": [
+        "Business", 
+        "Economy", 
+        "Defence", 
+        "Rural Affairs", 
+        "Farming", 
+        "Taxation", 
+        "Education", 
+        "Council Of Europe"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Select Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1396", 
+    "party": "Conservative", 
+    "display_name": "Mr Ian Liddell-Grainger", 
+    "slug": "mr-ian-liddell-grainger"
+}

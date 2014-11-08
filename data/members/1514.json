@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Economic Development", 
+        "Job Creation"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1514", 
+    "party": "Scottish National", 
+    "display_name": "Stewart Hosie", 
+    "slug": "stewart-hosie"
+}

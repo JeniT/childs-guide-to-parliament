@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Law And Order", 
+        "Social Structure", 
+        "Health", 
+        "Rural Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-05-26", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1481", 
+    "party": "Conservative", 
+    "display_name": "Nadine Dorries", 
+    "slug": "nadine-dorries"
+}

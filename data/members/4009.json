@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Tourism", 
+        "Local Government", 
+        "Coastal Erosion", 
+        "Business", 
+        "Transport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-18", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4009", 
+    "party": "Conservative", 
+    "display_name": "Brandon Lewis", 
+    "slug": "brandon-lewis"
+}

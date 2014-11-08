@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Defence", 
+        "Veteran Service Personnel", 
+        "Disabled Children", 
+        "Pensioners"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Defence Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3919", 
+    "party": "Conservative", 
+    "display_name": "Bob Stewart", 
+    "slug": "bob-stewart"
+}

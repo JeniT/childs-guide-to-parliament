@@ -1,0 +1,36 @@
+{
+    "interests": [
+        "Transport", 
+        "Tourism", 
+        "Legal Affairs", 
+        "Environment", 
+        "Farming And Animal Husbandry"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-21", 
+            "name": "National Policy Statements Sub-Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2007-12-18", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "384", 
+    "party": "Conservative", 
+    "display_name": "Miss Anne McIntosh", 
+    "slug": "miss-anne-mcintosh"
+}

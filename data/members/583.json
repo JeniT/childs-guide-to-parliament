@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Film Industry", 
+        "Foreign Affairs", 
+        "Disability Rights", 
+        "Civil Service", 
+        "Local And Regional Government", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Privileges Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "583", 
+    "party": "Labour", 
+    "display_name": "Mr Tom Clarke", 
+    "slug": "mr-tom-clarke"
+}

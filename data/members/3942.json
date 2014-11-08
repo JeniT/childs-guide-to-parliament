@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3942", 
+    "party": "Conservative", 
+    "display_name": "John Stevenson", 
+    "slug": "john-stevenson"
+}

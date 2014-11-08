@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Social And Economic Regeneration", 
+        "Environment", 
+        "Housing", 
+        "Local Government", 
+        "Business"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4059", 
+    "party": "Labour", 
+    "display_name": "Simon Danczuk", 
+    "slug": "simon-danczuk"
+}

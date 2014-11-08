@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Nuclear Energy", 
+        "Small Business", 
+        "Maritime Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Science and Technology Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-01-20", 
+            "name": "Political and Constitutional Reform Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4135", 
+    "party": "Conservative", 
+    "display_name": "David Morris", 
+    "slug": "david-morris"
+}

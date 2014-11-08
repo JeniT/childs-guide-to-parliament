@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Universities", 
+        "Education", 
+        "Housing", 
+        "Voluntary And Community Sector", 
+        "Youth Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Business, Innovation and Skills Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-09", 
+            "name": "Able Marine Energy Park Development Consent Order 2014"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4058", 
+    "party": "Labour", 
+    "display_name": "Paul Blomfield", 
+    "slug": "paul-blomfield"
+}

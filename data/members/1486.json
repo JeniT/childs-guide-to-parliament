@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Public Services", 
+        "Employment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-10-24", 
+            "name": "Northern Ireland Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-30", 
+            "name": "Backbench Business Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1486", 
+    "party": "Labour", 
+    "display_name": "Mr David Anderson", 
+    "slug": "mr-david-anderson"
+}

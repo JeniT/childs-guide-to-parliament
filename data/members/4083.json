@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Employment", 
+        "Arts And Culture", 
+        "Regeneration", 
+        "International Development", 
+        "Economics", 
+        "Finance"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4083", 
+    "party": "Labour", 
+    "display_name": "Alison McGovern", 
+    "slug": "alison-mcgovern"
+}

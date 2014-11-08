@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Defence", 
+        "Crime"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-05-12", 
+            "name": "Public Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1522", 
+    "party": "Conservative", 
+    "display_name": "Mr Adam Holloway", 
+    "slug": "mr-adam-holloway"
+}

@@ -1,0 +1,14 @@
+{
+    "interests": [
+        "Health", 
+        "Financial Affairs", 
+        "Transport", 
+        "Foreign Affairs"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "1585", 
+    "party": "Conservative", 
+    "display_name": "Stephen Hammond", 
+    "slug": "stephen-hammond"
+}

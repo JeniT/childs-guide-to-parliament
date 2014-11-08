@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Defence", 
+        "Social Care", 
+        "Mental Health", 
+        "Pharmacy", 
+        "Renewables"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Northern Ireland Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-30", 
+            "name": "Backbench Business Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4022", 
+    "party": "Conservative", 
+    "display_name": "Oliver Colvile", 
+    "slug": "oliver-colvile"
+}

@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Regeneration Of Seaside Towns", 
+        "Housing", 
+        "Electoral Registration", 
+        "Anti-Poverty", 
+        "Environment", 
+        "Tourism", 
+        "Mindfulness"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-01-20", 
+            "name": "Political and Constitutional Reform Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "534", 
+    "party": "Labour", 
+    "display_name": "Chris Ruane", 
+    "slug": "chris-ruane"
+}

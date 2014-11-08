@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Refugees", 
+        "Poverty", 
+        "Health", 
+        "Housing", 
+        "Middle East", 
+        "Guantanamo Bay", 
+        "Civil Liberties"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-01-27", 
+            "name": "Human Rights (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1170", 
+    "party": "Liberal Democrat", 
+    "display_name": "Sarah Teather", 
+    "slug": "sarah-teather"
+}

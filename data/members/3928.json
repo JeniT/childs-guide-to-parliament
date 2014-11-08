@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Economic Development", 
+        "Health", 
+        "Children", 
+        "Consumer Affairs", 
+        "Political Campaigning", 
+        "Supporting Democracy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3928", 
+    "party": "Labour", 
+    "display_name": "Nick Smith", 
+    "slug": "nick-smith"
+}

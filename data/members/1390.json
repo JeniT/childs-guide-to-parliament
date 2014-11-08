@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Foreign Affairs", 
+        "Economy", 
+        "Civil Liberties", 
+        "Defence", 
+        "Cancer"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Foreign Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1390", 
+    "party": "Conservative", 
+    "display_name": "Mr John Baron", 
+    "slug": "mr-john-baron"
+}

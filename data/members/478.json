@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Poverty And Income Redistribution", 
+        "Church Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "478", 
+    "party": "Labour", 
+    "display_name": "Mr Frank Field", 
+    "slug": "mr-frank-field"
+}

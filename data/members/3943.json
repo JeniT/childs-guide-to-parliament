@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Social Justice", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-03-10", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3943", 
+    "party": "Plaid Cymru", 
+    "display_name": "Jonathan Edwards", 
+    "slug": "jonathan-edwards"
+}

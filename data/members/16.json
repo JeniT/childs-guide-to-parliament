@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Law And Order", 
+        "Environment", 
+        "Defence", 
+        "Foreign Affairs", 
+        "European Union", 
+        "Constitution"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-11", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-09-11", 
+            "name": "Privileges Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "16", 
+    "party": "Conservative", 
+    "display_name": "Mr Dominic Grieve", 
+    "slug": "mr-dominic-grieve"
+}

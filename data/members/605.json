@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "International Development", 
+        "Defence", 
+        "Work And Pensions", 
+        "Scottish Affairs", 
+        "Communications", 
+        "Foreign Affairs", 
+        "Music", 
+        "Nuclear Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2009-01-19", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "605", 
+    "party": "Labour", 
+    "display_name": "John Robertson", 
+    "slug": "john-robertson"
+}

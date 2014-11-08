@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-10-31", 
+            "name": "Political and Constitutional Reform Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1594", 
+    "party": "Social Democratic & Labour Party", 
+    "display_name": "Mark Durkan", 
+    "slug": "mark-durkan"
+}

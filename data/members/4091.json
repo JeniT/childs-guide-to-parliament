@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Education", 
+        "Health", 
+        "Police", 
+        "Foreign Affairs", 
+        "Defence", 
+        "Business"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Business, Innovation and Skills Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4091", 
+    "party": "Conservative", 
+    "display_name": "Mr Robin Walker", 
+    "slug": "mr-robin-walker"
+}

@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Local Government", 
+        "Science And Technology", 
+        "Business"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Science and Technology Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3954", 
+    "party": "Conservative", 
+    "display_name": "Stephen Mosley", 
+    "slug": "stephen-mosley"
+}

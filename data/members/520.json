@@ -1,0 +1,17 @@
+{
+    "interests": [
+        "Small Businesses"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2004-03-15", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "520", 
+    "party": "Labour", 
+    "display_name": "Mr Stephen Hepburn", 
+    "slug": "mr-stephen-hepburn"
+}

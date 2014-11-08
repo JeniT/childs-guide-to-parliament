@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Defence", 
+        "Economic Policy", 
+        "Energy Security", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4112", 
+    "party": "Conservative", 
+    "display_name": "Dan Byles", 
+    "slug": "dan-byles"
+}

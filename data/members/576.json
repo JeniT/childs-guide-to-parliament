@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Equalities", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-01-10", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-05-20", 
+            "name": "Foreign Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "576", 
+    "party": "Labour", 
+    "display_name": "Sandra Osborne", 
+    "slug": "sandra-osborne"
+}

@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Gender", 
+        "Animal Welfare", 
+        "Poverty", 
+        "Environment", 
+        "Energy", 
+        "Economy", 
+        "Drugs And Alcohol"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3930", 
+    "party": "Green", 
+    "display_name": "Caroline Lucas", 
+    "slug": "caroline-lucas"
+}

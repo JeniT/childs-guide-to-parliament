@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2003-01-01", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }
+    ], 
+    "gender": "male", 
+    "id": "451", 
+    "party": "Labour", 
+    "display_name": "Sir Gerald Kaufman", 
+    "slug": "sir-gerald-kaufman"
+}

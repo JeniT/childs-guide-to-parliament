@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Agriculture", 
+        "Economic Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-07-15", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-07-15", 
+            "name": "Public Accounts Commission"
+        }
+    ], 
+    "gender": "male", 
+    "id": "379", 
+    "party": "Conservative", 
+    "display_name": "Mr William Hague", 
+    "slug": "mr-william-hague"
+}

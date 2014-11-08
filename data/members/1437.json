@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Policing", 
+        "Human Rights", 
+        "European Affairs", 
+        "Health", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1437", 
+    "party": "Independent", 
+    "display_name": "Lady Hermon", 
+    "slug": "lady-hermon"
+}

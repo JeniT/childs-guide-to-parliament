@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Education", 
+        "Manufacturing", 
+        "Conservation", 
+        "Arts", 
+        "Animal Welfare", 
+        "Debt & Personal Finance"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-10-11", 
+            "name": "Procedure Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4056", 
+    "party": "Labour", 
+    "display_name": "Nic Dakin", 
+    "slug": "nic-dakin"
+}

@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Law And Order", 
+        "Education", 
+        "Constitutional Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4050", 
+    "party": "Conservative", 
+    "display_name": "Gordon Henderson", 
+    "slug": "gordon-henderson"
+}

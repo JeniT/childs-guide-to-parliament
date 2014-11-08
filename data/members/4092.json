@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Economy", 
+        "Small Business", 
+        "Foreign Policy", 
+        "Science And Technology", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Science and Technology Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4092", 
+    "party": "Conservative", 
+    "display_name": "Stephen Metcalfe", 
+    "slug": "stephen-metcalfe"
+}

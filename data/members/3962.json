@@ -1,0 +1,25 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-03-21", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Parliamentary Privilege (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3962", 
+    "party": "Labour", 
+    "display_name": "Thomas Docherty", 
+    "slug": "thomas-docherty"
+}

@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Business", 
+        "Small Businesses", 
+        "Benefit Reform", 
+        "Jobs And Regeneration", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Select Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3952", 
+    "party": "Labour", 
+    "display_name": "Toby Perkins", 
+    "slug": "toby-perkins"
+}

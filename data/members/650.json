@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Christian Values", 
+        "Constitution", 
+        "Transport", 
+        "Defence", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Defence Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "650", 
+    "party": "Democratic Unionist", 
+    "display_name": "Mr Jeffrey M. Donaldson", 
+    "slug": "mr-jeffrey-m-donaldson"
+}

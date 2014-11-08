@@ -1,0 +1,15 @@
+{
+    "interests": [
+        "Sport", 
+        "Olympics", 
+        "Defence", 
+        "Foreign Affairs", 
+        "Fruit Farming"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "1415", 
+    "party": "Conservative", 
+    "display_name": "Sir Hugh Robertson", 
+    "slug": "sir-hugh-robertson"
+}

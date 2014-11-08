@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Special Educational Needs", 
+        "International Development", 
+        "Human Rights", 
+        "Constitutional Reform", 
+        "Lgbt And Equality Issues"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-05-18", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-23", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }
+    ], 
+    "gender": "male", 
+    "id": "17", 
+    "party": "Speaker", 
+    "display_name": "John Bercow", 
+    "slug": "john-bercow"
+}

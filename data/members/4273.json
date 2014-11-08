@@ -1,0 +1,25 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-01-27", 
+            "name": "Work and Pensions Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-04-29", 
+            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-11-25", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4273", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr Mike Thornton", 
+    "slug": "mr-mike-thornton"
+}

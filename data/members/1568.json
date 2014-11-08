@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Environment", 
+        "Education", 
+        "Health", 
+        "Europe", 
+        "Transport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-23", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1568", 
+    "party": "Conservative", 
+    "display_name": "Mrs Anne Main", 
+    "slug": "mrs-anne-main"
+}

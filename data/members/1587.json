@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-11-14", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1587", 
+    "party": "Labour", 
+    "display_name": "Mr Pat McFadden", 
+    "slug": "mr-pat-mcfadden"
+}

@@ -1,0 +1,17 @@
+{
+    "interests": [
+        "Industry"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-01-13", 
+            "name": "National Security Strategy (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "328", 
+    "party": "Labour", 
+    "display_name": "Margaret Beckett", 
+    "slug": "margaret-beckett"
+}

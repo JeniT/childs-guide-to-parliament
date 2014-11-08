@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Welfare", 
+        "Foreign Affairs", 
+        "Vocational Education", 
+        "Financial Services", 
+        "Transport", 
+        "Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4065", 
+    "party": "Conservative", 
+    "display_name": "Jackie Doyle-Price", 
+    "slug": "jackie-doyle-price"
+}

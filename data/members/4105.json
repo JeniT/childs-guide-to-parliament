@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Business", 
+        "Financial Education", 
+        "Development", 
+        "Local Government", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4105", 
+    "party": "Conservative", 
+    "display_name": "Justin Tomlinson", 
+    "slug": "justin-tomlinson"
+}

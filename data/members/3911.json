@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Social Policy", 
+        "Agriculture And Fisheries", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Scottish Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3911", 
+    "party": "Scottish National", 
+    "display_name": "Dr Eilidh Whiteford", 
+    "slug": "dr-eilidh-whiteford"
+}

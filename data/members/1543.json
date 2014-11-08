@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Housing", 
+        "Planning", 
+        "Transport", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-21", 
+            "name": "Culture, Media and Sport Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1543", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr John Leech", 
+    "slug": "mr-john-leech"
+}

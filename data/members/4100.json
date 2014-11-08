@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Environment", 
+        "Tourism", 
+        "Royal Navy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4100", 
+    "party": "Conservative", 
+    "display_name": "Sheryll Murray", 
+    "slug": "sheryll-murray"
+}

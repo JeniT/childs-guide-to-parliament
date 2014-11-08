@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Public Expenditure", 
+        "Education", 
+        "Health", 
+        "Agriculture", 
+        "Europe"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2001-07-16", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Commission"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1451", 
+    "party": "Conservative", 
+    "display_name": "Mr Richard Bacon", 
+    "slug": "mr-richard-bacon"
+}

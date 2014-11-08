@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Social Exclusion", 
+        "Public Transport", 
+        "Work And Pensions", 
+        "Welsh Affairs", 
+        "Children'S Issues", 
+        "Domestic Abuse"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-17", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1573", 
+    "party": "Labour", 
+    "display_name": "Mrs Si\u00e2n C. James", 
+    "slug": "mrs-sian-c-james"
+}

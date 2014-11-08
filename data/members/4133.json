@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Business And Enterprise", 
+        "Civil Liberties", 
+        "Law And Order", 
+        "Armed Forces"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4133", 
+    "party": "Conservative", 
+    "display_name": "Andrew Bridgen", 
+    "slug": "andrew-bridgen"
+}

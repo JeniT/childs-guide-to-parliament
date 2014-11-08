@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Social Exclusion", 
+        "Health", 
+        "Education", 
+        "Work And Pensions", 
+        "Local And Regional Government"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2001-07-16", 
+            "name": "Public Administration Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1386", 
+    "party": "Labour", 
+    "display_name": "David Heyes", 
+    "slug": "david-heyes"
+}

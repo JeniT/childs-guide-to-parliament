@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Energy", 
+        "Defence", 
+        "Food Retailing"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-07-14", 
+            "name": "Scottish Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3998", 
+    "party": "Conservative", 
+    "display_name": "Mark Menzies", 
+    "slug": "mark-menzies"
+}

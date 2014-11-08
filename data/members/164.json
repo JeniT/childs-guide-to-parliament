@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Housing", 
+        "Regeneration", 
+        "Mutuality", 
+        "The Economy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "164", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Mr Andrew Love", 
+    "slug": "mr-andrew-love"
+}

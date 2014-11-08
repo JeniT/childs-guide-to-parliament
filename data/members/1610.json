@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Transport", 
+        "Economy", 
+        "Welfare State", 
+        "Climate Change", 
+        "Constitutional Reform", 
+        "Foreign Affairs", 
+        "Human Rights"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Business, Innovation and Skills Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1610", 
+    "party": "Labour", 
+    "display_name": "Mr William Bain", 
+    "slug": "mr-william-bain"
+}

@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Finance", 
+        "Foreign Affairs", 
+        "Home Affairs", 
+        "Education (Special Needs)", 
+        "Environmental Taxation", 
+        "Environment And Housing", 
+        "Disability", 
+        "Animal Welfare", 
+        "Health", 
+        "Children'S Issues"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-11-03", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "114", 
+    "party": "Conservative", 
+    "display_name": "Tim Loughton", 
+    "slug": "tim-loughton"
+}

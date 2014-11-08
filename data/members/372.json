@@ -1,0 +1,32 @@
+{
+    "interests": [
+        "Economics", 
+        "Media", 
+        "Fishing Industry", 
+        "Agriculture", 
+        "Poverty", 
+        "Accountancy", 
+        "Legal Reform", 
+        "European Union", 
+        "Electoral Reform", 
+        "Constitutional Reform", 
+        "Small Businesses"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-12-05", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Accounts Commission"
+        }
+    ], 
+    "gender": "male", 
+    "id": "372", 
+    "party": "Labour", 
+    "display_name": "Austin Mitchell", 
+    "slug": "austin-mitchell"
+}

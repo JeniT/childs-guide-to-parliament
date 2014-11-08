@@ -1,0 +1,114 @@
+#!/usr/bin/env python
+
+# Gets the data from the source URL, and parses it into lots of useful JSON.
+
+import urllib2
+import json
+import dateutil.parser
+import xml.etree.ElementTree as etree
+
+from datetime import datetime
+from slugify import slugify
+
+# The URL we're going to get the data from
+SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/House=Commons%7CIsEligible=true/Committees|BiographyEntries/'
+
+# Where we store a copy of the file locally
+SOURCE_FILE_DESTINATION = '../source/members.xml'
+
+# The folders to put the resulting data files in
+MEMBER_DATA_FOLDER = '../data/members'
+INTERESTS_DATA_FOLDER = '../data/interests'
+
+try:
+    SOURCE_URL_STREAM = urllib2.urlopen(SOURCE_URL)
+except:
+    print 'Cannot get the data from "' + SOURCE_URL + '"!'
+    exit(1)
+
+try:
+    SOURCE_FILE = open(SOURCE_FILE_DESTINATION, 'w')
+    SOURCE_FILE.write(SOURCE_URL_STREAM.read())
+    SOURCE_FILE.close()
+except:
+    print 'Cannot write data to "' + SOURCE_FILE_DESTINATION + '"!'
+    exit(1)
+
+try:
+    MEMBERS_XML = etree.parse(SOURCE_FILE_DESTINATION)
+except:
+    print 'Oh no! Data from "' + SOURCE_FILE_DESTINATION + '" cannot be parsed!'
+    exit(1)
+
+MEMBERS = MEMBERS_XML.getroot()
+
+print '"' + SOURCE_FILE_DESTINATION + '" has ' + str(len(MEMBERS)) + ' members.'
+
+def parse_gender(gender):
+    return {
+        'M': 'male',
+        'F': 'female',
+        }.get(gender, 'unknown')
+
+INTERESTS_MAP = {}
+MEMBER_SLUG_MAP = {}
+
+for member in MEMBERS:
+
+    member_slug = slugify(member.find('DisplayAs').text)
+    member_id = member.attrib['Member_Id']
+
+    member_committees = []
+
+    for committee in member.find('Committees'):
+        committee_from = dateutil.parser.parse(committee.find('StartDate').text)
+        committee_from_value = committee_from.strftime('%Y-%m-%d')
+
+        if committee.find('EndDate').text:
+            committee_to = dateutil.parser.parse(committee.find('EndDate').text)
+            committee_to_value = committee_to.strftime('%Y-%m-%d')
+        else:
+            committee_to = None
+            committee_to_value = None
+
+        if committee_from < datetime.now() and ( committee_to == None or committee_to > datetime.now() ):
+            member_committees.append({
+                'name': committee.find('Name').text,
+                'from': committee_from_value,
+                'to': committee_to_value
+            })
+
+    member_interests = []
+
+    for biography_entry in member.find('BiographyEntries'):
+        if biography_entry.attrib['Category_Id'] == '1':
+            interests = biography_entry.find('Entry').text.split(',')
+            for interest in interests:
+                interest_clean_name = interest.strip().title()
+                member_interests.append(interest_clean_name)
+                if not interest_clean_name in INTERESTS_MAP:
+                    INTERESTS_MAP[interest_clean_name] = []
+                INTERESTS_MAP[interest_clean_name].append(member_slug)
+
+    member_data = {
+        'slug': member_slug,
+        'id': member_id,
+        'display_name': member.find('DisplayAs').text,
+        'gender': parse_gender(member.find('Gender').text),
+        'party': member.find('Party').text,
+        'committees': member_committees,
+        'interests': member_interests
+    }
+
+    MEMBER_SLUG_MAP[member_slug] = member_id
+
+    with open(MEMBER_DATA_FOLDER + '/' + member_id + '.json', 'w') as output_file:
+        output_file.write(json.dumps(member_data, indent=4))
+
+with open(INTERESTS_DATA_FOLDER + '/map.json', 'w') as output_file:
+    output_file.write(json.dumps(INTERESTS_MAP, indent=4))
+
+with open(MEMBER_DATA_FOLDER + '/map.json', 'w') as output_file:
+    output_file.write(json.dumps(MEMBER_SLUG_MAP, indent=4))
+
+print 'Hooray, all done!'

@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Education", 
+        "Higher Education", 
+        "International Development", 
+        "Public Transport", 
+        "Work And Pensions", 
+        "Social Care"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Public Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1540", 
+    "party": "Liberal Democrat", 
+    "display_name": "Greg Mulholland", 
+    "slug": "greg-mulholland"
+}

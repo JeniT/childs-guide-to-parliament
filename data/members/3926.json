@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Education", 
+        "Social Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-08", 
+            "name": "Work and Pensions Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3926", 
+    "party": "Conservative", 
+    "display_name": "Paul Maynard", 
+    "slug": "paul-maynard"
+}

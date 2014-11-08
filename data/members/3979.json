@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "London Issues", 
+        "Transport", 
+        "Nhs", 
+        "Education", 
+        "Media Issues", 
+        "Dangerous Dogs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Culture, Media and Sport Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3979", 
+    "party": "Conservative", 
+    "display_name": "Angie Bray", 
+    "slug": "angie-bray"
+}

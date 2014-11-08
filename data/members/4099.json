@@ -1,0 +1,30 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-10-16", 
+            "name": "House of Commons Governance Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4099", 
+    "party": "Conservative", 
+    "display_name": "Jacob Rees-Mogg", 
+    "slug": "jacob-rees-mogg"
+}

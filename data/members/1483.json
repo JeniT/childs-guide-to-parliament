@@ -1,0 +1,40 @@
+{
+    "interests": [
+        "Energy", 
+        "Family Policy", 
+        "Law And Order", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Select Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "Regulatory Reform"
+        }, 
+        {
+            "to": null, 
+            "from": "2006-05-02", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-30", 
+            "name": "Backbench Business Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1483", 
+    "party": "Liberal Democrat", 
+    "display_name": "John Hemming", 
+    "slug": "john-hemming"
+}

@@ -1,0 +1,25 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-04-29", 
+            "name": "High Speed Rail (London - West Midlands) Bill (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Education Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-30", 
+            "name": "Backbench Business Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4000", 
+    "party": "Labour", 
+    "display_name": "Ian Mearns", 
+    "slug": "ian-mearns"
+}

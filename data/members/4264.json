@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-26", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4264", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Stephen Doughty", 
+    "slug": "stephen-doughty"
+}

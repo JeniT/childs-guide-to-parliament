@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Housing", 
+        "Social Policy", 
+        "Transport", 
+        "Environment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "171", 
+    "party": "Labour", 
+    "display_name": "Mr Nick Raynsford", 
+    "slug": "mr-nick-raynsford"
+}

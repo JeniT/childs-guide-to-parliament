@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "People Of Islington", 
+        "Stop The War", 
+        "Liberation", 
+        "The Welfare State", 
+        "The Nhs", 
+        "Socialism And Human Rights Including Anti Racism", 
+        "Anti Imperialism And Internationalism", 
+        "Transport Safety", 
+        "The Environment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-05-16", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "185", 
+    "party": "Labour", 
+    "display_name": "Jeremy Corbyn", 
+    "slug": "jeremy-corbyn"
+}

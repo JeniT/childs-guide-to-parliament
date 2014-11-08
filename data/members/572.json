@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Disability", 
+        "Broadcasting", 
+        "Welfare Reform", 
+        "Social Inclusion", 
+        "Genetics", 
+        "Pensions", 
+        "Equalities"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2001-07-16", 
+            "name": "Work and Pensions Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "572", 
+    "party": "Labour", 
+    "display_name": "Dame  Anne Begg", 
+    "slug": "dame-anne-begg"
+}

@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Poverty", 
+        "Regeneration", 
+        "Racism", 
+        "Fire", 
+        "Animal Welfare", 
+        "Transport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Transport Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "197", 
+    "party": "Labour", 
+    "display_name": "Jim Fitzpatrick", 
+    "slug": "jim-fitzpatrick"
+}

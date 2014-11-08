@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Civil Liberties And Human Rights", 
+        "Home Affairs", 
+        "International Development", 
+        "Universities", 
+        "Science", 
+        "Environment", 
+        "Women", 
+        "Peace And Security"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4019", 
+    "party": "Conservative", 
+    "display_name": "Nicola Blackwood", 
+    "slug": "nicola-blackwood"
+}

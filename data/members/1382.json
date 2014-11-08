@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Carers' Rights", 
+        "Disability Rights", 
+        "Citizenship", 
+        "European Affairs", 
+        "Lifelong Learning", 
+        "Steel", 
+        "Coal", 
+        "Archives"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-09-08", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Human Rights (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1382", 
+    "party": "Labour", 
+    "display_name": "Dr Hywel Francis", 
+    "slug": "dr-hywel-francis"
+}

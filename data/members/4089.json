@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Education", 
+        "Prison Service", 
+        "Domestic Violence", 
+        "Children And Families", 
+        "Planning", 
+        "The Environment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4089", 
+    "party": "Liberal Democrat", 
+    "display_name": "Tessa Munt", 
+    "slug": "tessa-munt"
+}

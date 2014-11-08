@@ -1,0 +1,33 @@
+{
+    "interests": [
+        "Parliamentary And Constitutional Affairs", 
+        "Architectural And Artistic Heritage"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-01-13", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-21", 
+            "name": "National Policy Statements Sub-Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2003-02-04", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2007-11-06", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "513", 
+    "party": "Liberal Democrat", 
+    "display_name": "Sir Alan Beith", 
+    "slug": "sir-alan-beith"
+}

@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Health", 
+        "Economics", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "336", 
+    "party": "Conservative", 
+    "display_name": "Mr Stephen Dorrell", 
+    "slug": "mr-stephen-dorrell"
+}

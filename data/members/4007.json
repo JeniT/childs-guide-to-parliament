@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Civil Liberties", 
+        "Meritocracy", 
+        "Business Competitiveness", 
+        "Foreign Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4007", 
+    "party": "Conservative", 
+    "display_name": "Mr Dominic Raab", 
+    "slug": "mr-dominic-raab"
+}

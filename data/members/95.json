@@ -1,0 +1,15 @@
+{
+    "interests": [
+        "Car Industry", 
+        "Education", 
+        "Retail Industry", 
+        "Housing", 
+        "Employment"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "95", 
+    "party": "Labour", 
+    "display_name": "Mr Andrew Smith", 
+    "slug": "mr-andrew-smith"
+}

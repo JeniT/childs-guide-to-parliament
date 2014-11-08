@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Communities", 
+        "Affordable Housing", 
+        "Environment", 
+        "Civil Liberties"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-25", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4101", 
+    "party": "Liberal Democrat", 
+    "display_name": "Stephen Gilbert", 
+    "slug": "stephen-gilbert"
+}

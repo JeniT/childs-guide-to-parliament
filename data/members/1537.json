@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1537", 
+    "party": "Conservative", 
+    "display_name": "Mr Philip Hollobone", 
+    "slug": "mr-philip-hollobone"
+}

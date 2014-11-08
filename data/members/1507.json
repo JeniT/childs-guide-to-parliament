@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Parliamentary Reform", 
+        "Europe", 
+        "Park Homes", 
+        "Planning Reforms", 
+        "Youth", 
+        "Welfare Rights"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-11", 
+            "name": "Backbench Business Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1507", 
+    "party": "Labour", 
+    "display_name": "Natascha Engel", 
+    "slug": "natascha-engel"
+}

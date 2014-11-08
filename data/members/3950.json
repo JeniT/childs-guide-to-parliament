@@ -1,0 +1,33 @@
+{
+    "interests": [
+        "Older People'S Issues", 
+        "Dementia", 
+        "High Cost Credit", 
+        "Mental Health", 
+        "Alcohol And Drug Misuse", 
+        "Sport", 
+        "Animal Welfare"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-22", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-10-31", 
+            "name": "Political and Constitutional Reform Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Culture, Media and Sport Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3950", 
+    "party": "Conservative", 
+    "display_name": "Tracey Crouch", 
+    "slug": "tracey-crouch"
+}

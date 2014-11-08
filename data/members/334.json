@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "International Development", 
+        "Environment", 
+        "Transport", 
+        "Defence", 
+        "Northern Ireland"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-11-03", 
+            "name": "Statutory Instruments (Select Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-11-03", 
+            "name": "Statutory Instruments (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "334", 
+    "party": "Conservative", 
+    "display_name": "Mr Andrew Robathan", 
+    "slug": "mr-andrew-robathan"
+}

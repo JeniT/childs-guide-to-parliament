@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Military", 
+        "Crime", 
+        "Broadcasting", 
+        "Sport", 
+        "Pensions", 
+        "Transport", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-06-10", 
+            "name": "Transport Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3953", 
+    "party": "Conservative", 
+    "display_name": "Jason McCartney", 
+    "slug": "jason-mccartney"
+}

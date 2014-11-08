@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Small Business", 
+        "Education", 
+        "Sport", 
+        "Transport", 
+        "Military Matters", 
+        "Crime And The Judiciary"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Transport Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4028", 
+    "party": "Conservative", 
+    "display_name": "Karl McCartney", 
+    "slug": "karl-mccartney"
+}

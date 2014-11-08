@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-23", 
+            "name": "Speaker's Committee for the Independent Parliamentary Standards Authority"
+        }
+    ], 
+    "gender": "male", 
+    "id": "523", 
+    "party": "Labour", 
+    "display_name": "Mr Nicholas Brown", 
+    "slug": "mr-nicholas-brown"
+}

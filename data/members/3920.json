@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "International Development", 
+        "Religious Freedom", 
+        "Human Rights"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-11", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3920", 
+    "party": "Alliance", 
+    "display_name": "Naomi Long", 
+    "slug": "naomi-long"
+}

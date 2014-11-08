@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Regional Policy", 
+        "Animal Welfare", 
+        "Agriculture", 
+        "Eu Enlargement"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4072", 
+    "party": "Conservative", 
+    "display_name": "Neil Parish", 
+    "slug": "neil-parish"
+}

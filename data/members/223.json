@@ -1,0 +1,13 @@
+{
+    "interests": [
+        "Health", 
+        "Economic Policy", 
+        "Foreign Affairs"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "223", 
+    "party": "Conservative", 
+    "display_name": "Dr Liam Fox", 
+    "slug": "dr-liam-fox"
+}

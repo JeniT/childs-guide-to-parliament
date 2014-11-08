@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Heritage", 
+        "Education", 
+        "International Affairs", 
+        "Social Affairs", 
+        "Disability", 
+        "Human Rights", 
+        "Lifelong Learning", 
+        "Adult And Vocational Skills", 
+        "Veterans Affairs", 
+        "Tourism"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "465", 
+    "party": "Labour", 
+    "display_name": "Mr Gordon Marsden", 
+    "slug": "mr-gordon-marsden"
+}

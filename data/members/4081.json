@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Education", 
+        "Policing", 
+        "Defence", 
+        "Science", 
+        "Healthcare"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-10-29", 
+            "name": "Work and Pensions Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4081", 
+    "party": "Conservative", 
+    "display_name": "Graham Evans", 
+    "slug": "graham-evans"
+}

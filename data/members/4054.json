@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Foreign Affairs", 
+        "Defence", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-08", 
+            "name": "Public Accounts Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "European Scrutiny Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4054", 
+    "party": "Conservative", 
+    "display_name": "Stephen Phillips", 
+    "slug": "stephen-phillips"
+}

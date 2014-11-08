@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Pensions", 
+        "Economics", 
+        "Social Enterprise", 
+        "Financial Literacy", 
+        "Micro-Finance", 
+        "Russia", 
+        "West Lothian Question", 
+        "Welfare Reform"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-03-10", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4107", 
+    "party": "Conservative", 
+    "display_name": "Harriett Baldwin", 
+    "slug": "harriett-baldwin"
+}

@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Housing", 
+        "Education", 
+        "Training And Skills", 
+        "Employment", 
+        "Manufacturing And Trade", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1511", 
+    "party": "Labour", 
+    "display_name": "Ian Austin", 
+    "slug": "ian-austin"
+}

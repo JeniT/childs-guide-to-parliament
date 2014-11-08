@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Sustainable Development And Enterprise", 
+        "Urban Regeneration", 
+        "Environment", 
+        "Small Business", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "International Development Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4109", 
+    "party": "Conservative", 
+    "display_name": "Jeremy Lefroy", 
+    "slug": "jeremy-lefroy"
+}

@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Education", 
+        "Health", 
+        "Europe"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-05-26", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "435", 
+    "party": "Conservative", 
+    "display_name": "Mr Graham Brady", 
+    "slug": "mr-graham-brady"
+}

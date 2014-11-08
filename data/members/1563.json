@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Trade And Industry", 
+        "Education", 
+        "Globalisation", 
+        "Constitutional Reform", 
+        "Europe"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-05-26", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1563", 
+    "party": "Liberal Democrat", 
+    "display_name": "Mr Nick Clegg", 
+    "slug": "mr-nick-clegg"
+}

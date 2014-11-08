@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Economic Policy", 
+        "Democratic Renewal", 
+        "Early Intervention"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Political and Constitutional Reform Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "364", 
+    "party": "Labour", 
+    "display_name": "Mr Graham Allen", 
+    "slug": "mr-graham-allen"
+}

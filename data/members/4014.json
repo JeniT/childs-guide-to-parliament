@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Trade", 
+        "Industry", 
+        "Finance"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-12", 
+            "name": "Treasury Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4014", 
+    "party": "Conservative", 
+    "display_name": "Alok Sharma", 
+    "slug": "alok-sharma"
+}

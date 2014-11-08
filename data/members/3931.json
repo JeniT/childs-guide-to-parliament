@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Science", 
+        "Internationalism", 
+        "Human Rights", 
+        "Dna Database", 
+        "Civil Liberties", 
+        "Education", 
+        "Transport", 
+        "Evidence-Based Policy", 
+        "Un And Foreign Affairs", 
+        "Wellbeing", 
+        "Environment", 
+        "Climate Change"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3931", 
+    "party": "Liberal Democrat", 
+    "display_name": "Dr Julian Huppert", 
+    "slug": "dr-julian-huppert"
+}

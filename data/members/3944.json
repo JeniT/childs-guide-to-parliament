@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Rural Affairs", 
+        "Small Business"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Welsh Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3944", 
+    "party": "Conservative", 
+    "display_name": "Simon Hart", 
+    "slug": "simon-hart"
+}

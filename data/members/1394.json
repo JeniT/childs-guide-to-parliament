@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Agriculture", 
+        "Education", 
+        "Economic Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-25", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1394", 
+    "party": "Liberal Democrat", 
+    "display_name": "Roger Williams", 
+    "slug": "roger-williams"
+}

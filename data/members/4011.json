@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Co-Operative Movement", 
+        "Social Economy", 
+        "Workers' Rights", 
+        "Anti-Poverty", 
+        "Children", 
+        "International Development", 
+        "Finance And Economy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-07-18", 
+            "name": "Members' Expenses Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4011", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Cathy Jamieson", 
+    "slug": "cathy-jamieson"
+}

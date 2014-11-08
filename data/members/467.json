@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Trade And Industry", 
+        "Sport", 
+        "Defence", 
+        "Small Businesses", 
+        "Agriculture"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-08", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "467", 
+    "party": "Labour", 
+    "display_name": "Mr Lindsay Hoyle", 
+    "slug": "mr-lindsay-hoyle"
+}

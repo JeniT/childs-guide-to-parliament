@@ -1,0 +1,18 @@
+{
+    "interests": [
+        "Europe", 
+        "Employment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-01-23", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4246", 
+    "party": "Labour", 
+    "display_name": "Iain McKenzie", 
+    "slug": "iain-mckenzie"
+}

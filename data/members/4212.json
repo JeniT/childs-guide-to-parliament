@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Health", 
+        "Education", 
+        "Child Protection", 
+        "Inequality"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-06-27", 
+            "name": "Work and Pensions Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4212", 
+    "party": "Labour", 
+    "display_name": "Debbie Abrahams", 
+    "slug": "debbie-abrahams"
+}

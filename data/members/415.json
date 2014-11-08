@@ -1,0 +1,41 @@
+{
+    "interests": [
+        "Education", 
+        "Transport", 
+        "Small Businesses", 
+        "Anti-Racism", 
+        "International Development", 
+        "Alternative Fuels", 
+        "Foreign Affairs", 
+        "Holocaust Education", 
+        "Prison Health", 
+        "Hospices And Palliative Care"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-08", 
+            "name": "Political and Constitutional Reform Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-30", 
+            "name": "National Security Strategy (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-02-04", 
+            "name": "International Development Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-06-24", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "415", 
+    "party": "Labour", 
+    "display_name": "Fabian Hamilton", 
+    "slug": "fabian-hamilton"
+}

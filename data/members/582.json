@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Nhs", 
+        "Home Affairs", 
+        "Agriculture", 
+        "Environment", 
+        "Energy", 
+        "Housing", 
+        "Education", 
+        "Alcohol Abuse And Under-Age Drinking", 
+        "European Union", 
+        "Defence"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2001-06-26", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "582", 
+    "party": "Labour", 
+    "display_name": "Mr Jim Hood", 
+    "slug": "mr-jim-hood"
+}

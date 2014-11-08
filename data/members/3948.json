@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Small Business", 
+        "Education And Skills", 
+        "Planning"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Regulatory Reform"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Business, Innovation and Skills Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3948", 
+    "party": "Conservative", 
+    "display_name": "Rebecca Harris", 
+    "slug": "rebecca-harris"
+}

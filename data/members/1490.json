@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Environment", 
+        "Health And Social Welfare", 
+        "Care For People With Disabilities And Old People", 
+        "Education", 
+        "Police", 
+        "Prisons", 
+        "Suicide", 
+        "Defence", 
+        "Women'S Role In Public Life"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2009-01-19", 
+            "name": "Defence Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1490", 
+    "party": "Labour", 
+    "display_name": "Mrs Madeleine Moon", 
+    "slug": "mrs-madeleine-moon"
+}

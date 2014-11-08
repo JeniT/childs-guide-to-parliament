@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Education", 
+        "Older People", 
+        "Mental Health", 
+        "Welfare", 
+        "Economics", 
+        "Community Hospitals", 
+        "Climate Change", 
+        "Rural Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1482", 
+    "party": "Conservative", 
+    "display_name": "Mr Graham Stuart", 
+    "slug": "mr-graham-stuart"
+}

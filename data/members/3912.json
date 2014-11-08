@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Regulatory Reform"
+        }
+    ], 
+    "gender": "male", 
+    "id": "3912", 
+    "party": "Conservative", 
+    "display_name": "Richard Fuller", 
+    "slug": "richard-fuller"
+}

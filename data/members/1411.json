@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Environment", 
+        "Transport", 
+        "Consumer Issues", 
+        "Co-Operative Issues", 
+        "Constitution", 
+        "Finance", 
+        "Economy", 
+        "Small Businesses", 
+        "International Development"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2007-01-15", 
+            "name": "Environmental Audit Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1411", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Mark Lazarowicz", 
+    "slug": "mark-lazarowicz"
+}

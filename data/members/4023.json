@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Education", 
+        "Health", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Welsh Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "Transport Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4023", 
+    "party": "Conservative", 
+    "display_name": "Karen Lumley", 
+    "slug": "karen-lumley"
+}

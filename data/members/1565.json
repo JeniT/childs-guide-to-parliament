@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Law And Order", 
+        "Europe", 
+        "Education"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-28", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2006-02-27", 
+            "name": "Culture, Media and Sport Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1565", 
+    "party": "Conservative", 
+    "display_name": "Philip Davies", 
+    "slug": "philip-davies"
+}

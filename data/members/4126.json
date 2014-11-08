@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Employment", 
+        "Housing", 
+        "Health", 
+        "Environment", 
+        "Older People'S Issues"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Environment, Food and Rural Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-02-25", 
+            "name": "Communities and Local Government Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4126", 
+    "party": "Labour", 
+    "display_name": "Mrs Mary Glindon", 
+    "slug": "mrs-mary-glindon"
+}

@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-10-24", 
+            "name": "Public Accounts Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1524", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Meg Hillier", 
+    "slug": "meg-hillier"
+}

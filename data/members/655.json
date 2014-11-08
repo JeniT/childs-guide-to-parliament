@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Agriculture", 
+        "Health", 
+        "Elderly Issues", 
+        "Environment", 
+        "Special Needs Education", 
+        "Planning"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2006-11-16", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "655", 
+    "party": "Democratic Unionist", 
+    "display_name": "Dr William McCrea", 
+    "slug": "dr-william-mccrea"
+}

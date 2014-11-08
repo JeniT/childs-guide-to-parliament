@@ -1,0 +1,31 @@
+{
+    "interests": [
+        "Economy", 
+        "Taxation", 
+        "Foreign Affairs", 
+        "Environment", 
+        "Agriculture"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-21", 
+            "name": "Selection Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Finance and Services Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "249", 
+    "party": "Conservative", 
+    "display_name": "Geoffrey Clifton-Brown", 
+    "slug": "geoffrey-clifton-brown"
+}

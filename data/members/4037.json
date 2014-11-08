@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Teeside Steel Industry", 
+        "Public Services", 
+        "Sure Start", 
+        "Chemical Industry", 
+        "Higher Education", 
+        "Further Education", 
+        "Manufacturing", 
+        "Economics", 
+        "Business", 
+        "Trade", 
+        "Unions", 
+        "Employment Law", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-05-09", 
+            "name": "Selection Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4037", 
+    "party": "Labour", 
+    "display_name": "Tom Blenkinsop", 
+    "slug": "tom-blenkinsop"
+}

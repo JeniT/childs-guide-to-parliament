@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Education", 
+        "Taxation", 
+        "Economic Policy", 
+        "Local And Regional Government", 
+        "Home Affairs", 
+        "Police", 
+        "Foreign Affairs", 
+        "European Union"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-09-10", 
+            "name": "House of Commons Governance Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "463", 
+    "party": "Labour", 
+    "display_name": "Mr Jack Straw", 
+    "slug": "mr-jack-straw"
+}

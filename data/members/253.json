@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Overseas Aid", 
+        "Constitution", 
+        "European Affairs", 
+        "Education", 
+        "Economic Policy", 
+        "Law And Order", 
+        "Countryside", 
+        "Northern Ireland"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Northern Ireland Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "253", 
+    "party": "Conservative", 
+    "display_name": "Mr Laurence Robertson", 
+    "slug": "mr-laurence-robertson"
+}

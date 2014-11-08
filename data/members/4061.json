@@ -1,0 +1,17 @@
+{
+    "interests": [
+        "Children'S Service"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4061", 
+    "party": "Labour", 
+    "display_name": "Bill Esterson", 
+    "slug": "bill-esterson"
+}

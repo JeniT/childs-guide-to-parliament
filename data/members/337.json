@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Agriculture", 
+        "Defence", 
+        "Foreign Affairs", 
+        "Education", 
+        "Constitutional Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-04-07", 
+            "name": "Human Rights (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "337", 
+    "party": "Conservative", 
+    "display_name": "Sir Edward Garnier", 
+    "slug": "sir-edward-garnier"
+}

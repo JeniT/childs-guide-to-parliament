@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Education", 
+        "Housing", 
+        "Local And Regional Government", 
+        "Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2001-06-26", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "479", 
+    "party": "Labour", 
+    "display_name": "Mr Joe Benton", 
+    "slug": "mr-joe-benton"
+}

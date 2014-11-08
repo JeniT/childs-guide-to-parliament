@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Ageing Population", 
+        "Rural Affairs", 
+        "Sustainable Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-02-27", 
+            "name": "Science and Technology Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-19", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4071", 
+    "party": "Conservative", 
+    "display_name": "Sarah Newton", 
+    "slug": "sarah-newton"
+}

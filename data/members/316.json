@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "1997-06-01", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "316", 
+    "party": "Labour", 
+    "display_name": "Mr David Winnick", 
+    "slug": "mr-david-winnick"
+}

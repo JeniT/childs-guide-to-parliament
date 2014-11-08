@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Pro-Life Issues", 
+        "Small Businesses", 
+        "Apprenticeships"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-11-05", 
+            "name": "International Development Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3958", 
+    "party": "Conservative", 
+    "display_name": "Fiona Bruce", 
+    "slug": "fiona-bruce"
+}

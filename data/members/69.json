@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Industrial Relations", 
+        "Environment", 
+        "Law And Order", 
+        "Pensions"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-10-16", 
+            "name": "House of Commons Governance Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "69", 
+    "party": "Conservative", 
+    "display_name": "Sir Oliver Heald", 
+    "slug": "sir-oliver-heald"
+}

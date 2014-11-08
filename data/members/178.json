@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Economics", 
+        "Local And Regional Government", 
+        "Irish Affairs", 
+        "Environment", 
+        "Aviation", 
+        "Public Administration"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-25", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "178", 
+    "party": "Labour", 
+    "display_name": "John McDonnell", 
+    "slug": "john-mcdonnell"
+}

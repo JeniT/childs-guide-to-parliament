@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Defence", 
+        "Foreign Affairs", 
+        "Counter-Terrorism", 
+        "Cyber-Security", 
+        "Animal Welfare"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2012-12-03", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-30", 
+            "name": "National Security Strategy (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1576", 
+    "party": "Conservative", 
+    "display_name": "Mark Pritchard", 
+    "slug": "mark-pritchard"
+}

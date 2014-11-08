@@ -1,0 +1,26 @@
+{
+    "interests": [
+        "Industry", 
+        "Economic Policy", 
+        "Science And Technology", 
+        "Communications And Information Technology", 
+        "Pensions"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-06-10", 
+            "name": "Science and Technology Committee (Commons)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-19", 
+            "name": "Liaison Committee (Commons)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "428", 
+    "party": "Labour", 
+    "display_name": "Andrew Miller", 
+    "slug": "andrew-miller"
+}

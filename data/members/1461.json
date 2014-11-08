@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Housing And Regeneration", 
+        "Regional Development", 
+        "Sports Development", 
+        "Hunting With Dogs (Against)", 
+        "Poverty"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-07-01", 
+            "name": "Administration Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1461", 
+    "party": "Labour", 
+    "display_name": "David Wright", 
+    "slug": "david-wright"
+}

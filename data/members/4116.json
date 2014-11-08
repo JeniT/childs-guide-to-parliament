@@ -1,0 +1,30 @@
+{
+    "interests": [
+        "Home Affairs", 
+        "Justice", 
+        "Constitution", 
+        "Foreign Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Select Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Statutory Instruments (Joint Committee)"
+        }, 
+        {
+            "to": null, 
+            "from": "2011-02-14", 
+            "name": "Home Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4116", 
+    "party": "Conservative", 
+    "display_name": "Michael Ellis", 
+    "slug": "michael-ellis"
+}

@@ -1,0 +1,16 @@
+{
+    "interests": [
+        "Defence", 
+        "Foreign Affairs", 
+        "Economics", 
+        "Law And Order", 
+        "Families", 
+        "Countryside"
+    ], 
+    "committees": [], 
+    "gender": "male", 
+    "id": "77", 
+    "party": "Conservative", 
+    "display_name": "Mr Julian Brazier", 
+    "slug": "mr-julian-brazier"
+}

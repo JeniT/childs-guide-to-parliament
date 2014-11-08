@@ -1,0 +1,43 @@
+{
+    "interests": [
+        "Environment", 
+        "Local And Regional Government", 
+        "Higher Education", 
+        "Education", 
+        "Constitution", 
+        "Transport", 
+        "Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Standards Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2013-01-07", 
+            "name": "Privileges Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2009-01-19", 
+            "name": "Energy and Climate Change Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-10", 
+            "name": "Committee on Standards: Standards Review Sub-Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "62", 
+    "party": "Labour", 
+    "display_name": "Dr Alan Whitehead", 
+    "slug": "dr-alan-whitehead"
+}

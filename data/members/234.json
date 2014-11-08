@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Law And Order", 
+        "Family Moral And Social Affairs", 
+        "Developing World"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2006-10-09", 
+            "name": "Speaker's Committee on the Electoral Commission"
+        }, 
+        {
+            "to": null, 
+            "from": "2009-01-12", 
+            "name": "Panel of Chairs"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-10-26", 
+            "name": "Ecclesiastical Committee (Joint Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "234", 
+    "party": "Conservative", 
+    "display_name": "Mr Gary Streeter", 
+    "slug": "mr-gary-streeter"
+}

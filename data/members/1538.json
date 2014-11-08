@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Health", 
+        "Disability Equality", 
+        "Housing"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Health Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "1538", 
+    "party": "Labour", 
+    "display_name": "Rosie Cooper", 
+    "slug": "rosie-cooper"
+}

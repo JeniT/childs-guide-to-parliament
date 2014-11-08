@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Civil Liberties", 
+        "Agriculture", 
+        "Tourism", 
+        "Home Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Justice Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "549", 
+    "party": "Plaid Cymru", 
+    "display_name": "Mr Elfyn Llwyd", 
+    "slug": "mr-elfyn-llwyd"
+}

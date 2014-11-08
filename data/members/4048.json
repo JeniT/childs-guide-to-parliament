@@ -1,0 +1,29 @@
+{
+    "interests": [
+        "Agriculture", 
+        "Sport", 
+        "Environment"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-11-18", 
+            "name": "Speaker's Advisory Committee on Works of Art"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-03-18", 
+            "name": "Education Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4048", 
+    "party": "Conservative", 
+    "display_name": "Caroline Nokes", 
+    "slug": "caroline-nokes"
+}

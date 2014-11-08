@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Manufacturing", 
+        "Economic Policy", 
+        "Energy Policy", 
+        "Constitution"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Procedure Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4047", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Tom Greatrex", 
+    "slug": "tom-greatrex"
+}

@@ -1,0 +1,22 @@
+{
+    "interests": [
+        "Criminal Justice System", 
+        "Family Policy", 
+        "Drugs And Alcohol Policy", 
+        "Voluntary Sector", 
+        "Umbilical Cord Blood Banking", 
+        "Stem Cell Transplantation And Research"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-06-23", 
+            "name": "Public Accounts Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1518", 
+    "party": "Conservative", 
+    "display_name": "Mr David Burrowes", 
+    "slug": "mr-david-burrowes"
+}

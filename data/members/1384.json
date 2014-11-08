@@ -1,0 +1,24 @@
+{
+    "interests": [
+        "Disability", 
+        "European Affairs", 
+        "Rural Affairs", 
+        "International And Sustainable Development", 
+        "Climate Change", 
+        "Environment", 
+        "Energy", 
+        "Industry/Business"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-05-26", 
+            "name": "Panel of Chairs"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1384", 
+    "party": "Scottish National", 
+    "display_name": "Mr Mike Weir", 
+    "slug": "mr-mike-weir"
+}

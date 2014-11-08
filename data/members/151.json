@@ -1,0 +1,21 @@
+{
+    "interests": [
+        "Environment", 
+        "Transport", 
+        "Sport", 
+        "International Development", 
+        "Home Affairs"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2014-11-05", 
+            "name": "Selection Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "151", 
+    "party": "Liberal Democrat", 
+    "display_name": "Tom Brake", 
+    "slug": "tom-brake"
+}

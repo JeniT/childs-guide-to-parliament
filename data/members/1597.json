@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Northern Ireland Affairs Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "1597", 
+    "party": "Democratic Unionist", 
+    "display_name": "David Simpson", 
+    "slug": "david-simpson"
+}

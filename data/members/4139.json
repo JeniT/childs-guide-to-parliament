@@ -1,0 +1,28 @@
+{
+    "interests": [
+        "Local Regeneration", 
+        "Employment", 
+        "Energy", 
+        "Climate Change", 
+        "Poverty", 
+        "Internationalism", 
+        "Sport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Regulatory Reform"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-11-02", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4139", 
+    "party": "Labour", 
+    "display_name": "Ian Lavery", 
+    "slug": "ian-lavery"
+}

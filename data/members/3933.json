@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Afrcia", 
+        "Mena", 
+        "Education", 
+        "Health", 
+        "Europe", 
+        "Sport - Boxing", 
+        "Swimming"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-06-17", 
+            "name": "Health Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3933", 
+    "party": "Conservative", 
+    "display_name": "Charlotte Leslie", 
+    "slug": "charlotte-leslie"
+}

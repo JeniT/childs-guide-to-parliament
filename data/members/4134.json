@@ -1,0 +1,19 @@
+{
+    "interests": [
+        "Economy And Finance", 
+        "Energy", 
+        "Transport"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2013-11-04", 
+            "name": "Work and Pensions Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4134", 
+    "party": "Conservative", 
+    "display_name": "Kwasi Kwarteng", 
+    "slug": "kwasi-kwarteng"
+}

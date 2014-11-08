@@ -1,0 +1,15 @@
+{
+    "interests": [], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Environmental Audit Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4096", 
+    "party": "Liberal Democrat", 
+    "display_name": "Simon Wright", 
+    "slug": "simon-wright"
+}

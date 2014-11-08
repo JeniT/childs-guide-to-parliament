@@ -1,0 +1,25 @@
+{
+    "interests": [
+        "Human Rights", 
+        "International Development", 
+        "Animal Welfare", 
+        "Foreign Policy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Foreign Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "553", 
+    "party": "Labour", 
+    "display_name": "Ann Clwyd", 
+    "slug": "ann-clwyd"
+}

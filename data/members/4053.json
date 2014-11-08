@@ -1,0 +1,23 @@
+{
+    "interests": [
+        "Affordable Housing", 
+        "Economic Regeneration"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2011-05-23", 
+            "name": "Communities and Local Government Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2014-06-10", 
+            "name": "Committee on Standards: Standards Review Sub-Committee"
+        }
+    ], 
+    "gender": "female", 
+    "id": "4053", 
+    "party": "Conservative", 
+    "display_name": "Heather Wheeler", 
+    "slug": "heather-wheeler"
+}

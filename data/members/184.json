@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Defence", 
+        "International Affairs", 
+        "European Union", 
+        "Economic Policy", 
+        "Education", 
+        "Mental Health"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2005-07-12", 
+            "name": "Foreign Affairs Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2008-03-10", 
+            "name": "Committees on Arms Export Controls (formerly Quadripartite Committee)"
+        }
+    ], 
+    "gender": "male", 
+    "id": "184", 
+    "party": "Labour (Co-op)", 
+    "display_name": "Mike Gapes", 
+    "slug": "mike-gapes"
+}

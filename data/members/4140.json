@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Home Affairs", 
+        "Law And Order", 
+        "Small Business", 
+        "European Union"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Procedure Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4140", 
+    "party": "Conservative", 
+    "display_name": "Mr David Nuttall", 
+    "slug": "mr-david-nuttall"
+}

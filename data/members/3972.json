@@ -1,0 +1,27 @@
+{
+    "interests": [
+        "Crime", 
+        "Children", 
+        "Families", 
+        "Employment", 
+        "Transport", 
+        "Economy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-26", 
+            "name": "Procedure Committee"
+        }, 
+        {
+            "to": null, 
+            "from": "2010-12-06", 
+            "name": "Consolidation Bills (Joint Committee)"
+        }
+    ], 
+    "gender": "female", 
+    "id": "3972", 
+    "party": "Labour", 
+    "display_name": "Jenny Chapman", 
+    "slug": "jenny-chapman"
+}

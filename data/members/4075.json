@@ -1,0 +1,20 @@
+{
+    "interests": [
+        "Home Affairs", 
+        "Defence", 
+        "Education", 
+        "Energy"
+    ], 
+    "committees": [
+        {
+            "to": null, 
+            "from": "2010-07-12", 
+            "name": "Energy and Climate Change Committee"
+        }
+    ], 
+    "gender": "male", 
+    "id": "4075", 
+    "party": "Conservative", 
+    "display_name": "Christopher Pincher", 
+    "slug": "christopher-pincher"
+}
