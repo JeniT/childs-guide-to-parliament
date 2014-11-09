@@ -14,6 +14,6 @@ title: "Unemployment"
 ### Who is interested in Unemployment?
 
 
-* [Mr Ronnie Campbell]({ site.baseurl }}members/mr-ronnie-campbell.html)
-* [Yvette Cooper]({ site.baseurl }}members/yvette-cooper.html)
-* [Sir Alan Meale]({ site.baseurl }}members/sir-alan-meale.html)
+* [Mr Ronnie Campbell]({{ site.baseurl }}/members/mr-ronnie-campbell.html)
+* [Yvette Cooper]({{ site.baseurl }}/members/yvette-cooper.html)
+* [Sir Alan Meale]({{ site.baseurl }}/members/sir-alan-meale.html)

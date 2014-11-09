@@ -14,8 +14,8 @@ title: "Special Needs Education"
 ### Who is interested in Special Needs Education?
 
 
-* [Stuart Andrew]({ site.baseurl }}members/stuart-andrew.html)
-* [Robert Flello]({ site.baseurl }}members/robert-flello.html)
-* [Mr Mark Harper]({ site.baseurl }}members/mr-mark-harper.html)
-* [Dr William McCrea]({ site.baseurl }}members/dr-william-mccrea.html)
-* [Mr Brooks Newmark]({ site.baseurl }}members/mr-brooks-newmark.html)
+* [Stuart Andrew]({{ site.baseurl }}/members/stuart-andrew.html)
+* [Robert Flello]({{ site.baseurl }}/members/robert-flello.html)
+* [Mr Mark Harper]({{ site.baseurl }}/members/mr-mark-harper.html)
+* [Dr William McCrea]({{ site.baseurl }}/members/dr-william-mccrea.html)
+* [Mr Brooks Newmark]({{ site.baseurl }}/members/mr-brooks-newmark.html)

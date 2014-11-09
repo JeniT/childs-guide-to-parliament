@@ -14,4 +14,4 @@ title: "Alternative Fuels"
 ### Who is interested in Alternative Fuels?
 
 
-* [Fabian Hamilton]({ site.baseurl }}members/fabian-hamilton.html)
+* [Fabian Hamilton]({{ site.baseurl }}/members/fabian-hamilton.html)

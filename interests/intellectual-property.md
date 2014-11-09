@@ -14,5 +14,5 @@ title: "Intellectual Property"
 ### Who is interested in Intellectual Property?
 
 
-* [Mike Weatherley]({ site.baseurl }}members/mike-weatherley.html)
-* [Pete Wishart]({ site.baseurl }}members/pete-wishart.html)
+* [Mike Weatherley]({{ site.baseurl }}/members/mike-weatherley.html)
+* [Pete Wishart]({{ site.baseurl }}/members/pete-wishart.html)

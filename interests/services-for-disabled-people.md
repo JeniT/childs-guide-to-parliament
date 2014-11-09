@@ -14,4 +14,4 @@ title: "Services For Disabled People"
 ### Who is interested in Services For Disabled People?
 
 
-* [Ian Murray]({ site.baseurl }}members/ian-murray.html)
+* [Ian Murray]({{ site.baseurl }}/members/ian-murray.html)

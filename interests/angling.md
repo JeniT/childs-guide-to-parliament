@@ -14,4 +14,4 @@ title: "Angling"
 ### Who is interested in Angling?
 
 
-* [George Hollingbery]({ site.baseurl }}members/george-hollingbery.html)
+* [George Hollingbery]({{ site.baseurl }}/members/george-hollingbery.html)

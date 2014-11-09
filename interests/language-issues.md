@@ -14,4 +14,4 @@ title: "Language Issues"
 ### Who is interested in Language Issues?
 
 
-* [Hywel Williams]({ site.baseurl }}members/hywel-williams.html)
+* [Hywel Williams]({{ site.baseurl }}/members/hywel-williams.html)

@@ -14,5 +14,5 @@ title: "Broadband"
 ### Who is interested in Broadband?
 
 
-* [Peter Aldous]({ site.baseurl }}members/peter-aldous.html)
-* [Rory Stewart]({ site.baseurl }}members/rory-stewart.html)
+* [Peter Aldous]({{ site.baseurl }}/members/peter-aldous.html)
+* [Rory Stewart]({{ site.baseurl }}/members/rory-stewart.html)

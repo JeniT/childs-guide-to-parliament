@@ -14,5 +14,5 @@ title: "Affordable Housing"
 ### Who is interested in Affordable Housing?
 
 
-* [Stephen Gilbert]({ site.baseurl }}members/stephen-gilbert.html)
-* [Heather Wheeler]({ site.baseurl }}members/heather-wheeler.html)
+* [Stephen Gilbert]({{ site.baseurl }}/members/stephen-gilbert.html)
+* [Heather Wheeler]({{ site.baseurl }}/members/heather-wheeler.html)

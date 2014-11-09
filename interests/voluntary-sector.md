@@ -14,10 +14,10 @@ title: "Voluntary Sector"
 ### Who is interested in Voluntary Sector?
 
 
-* [Mr David Burrowes]({ site.baseurl }}members/mr-david-burrowes.html)
-* [Stephen Crabb]({ site.baseurl }}members/stephen-crabb.html)
-* [Martin Horwood]({ site.baseurl }}members/martin-horwood.html)
-* [Anne Milton]({ site.baseurl }}members/anne-milton.html)
-* [Dr Daniel Poulter]({ site.baseurl }}members/dr-daniel-poulter.html)
-* [Sir Bob Russell]({ site.baseurl }}members/sir-bob-russell.html)
-* [Mr Adrian Sanders]({ site.baseurl }}members/mr-adrian-sanders.html)
+* [Mr David Burrowes]({{ site.baseurl }}/members/mr-david-burrowes.html)
+* [Stephen Crabb]({{ site.baseurl }}/members/stephen-crabb.html)
+* [Martin Horwood]({{ site.baseurl }}/members/martin-horwood.html)
+* [Anne Milton]({{ site.baseurl }}/members/anne-milton.html)
+* [Dr Daniel Poulter]({{ site.baseurl }}/members/dr-daniel-poulter.html)
+* [Sir Bob Russell]({{ site.baseurl }}/members/sir-bob-russell.html)
+* [Mr Adrian Sanders]({{ site.baseurl }}/members/mr-adrian-sanders.html)

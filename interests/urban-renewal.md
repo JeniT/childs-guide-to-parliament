@@ -14,4 +14,4 @@ title: "Urban Renewal"
 ### Who is interested in Urban Renewal?
 
 
-* [Dr Alasdair McDonnell]({ site.baseurl }}members/dr-alasdair-mcdonnell.html)
+* [Dr Alasdair McDonnell]({{ site.baseurl }}/members/dr-alasdair-mcdonnell.html)

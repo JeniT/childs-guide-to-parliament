@@ -14,4 +14,4 @@ title: "Life Sciences"
 ### Who is interested in Life Sciences?
 
 
-* [George Freeman]({ site.baseurl }}members/george-freeman.html)
+* [George Freeman]({{ site.baseurl }}/members/george-freeman.html)

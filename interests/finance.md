@@ -14,11 +14,11 @@ title: "Finance"
 ### Who is interested in Finance?
 
 
-* [Mr Iain Duncan Smith]({ site.baseurl }}members/mr-iain-duncan-smith.html)
-* [Greg Hands]({ site.baseurl }}members/greg-hands.html)
-* [Joseph Johnson]({ site.baseurl }}members/joseph-johnson.html)
-* [Mark Lazarowicz]({ site.baseurl }}members/mark-lazarowicz.html)
-* [Tim Loughton]({ site.baseurl }}members/tim-loughton.html)
-* [Alison McGovern]({ site.baseurl }}members/alison-mcgovern.html)
-* [Alok Sharma]({ site.baseurl }}members/alok-sharma.html)
-* [Mr Barry Sheerman]({ site.baseurl }}members/mr-barry-sheerman.html)
+* [Mr Iain Duncan Smith]({{ site.baseurl }}/members/mr-iain-duncan-smith.html)
+* [Greg Hands]({{ site.baseurl }}/members/greg-hands.html)
+* [Joseph Johnson]({{ site.baseurl }}/members/joseph-johnson.html)
+* [Mark Lazarowicz]({{ site.baseurl }}/members/mark-lazarowicz.html)
+* [Tim Loughton]({{ site.baseurl }}/members/tim-loughton.html)
+* [Alison McGovern]({{ site.baseurl }}/members/alison-mcgovern.html)
+* [Alok Sharma]({{ site.baseurl }}/members/alok-sharma.html)
+* [Mr Barry Sheerman]({{ site.baseurl }}/members/mr-barry-sheerman.html)

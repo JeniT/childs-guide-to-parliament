@@ -14,4 +14,4 @@ title: "Sustainable Communities"
 ### Who is interested in Sustainable Communities?
 
 
-* [Phil Wilson]({ site.baseurl }}members/phil-wilson.html)
+* [Phil Wilson]({{ site.baseurl }}/members/phil-wilson.html)

@@ -14,4 +14,4 @@ title: "Family Moral And Social Affairs"
 ### Who is interested in Family Moral And Social Affairs?
 
 
-* [Mr Gary Streeter]({ site.baseurl }}members/mr-gary-streeter.html)
+* [Mr Gary Streeter]({{ site.baseurl }}/members/mr-gary-streeter.html)

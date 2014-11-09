@@ -14,7 +14,7 @@ title: "Heritage"
 ### Who is interested in Heritage?
 
 
-* [Sir William Cash]({ site.baseurl }}members/sir-william-cash.html)
-* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
-* [Mr David Hanson]({ site.baseurl }}members/mr-david-hanson.html)
-* [Mr Gordon Marsden]({ site.baseurl }}members/mr-gordon-marsden.html)
+* [Sir William Cash]({{ site.baseurl }}/members/sir-william-cash.html)
+* [Michael Fabricant]({{ site.baseurl }}/members/michael-fabricant.html)
+* [Mr David Hanson]({{ site.baseurl }}/members/mr-david-hanson.html)
+* [Mr Gordon Marsden]({{ site.baseurl }}/members/mr-gordon-marsden.html)

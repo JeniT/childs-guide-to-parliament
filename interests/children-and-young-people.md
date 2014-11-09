@@ -14,4 +14,4 @@ title: "Children And Young People"
 ### Who is interested in Children And Young People?
 
 
-* [Annette Brooke]({ site.baseurl }}members/annette-brooke.html)
+* [Annette Brooke]({{ site.baseurl }}/members/annette-brooke.html)

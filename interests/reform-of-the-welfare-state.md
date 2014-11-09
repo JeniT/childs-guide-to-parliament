@@ -14,4 +14,4 @@ title: "Reform Of The Welfare State"
 ### Who is interested in Reform Of The Welfare State?
 
 
-* [Guto Bebb]({ site.baseurl }}members/guto-bebb.html)
+* [Guto Bebb]({{ site.baseurl }}/members/guto-bebb.html)

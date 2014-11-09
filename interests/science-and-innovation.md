@@ -14,4 +14,4 @@ title: "Science And Innovation"
 ### Who is interested in Science And Innovation?
 
 
-* [Adam Afriyie]({ site.baseurl }}members/adam-afriyie.html)
+* [Adam Afriyie]({{ site.baseurl }}/members/adam-afriyie.html)

@@ -14,4 +14,4 @@ title: "Food"
 ### Who is interested in Food?
 
 
-* [Elizabeth Truss]({ site.baseurl }}members/elizabeth-truss.html)
+* [Elizabeth Truss]({{ site.baseurl }}/members/elizabeth-truss.html)

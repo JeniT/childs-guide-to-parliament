@@ -14,4 +14,4 @@ title: "Food Policy"
 ### Who is interested in Food Policy?
 
 
-* [Kerry McCarthy]({ site.baseurl }}members/kerry-mccarthy.html)
+* [Kerry McCarthy]({{ site.baseurl }}/members/kerry-mccarthy.html)

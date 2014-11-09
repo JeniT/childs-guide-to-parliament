@@ -14,4 +14,4 @@ title: "Government Procurement Of It Projects"
 ### Who is interested in Government Procurement Of It Projects?
 
 
-* [Stephen McPartland]({ site.baseurl }}members/stephen-mcpartland.html)
+* [Stephen McPartland]({{ site.baseurl }}/members/stephen-mcpartland.html)

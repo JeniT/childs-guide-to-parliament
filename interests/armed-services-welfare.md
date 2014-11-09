@@ -14,4 +14,4 @@ title: "Armed Services Welfare"
 ### Who is interested in Armed Services Welfare?
 
 
-* [Sir Alan Meale]({ site.baseurl }}members/sir-alan-meale.html)
+* [Sir Alan Meale]({{ site.baseurl }}/members/sir-alan-meale.html)

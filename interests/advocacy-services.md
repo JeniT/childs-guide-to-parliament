@@ -14,4 +14,4 @@ title: "Advocacy Services"
 ### Who is interested in Advocacy Services?
 
 
-* [Stephen Lloyd]({ site.baseurl }}members/stephen-lloyd.html)
+* [Stephen Lloyd]({{ site.baseurl }}/members/stephen-lloyd.html)

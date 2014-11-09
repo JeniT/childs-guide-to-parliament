@@ -14,8 +14,8 @@ title: "Welsh Affairs"
 ### Who is interested in Welsh Affairs?
 
 
-* [David T. C. Davies]({ site.baseurl }}members/david-t-c-davies.html)
-* [Paul Flynn]({ site.baseurl }}members/paul-flynn.html)
-* [Mrs Siân C. James]({ site.baseurl }}members/mrs-sian-c-james.html)
-* [Mr David Jones]({ site.baseurl }}members/mr-david-jones.html)
-* [Albert Owen]({ site.baseurl }}members/albert-owen.html)
+* [David T. C. Davies]({{ site.baseurl }}/members/david-t-c-davies.html)
+* [Paul Flynn]({{ site.baseurl }}/members/paul-flynn.html)
+* [Mrs Siân C. James]({{ site.baseurl }}/members/mrs-sian-c-james.html)
+* [Mr David Jones]({{ site.baseurl }}/members/mr-david-jones.html)
+* [Albert Owen]({{ site.baseurl }}/members/albert-owen.html)

@@ -14,11 +14,11 @@ title: "Disability"
 ### Who is interested in Disability?
 
 
-* [Dame  Anne Begg]({ site.baseurl }}members/dame-anne-begg.html)
-* [Paul Burstow]({ site.baseurl }}members/paul-burstow.html)
-* [Alistair Burt]({ site.baseurl }}members/alistair-burt.html)
-* [John Healey]({ site.baseurl }}members/john-healey.html)
-* [Tim Loughton]({ site.baseurl }}members/tim-loughton.html)
-* [Mr Gordon Marsden]({ site.baseurl }}members/mr-gordon-marsden.html)
-* [Mr Mike Weir]({ site.baseurl }}members/mr-mike-weir.html)
-* [Sir George Young]({ site.baseurl }}members/sir-george-young.html)
+* [Dame  Anne Begg]({{ site.baseurl }}/members/dame-anne-begg.html)
+* [Paul Burstow]({{ site.baseurl }}/members/paul-burstow.html)
+* [Alistair Burt]({{ site.baseurl }}/members/alistair-burt.html)
+* [John Healey]({{ site.baseurl }}/members/john-healey.html)
+* [Tim Loughton]({{ site.baseurl }}/members/tim-loughton.html)
+* [Mr Gordon Marsden]({{ site.baseurl }}/members/mr-gordon-marsden.html)
+* [Mr Mike Weir]({{ site.baseurl }}/members/mr-mike-weir.html)
+* [Sir George Young]({{ site.baseurl }}/members/sir-george-young.html)

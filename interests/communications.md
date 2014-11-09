@@ -14,5 +14,5 @@ title: "Communications"
 ### Who is interested in Communications?
 
 
-* [Bob Blackman]({ site.baseurl }}members/bob-blackman.html)
-* [John Robertson]({ site.baseurl }}members/john-robertson.html)
+* [Bob Blackman]({{ site.baseurl }}/members/bob-blackman.html)
+* [John Robertson]({{ site.baseurl }}/members/john-robertson.html)

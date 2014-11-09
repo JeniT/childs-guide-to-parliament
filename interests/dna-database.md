@@ -14,4 +14,4 @@ title: "Dna Database"
 ### Who is interested in Dna Database?
 
 
-* [Dr Julian Huppert]({ site.baseurl }}members/dr-julian-huppert.html)
+* [Dr Julian Huppert]({{ site.baseurl }}/members/dr-julian-huppert.html)

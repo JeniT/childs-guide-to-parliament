@@ -14,4 +14,4 @@ title: "Housing And Women’S Issues"
 ### Who is interested in Housing And Women’S Issues?
 
 
-* [Sheila Gilmore]({ site.baseurl }}members/sheila-gilmore.html)
+* [Sheila Gilmore]({{ site.baseurl }}/members/sheila-gilmore.html)

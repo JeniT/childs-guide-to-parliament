@@ -14,4 +14,4 @@ title: "Housing Development"
 ### Who is interested in Housing Development?
 
 
-* [Greg Clark]({ site.baseurl }}members/greg-clark.html)
+* [Greg Clark]({{ site.baseurl }}/members/greg-clark.html)

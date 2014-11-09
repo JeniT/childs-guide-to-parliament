@@ -14,4 +14,4 @@ title: "Religious Freedom"
 ### Who is interested in Religious Freedom?
 
 
-* [Naomi Long]({ site.baseurl }}members/naomi-long.html)
+* [Naomi Long]({{ site.baseurl }}/members/naomi-long.html)

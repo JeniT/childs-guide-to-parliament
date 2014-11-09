@@ -14,8 +14,8 @@ title: "International Trade"
 ### Who is interested in International Trade?
 
 
-* [Sir Alan Duncan]({ site.baseurl }}members/sir-alan-duncan.html)
-* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
-* [Mr Philip Hammond]({ site.baseurl }}members/mr-philip-hammond.html)
-* [Stephen McPartland]({ site.baseurl }}members/stephen-mcpartland.html)
-* [Mr Khalid Mahmood]({ site.baseurl }}members/mr-khalid-mahmood.html)
+* [Sir Alan Duncan]({{ site.baseurl }}/members/sir-alan-duncan.html)
+* [Michael Fabricant]({{ site.baseurl }}/members/michael-fabricant.html)
+* [Mr Philip Hammond]({{ site.baseurl }}/members/mr-philip-hammond.html)
+* [Stephen McPartland]({{ site.baseurl }}/members/stephen-mcpartland.html)
+* [Mr Khalid Mahmood]({{ site.baseurl }}/members/mr-khalid-mahmood.html)

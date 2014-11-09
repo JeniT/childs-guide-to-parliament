@@ -14,4 +14,4 @@ title: "Infrastructure"
 ### Who is interested in Infrastructure?
 
 
-* [Mr Stephen O'Brien]({ site.baseurl }}members/mr-stephen-obrien.html)
+* [Mr Stephen O'Brien]({{ site.baseurl }}/members/mr-stephen-obrien.html)

@@ -14,4 +14,4 @@ title: "Skills And Training"
 ### Who is interested in Skills And Training?
 
 
-* [Michael Connarty]({ site.baseurl }}members/michael-connarty.html)
+* [Michael Connarty]({{ site.baseurl }}/members/michael-connarty.html)

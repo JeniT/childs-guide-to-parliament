@@ -14,10 +14,10 @@ title: "Northern Ireland"
 ### Who is interested in Northern Ireland?
 
 
-* [Mr Henry Bellingham]({ site.baseurl }}members/mr-henry-bellingham.html)
-* [Conor Burns]({ site.baseurl }}members/conor-burns.html)
-* [Mr Stephen O'Brien]({ site.baseurl }}members/mr-stephen-obrien.html)
-* [Mr Owen Paterson]({ site.baseurl }}members/mr-owen-paterson.html)
-* [Mr Andrew Robathan]({ site.baseurl }}members/mr-andrew-robathan.html)
-* [Mr Laurence Robertson]({ site.baseurl }}members/mr-laurence-robertson.html)
-* [Mr Shaun Woodward]({ site.baseurl }}members/mr-shaun-woodward.html)
+* [Mr Henry Bellingham]({{ site.baseurl }}/members/mr-henry-bellingham.html)
+* [Conor Burns]({{ site.baseurl }}/members/conor-burns.html)
+* [Mr Stephen O'Brien]({{ site.baseurl }}/members/mr-stephen-obrien.html)
+* [Mr Owen Paterson]({{ site.baseurl }}/members/mr-owen-paterson.html)
+* [Mr Andrew Robathan]({{ site.baseurl }}/members/mr-andrew-robathan.html)
+* [Mr Laurence Robertson]({{ site.baseurl }}/members/mr-laurence-robertson.html)
+* [Mr Shaun Woodward]({{ site.baseurl }}/members/mr-shaun-woodward.html)

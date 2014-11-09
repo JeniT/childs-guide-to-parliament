@@ -14,4 +14,4 @@ title: "Energy Security Policy"
 ### Who is interested in Energy Security Policy?
 
 
-* [Dr Phillip Lee]({ site.baseurl }}members/dr-phillip-lee.html)
+* [Dr Phillip Lee]({{ site.baseurl }}/members/dr-phillip-lee.html)

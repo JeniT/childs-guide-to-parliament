@@ -14,4 +14,4 @@ title: "Infrastructure Funding"
 ### Who is interested in Infrastructure Funding?
 
 
-* [George Freeman]({ site.baseurl }}members/george-freeman.html)
+* [George Freeman]({{ site.baseurl }}/members/george-freeman.html)

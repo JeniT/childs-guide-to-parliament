@@ -14,4 +14,4 @@ title: "Literacy"
 ### Who is interested in Literacy?
 
 
-* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)
+* [Robert Halfon]({{ site.baseurl }}/members/robert-halfon.html)

@@ -14,4 +14,4 @@ title: "Transport Policy (Especially Rail)"
 ### Who is interested in Transport Policy (Especially Rail)?
 
 
-* [Gavin Shuker]({ site.baseurl }}members/gavin-shuker.html)
+* [Gavin Shuker]({{ site.baseurl }}/members/gavin-shuker.html)

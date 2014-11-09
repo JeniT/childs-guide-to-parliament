@@ -14,4 +14,4 @@ title: "Dance"
 ### Who is interested in Dance?
 
 
-* [Dame  Angela Watkinson]({ site.baseurl }}members/dame-angela-watkinson.html)
+* [Dame  Angela Watkinson]({{ site.baseurl }}/members/dame-angela-watkinson.html)

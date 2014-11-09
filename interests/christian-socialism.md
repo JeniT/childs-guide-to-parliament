@@ -14,4 +14,4 @@ title: "Christian Socialism"
 ### Who is interested in Christian Socialism?
 
 
-* [Stephen Timms]({ site.baseurl }}members/stephen-timms.html)
+* [Stephen Timms]({{ site.baseurl }}/members/stephen-timms.html)

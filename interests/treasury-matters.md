@@ -14,4 +14,4 @@ title: "Treasury Matters"
 ### Who is interested in Treasury Matters?
 
 
-* [Robert Flello]({ site.baseurl }}members/robert-flello.html)
+* [Robert Flello]({{ site.baseurl }}/members/robert-flello.html)

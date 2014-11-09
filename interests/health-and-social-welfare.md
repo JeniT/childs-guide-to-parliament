@@ -14,4 +14,4 @@ title: "Health And Social Welfare"
 ### Who is interested in Health And Social Welfare?
 
 
-* [Mrs Madeleine Moon]({ site.baseurl }}members/mrs-madeleine-moon.html)
+* [Mrs Madeleine Moon]({{ site.baseurl }}/members/mrs-madeleine-moon.html)

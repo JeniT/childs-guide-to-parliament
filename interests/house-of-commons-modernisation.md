@@ -14,4 +14,4 @@ title: "House Of Commons Modernisation"
 ### Who is interested in House Of Commons Modernisation?
 
 
-* [Caroline Flint]({ site.baseurl }}members/caroline-flint.html)
+* [Caroline Flint]({{ site.baseurl }}/members/caroline-flint.html)

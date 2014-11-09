@@ -14,4 +14,4 @@ title: "Waste"
 ### Who is interested in Waste?
 
 
-* [Dan Rogerson]({ site.baseurl }}members/dan-rogerson.html)
+* [Dan Rogerson]({{ site.baseurl }}/members/dan-rogerson.html)

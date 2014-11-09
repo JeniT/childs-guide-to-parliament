@@ -14,4 +14,4 @@ title: "London Government"
 ### Who is interested in London Government?
 
 
-* [Margaret Hodge]({ site.baseurl }}members/margaret-hodge.html)
+* [Margaret Hodge]({{ site.baseurl }}/members/margaret-hodge.html)

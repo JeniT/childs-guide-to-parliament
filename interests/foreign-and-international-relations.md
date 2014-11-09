@@ -14,4 +14,4 @@ title: "Foreign And International Relations"
 ### Who is interested in Foreign And International Relations?
 
 
-* [Andrew Rosindell]({ site.baseurl }}members/andrew-rosindell.html)
+* [Andrew Rosindell]({{ site.baseurl }}/members/andrew-rosindell.html)

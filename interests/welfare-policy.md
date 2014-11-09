@@ -14,4 +14,4 @@ title: "Welfare Policy"
 ### Who is interested in Welfare Policy?
 
 
-* [Sajid Javid]({ site.baseurl }}members/sajid-javid.html)
+* [Sajid Javid]({{ site.baseurl }}/members/sajid-javid.html)

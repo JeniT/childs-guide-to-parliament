@@ -14,6 +14,6 @@ title: "Disability Issues"
 ### Who is interested in Disability Issues?
 
 
-* [Mr Aidan Burley]({ site.baseurl }}members/mr-aidan-burley.html)
-* [Mary Creagh]({ site.baseurl }}members/mary-creagh.html)
-* [Stephen Lloyd]({ site.baseurl }}members/stephen-lloyd.html)
+* [Mr Aidan Burley]({{ site.baseurl }}/members/mr-aidan-burley.html)
+* [Mary Creagh]({{ site.baseurl }}/members/mary-creagh.html)
+* [Stephen Lloyd]({{ site.baseurl }}/members/stephen-lloyd.html)

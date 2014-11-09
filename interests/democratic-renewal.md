@@ -14,4 +14,4 @@ title: "Democratic Renewal"
 ### Who is interested in Democratic Renewal?
 
 
-* [Mr Graham Allen]({ site.baseurl }}members/mr-graham-allen.html)
+* [Mr Graham Allen]({{ site.baseurl }}/members/mr-graham-allen.html)

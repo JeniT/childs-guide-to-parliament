@@ -14,4 +14,4 @@ title: "Finance And Economy"
 ### Who is interested in Finance And Economy?
 
 
-* [Cathy Jamieson]({ site.baseurl }}members/cathy-jamieson.html)
+* [Cathy Jamieson]({{ site.baseurl }}/members/cathy-jamieson.html)

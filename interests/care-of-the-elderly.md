@@ -14,4 +14,4 @@ title: "Care Of The Elderly"
 ### Who is interested in Care Of The Elderly?
 
 
-* [Laura Sandys]({ site.baseurl }}members/laura-sandys.html)
+* [Laura Sandys]({{ site.baseurl }}/members/laura-sandys.html)

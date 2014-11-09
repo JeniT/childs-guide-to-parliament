@@ -14,4 +14,4 @@ title: "Family Law"
 ### Who is interested in Family Law?
 
 
-* [Jonathan Evans]({ site.baseurl }}members/jonathan-evans.html)
+* [Jonathan Evans]({{ site.baseurl }}/members/jonathan-evans.html)

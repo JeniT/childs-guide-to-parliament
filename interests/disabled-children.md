@@ -14,4 +14,4 @@ title: "Disabled Children"
 ### Who is interested in Disabled Children?
 
 
-* [Bob Stewart]({ site.baseurl }}members/bob-stewart.html)
+* [Bob Stewart]({{ site.baseurl }}/members/bob-stewart.html)

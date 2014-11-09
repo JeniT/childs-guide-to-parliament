@@ -14,4 +14,4 @@ title: "Communities"
 ### Who is interested in Communities?
 
 
-* [Stephen Gilbert]({ site.baseurl }}members/stephen-gilbert.html)
+* [Stephen Gilbert]({{ site.baseurl }}/members/stephen-gilbert.html)

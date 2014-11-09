@@ -14,4 +14,4 @@ title: "Foreign Affairs (Especially The Middle East)"
 ### Who is interested in Foreign Affairs (Especially The Middle East)?
 
 
-* [Mr Shaun Woodward]({ site.baseurl }}members/mr-shaun-woodward.html)
+* [Mr Shaun Woodward]({{ site.baseurl }}/members/mr-shaun-woodward.html)

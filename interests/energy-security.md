@@ -14,5 +14,5 @@ title: "Energy Security"
 ### Who is interested in Energy Security?
 
 
-* [Dan Byles]({ site.baseurl }}members/dan-byles.html)
-* [Iain Stewart]({ site.baseurl }}members/iain-stewart.html)
+* [Dan Byles]({{ site.baseurl }}/members/dan-byles.html)
+* [Iain Stewart]({{ site.baseurl }}/members/iain-stewart.html)

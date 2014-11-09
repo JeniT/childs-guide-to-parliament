@@ -14,4 +14,4 @@ title: "Cities"
 ### Who is interested in Cities?
 
 
-* [Greg Clark]({ site.baseurl }}members/greg-clark.html)
+* [Greg Clark]({{ site.baseurl }}/members/greg-clark.html)

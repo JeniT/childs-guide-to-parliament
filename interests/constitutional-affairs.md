@@ -14,11 +14,11 @@ title: "Constitutional Affairs"
 ### Who is interested in Constitutional Affairs?
 
 
-* [Kevin Brennan]({ site.baseurl }}members/kevin-brennan.html)
-* [Mr Robert Buckland]({ site.baseurl }}members/mr-robert-buckland.html)
-* [Sir Edward Garnier]({ site.baseurl }}members/sir-edward-garnier.html)
-* [Mrs Cheryl Gillan]({ site.baseurl }}members/mrs-cheryl-gillan.html)
-* [Mr David Heath]({ site.baseurl }}members/mr-david-heath.html)
-* [Gordon Henderson]({ site.baseurl }}members/gordon-henderson.html)
-* [Mr Stephen O'Brien]({ site.baseurl }}members/mr-stephen-obrien.html)
-* [Valerie Vaz]({ site.baseurl }}members/valerie-vaz.html)
+* [Kevin Brennan]({{ site.baseurl }}/members/kevin-brennan.html)
+* [Mr Robert Buckland]({{ site.baseurl }}/members/mr-robert-buckland.html)
+* [Sir Edward Garnier]({{ site.baseurl }}/members/sir-edward-garnier.html)
+* [Mrs Cheryl Gillan]({{ site.baseurl }}/members/mrs-cheryl-gillan.html)
+* [Mr David Heath]({{ site.baseurl }}/members/mr-david-heath.html)
+* [Gordon Henderson]({{ site.baseurl }}/members/gordon-henderson.html)
+* [Mr Stephen O'Brien]({{ site.baseurl }}/members/mr-stephen-obrien.html)
+* [Valerie Vaz]({{ site.baseurl }}/members/valerie-vaz.html)

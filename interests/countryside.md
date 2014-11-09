@@ -14,9 +14,9 @@ title: "Countryside"
 ### Who is interested in Countryside?
 
 
-* [Mr Julian Brazier]({ site.baseurl }}members/mr-julian-brazier.html)
-* [Mr James Gray]({ site.baseurl }}members/mr-james-gray.html)
-* [Kate Hoey]({ site.baseurl }}members/kate-hoey.html)
-* [Mr David Jones]({ site.baseurl }}members/mr-david-jones.html)
-* [Mr Laurence Robertson]({ site.baseurl }}members/mr-laurence-robertson.html)
-* [Mr Keith Simpson]({ site.baseurl }}members/mr-keith-simpson.html)
+* [Mr Julian Brazier]({{ site.baseurl }}/members/mr-julian-brazier.html)
+* [Mr James Gray]({{ site.baseurl }}/members/mr-james-gray.html)
+* [Kate Hoey]({{ site.baseurl }}/members/kate-hoey.html)
+* [Mr David Jones]({{ site.baseurl }}/members/mr-david-jones.html)
+* [Mr Laurence Robertson]({{ site.baseurl }}/members/mr-laurence-robertson.html)
+* [Mr Keith Simpson]({{ site.baseurl }}/members/mr-keith-simpson.html)

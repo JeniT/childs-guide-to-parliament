@@ -14,4 +14,4 @@ title: "Big Society"
 ### Who is interested in Big Society?
 
 
-* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)
+* [Robert Halfon]({{ site.baseurl }}/members/robert-halfon.html)

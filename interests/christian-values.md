@@ -14,4 +14,4 @@ title: "Christian Values"
 ### Who is interested in Christian Values?
 
 
-* [Mr Jeffrey M. Donaldson]({ site.baseurl }}members/mr-jeffrey-m-donaldson.html)
+* [Mr Jeffrey M. Donaldson]({{ site.baseurl }}/members/mr-jeffrey-m-donaldson.html)

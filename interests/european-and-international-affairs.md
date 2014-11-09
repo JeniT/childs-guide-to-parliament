@@ -14,4 +14,4 @@ title: "European And International Affairs"
 ### Who is interested in European And International Affairs?
 
 
-* [Mr Andrew Tyrie]({ site.baseurl }}members/mr-andrew-tyrie.html)
+* [Mr Andrew Tyrie]({{ site.baseurl }}/members/mr-andrew-tyrie.html)

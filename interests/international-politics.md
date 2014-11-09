@@ -14,4 +14,4 @@ title: "International Politics"
 ### Who is interested in International Politics?
 
 
-* [Mr Nigel Evans]({ site.baseurl }}members/mr-nigel-evans.html)
+* [Mr Nigel Evans]({{ site.baseurl }}/members/mr-nigel-evans.html)

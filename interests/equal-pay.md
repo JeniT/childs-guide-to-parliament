@@ -14,4 +14,4 @@ title: "Equal Pay"
 ### Who is interested in Equal Pay?
 
 
-* [Guy Opperman]({ site.baseurl }}members/guy-opperman.html)
+* [Guy Opperman]({{ site.baseurl }}/members/guy-opperman.html)

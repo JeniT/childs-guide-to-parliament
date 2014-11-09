@@ -14,4 +14,4 @@ title: "Welfare And Pensions"
 ### Who is interested in Welfare And Pensions?
 
 
-* [Karen Bradley]({ site.baseurl }}members/karen-bradley.html)
+* [Karen Bradley]({{ site.baseurl }}/members/karen-bradley.html)

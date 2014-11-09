@@ -14,6 +14,6 @@ title: "Industrial Policy"
 ### Who is interested in Industrial Policy?
 
 
-* [Sir Malcolm Bruce]({ site.baseurl }}members/sir-malcolm-bruce.html)
-* [Jim Dowd]({ site.baseurl }}members/jim-dowd.html)
-* [Chris Leslie]({ site.baseurl }}members/chris-leslie.html)
+* [Sir Malcolm Bruce]({{ site.baseurl }}/members/sir-malcolm-bruce.html)
+* [Jim Dowd]({{ site.baseurl }}/members/jim-dowd.html)
+* [Chris Leslie]({{ site.baseurl }}/members/chris-leslie.html)

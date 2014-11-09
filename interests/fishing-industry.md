@@ -14,7 +14,7 @@ title: "Fishing Industry"
 ### Who is interested in Fishing Industry?
 
 
-* [Mr Alistair Carmichael]({ site.baseurl }}members/mr-alistair-carmichael.html)
-* [Andrew George]({ site.baseurl }}members/andrew-george.html)
-* [Austin Mitchell]({ site.baseurl }}members/austin-mitchell.html)
-* [Mr Alan Reid]({ site.baseurl }}members/mr-alan-reid.html)
+* [Mr Alistair Carmichael]({{ site.baseurl }}/members/mr-alistair-carmichael.html)
+* [Andrew George]({{ site.baseurl }}/members/andrew-george.html)
+* [Austin Mitchell]({{ site.baseurl }}/members/austin-mitchell.html)
+* [Mr Alan Reid]({{ site.baseurl }}/members/mr-alan-reid.html)

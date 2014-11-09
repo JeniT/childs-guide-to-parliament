@@ -14,4 +14,4 @@ title: "Nhs Reform"
 ### Who is interested in Nhs Reform?
 
 
-* [Mr Douglas Carswell]({ site.baseurl }}members/mr-douglas-carswell.html)
+* [Mr Douglas Carswell]({{ site.baseurl }}/members/mr-douglas-carswell.html)

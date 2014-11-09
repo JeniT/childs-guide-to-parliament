@@ -14,4 +14,4 @@ title: "Islamism"
 ### Who is interested in Islamism?
 
 
-* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)
+* [Robert Halfon]({{ site.baseurl }}/members/robert-halfon.html)

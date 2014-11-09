@@ -14,4 +14,4 @@ title: "Elderly Care"
 ### Who is interested in Elderly Care?
 
 
-* [Julie Hilling]({ site.baseurl }}members/julie-hilling.html)
+* [Julie Hilling]({{ site.baseurl }}/members/julie-hilling.html)

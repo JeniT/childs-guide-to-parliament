@@ -14,4 +14,4 @@ title: "Science And Engineering"
 ### Who is interested in Science And Engineering?
 
 
-* [Dr Thérèse Coffey]({ site.baseurl }}members/dr-therese-coffey.html)
+* [Dr Thérèse Coffey]({{ site.baseurl }}/members/dr-therese-coffey.html)

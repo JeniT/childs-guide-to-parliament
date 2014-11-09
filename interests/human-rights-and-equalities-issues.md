@@ -14,4 +14,4 @@ title: "Human Rights And Equalities Issues"
 ### Who is interested in Human Rights And Equalities Issues?
 
 
-* [Mr Shaun Woodward]({ site.baseurl }}members/mr-shaun-woodward.html)
+* [Mr Shaun Woodward]({{ site.baseurl }}/members/mr-shaun-woodward.html)

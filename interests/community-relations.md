@@ -14,4 +14,4 @@ title: "Community Relations"
 ### Who is interested in Community Relations?
 
 
-* [Mr Khalid Mahmood]({ site.baseurl }}members/mr-khalid-mahmood.html)
+* [Mr Khalid Mahmood]({{ site.baseurl }}/members/mr-khalid-mahmood.html)

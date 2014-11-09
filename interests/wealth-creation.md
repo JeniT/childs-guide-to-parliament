@@ -14,4 +14,4 @@ title: "Wealth Creation"
 ### Who is interested in Wealth Creation?
 
 
-* [Charlie Elphicke]({ site.baseurl }}members/charlie-elphicke.html)
+* [Charlie Elphicke]({{ site.baseurl }}/members/charlie-elphicke.html)

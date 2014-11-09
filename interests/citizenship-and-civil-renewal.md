@@ -14,4 +14,4 @@ title: "Citizenship And Civil Renewal"
 ### Who is interested in Citizenship And Civil Renewal?
 
 
-* [Mr David Blunkett]({ site.baseurl }}members/mr-david-blunkett.html)
+* [Mr David Blunkett]({{ site.baseurl }}/members/mr-david-blunkett.html)

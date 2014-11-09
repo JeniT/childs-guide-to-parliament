@@ -14,4 +14,4 @@ title: "Council Of Europe"
 ### Who is interested in Council Of Europe?
 
 
-* [Mr Ian Liddell-Grainger]({ site.baseurl }}members/mr-ian-liddell-grainger.html)
+* [Mr Ian Liddell-Grainger]({{ site.baseurl }}/members/mr-ian-liddell-grainger.html)

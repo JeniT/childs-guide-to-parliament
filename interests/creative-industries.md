@@ -14,5 +14,5 @@ title: "Creative Industries"
 ### Who is interested in Creative Industries?
 
 
-* [Kevin Brennan]({ site.baseurl }}members/kevin-brennan.html)
-* [Damian Collins]({ site.baseurl }}members/damian-collins.html)
+* [Kevin Brennan]({{ site.baseurl }}/members/kevin-brennan.html)
+* [Damian Collins]({{ site.baseurl }}/members/damian-collins.html)

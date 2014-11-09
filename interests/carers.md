@@ -14,6 +14,6 @@ title: "Carers"
 ### Who is interested in Carers?
 
 
-* [Alex Cunningham]({ site.baseurl }}members/alex-cunningham.html)
-* [Barbara Keeley]({ site.baseurl }}members/barbara-keeley.html)
-* [Fiona O'Donnell]({ site.baseurl }}members/fiona-odonnell.html)
+* [Alex Cunningham]({{ site.baseurl }}/members/alex-cunningham.html)
+* [Barbara Keeley]({{ site.baseurl }}/members/barbara-keeley.html)
+* [Fiona O'Donnell]({{ site.baseurl }}/members/fiona-odonnell.html)

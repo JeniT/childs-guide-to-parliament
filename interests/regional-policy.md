@@ -14,8 +14,8 @@ title: "Regional Policy"
 ### Who is interested in Regional Policy?
 
 
-* [Mrs Louise Ellman]({ site.baseurl }}members/mrs-louise-ellman.html)
-* [Mr Kevan Jones]({ site.baseurl }}members/mr-kevan-jones.html)
-* [Neil Parish]({ site.baseurl }}members/neil-parish.html)
-* [Mr Dave Watts]({ site.baseurl }}members/mr-dave-watts.html)
-* [Ms Rosie Winterton]({ site.baseurl }}members/ms-rosie-winterton.html)
+* [Mrs Louise Ellman]({{ site.baseurl }}/members/mrs-louise-ellman.html)
+* [Mr Kevan Jones]({{ site.baseurl }}/members/mr-kevan-jones.html)
+* [Neil Parish]({{ site.baseurl }}/members/neil-parish.html)
+* [Mr Dave Watts]({{ site.baseurl }}/members/mr-dave-watts.html)
+* [Ms Rosie Winterton]({{ site.baseurl }}/members/ms-rosie-winterton.html)

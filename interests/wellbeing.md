@@ -14,4 +14,4 @@ title: "Wellbeing"
 ### Who is interested in Wellbeing?
 
 
-* [Dr Julian Huppert]({ site.baseurl }}members/dr-julian-huppert.html)
+* [Dr Julian Huppert]({{ site.baseurl }}/members/dr-julian-huppert.html)

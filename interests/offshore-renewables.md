@@ -14,4 +14,4 @@ title: "Offshore Renewables"
 ### Who is interested in Offshore Renewables?
 
 
-* [Peter Aldous]({ site.baseurl }}members/peter-aldous.html)
+* [Peter Aldous]({{ site.baseurl }}/members/peter-aldous.html)

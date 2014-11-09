@@ -14,4 +14,4 @@ title: "Rural Economy"
 ### Who is interested in Rural Economy?
 
 
-* [George Freeman]({ site.baseurl }}members/george-freeman.html)
+* [George Freeman]({{ site.baseurl }}/members/george-freeman.html)

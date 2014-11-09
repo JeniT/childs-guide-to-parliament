@@ -14,4 +14,4 @@ title: "Green Economy"
 ### Who is interested in Green Economy?
 
 
-* [Laura Sandys]({ site.baseurl }}members/laura-sandys.html)
+* [Laura Sandys]({{ site.baseurl }}/members/laura-sandys.html)

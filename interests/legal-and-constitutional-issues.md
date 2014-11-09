@@ -14,4 +14,4 @@ title: "Legal And Constitutional Issues"
 ### Who is interested in Legal And Constitutional Issues?
 
 
-* [Mr Geoffrey Cox]({ site.baseurl }}members/mr-geoffrey-cox.html)
+* [Mr Geoffrey Cox]({{ site.baseurl }}/members/mr-geoffrey-cox.html)

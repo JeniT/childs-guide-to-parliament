@@ -14,4 +14,4 @@ title: "Unions"
 ### Who is interested in Unions?
 
 
-* [Tom Blenkinsop]({ site.baseurl }}members/tom-blenkinsop.html)
+* [Tom Blenkinsop]({{ site.baseurl }}/members/tom-blenkinsop.html)

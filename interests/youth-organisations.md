@@ -14,4 +14,4 @@ title: "Youth Organisations"
 ### Who is interested in Youth Organisations?
 
 
-* [Sir Bob Russell]({ site.baseurl }}members/sir-bob-russell.html)
+* [Sir Bob Russell]({{ site.baseurl }}/members/sir-bob-russell.html)

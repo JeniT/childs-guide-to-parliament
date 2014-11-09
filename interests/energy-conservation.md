@@ -14,4 +14,4 @@ title: "Energy Conservation"
 ### Who is interested in Energy Conservation?
 
 
-* [Clive Efford]({ site.baseurl }}members/clive-efford.html)
+* [Clive Efford]({{ site.baseurl }}/members/clive-efford.html)

@@ -14,5 +14,5 @@ title: "Homelessness"
 ### Who is interested in Homelessness?
 
 
-* [Charles Hendry]({ site.baseurl }}members/charles-hendry.html)
-* [Andrew Selous]({ site.baseurl }}members/andrew-selous.html)
+* [Charles Hendry]({{ site.baseurl }}/members/charles-hendry.html)
+* [Andrew Selous]({{ site.baseurl }}/members/andrew-selous.html)

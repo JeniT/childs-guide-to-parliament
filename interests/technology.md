@@ -14,8 +14,8 @@ title: "Technology"
 ### Who is interested in Technology?
 
 
-* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
-* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)
-* [Meg Munn]({ site.baseurl }}members/meg-munn.html)
-* [Chi Onwurah]({ site.baseurl }}members/chi-onwurah.html)
-* [Mr Tom Watson]({ site.baseurl }}members/mr-tom-watson.html)
+* [Michael Fabricant]({{ site.baseurl }}/members/michael-fabricant.html)
+* [Robert Halfon]({{ site.baseurl }}/members/robert-halfon.html)
+* [Meg Munn]({{ site.baseurl }}/members/meg-munn.html)
+* [Chi Onwurah]({{ site.baseurl }}/members/chi-onwurah.html)
+* [Mr Tom Watson]({{ site.baseurl }}/members/mr-tom-watson.html)

@@ -14,4 +14,4 @@ title: "Steel"
 ### Who is interested in Steel?
 
 
-* [Dr Hywel Francis]({ site.baseurl }}members/dr-hywel-francis.html)
+* [Dr Hywel Francis]({{ site.baseurl }}/members/dr-hywel-francis.html)

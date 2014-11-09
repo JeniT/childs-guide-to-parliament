@@ -14,4 +14,4 @@ title: "Ship Building"
 ### Who is interested in Ship Building?
 
 
-* [Mr Ian Davidson]({ site.baseurl }}members/mr-ian-davidson.html)
+* [Mr Ian Davidson]({{ site.baseurl }}/members/mr-ian-davidson.html)

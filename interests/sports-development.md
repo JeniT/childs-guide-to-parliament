@@ -14,4 +14,4 @@ title: "Sports Development"
 ### Who is interested in Sports Development?
 
 
-* [David Wright]({ site.baseurl }}members/david-wright.html)
+* [David Wright]({{ site.baseurl }}/members/david-wright.html)

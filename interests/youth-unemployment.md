@@ -14,4 +14,4 @@ title: "Youth Unemployment"
 ### Who is interested in Youth Unemployment?
 
 
-* [Richard Harrington]({ site.baseurl }}members/richard-harrington.html)
+* [Richard Harrington]({{ site.baseurl }}/members/richard-harrington.html)

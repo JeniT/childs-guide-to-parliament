@@ -14,5 +14,5 @@ title: "Health Care"
 ### Who is interested in Health Care?
 
 
-* [Ms Karen Buck]({ site.baseurl }}members/ms-karen-buck.html)
-* [David Tredinnick]({ site.baseurl }}members/david-tredinnick.html)
+* [Ms Karen Buck]({{ site.baseurl }}/members/ms-karen-buck.html)
+* [David Tredinnick]({{ site.baseurl }}/members/david-tredinnick.html)

@@ -14,4 +14,4 @@ title: "Direct Democracy And Localism"
 ### Who is interested in Direct Democracy And Localism?
 
 
-* [Mr Douglas Carswell]({ site.baseurl }}members/mr-douglas-carswell.html)
+* [Mr Douglas Carswell]({{ site.baseurl }}/members/mr-douglas-carswell.html)

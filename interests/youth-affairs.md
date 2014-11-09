@@ -14,7 +14,7 @@ title: "Youth Affairs"
 ### Who is interested in Youth Affairs?
 
 
-* [Sir Tony Baldry]({ site.baseurl }}members/sir-tony-baldry.html)
-* [Paul Blomfield]({ site.baseurl }}members/paul-blomfield.html)
-* [Sir Alan Haselhurst]({ site.baseurl }}members/sir-alan-haselhurst.html)
-* [Simon Hughes]({ site.baseurl }}members/simon-hughes.html)
+* [Sir Tony Baldry]({{ site.baseurl }}/members/sir-tony-baldry.html)
+* [Paul Blomfield]({{ site.baseurl }}/members/paul-blomfield.html)
+* [Sir Alan Haselhurst]({{ site.baseurl }}/members/sir-alan-haselhurst.html)
+* [Simon Hughes]({{ site.baseurl }}/members/simon-hughes.html)

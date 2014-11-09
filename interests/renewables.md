@@ -14,4 +14,4 @@ title: "Renewables"
 ### Who is interested in Renewables?
 
 
-* [Oliver Colvile]({ site.baseurl }}members/oliver-colvile.html)
+* [Oliver Colvile]({{ site.baseurl }}/members/oliver-colvile.html)

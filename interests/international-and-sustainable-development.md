@@ -14,4 +14,4 @@ title: "International And Sustainable Development"
 ### Who is interested in International And Sustainable Development?
 
 
-* [Mr Mike Weir]({ site.baseurl }}members/mr-mike-weir.html)
+* [Mr Mike Weir]({{ site.baseurl }}/members/mr-mike-weir.html)

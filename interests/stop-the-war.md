@@ -14,4 +14,4 @@ title: "Stop The War"
 ### Who is interested in Stop The War?
 
 
-* [Jeremy Corbyn]({ site.baseurl }}members/jeremy-corbyn.html)
+* [Jeremy Corbyn]({{ site.baseurl }}/members/jeremy-corbyn.html)

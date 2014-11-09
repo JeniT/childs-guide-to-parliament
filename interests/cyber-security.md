@@ -14,4 +14,4 @@ title: "Cyber-Security"
 ### Who is interested in Cyber-Security?
 
 
-* [Mark Pritchard]({ site.baseurl }}members/mark-pritchard.html)
+* [Mark Pritchard]({{ site.baseurl }}/members/mark-pritchard.html)

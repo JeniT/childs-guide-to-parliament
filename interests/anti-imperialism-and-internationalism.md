@@ -14,4 +14,4 @@ title: "Anti Imperialism And Internationalism"
 ### Who is interested in Anti Imperialism And Internationalism?
 
 
-* [Jeremy Corbyn]({ site.baseurl }}members/jeremy-corbyn.html)
+* [Jeremy Corbyn]({{ site.baseurl }}/members/jeremy-corbyn.html)

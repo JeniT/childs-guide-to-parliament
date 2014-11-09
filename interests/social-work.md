@@ -14,4 +14,4 @@ title: "Social Work"
 ### Who is interested in Social Work?
 
 
-* [Hywel Williams]({ site.baseurl }}members/hywel-williams.html)
+* [Hywel Williams]({{ site.baseurl }}/members/hywel-williams.html)

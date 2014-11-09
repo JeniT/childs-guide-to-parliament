@@ -14,4 +14,4 @@ title: "Investment"
 ### Who is interested in Investment?
 
 
-* [Paul Farrelly]({ site.baseurl }}members/paul-farrelly.html)
+* [Paul Farrelly]({{ site.baseurl }}/members/paul-farrelly.html)

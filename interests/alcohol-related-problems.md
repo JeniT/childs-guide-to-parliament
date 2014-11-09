@@ -14,4 +14,4 @@ title: "Alcohol Related Problems"
 ### Who is interested in Alcohol Related Problems?
 
 
-* [Dr Sarah Wollaston]({ site.baseurl }}members/dr-sarah-wollaston.html)
+* [Dr Sarah Wollaston]({{ site.baseurl }}/members/dr-sarah-wollaston.html)

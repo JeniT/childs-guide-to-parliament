@@ -14,4 +14,4 @@ title: "Skills Agenda"
 ### Who is interested in Skills Agenda?
 
 
-* [Angela Smith]({ site.baseurl }}members/angela-smith.html)
+* [Angela Smith]({{ site.baseurl }}/members/angela-smith.html)

@@ -14,4 +14,4 @@ title: "Northumberland"
 ### Who is interested in Northumberland?
 
 
-* [Guy Opperman]({ site.baseurl }}members/guy-opperman.html)
+* [Guy Opperman]({{ site.baseurl }}/members/guy-opperman.html)

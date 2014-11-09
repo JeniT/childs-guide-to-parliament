@@ -14,4 +14,4 @@ title: "Training And Skills"
 ### Who is interested in Training And Skills?
 
 
-* [Ian Austin]({ site.baseurl }}members/ian-austin.html)
+* [Ian Austin]({{ site.baseurl }}/members/ian-austin.html)

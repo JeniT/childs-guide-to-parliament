@@ -14,4 +14,4 @@ title: "Leisure Industry"
 ### Who is interested in Leisure Industry?
 
 
-* [Sir Roger Gale]({ site.baseurl }}members/sir-roger-gale.html)
+* [Sir Roger Gale]({{ site.baseurl }}/members/sir-roger-gale.html)

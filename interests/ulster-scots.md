@@ -14,4 +14,4 @@ title: "Ulster-Scots"
 ### Who is interested in Ulster-Scots?
 
 
-* [Jim Shannon]({ site.baseurl }}members/jim-shannon.html)
+* [Jim Shannon]({{ site.baseurl }}/members/jim-shannon.html)

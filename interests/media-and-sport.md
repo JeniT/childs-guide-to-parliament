@@ -14,8 +14,8 @@ title: "Media And Sport"
 ### Who is interested in Media And Sport?
 
 
-* [Nigel Adams]({ site.baseurl }}members/nigel-adams.html)
-* [Alun Cairns]({ site.baseurl }}members/alun-cairns.html)
-* [Mr Ivan Lewis]({ site.baseurl }}members/mr-ivan-lewis.html)
-* [Jonathan Lord]({ site.baseurl }}members/jonathan-lord.html)
-* [Mrs Linda Riordan]({ site.baseurl }}members/mrs-linda-riordan.html)
+* [Nigel Adams]({{ site.baseurl }}/members/nigel-adams.html)
+* [Alun Cairns]({{ site.baseurl }}/members/alun-cairns.html)
+* [Mr Ivan Lewis]({{ site.baseurl }}/members/mr-ivan-lewis.html)
+* [Jonathan Lord]({{ site.baseurl }}/members/jonathan-lord.html)
+* [Mrs Linda Riordan]({{ site.baseurl }}/members/mrs-linda-riordan.html)
