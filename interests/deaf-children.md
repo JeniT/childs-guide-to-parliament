@@ -14,4 +14,4 @@ title: "Deaf Children"
 ### Who is interested in Deaf Children?
 
 
-* [Sir Malcolm Bruce]({ site.baseurl }}members/sir-malcolm-bruce.html)
+* [Sir Malcolm Bruce]({{ site.baseurl }}/members/sir-malcolm-bruce.html)

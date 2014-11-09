@@ -14,4 +14,4 @@ title: "Universities And Skills"
 ### Who is interested in Universities And Skills?
 
 
-* [Julian Smith]({ site.baseurl }}members/julian-smith.html)
+* [Julian Smith]({{ site.baseurl }}/members/julian-smith.html)

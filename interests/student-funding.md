@@ -14,4 +14,4 @@ title: "Student Funding"
 ### Who is interested in Student Funding?
 
 
-* [Gavin Shuker]({ site.baseurl }}members/gavin-shuker.html)
+* [Gavin Shuker]({{ site.baseurl }}/members/gavin-shuker.html)

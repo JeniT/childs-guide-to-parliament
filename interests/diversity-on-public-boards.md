@@ -14,4 +14,4 @@ title: "Diversity On Public Boards"
 ### Who is interested in Diversity On Public Boards?
 
 
-* [Seema Malhotra]({ site.baseurl }}members/seema-malhotra.html)
+* [Seema Malhotra]({{ site.baseurl }}/members/seema-malhotra.html)

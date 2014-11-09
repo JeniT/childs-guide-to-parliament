@@ -14,4 +14,4 @@ title: "Crime And Disorder"
 ### Who is interested in Crime And Disorder?
 
 
-* [Jenny Willott]({ site.baseurl }}members/jenny-willott.html)
+* [Jenny Willott]({{ site.baseurl }}/members/jenny-willott.html)

@@ -14,4 +14,4 @@ title: "Electoral Issues"
 ### Who is interested in Electoral Issues?
 
 
-* [Jessica Morden]({ site.baseurl }}members/jessica-morden.html)
+* [Jessica Morden]({{ site.baseurl }}/members/jessica-morden.html)

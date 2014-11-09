@@ -14,4 +14,4 @@ title: "Health And Welfare"
 ### Who is interested in Health And Welfare?
 
 
-* [Lindsay Roy]({ site.baseurl }}members/lindsay-roy.html)
+* [Lindsay Roy]({{ site.baseurl }}/members/lindsay-roy.html)

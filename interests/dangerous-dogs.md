@@ -14,4 +14,4 @@ title: "Dangerous Dogs"
 ### Who is interested in Dangerous Dogs?
 
 
-* [Angie Bray]({ site.baseurl }}members/angie-bray.html)
+* [Angie Bray]({{ site.baseurl }}/members/angie-bray.html)

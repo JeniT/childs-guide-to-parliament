@@ -14,4 +14,4 @@ title: "Food Retailing"
 ### Who is interested in Food Retailing?
 
 
-* [Mark Menzies]({ site.baseurl }}members/mark-menzies.html)
+* [Mark Menzies]({{ site.baseurl }}/members/mark-menzies.html)

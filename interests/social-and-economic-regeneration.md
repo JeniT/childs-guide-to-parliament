@@ -14,4 +14,4 @@ title: "Social And Economic Regeneration"
 ### Who is interested in Social And Economic Regeneration?
 
 
-* [Simon Danczuk]({ site.baseurl }}members/simon-danczuk.html)
+* [Simon Danczuk]({{ site.baseurl }}/members/simon-danczuk.html)

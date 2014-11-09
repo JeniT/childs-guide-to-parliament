@@ -14,4 +14,4 @@ title: "Local Services"
 ### Who is interested in Local Services?
 
 
-* [Dan Rogerson]({ site.baseurl }}members/dan-rogerson.html)
+* [Dan Rogerson]({{ site.baseurl }}/members/dan-rogerson.html)

@@ -14,5 +14,5 @@ title: "Intelligence"
 ### Who is interested in Intelligence?
 
 
-* [Mark Field]({ site.baseurl }}members/mark-field.html)
-* [Mr Ben Wallace]({ site.baseurl }}members/mr-ben-wallace.html)
+* [Mark Field]({{ site.baseurl }}/members/mark-field.html)
+* [Mr Ben Wallace]({{ site.baseurl }}/members/mr-ben-wallace.html)

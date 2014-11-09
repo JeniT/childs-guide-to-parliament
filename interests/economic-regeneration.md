@@ -14,8 +14,8 @@ title: "Economic Regeneration"
 ### Who is interested in Economic Regeneration?
 
 
-* [Jon Cruddas]({ site.baseurl }}members/jon-cruddas.html)
-* [John Healey]({ site.baseurl }}members/john-healey.html)
-* [John Mann]({ site.baseurl }}members/john-mann.html)
-* [Grahame M. Morris]({ site.baseurl }}members/grahame-m-morris.html)
-* [Heather Wheeler]({ site.baseurl }}members/heather-wheeler.html)
+* [Jon Cruddas]({{ site.baseurl }}/members/jon-cruddas.html)
+* [John Healey]({{ site.baseurl }}/members/john-healey.html)
+* [John Mann]({{ site.baseurl }}/members/john-mann.html)
+* [Grahame M. Morris]({{ site.baseurl }}/members/grahame-m-morris.html)
+* [Heather Wheeler]({{ site.baseurl }}/members/heather-wheeler.html)

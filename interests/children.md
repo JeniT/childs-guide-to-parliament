@@ -14,13 +14,13 @@ title: "Children"
 ### Who is interested in Children?
 
 
-* [Ms Karen Buck]({ site.baseurl }}members/ms-karen-buck.html)
-* [Jenny Chapman]({ site.baseurl }}members/jenny-chapman.html)
-* [Ann Coffey]({ site.baseurl }}members/ann-coffey.html)
-* [Helen Goodman]({ site.baseurl }}members/helen-goodman.html)
-* [Cathy Jamieson]({ site.baseurl }}members/cathy-jamieson.html)
-* [Catherine McKinnell]({ site.baseurl }}members/catherine-mckinnell.html)
-* [Jessica Morden]({ site.baseurl }}members/jessica-morden.html)
-* [Lisa Nandy]({ site.baseurl }}members/lisa-nandy.html)
-* [Nick Smith]({ site.baseurl }}members/nick-smith.html)
-* [Craig Whittaker]({ site.baseurl }}members/craig-whittaker.html)
+* [Ms Karen Buck]({{ site.baseurl }}/members/ms-karen-buck.html)
+* [Jenny Chapman]({{ site.baseurl }}/members/jenny-chapman.html)
+* [Ann Coffey]({{ site.baseurl }}/members/ann-coffey.html)
+* [Helen Goodman]({{ site.baseurl }}/members/helen-goodman.html)
+* [Cathy Jamieson]({{ site.baseurl }}/members/cathy-jamieson.html)
+* [Catherine McKinnell]({{ site.baseurl }}/members/catherine-mckinnell.html)
+* [Jessica Morden]({{ site.baseurl }}/members/jessica-morden.html)
+* [Lisa Nandy]({{ site.baseurl }}/members/lisa-nandy.html)
+* [Nick Smith]({{ site.baseurl }}/members/nick-smith.html)
+* [Craig Whittaker]({{ site.baseurl }}/members/craig-whittaker.html)

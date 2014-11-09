@@ -14,4 +14,4 @@ title: "Health Care (Particularly Cancer Treatment And Respiratory Diseases)"
 ### Who is interested in Health Care (Particularly Cancer Treatment And Respiratory Diseases)?
 
 
-* [Stephen McPartland]({ site.baseurl }}members/stephen-mcpartland.html)
+* [Stephen McPartland]({{ site.baseurl }}/members/stephen-mcpartland.html)

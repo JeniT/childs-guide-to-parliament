@@ -14,4 +14,4 @@ title: "Succession"
 ### Who is interested in Succession?
 
 
-* [Keith Vaz]({ site.baseurl }}members/keith-vaz.html)
+* [Keith Vaz]({{ site.baseurl }}/members/keith-vaz.html)

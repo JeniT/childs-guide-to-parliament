@@ -14,4 +14,4 @@ title: "Advance Manufacturing And Technology"
 ### Who is interested in Advance Manufacturing And Technology?
 
 
-* [Mr Ben Wallace]({ site.baseurl }}members/mr-ben-wallace.html)
+* [Mr Ben Wallace]({{ site.baseurl }}/members/mr-ben-wallace.html)

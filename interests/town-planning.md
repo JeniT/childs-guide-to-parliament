@@ -14,4 +14,4 @@ title: "Town Planning"
 ### Who is interested in Town Planning?
 
 
-* [Peter Aldous]({ site.baseurl }}members/peter-aldous.html)
+* [Peter Aldous]({{ site.baseurl }}/members/peter-aldous.html)

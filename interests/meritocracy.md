@@ -14,4 +14,4 @@ title: "Meritocracy"
 ### Who is interested in Meritocracy?
 
 
-* [Mr Dominic Raab]({ site.baseurl }}members/mr-dominic-raab.html)
+* [Mr Dominic Raab]({{ site.baseurl }}/members/mr-dominic-raab.html)

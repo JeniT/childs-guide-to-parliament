@@ -14,4 +14,4 @@ title: "International Development (Especially Education Issues)"
 ### Who is interested in International Development (Especially Education Issues)?
 
 
-* [Eric Joyce]({ site.baseurl }}members/eric-joyce.html)
+* [Eric Joyce]({{ site.baseurl }}/members/eric-joyce.html)

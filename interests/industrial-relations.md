@@ -14,7 +14,7 @@ title: "Industrial Relations"
 ### Who is interested in Industrial Relations?
 
 
-* [Mr David Crausby]({ site.baseurl }}members/mr-david-crausby.html)
-* [Mr Jim Cunningham]({ site.baseurl }}members/mr-jim-cunningham.html)
-* [Sir Oliver Heald]({ site.baseurl }}members/sir-oliver-heald.html)
-* [John Healey]({ site.baseurl }}members/john-healey.html)
+* [Mr David Crausby]({{ site.baseurl }}/members/mr-david-crausby.html)
+* [Mr Jim Cunningham]({{ site.baseurl }}/members/mr-jim-cunningham.html)
+* [Sir Oliver Heald]({{ site.baseurl }}/members/sir-oliver-heald.html)
+* [John Healey]({{ site.baseurl }}/members/john-healey.html)

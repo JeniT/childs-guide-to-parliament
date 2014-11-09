@@ -14,4 +14,4 @@ title: "Aviation And Airports"
 ### Who is interested in Aviation And Airports?
 
 
-* [Graham Stringer]({ site.baseurl }}members/graham-stringer.html)
+* [Graham Stringer]({{ site.baseurl }}/members/graham-stringer.html)

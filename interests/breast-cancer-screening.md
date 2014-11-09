@@ -14,4 +14,4 @@ title: "Breast Cancer Screening"
 ### Who is interested in Breast Cancer Screening?
 
 
-* [Mike Freer]({ site.baseurl }}members/mike-freer.html)
+* [Mike Freer]({{ site.baseurl }}/members/mike-freer.html)

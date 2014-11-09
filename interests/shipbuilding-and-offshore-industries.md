@@ -14,4 +14,4 @@ title: "Shipbuilding And Offshore Industries"
 ### Who is interested in Shipbuilding And Offshore Industries?
 
 
-* [Mr Alan Campbell]({ site.baseurl }}members/mr-alan-campbell.html)
+* [Mr Alan Campbell]({{ site.baseurl }}/members/mr-alan-campbell.html)

@@ -14,4 +14,4 @@ title: "Evidence-Based Policy"
 ### Who is interested in Evidence-Based Policy?
 
 
-* [Dr Julian Huppert]({ site.baseurl }}members/dr-julian-huppert.html)
+* [Dr Julian Huppert]({{ site.baseurl }}/members/dr-julian-huppert.html)

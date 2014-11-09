@@ -14,4 +14,4 @@ title: "British Film"
 ### Who is interested in British Film?
 
 
-* [Kevin Barron]({ site.baseurl }}members/kevin-barron.html)
+* [Kevin Barron]({{ site.baseurl }}/members/kevin-barron.html)

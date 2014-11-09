@@ -14,4 +14,4 @@ title: "Politics Of Sport"
 ### Who is interested in Politics Of Sport?
 
 
-* [Ms Angela Eagle]({ site.baseurl }}members/ms-angela-eagle.html)
+* [Ms Angela Eagle]({{ site.baseurl }}/members/ms-angela-eagle.html)

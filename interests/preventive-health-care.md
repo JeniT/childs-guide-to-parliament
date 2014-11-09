@@ -14,4 +14,4 @@ title: "Preventive Health Care"
 ### Who is interested in Preventive Health Care?
 
 
-* [Stephen Williams]({ site.baseurl }}members/stephen-williams.html)
+* [Stephen Williams]({{ site.baseurl }}/members/stephen-williams.html)

@@ -14,8 +14,8 @@ title: "Children'S Issues"
 ### Who is interested in Children'S Issues?
 
 
-* [Mary Creagh]({ site.baseurl }}members/mary-creagh.html)
-* [Geraint Davies]({ site.baseurl }}members/geraint-davies.html)
-* [Mrs Siân C. James]({ site.baseurl }}members/mrs-sian-c-james.html)
-* [Tim Loughton]({ site.baseurl }}members/tim-loughton.html)
-* [Jenny Willott]({ site.baseurl }}members/jenny-willott.html)
+* [Mary Creagh]({{ site.baseurl }}/members/mary-creagh.html)
+* [Geraint Davies]({{ site.baseurl }}/members/geraint-davies.html)
+* [Mrs Siân C. James]({{ site.baseurl }}/members/mrs-sian-c-james.html)
+* [Tim Loughton]({{ site.baseurl }}/members/tim-loughton.html)
+* [Jenny Willott]({{ site.baseurl }}/members/jenny-willott.html)

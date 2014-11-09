@@ -14,4 +14,4 @@ title: "Pensions And Welfare"
 ### Who is interested in Pensions And Welfare?
 
 
-* [Margaret Curran]({ site.baseurl }}members/margaret-curran.html)
+* [Margaret Curran]({{ site.baseurl }}/members/margaret-curran.html)

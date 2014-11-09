@@ -14,4 +14,4 @@ title: "Mutuals"
 ### Who is interested in Mutuals?
 
 
-* [Mr Gareth Thomas]({ site.baseurl }}members/mr-gareth-thomas.html)
+* [Mr Gareth Thomas]({{ site.baseurl }}/members/mr-gareth-thomas.html)

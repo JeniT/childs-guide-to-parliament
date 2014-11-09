@@ -14,4 +14,4 @@ title: "Gm Crops)"
 ### Who is interested in Gm Crops)?
 
 
-* [Eric Joyce]({ site.baseurl }}members/eric-joyce.html)
+* [Eric Joyce]({{ site.baseurl }}/members/eric-joyce.html)

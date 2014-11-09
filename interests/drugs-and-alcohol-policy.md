@@ -14,4 +14,4 @@ title: "Drugs And Alcohol Policy"
 ### Who is interested in Drugs And Alcohol Policy?
 
 
-* [Mr David Burrowes]({ site.baseurl }}members/mr-david-burrowes.html)
+* [Mr David Burrowes]({{ site.baseurl }}/members/mr-david-burrowes.html)

@@ -14,8 +14,8 @@ title: "Third World"
 ### Who is interested in Third World?
 
 
-* [Alistair Burt]({ site.baseurl }}members/alistair-burt.html)
-* [Sir Tony Cunningham]({ site.baseurl }}members/sir-tony-cunningham.html)
-* [Mr Dennis Skinner]({ site.baseurl }}members/mr-dennis-skinner.html)
-* [Sir Andrew Stunell]({ site.baseurl }}members/sir-andrew-stunell.html)
-* [Steve Webb]({ site.baseurl }}members/steve-webb.html)
+* [Alistair Burt]({{ site.baseurl }}/members/alistair-burt.html)
+* [Sir Tony Cunningham]({{ site.baseurl }}/members/sir-tony-cunningham.html)
+* [Mr Dennis Skinner]({{ site.baseurl }}/members/mr-dennis-skinner.html)
+* [Sir Andrew Stunell]({{ site.baseurl }}/members/sir-andrew-stunell.html)
+* [Steve Webb]({{ site.baseurl }}/members/steve-webb.html)

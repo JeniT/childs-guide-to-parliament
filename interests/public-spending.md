@@ -14,4 +14,4 @@ title: "Public Spending"
 ### Who is interested in Public Spending?
 
 
-* [Ian Swales]({ site.baseurl }}members/ian-swales.html)
+* [Ian Swales]({{ site.baseurl }}/members/ian-swales.html)

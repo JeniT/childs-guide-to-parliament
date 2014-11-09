@@ -14,5 +14,5 @@ title: "Engineering"
 ### Who is interested in Engineering?
 
 
-* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
-* [Sir Peter Luff]({ site.baseurl }}members/sir-peter-luff.html)
+* [Michael Fabricant]({{ site.baseurl }}/members/michael-fabricant.html)
+* [Sir Peter Luff]({{ site.baseurl }}/members/sir-peter-luff.html)

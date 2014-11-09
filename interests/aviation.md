@@ -14,7 +14,7 @@ title: "Aviation"
 ### Who is interested in Aviation?
 
 
-* [Sir Alan Haselhurst]({ site.baseurl }}members/sir-alan-haselhurst.html)
-* [Sir Gerald Howarth]({ site.baseurl }}members/sir-gerald-howarth.html)
-* [John McDonnell]({ site.baseurl }}members/john-mcdonnell.html)
-* [Sir Nicholas Soames]({ site.baseurl }}members/sir-nicholas-soames.html)
+* [Sir Alan Haselhurst]({{ site.baseurl }}/members/sir-alan-haselhurst.html)
+* [Sir Gerald Howarth]({{ site.baseurl }}/members/sir-gerald-howarth.html)
+* [John McDonnell]({{ site.baseurl }}/members/john-mcdonnell.html)
+* [Sir Nicholas Soames]({{ site.baseurl }}/members/sir-nicholas-soames.html)

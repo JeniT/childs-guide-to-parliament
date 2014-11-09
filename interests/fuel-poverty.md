@@ -14,4 +14,4 @@ title: "Fuel Poverty"
 ### Who is interested in Fuel Poverty?
 
 
-* [Guy Opperman]({ site.baseurl }}members/guy-opperman.html)
+* [Guy Opperman]({{ site.baseurl }}/members/guy-opperman.html)

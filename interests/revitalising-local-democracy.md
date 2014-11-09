@@ -14,4 +14,4 @@ title: "Revitalising Local Democracy"
 ### Who is interested in Revitalising Local Democracy?
 
 
-* [Graham Stringer]({ site.baseurl }}members/graham-stringer.html)
+* [Graham Stringer]({{ site.baseurl }}/members/graham-stringer.html)

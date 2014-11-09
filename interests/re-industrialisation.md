@@ -14,4 +14,4 @@ title: "Re-Industrialisation"
 ### Who is interested in Re-Industrialisation?
 
 
-* [Tristram Hunt]({ site.baseurl }}members/tristram-hunt.html)
+* [Tristram Hunt]({{ site.baseurl }}/members/tristram-hunt.html)

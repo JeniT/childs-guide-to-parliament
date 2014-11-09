@@ -14,4 +14,4 @@ title: "Prison Health"
 ### Who is interested in Prison Health?
 
 
-* [Fabian Hamilton]({ site.baseurl }}members/fabian-hamilton.html)
+* [Fabian Hamilton]({{ site.baseurl }}/members/fabian-hamilton.html)

@@ -14,4 +14,4 @@ title: "Body Image"
 ### Who is interested in Body Image?
 
 
-* [Jo Swinson]({ site.baseurl }}members/jo-swinson.html)
+* [Jo Swinson]({{ site.baseurl }}/members/jo-swinson.html)

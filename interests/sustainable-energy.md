@@ -14,4 +14,4 @@ title: "Sustainable Energy"
 ### Who is interested in Sustainable Energy?
 
 
-* [Sarah Newton]({ site.baseurl }}members/sarah-newton.html)
+* [Sarah Newton]({{ site.baseurl }}/members/sarah-newton.html)

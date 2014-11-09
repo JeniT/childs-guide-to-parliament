@@ -14,4 +14,4 @@ title: "Energy And The Environment"
 ### Who is interested in Energy And The Environment?
 
 
-* [Huw Irranca-Davies]({ site.baseurl }}members/huw-irranca-davies.html)
+* [Huw Irranca-Davies]({{ site.baseurl }}/members/huw-irranca-davies.html)

@@ -14,4 +14,4 @@ title: "Supporting Democracy"
 ### Who is interested in Supporting Democracy?
 
 
-* [Nick Smith]({ site.baseurl }}members/nick-smith.html)
+* [Nick Smith]({{ site.baseurl }}/members/nick-smith.html)

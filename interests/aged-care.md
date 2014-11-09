@@ -14,4 +14,4 @@ title: "Aged Care"
 ### Who is interested in Aged Care?
 
 
-* [Craig Whittaker]({ site.baseurl }}members/craig-whittaker.html)
+* [Craig Whittaker]({{ site.baseurl }}/members/craig-whittaker.html)

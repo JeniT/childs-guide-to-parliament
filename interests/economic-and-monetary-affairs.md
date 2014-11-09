@@ -14,4 +14,4 @@ title: "Economic And Monetary Affairs"
 ### Who is interested in Economic And Monetary Affairs?
 
 
-* [Jonathan Evans]({ site.baseurl }}members/jonathan-evans.html)
+* [Jonathan Evans]({{ site.baseurl }}/members/jonathan-evans.html)

@@ -14,4 +14,4 @@ title: "Community And Youth Engagement"
 ### Who is interested in Community And Youth Engagement?
 
 
-* [Mr Chuka Umunna]({ site.baseurl }}members/mr-chuka-umunna.html)
+* [Mr Chuka Umunna]({{ site.baseurl }}/members/mr-chuka-umunna.html)

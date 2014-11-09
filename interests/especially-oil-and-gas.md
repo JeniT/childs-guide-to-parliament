@@ -14,4 +14,4 @@ title: "(Especially Oil And Gas"
 ### Who is interested in (Especially Oil And Gas?
 
 
-* [Eric Joyce]({ site.baseurl }}members/eric-joyce.html)
+* [Eric Joyce]({{ site.baseurl }}/members/eric-joyce.html)

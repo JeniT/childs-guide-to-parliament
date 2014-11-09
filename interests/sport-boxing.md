@@ -14,4 +14,4 @@ title: "Sport - Boxing"
 ### Who is interested in Sport - Boxing?
 
 
-* [Charlotte Leslie]({ site.baseurl }}members/charlotte-leslie.html)
+* [Charlotte Leslie]({{ site.baseurl }}/members/charlotte-leslie.html)

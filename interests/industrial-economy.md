@@ -14,4 +14,4 @@ title: "Industrial Economy"
 ### Who is interested in Industrial Economy?
 
 
-* [Jon Cruddas]({ site.baseurl }}members/jon-cruddas.html)
+* [Jon Cruddas]({{ site.baseurl }}/members/jon-cruddas.html)

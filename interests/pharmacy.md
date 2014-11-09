@@ -14,4 +14,4 @@ title: "Pharmacy"
 ### Who is interested in Pharmacy?
 
 
-* [Oliver Colvile]({ site.baseurl }}members/oliver-colvile.html)
+* [Oliver Colvile]({{ site.baseurl }}/members/oliver-colvile.html)

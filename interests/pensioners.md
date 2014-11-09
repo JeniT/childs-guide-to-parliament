@@ -14,4 +14,4 @@ title: "Pensioners"
 ### Who is interested in Pensioners?
 
 
-* [Bob Stewart]({ site.baseurl }}members/bob-stewart.html)
+* [Bob Stewart]({{ site.baseurl }}/members/bob-stewart.html)

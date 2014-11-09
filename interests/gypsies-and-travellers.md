@@ -14,4 +14,4 @@ title: "Gypsies And Travellers"
 ### Who is interested in Gypsies And Travellers?
 
 
-* [Andrew George]({ site.baseurl }}members/andrew-george.html)
+* [Andrew George]({{ site.baseurl }}/members/andrew-george.html)

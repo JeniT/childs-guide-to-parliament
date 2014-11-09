@@ -14,4 +14,4 @@ title: "Justice And Equality"
 ### Who is interested in Justice And Equality?
 
 
-* [Pete Wishart]({ site.baseurl }}members/pete-wishart.html)
+* [Pete Wishart]({{ site.baseurl }}/members/pete-wishart.html)

@@ -14,4 +14,4 @@ title: "Water And Sanitation"
 ### Who is interested in Water And Sanitation?
 
 
-* [Sir William Cash]({ site.baseurl }}members/sir-william-cash.html)
+* [Sir William Cash]({{ site.baseurl }}/members/sir-william-cash.html)

@@ -14,4 +14,4 @@ title: "Globalisation"
 ### Who is interested in Globalisation?
 
 
-* [Mr Nick Clegg]({ site.baseurl }}members/mr-nick-clegg.html)
+* [Mr Nick Clegg]({{ site.baseurl }}/members/mr-nick-clegg.html)

@@ -14,4 +14,4 @@ title: "Defence (Particularly Supporting Service Families)"
 ### Who is interested in Defence (Particularly Supporting Service Families)?
 
 
-* [Caroline Dinenage]({ site.baseurl }}members/caroline-dinenage.html)
+* [Caroline Dinenage]({{ site.baseurl }}/members/caroline-dinenage.html)

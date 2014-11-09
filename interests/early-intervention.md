@@ -14,4 +14,4 @@ title: "Early Intervention"
 ### Who is interested in Early Intervention?
 
 
-* [Mr Graham Allen]({ site.baseurl }}members/mr-graham-allen.html)
+* [Mr Graham Allen]({{ site.baseurl }}/members/mr-graham-allen.html)

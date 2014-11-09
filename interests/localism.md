@@ -14,5 +14,5 @@ title: "Localism"
 ### Who is interested in Localism?
 
 
-* [George Freeman]({ site.baseurl }}members/george-freeman.html)
-* [James Morris]({ site.baseurl }}members/james-morris.html)
+* [George Freeman]({{ site.baseurl }}/members/george-freeman.html)
+* [James Morris]({{ site.baseurl }}/members/james-morris.html)

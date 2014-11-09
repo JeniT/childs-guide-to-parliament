@@ -14,4 +14,4 @@ title: "Gas Industry"
 ### Who is interested in Gas Industry?
 
 
-* [Sir Malcolm Bruce]({ site.baseurl }}members/sir-malcolm-bruce.html)
+* [Sir Malcolm Bruce]({{ site.baseurl }}/members/sir-malcolm-bruce.html)

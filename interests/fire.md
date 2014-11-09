@@ -14,4 +14,4 @@ title: "Fire"
 ### Who is interested in Fire?
 
 
-* [Jim Fitzpatrick]({ site.baseurl }}members/jim-fitzpatrick.html)
+* [Jim Fitzpatrick]({{ site.baseurl }}/members/jim-fitzpatrick.html)

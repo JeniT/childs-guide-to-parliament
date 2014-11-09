@@ -14,4 +14,4 @@ title: "Debt Reduction"
 ### Who is interested in Debt Reduction?
 
 
-* [Gavin Shuker]({ site.baseurl }}members/gavin-shuker.html)
+* [Gavin Shuker]({{ site.baseurl }}/members/gavin-shuker.html)

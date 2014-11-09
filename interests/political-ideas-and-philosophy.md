@@ -14,4 +14,4 @@ title: "Political Ideas And Philosophy"
 ### Who is interested in Political Ideas And Philosophy?
 
 
-* [Mr John Hayes]({ site.baseurl }}members/mr-john-hayes.html)
+* [Mr John Hayes]({{ site.baseurl }}/members/mr-john-hayes.html)

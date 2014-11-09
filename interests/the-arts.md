@@ -14,4 +14,4 @@ title: "The Arts"
 ### Who is interested in The Arts?
 
 
-* [Penny Mordaunt]({ site.baseurl }}members/penny-mordaunt.html)
+* [Penny Mordaunt]({{ site.baseurl }}/members/penny-mordaunt.html)

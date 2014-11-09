@@ -14,4 +14,4 @@ title: "Public Service Reform"
 ### Who is interested in Public Service Reform?
 
 
-* [Mr David Laws]({ site.baseurl }}members/mr-david-laws.html)
+* [Mr David Laws]({{ site.baseurl }}/members/mr-david-laws.html)

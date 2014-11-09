@@ -14,4 +14,4 @@ title: "Quality Of Life And Wellbeing"
 ### Who is interested in Quality Of Life And Wellbeing?
 
 
-* [Jo Swinson]({ site.baseurl }}members/jo-swinson.html)
+* [Jo Swinson]({{ site.baseurl }}/members/jo-swinson.html)

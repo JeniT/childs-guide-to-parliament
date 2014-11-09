@@ -14,4 +14,4 @@ title: "Town Centre"
 ### Who is interested in Town Centre?
 
 
-* [Mr Marcus Jones]({ site.baseurl }}members/mr-marcus-jones.html)
+* [Mr Marcus Jones]({{ site.baseurl }}/members/mr-marcus-jones.html)

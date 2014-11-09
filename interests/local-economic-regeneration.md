@@ -14,4 +14,4 @@ title: "Local Economic Regeneration"
 ### Who is interested in Local Economic Regeneration?
 
 
-* [Mr Jamie Reed]({ site.baseurl }}members/mr-jamie-reed.html)
+* [Mr Jamie Reed]({{ site.baseurl }}/members/mr-jamie-reed.html)

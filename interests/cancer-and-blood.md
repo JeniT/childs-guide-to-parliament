@@ -14,4 +14,4 @@ title: "Cancer And Blood"
 ### Who is interested in Cancer And Blood?
 
 
-* [Mr Dai Havard]({ site.baseurl }}members/mr-dai-havard.html)
+* [Mr Dai Havard]({{ site.baseurl }}/members/mr-dai-havard.html)

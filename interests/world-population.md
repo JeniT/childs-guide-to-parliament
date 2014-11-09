@@ -14,4 +14,4 @@ title: "World Population"
 ### Who is interested in World Population?
 
 
-* [Sir Richard Ottaway]({ site.baseurl }}members/sir-richard-ottaway.html)
+* [Sir Richard Ottaway]({{ site.baseurl }}/members/sir-richard-ottaway.html)

@@ -14,4 +14,4 @@ title: "Skills"
 ### Who is interested in Skills?
 
 
-* [Emma Reynolds]({ site.baseurl }}members/emma-reynolds.html)
+* [Emma Reynolds]({{ site.baseurl }}/members/emma-reynolds.html)

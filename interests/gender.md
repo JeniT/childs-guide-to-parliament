@@ -14,4 +14,4 @@ title: "Gender"
 ### Who is interested in Gender?
 
 
-* [Caroline Lucas]({ site.baseurl }}members/caroline-lucas.html)
+* [Caroline Lucas]({{ site.baseurl }}/members/caroline-lucas.html)

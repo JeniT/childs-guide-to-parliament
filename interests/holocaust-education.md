@@ -14,4 +14,4 @@ title: "Holocaust Education"
 ### Who is interested in Holocaust Education?
 
 
-* [Fabian Hamilton]({ site.baseurl }}members/fabian-hamilton.html)
+* [Fabian Hamilton]({{ site.baseurl }}/members/fabian-hamilton.html)

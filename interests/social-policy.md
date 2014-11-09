@@ -14,12 +14,12 @@ title: "Social Policy"
 ### Who is interested in Social Policy?
 
 
-* [Mr Liam Byrne]({ site.baseurl }}members/mr-liam-byrne.html)
-* [Mary Creagh]({ site.baseurl }}members/mary-creagh.html)
-* [Mr Nigel Dodds]({ site.baseurl }}members/mr-nigel-dodds.html)
-* [Mr Iain Duncan Smith]({ site.baseurl }}members/mr-iain-duncan-smith.html)
-* [John Howell]({ site.baseurl }}members/john-howell.html)
-* [Mr Charles Kennedy]({ site.baseurl }}members/mr-charles-kennedy.html)
-* [Paul Maynard]({ site.baseurl }}members/paul-maynard.html)
-* [Mr Nick Raynsford]({ site.baseurl }}members/mr-nick-raynsford.html)
-* [Dr Eilidh Whiteford]({ site.baseurl }}members/dr-eilidh-whiteford.html)
+* [Mr Liam Byrne]({{ site.baseurl }}/members/mr-liam-byrne.html)
+* [Mary Creagh]({{ site.baseurl }}/members/mary-creagh.html)
+* [Mr Nigel Dodds]({{ site.baseurl }}/members/mr-nigel-dodds.html)
+* [Mr Iain Duncan Smith]({{ site.baseurl }}/members/mr-iain-duncan-smith.html)
+* [John Howell]({{ site.baseurl }}/members/john-howell.html)
+* [Mr Charles Kennedy]({{ site.baseurl }}/members/mr-charles-kennedy.html)
+* [Paul Maynard]({{ site.baseurl }}/members/paul-maynard.html)
+* [Mr Nick Raynsford]({{ site.baseurl }}/members/mr-nick-raynsford.html)
+* [Dr Eilidh Whiteford]({{ site.baseurl }}/members/dr-eilidh-whiteford.html)

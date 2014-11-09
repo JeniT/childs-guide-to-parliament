@@ -14,4 +14,4 @@ title: "Railways"
 ### Who is interested in Railways?
 
 
-* [Nicky Morgan]({ site.baseurl }}members/nicky-morgan.html)
+* [Nicky Morgan]({{ site.baseurl }}/members/nicky-morgan.html)

@@ -14,4 +14,4 @@ title: "Legal Reform"
 ### Who is interested in Legal Reform?
 
 
-* [Austin Mitchell]({ site.baseurl }}members/austin-mitchell.html)
+* [Austin Mitchell]({{ site.baseurl }}/members/austin-mitchell.html)

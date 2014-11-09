@@ -14,4 +14,4 @@ title: "Looked After Children And Care Leavers"
 ### Who is interested in Looked After Children And Care Leavers?
 
 
-* [Mr Edward Timpson]({ site.baseurl }}members/mr-edward-timpson.html)
+* [Mr Edward Timpson]({{ site.baseurl }}/members/mr-edward-timpson.html)

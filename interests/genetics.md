@@ -14,4 +14,4 @@ title: "Genetics"
 ### Who is interested in Genetics?
 
 
-* [Dame  Anne Begg]({ site.baseurl }}members/dame-anne-begg.html)
+* [Dame  Anne Begg]({{ site.baseurl }}/members/dame-anne-begg.html)

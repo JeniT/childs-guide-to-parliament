@@ -14,4 +14,4 @@ title: "Irish Affairs"
 ### Who is interested in Irish Affairs?
 
 
-* [John McDonnell]({ site.baseurl }}members/john-mcdonnell.html)
+* [John McDonnell]({{ site.baseurl }}/members/john-mcdonnell.html)

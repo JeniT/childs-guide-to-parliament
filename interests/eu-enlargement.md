@@ -14,4 +14,4 @@ title: "Eu Enlargement"
 ### Who is interested in Eu Enlargement?
 
 
-* [Neil Parish]({ site.baseurl }}members/neil-parish.html)
+* [Neil Parish]({{ site.baseurl }}/members/neil-parish.html)

@@ -14,4 +14,4 @@ title: "Coastal Erosion"
 ### Who is interested in Coastal Erosion?
 
 
-* [Brandon Lewis]({ site.baseurl }}members/brandon-lewis.html)
+* [Brandon Lewis]({{ site.baseurl }}/members/brandon-lewis.html)

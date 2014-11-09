@@ -14,4 +14,4 @@ title: "Children'S Service"
 ### Who is interested in Children'S Service?
 
 
-* [Bill Esterson]({ site.baseurl }}members/bill-esterson.html)
+* [Bill Esterson]({{ site.baseurl }}/members/bill-esterson.html)

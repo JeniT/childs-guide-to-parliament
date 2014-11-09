@@ -14,4 +14,4 @@ title: "Local Government Funding"
 ### Who is interested in Local Government Funding?
 
 
-* [Mike Freer]({ site.baseurl }}members/mike-freer.html)
+* [Mike Freer]({{ site.baseurl }}/members/mike-freer.html)

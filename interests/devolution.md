@@ -14,8 +14,8 @@ title: "Devolution"
 ### Who is interested in Devolution?
 
 
-* [Guto Bebb]({ site.baseurl }}members/guto-bebb.html)
-* [Paul Flynn]({ site.baseurl }}members/paul-flynn.html)
-* [Andrew George]({ site.baseurl }}members/andrew-george.html)
-* [Huw Irranca-Davies]({ site.baseurl }}members/huw-irranca-davies.html)
-* [Mrs Eleanor Laing]({ site.baseurl }}members/mrs-eleanor-laing.html)
+* [Guto Bebb]({{ site.baseurl }}/members/guto-bebb.html)
+* [Paul Flynn]({{ site.baseurl }}/members/paul-flynn.html)
+* [Andrew George]({{ site.baseurl }}/members/andrew-george.html)
+* [Huw Irranca-Davies]({{ site.baseurl }}/members/huw-irranca-davies.html)
+* [Mrs Eleanor Laing]({{ site.baseurl }}/members/mrs-eleanor-laing.html)

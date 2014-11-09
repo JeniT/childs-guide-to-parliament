@@ -14,4 +14,4 @@ title: "Exports"
 ### Who is interested in Exports?
 
 
-* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
+* [Michael Fabricant]({{ site.baseurl }}/members/michael-fabricant.html)

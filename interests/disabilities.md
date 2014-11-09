@@ -14,4 +14,4 @@ title: "Disabilities"
 ### Who is interested in Disabilities?
 
 
-* [Sheila Gilmore]({ site.baseurl }}members/sheila-gilmore.html)
+* [Sheila Gilmore]({{ site.baseurl }}/members/sheila-gilmore.html)

@@ -14,4 +14,4 @@ title: "Civil Service"
 ### Who is interested in Civil Service?
 
 
-* [Mr Tom Clarke]({ site.baseurl }}members/mr-tom-clarke.html)
+* [Mr Tom Clarke]({{ site.baseurl }}/members/mr-tom-clarke.html)

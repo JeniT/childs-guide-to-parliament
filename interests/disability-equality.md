@@ -14,4 +14,4 @@ title: "Disability Equality"
 ### Who is interested in Disability Equality?
 
 
-* [Rosie Cooper]({ site.baseurl }}members/rosie-cooper.html)
+* [Rosie Cooper]({{ site.baseurl }}/members/rosie-cooper.html)

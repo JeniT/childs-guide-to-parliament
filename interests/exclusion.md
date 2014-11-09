@@ -14,4 +14,4 @@ title: "Exclusion"
 ### Who is interested in Exclusion?
 
 
-* [Kate Green]({ site.baseurl }}members/kate-green.html)
+* [Kate Green]({{ site.baseurl }}/members/kate-green.html)

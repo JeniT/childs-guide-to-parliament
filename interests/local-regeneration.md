@@ -14,4 +14,4 @@ title: "Local Regeneration"
 ### Who is interested in Local Regeneration?
 
 
-* [Ian Lavery]({ site.baseurl }}members/ian-lavery.html)
+* [Ian Lavery]({{ site.baseurl }}/members/ian-lavery.html)

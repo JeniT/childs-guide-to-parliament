@@ -14,4 +14,4 @@ title: "Community Care"
 ### Who is interested in Community Care?
 
 
-* [Steve McCabe]({ site.baseurl }}members/steve-mccabe.html)
+* [Steve McCabe]({{ site.baseurl }}/members/steve-mccabe.html)

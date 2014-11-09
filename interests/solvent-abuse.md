@@ -14,4 +14,4 @@ title: "Solvent Abuse"
 ### Who is interested in Solvent Abuse?
 
 
-* [Mr David Hanson]({ site.baseurl }}members/mr-david-hanson.html)
+* [Mr David Hanson]({{ site.baseurl }}/members/mr-david-hanson.html)

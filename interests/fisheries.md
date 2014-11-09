@@ -14,4 +14,4 @@ title: "Fisheries"
 ### Who is interested in Fisheries?
 
 
-* [Mr Robert Goodwill]({ site.baseurl }}members/mr-robert-goodwill.html)
+* [Mr Robert Goodwill]({{ site.baseurl }}/members/mr-robert-goodwill.html)

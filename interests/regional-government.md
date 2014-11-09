@@ -14,4 +14,4 @@ title: "Regional Government"
 ### Who is interested in Regional Government?
 
 
-* [Richard Burden]({ site.baseurl }}members/richard-burden.html)
+* [Richard Burden]({{ site.baseurl }}/members/richard-burden.html)

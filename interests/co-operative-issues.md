@@ -14,5 +14,5 @@ title: "Co-Operative Issues"
 ### Who is interested in Co-Operative Issues?
 
 
-* [Mark Lazarowicz]({ site.baseurl }}members/mark-lazarowicz.html)
-* [Meg Munn]({ site.baseurl }}members/meg-munn.html)
+* [Mark Lazarowicz]({{ site.baseurl }}/members/mark-lazarowicz.html)
+* [Meg Munn]({{ site.baseurl }}/members/meg-munn.html)

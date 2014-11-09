@@ -14,4 +14,4 @@ title: "Scottish Independence"
 ### Who is interested in Scottish Independence?
 
 
-* [Angus Robertson]({ site.baseurl }}members/angus-robertson.html)
+* [Angus Robertson]({{ site.baseurl }}/members/angus-robertson.html)

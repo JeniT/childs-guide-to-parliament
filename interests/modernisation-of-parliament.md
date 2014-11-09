@@ -14,6 +14,6 @@ title: "Modernisation Of Parliament"
 ### Who is interested in Modernisation Of Parliament?
 
 
-* [Mr Ben Bradshaw]({ site.baseurl }}members/mr-ben-bradshaw.html)
-* [Mr Edward Davey]({ site.baseurl }}members/mr-edward-davey.html)
-* [Paul Flynn]({ site.baseurl }}members/paul-flynn.html)
+* [Mr Ben Bradshaw]({{ site.baseurl }}/members/mr-ben-bradshaw.html)
+* [Mr Edward Davey]({{ site.baseurl }}/members/mr-edward-davey.html)
+* [Paul Flynn]({{ site.baseurl }}/members/paul-flynn.html)

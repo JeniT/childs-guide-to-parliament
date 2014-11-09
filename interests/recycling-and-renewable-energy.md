@@ -14,4 +14,4 @@ title: "Recycling And Renewable Energy"
 ### Who is interested in Recycling And Renewable Energy?
 
 
-* [Andrew Jones]({ site.baseurl }}members/andrew-jones.html)
+* [Andrew Jones]({{ site.baseurl }}/members/andrew-jones.html)

@@ -14,5 +14,5 @@ title: "Economic Issues"
 ### Who is interested in Economic Issues?
 
 
-* [Mark Garnier]({ site.baseurl }}members/mark-garnier.html)
-* [Steve McCabe]({ site.baseurl }}members/steve-mccabe.html)
+* [Mark Garnier]({{ site.baseurl }}/members/mark-garnier.html)
+* [Steve McCabe]({{ site.baseurl }}/members/steve-mccabe.html)

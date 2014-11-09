@@ -14,4 +14,4 @@ title: "Disorder"
 ### Who is interested in Disorder?
 
 
-* [Mr George Howarth]({ site.baseurl }}members/mr-george-howarth.html)
+* [Mr George Howarth]({{ site.baseurl }}/members/mr-george-howarth.html)

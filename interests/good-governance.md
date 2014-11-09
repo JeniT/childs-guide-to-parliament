@@ -14,4 +14,4 @@ title: "Good Governance"
 ### Who is interested in Good Governance?
 
 
-* [Mr Bernard Jenkin]({ site.baseurl }}members/mr-bernard-jenkin.html)
+* [Mr Bernard Jenkin]({{ site.baseurl }}/members/mr-bernard-jenkin.html)

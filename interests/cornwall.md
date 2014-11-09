@@ -14,4 +14,4 @@ title: "Cornwall"
 ### Who is interested in Cornwall?
 
 
-* [Andrew George]({ site.baseurl }}members/andrew-george.html)
+* [Andrew George]({{ site.baseurl }}/members/andrew-george.html)

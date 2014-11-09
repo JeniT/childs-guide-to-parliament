@@ -14,4 +14,4 @@ title: "Micro-Finance"
 ### Who is interested in Micro-Finance?
 
 
-* [Harriett Baldwin]({ site.baseurl }}members/harriett-baldwin.html)
+* [Harriett Baldwin]({{ site.baseurl }}/members/harriett-baldwin.html)

@@ -14,4 +14,4 @@ title: "Drug Addiction"
 ### Who is interested in Drug Addiction?
 
 
-* [John Penrose]({ site.baseurl }}members/john-penrose.html)
+* [John Penrose]({{ site.baseurl }}/members/john-penrose.html)

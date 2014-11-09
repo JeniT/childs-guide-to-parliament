@@ -14,4 +14,4 @@ title: "Policing And Criminal Justice"
 ### Who is interested in Policing And Criminal Justice?
 
 
-* [Robert Neill]({ site.baseurl }}members/robert-neill.html)
+* [Robert Neill]({{ site.baseurl }}/members/robert-neill.html)

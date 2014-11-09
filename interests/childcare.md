@@ -14,6 +14,6 @@ title: "Childcare"
 ### Who is interested in Childcare?
 
 
-* [Sir Tony Baldry]({ site.baseurl }}members/sir-tony-baldry.html)
-* [Mr Frank Doran]({ site.baseurl }}members/mr-frank-doran.html)
-* [Caroline Flint]({ site.baseurl }}members/caroline-flint.html)
+* [Sir Tony Baldry]({{ site.baseurl }}/members/sir-tony-baldry.html)
+* [Mr Frank Doran]({{ site.baseurl }}/members/mr-frank-doran.html)
+* [Caroline Flint]({{ site.baseurl }}/members/caroline-flint.html)

@@ -14,4 +14,4 @@ title: "Elections And Campaigning"
 ### Who is interested in Elections And Campaigning?
 
 
-* [Mr John Hayes]({ site.baseurl }}members/mr-john-hayes.html)
+* [Mr John Hayes]({{ site.baseurl }}/members/mr-john-hayes.html)

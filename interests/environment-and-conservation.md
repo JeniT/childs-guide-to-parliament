@@ -14,4 +14,4 @@ title: "Environment And Conservation"
 ### Who is interested in Environment And Conservation?
 
 
-* [Angela Smith]({ site.baseurl }}members/angela-smith.html)
+* [Angela Smith]({{ site.baseurl }}/members/angela-smith.html)

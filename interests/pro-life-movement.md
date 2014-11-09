@@ -14,4 +14,4 @@ title: "Pro-Life Movement"
 ### Who is interested in Pro-Life Movement?
 
 
-* [Mr David Amess]({ site.baseurl }}members/mr-david-amess.html)
+* [Mr David Amess]({{ site.baseurl }}/members/mr-david-amess.html)

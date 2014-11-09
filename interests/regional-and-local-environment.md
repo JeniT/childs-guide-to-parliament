@@ -14,4 +14,4 @@ title: "Regional And Local Environment"
 ### Who is interested in Regional And Local Environment?
 
 
-* [Sir Alan Meale]({ site.baseurl }}members/sir-alan-meale.html)
+* [Sir Alan Meale]({{ site.baseurl }}/members/sir-alan-meale.html)

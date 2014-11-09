@@ -14,4 +14,4 @@ title: "Single Currency (Against)"
 ### Who is interested in Single Currency (Against)?
 
 
-* [Mike Penning]({ site.baseurl }}members/mike-penning.html)
+* [Mike Penning]({{ site.baseurl }}/members/mike-penning.html)

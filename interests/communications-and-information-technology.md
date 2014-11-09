@@ -14,4 +14,4 @@ title: "Communications And Information Technology"
 ### Who is interested in Communications And Information Technology?
 
 
-* [Andrew Miller]({ site.baseurl }}members/andrew-miller.html)
+* [Andrew Miller]({{ site.baseurl }}/members/andrew-miller.html)

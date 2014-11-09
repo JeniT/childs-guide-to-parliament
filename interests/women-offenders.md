@@ -14,4 +14,4 @@ title: "Women Offenders"
 ### Who is interested in Women Offenders?
 
 
-* [Seema Malhotra]({ site.baseurl }}members/seema-malhotra.html)
+* [Seema Malhotra]({{ site.baseurl }}/members/seema-malhotra.html)

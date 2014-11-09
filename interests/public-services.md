@@ -14,13 +14,13 @@ title: "Public Services"
 ### Who is interested in Public Services?
 
 
-* [Mr David Anderson]({ site.baseurl }}members/mr-david-anderson.html)
-* [Tom Blenkinsop]({ site.baseurl }}members/tom-blenkinsop.html)
-* [Neil Carmichael]({ site.baseurl }}members/neil-carmichael.html)
-* [Jane Ellison]({ site.baseurl }}members/jane-ellison.html)
-* [Mrs Louise Ellman]({ site.baseurl }}members/mrs-louise-ellman.html)
-* [Nick Herbert]({ site.baseurl }}members/nick-herbert.html)
-* [Sadiq Khan]({ site.baseurl }}members/sadiq-khan.html)
-* [Jesse Norman]({ site.baseurl }}members/jesse-norman.html)
-* [Emma Reynolds]({ site.baseurl }}members/emma-reynolds.html)
-* [Chloe Smith]({ site.baseurl }}members/chloe-smith.html)
+* [Mr David Anderson]({{ site.baseurl }}/members/mr-david-anderson.html)
+* [Tom Blenkinsop]({{ site.baseurl }}/members/tom-blenkinsop.html)
+* [Neil Carmichael]({{ site.baseurl }}/members/neil-carmichael.html)
+* [Jane Ellison]({{ site.baseurl }}/members/jane-ellison.html)
+* [Mrs Louise Ellman]({{ site.baseurl }}/members/mrs-louise-ellman.html)
+* [Nick Herbert]({{ site.baseurl }}/members/nick-herbert.html)
+* [Sadiq Khan]({{ site.baseurl }}/members/sadiq-khan.html)
+* [Jesse Norman]({{ site.baseurl }}/members/jesse-norman.html)
+* [Emma Reynolds]({{ site.baseurl }}/members/emma-reynolds.html)
+* [Chloe Smith]({{ site.baseurl }}/members/chloe-smith.html)

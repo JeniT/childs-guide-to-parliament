@@ -14,4 +14,4 @@ title: "Policing And Immigration"
 ### Who is interested in Policing And Immigration?
 
 
-* [Dan Jarvis]({ site.baseurl }}members/dan-jarvis.html)
+* [Dan Jarvis]({{ site.baseurl }}/members/dan-jarvis.html)

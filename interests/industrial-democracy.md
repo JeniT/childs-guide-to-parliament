@@ -14,4 +14,4 @@ title: "Industrial Democracy"
 ### Who is interested in Industrial Democracy?
 
 
-* [Mr Michael Meacher]({ site.baseurl }}members/mr-michael-meacher.html)
+* [Mr Michael Meacher]({{ site.baseurl }}/members/mr-michael-meacher.html)

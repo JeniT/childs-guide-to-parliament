@@ -14,4 +14,4 @@ title: "Planning Reforms"
 ### Who is interested in Planning Reforms?
 
 
-* [Natascha Engel]({ site.baseurl }}members/natascha-engel.html)
+* [Natascha Engel]({{ site.baseurl }}/members/natascha-engel.html)

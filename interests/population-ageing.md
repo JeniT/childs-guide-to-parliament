@@ -14,4 +14,4 @@ title: "Population Ageing"
 ### Who is interested in Population Ageing?
 
 
-* [Paul Burstow]({ site.baseurl }}members/paul-burstow.html)
+* [Paul Burstow]({{ site.baseurl }}/members/paul-burstow.html)

@@ -14,4 +14,4 @@ title: "Housing And Planning"
 ### Who is interested in Housing And Planning?
 
 
-* [Mr Philip Hammond]({ site.baseurl }}members/mr-philip-hammond.html)
+* [Mr Philip Hammond]({{ site.baseurl }}/members/mr-philip-hammond.html)

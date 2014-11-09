@@ -14,4 +14,4 @@ title: "Textiles"
 ### Who is interested in Textiles?
 
 
-* [Michael Moore]({ site.baseurl }}members/michael-moore.html)
+* [Michael Moore]({{ site.baseurl }}/members/michael-moore.html)
