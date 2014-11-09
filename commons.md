@@ -1,7 +1,7 @@
 ---
 layout: house
 title: The House of Commons
-house: Commons
+house: commons
 ---
 
 <iframe class="pull-right" width="560" height="315" src="//www.youtube.com/embed/dS_SLF92e5A" frameborder="0" allowfullscreen></iframe>
@@ -17,4 +17,3 @@ The House of Commons debate important issues, make and look over laws, represent
   >650 MPs were elected in 2010.
   >Of those, 507 were men and 143 were women.
   >That's only 22% of the Mps, but the highest proportion of Women ever elected as MPs!
-  
