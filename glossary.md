@@ -9,6 +9,8 @@ title: Glossary
 
 **Lord** - a member of the [House of Lords](lords.html). They are appointed rather than being elected by the people. Some judges and some Church of England Bishops are also members of the House of Lords.
 
+**The Queen** - the Head of State for the UK. She has a ceremonial role in Parliament but does not make any important decisions about what new laws are agreed.
+
 **The Speaker** - a special Member of Parliament. He manages the discussions in Parliament and makes sure the MP's behave themselves.
 
 **Minister** - an MP or Lord who also has a special job in Goverment, making important decisions about how the country is run.
