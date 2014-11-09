@@ -7,25 +7,25 @@ title: Glossary
 
 ## People
 
-### MP - a Member of Parliament. Someone elected by the people in a particular constituency to represent them in the [House of Commons](commons.html).
+MP - a Member of Parliament. Someone elected by the people in a particular constituency to represent them in the [House of Commons](commons.html).
 
-### Lord - a member of the [House of Lords](lords.html). They are appointed rather than being elected by the people. Some judges and some Church of England Bishops are also members of the House of Lords.
+Lord - a member of the [House of Lords](lords.html). They are appointed rather than being elected by the people. Some judges and some Church of England Bishops are also members of the House of Lords.
 
-### The Speaker - a special Member of Parliament. He manages the discussions in Parliament and makes sure the MP's behave themselves.
+The Speaker - a special Member of Parliament. He manages the discussions in Parliament and makes sure the MP's behave themselves.
 
-### Hon or Honourable - a title used by MPs to refer to each other. Instead of saying someone's name when in the House of Commons, an MP is referred to as "the Honourable Member for ..." then the name of their constituency.
+Hon or Honourable - a title used by MPs to refer to each other. Instead of saying someone's name when in the House of Commons, an MP is referred to as "the Honourable Member for ..." then the name of their constituency.
 
-### Rt Hon or Right Honourable - a special title for some MPs who have become an important Minister in the Government 
+Rt Hon or Right Honourable - a special title for some MPs who have become an important Minister in the Government 
 
 ## Places
 
-### Chamber
+Chamber
 
-### House
+House
 
-### Palace of Westminster
+Palace of Westminster
 
-### Constituency - [con-stit-you-en-see], the place where a local MP comes from
+Constituency - [con-stit-you-en-see], the place where a local MP comes from
 
 ## Voting
 
