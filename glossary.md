@@ -13,19 +13,23 @@ title: Glossary
 
 **The Speaker** - a special Member of Parliament. He manages the discussions in Parliament and makes sure the MP's behave themselves.
 
-**Hon** or **Honourable** - a title used by MPs to refer to each other. Instead of saying someone's name when in the House of Commons, an MP is referred to as "the Honourable Member for ..." then the name of their constituency.
+**Minister** - an MP or Lord who also has a special job in Goverment, making important decisions about how the country is run.
+
+**Prime Minister** - the leader of the country. This is usually the person in charge of the Party with the most MPs in the House of Commons.
+
+**Hon** or **Honourable** - a title used by MPs to refer to each other. Instead of saying someone's name when in the House of Commons, an MP is referred to as "*the Honourable Member for ...*" then the name of their constituency.
 
 **Rt Hon** or **Right Honourable** - a special title for some MPs who have become an important Minister in the Government 
 
 ## Places
 
-Chamber
+**Chamber** - the name for the special rooms used by MPs and Lords, when they are discussing new laws. The chamber for MPs is often called the *House of Commons* and the chamber for Lords is often called the *House of Lords*.
 
-House
+**House** - 
 
-Palace of Westminster
+**Palace of Westminster** - the building by the River Thames where Parliament is based. It has two towers, the Victoria Tower and the Clock Tower, which is usually called *Big Ben*. 
 
-**Constituency** - [con-stit-you-en-see], the place where a local MP comes from
+**Constituency** - [*con-stit-you-en-see*], the place where a local MP comes from
 
 ## Voting
 
