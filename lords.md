@@ -13,3 +13,4 @@ house: lords
   >54 of the 793 Lords are on Leave of absence (Taking a holiday from being a Lord). 8 of those have been disqualified because they are Judges, and 5 of them Hereditary (They inherited their seat from one of their parents.)
   Of the Lords still in their seats, 90 of them are Hereditary.
 
+{% include member-viz.html %}  
