@@ -133,7 +133,7 @@ $(document).ready(function () {
 		    	} else {
 		    		img = d.gender === 'male' ? 'lord' : 'baroness';
 		    	}
-		    	return "<img height='32px' src='assets/images/" + img + "/" + img + ".png'>"; 
+		    	return "<img class='img-circle " + d.party_slug + "-bg' height='32px' src='assets/images/" + img + "/" + img + ".png'>"; 
 		    });
 	});
 });
