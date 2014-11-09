@@ -11,6 +11,16 @@ var memberParty = function ( mp ) {
 	return "<span class='label " + mp.party_slug + "-bg'>" + mp.party_name + "</span>";
 };
 
+var memberIcon = function(d) { 
+	var img = '';
+	if (d.house_slug === 'commons') {
+		img = d.gender + '_mp';
+	} else {
+		img = d.gender === 'male' ? 'lord' : 'baroness';
+	}
+	return "<a href='members/" + d.slug + ".html' title='" + d.display_name + "'><img class='img-circle " + d.party_slug + "-bg' height='32px' src='assets/images/" + img + "/" + img + ".png'></a>"; 
+};
+
 var searchHouse = $('#hansardSearchHouse').val();
 
 $('#hansardSearchForm').submit(
@@ -118,24 +128,39 @@ $(document).ready(function () {
 
 	$.getJSON('data/members/all.json', function (data) {
 		var mpDatas = [];
+		var governmentDatas = [];
+		var oppositionDatas = [];
+		var crossbenchDatas = [];
+		var governmentParties = ['conservative', 'liberal-democrat'];
+		var oppositionParties = ['labour'];
+
 		$.each(data, function (key, val) {
 			if (val.house_slug === searchHouse) {
 				mpDatas.push(val);
+				if ($.inArray(val.party_slug, governmentParties) > -1) {
+					governmentDatas.push(val);
+				} else if (searchHouse === 'commons' || $.inArray(val.party_slug, oppositionParties) > -1) {
+					oppositionDatas.push(val);
+				} else {
+					crossbenchDatas.push(val);
+				}
 			}
 		});
 
-		d3.select("#memberViz").selectAll("div")
-		    .data(mpDatas)
+		d3.select("#governmentBench").selectAll("div")
+		    .data(governmentDatas)
 		  .enter().append("span")
-		    .html(function(d) { 
-		    	var img = '';
-		    	if (d.house_slug === 'commons') {
-		    		img = d.gender + '_mp';
-		    	} else {
-		    		img = d.gender === 'male' ? 'lord' : 'baroness';
-		    	}
-		    	return "<a href='members/" + d.slug + ".html' title='" + d.display_name + "'><img class='img-circle " + d.party_slug + "-bg' height='32px' src='assets/images/" + img + "/" + img + ".png'></a>"; 
-		    });
+		    .html(memberIcon);
+
+		d3.select("#crossBench").selectAll("div")
+		    .data(crossbenchDatas)
+		  .enter().append("span")
+		    .html(memberIcon);
+
+		d3.select("#oppositionBench").selectAll("div")
+		    .data(oppositionDatas)
+		  .enter().append("span")
+		    .html(memberIcon);
 	});
 });
 
