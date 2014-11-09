@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+
+# Gets the data from the source URL, and parses it into lots of useful JSON.
+
+import json
+from slugify import slugify
+
+# Where we store a copy of the file locally
+SOURCE_FILE = '../_source/boundaries.json'
+
+# The folders to put the resulting data files in
+BOUNDARY_DATA_FOLDER = '../data/boundaries'
+
+try:
+    with open(SOURCE_FILE) as data_file:
+        BOUNDARY_JSON = json.load(data_file)
+except:
+    print 'Oh no! Data from "' + SOURCE_FILE + '" cannot be parsed!'
+    exit(1)
+
+for constituency in BOUNDARY_JSON['features']:
+    constituency_slug = slugify(constituency['properties']['PCON13NM'])
+
+    with open(BOUNDARY_DATA_FOLDER + '/' + constituency_slug + '.json', 'w') as output_file:
+        output_file.write(json.dumps(constituency['geometry'], indent=4))
+
+print 'Hooray, all done!'
