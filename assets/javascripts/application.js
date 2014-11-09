@@ -8,7 +8,7 @@ var memberLink = function ( mp ) {
 };
 
 var memberParty = function ( mp ) {
-	return "<span class='label' style='background-color: " + mp.party_colour + ";'>" + mp.party_name + "</span>";
+	return "<span class='label " + mp.party_slug + "-bg'>" + mp.party_name + "</span>";
 };
 
 var searchHouse = $('#hansardSearchHouse').val();
@@ -19,7 +19,8 @@ $('#hansardSearchForm').submit(
 		var $searchResults = $('#hansardSearchResults');
 		var $mpResults = $('#hansardMPs');
 		var mpsOrLords = searchHouse === 'commons' ? 'MPs' : 'Lords';
-		var searchUrl = searchBaseUrl + "&house=" + searchHouse + "&SearchTerm=" + searchText;
+		var capsSearchHouse = searchHouse.charAt(0).toUpperCase() + searchHouse.slice(1);
+		var searchUrl = searchBaseUrl + "&house=" + capsSearchHouse + "&SearchTerm=" + searchText;
 
 		$searchResults.html("<h4>Debates about " + searchText + "</h4>");
 		$mpResults.html("<h4>" + mpsOrLords + " talking about " + searchText + "</h4>");
