@@ -14,4 +14,4 @@ title: "Women And Business"
 ### Who is interested in Women And Business?
 
 
-* [Seema Malhotra](../members/seema-malhotra.html)
+* [Seema Malhotra]({ site.baseurl }}members/seema-malhotra.html)

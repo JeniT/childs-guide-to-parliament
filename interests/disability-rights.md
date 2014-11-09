@@ -14,5 +14,5 @@ title: "Disability Rights"
 ### Who is interested in Disability Rights?
 
 
-* [Mr Tom Clarke](../members/mr-tom-clarke.html)
-* [Dr Hywel Francis](../members/dr-hywel-francis.html)
+* [Mr Tom Clarke]({ site.baseurl }}members/mr-tom-clarke.html)
+* [Dr Hywel Francis]({ site.baseurl }}members/dr-hywel-francis.html)

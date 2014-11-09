@@ -14,8 +14,8 @@ title: "Equalities"
 ### Who is interested in Equalities?
 
 
-* [Dame  Anne Begg](../members/dame-anne-begg.html)
-* [Lorely Burt](../members/lorely-burt.html)
-* [Nia Griffith](../members/nia-griffith.html)
-* [Seema Malhotra](../members/seema-malhotra.html)
-* [Sandra Osborne](../members/sandra-osborne.html)
+* [Dame  Anne Begg]({ site.baseurl }}members/dame-anne-begg.html)
+* [Lorely Burt]({ site.baseurl }}members/lorely-burt.html)
+* [Nia Griffith]({ site.baseurl }}members/nia-griffith.html)
+* [Seema Malhotra]({ site.baseurl }}members/seema-malhotra.html)
+* [Sandra Osborne]({ site.baseurl }}members/sandra-osborne.html)

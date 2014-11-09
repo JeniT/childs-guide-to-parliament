@@ -14,4 +14,4 @@ title: "Space Industry"
 ### Who is interested in Space Industry?
 
 
-* [Dr Phillip Lee](../members/dr-phillip-lee.html)
+* [Dr Phillip Lee]({ site.baseurl }}members/dr-phillip-lee.html)

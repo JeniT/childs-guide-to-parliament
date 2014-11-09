@@ -14,4 +14,4 @@ title: "Quality Of Life"
 ### Who is interested in Quality Of Life?
 
 
-* [Siobhain McDonagh](../members/siobhain-mcdonagh.html)
+* [Siobhain McDonagh]({ site.baseurl }}members/siobhain-mcdonagh.html)

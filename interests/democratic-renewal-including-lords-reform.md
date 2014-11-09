@@ -14,4 +14,4 @@ title: "Democratic Renewal Including Lords Reform"
 ### Who is interested in Democratic Renewal Including Lords Reform?
 
 
-* [Mr Peter Hain](../members/mr-peter-hain.html)
+* [Mr Peter Hain]({ site.baseurl }}members/mr-peter-hain.html)

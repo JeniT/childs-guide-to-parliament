@@ -14,4 +14,4 @@ title: "Universities And Innovation"
 ### Who is interested in Universities And Innovation?
 
 
-* [George Freeman](../members/george-freeman.html)
+* [George Freeman]({ site.baseurl }}members/george-freeman.html)

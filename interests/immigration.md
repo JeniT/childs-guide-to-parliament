@@ -14,10 +14,10 @@ title: "Immigration"
 ### Who is interested in Immigration?
 
 
-* [Mr Douglas Carswell](../members/mr-douglas-carswell.html)
-* [Lorraine Fullbrook](../members/lorraine-fullbrook.html)
-* [Andrew George](../members/andrew-george.html)
-* [Mr Roger Godsiff](../members/mr-roger-godsiff.html)
-* [Mr Stewart Jackson](../members/mr-stewart-jackson.html)
-* [Sir Nicholas Soames](../members/sir-nicholas-soames.html)
-* [Mr Rob Wilson](../members/mr-rob-wilson.html)
+* [Mr Douglas Carswell]({ site.baseurl }}members/mr-douglas-carswell.html)
+* [Lorraine Fullbrook]({ site.baseurl }}members/lorraine-fullbrook.html)
+* [Andrew George]({ site.baseurl }}members/andrew-george.html)
+* [Mr Roger Godsiff]({ site.baseurl }}members/mr-roger-godsiff.html)
+* [Mr Stewart Jackson]({ site.baseurl }}members/mr-stewart-jackson.html)
+* [Sir Nicholas Soames]({ site.baseurl }}members/sir-nicholas-soames.html)
+* [Mr Rob Wilson]({ site.baseurl }}members/mr-rob-wilson.html)

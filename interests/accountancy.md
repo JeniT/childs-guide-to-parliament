@@ -14,4 +14,4 @@ title: "Accountancy"
 ### Who is interested in Accountancy?
 
 
-* [Austin Mitchell](../members/austin-mitchell.html)
+* [Austin Mitchell]({ site.baseurl }}members/austin-mitchell.html)

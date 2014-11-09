@@ -14,5 +14,5 @@ title: "Inland Waterways"
 ### Who is interested in Inland Waterways?
 
 
-* [Michael Fabricant](../members/michael-fabricant.html)
-* [Mr Dennis Skinner](../members/mr-dennis-skinner.html)
+* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
+* [Mr Dennis Skinner]({ site.baseurl }}members/mr-dennis-skinner.html)

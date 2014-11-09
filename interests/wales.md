@@ -14,5 +14,5 @@ title: "Wales"
 ### Who is interested in Wales?
 
 
-* [Chris Bryant](../members/chris-bryant.html)
-* [Paul Murphy](../members/paul-murphy.html)
+* [Chris Bryant]({ site.baseurl }}members/chris-bryant.html)
+* [Paul Murphy]({ site.baseurl }}members/paul-murphy.html)

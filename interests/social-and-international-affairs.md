@@ -14,4 +14,4 @@ title: "Social And International Affairs"
 ### Who is interested in Social And International Affairs?
 
 
-* [Ed Balls](../members/ed-balls.html)
+* [Ed Balls]({ site.baseurl }}members/ed-balls.html)

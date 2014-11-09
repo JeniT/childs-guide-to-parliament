@@ -14,6 +14,6 @@ title: "Telecommunications"
 ### Who is interested in Telecommunications?
 
 
-* [Mr Nigel Evans](../members/mr-nigel-evans.html)
-* [Michael Fabricant](../members/michael-fabricant.html)
-* [Stephen Timms](../members/stephen-timms.html)
+* [Mr Nigel Evans]({ site.baseurl }}members/mr-nigel-evans.html)
+* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
+* [Stephen Timms]({ site.baseurl }}members/stephen-timms.html)

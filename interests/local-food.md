@@ -14,4 +14,4 @@ title: "Local Food"
 ### Who is interested in Local Food?
 
 
-* [Damian Collins](../members/damian-collins.html)
+* [Damian Collins]({ site.baseurl }}members/damian-collins.html)

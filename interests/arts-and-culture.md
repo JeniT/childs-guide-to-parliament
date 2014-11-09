@@ -14,6 +14,6 @@ title: "Arts And Culture"
 ### Who is interested in Arts And Culture?
 
 
-* [Mr David Lammy](../members/mr-david-lammy.html)
-* [Alison McGovern](../members/alison-mcgovern.html)
-* [Pete Wishart](../members/pete-wishart.html)
+* [Mr David Lammy]({ site.baseurl }}members/mr-david-lammy.html)
+* [Alison McGovern]({ site.baseurl }}members/alison-mcgovern.html)
+* [Pete Wishart]({ site.baseurl }}members/pete-wishart.html)

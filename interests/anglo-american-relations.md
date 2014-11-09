@@ -14,4 +14,4 @@ title: "Anglo-American Relations"
 ### Who is interested in Anglo-American Relations?
 
 
-* [Mr Jamie Reed](../members/mr-jamie-reed.html)
+* [Mr Jamie Reed]({ site.baseurl }}members/mr-jamie-reed.html)

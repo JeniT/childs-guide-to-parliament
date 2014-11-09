@@ -14,5 +14,5 @@ title: "Social Welfare"
 ### Who is interested in Social Welfare?
 
 
-* [Meg Munn](../members/meg-munn.html)
-* [Mr Frank Roy](../members/mr-frank-roy.html)
+* [Meg Munn]({ site.baseurl }}members/meg-munn.html)
+* [Mr Frank Roy]({ site.baseurl }}members/mr-frank-roy.html)

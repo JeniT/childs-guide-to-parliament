@@ -14,4 +14,4 @@ title: "Voluntary And Community Sectors"
 ### Who is interested in Voluntary And Community Sectors?
 
 
-* [Susan Elan Jones](../members/susan-elan-jones.html)
+* [Susan Elan Jones]({ site.baseurl }}members/susan-elan-jones.html)

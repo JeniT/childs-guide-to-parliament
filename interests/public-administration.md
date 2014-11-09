@@ -14,4 +14,4 @@ title: "Public Administration"
 ### Who is interested in Public Administration?
 
 
-* [John McDonnell](../members/john-mcdonnell.html)
+* [John McDonnell]({ site.baseurl }}members/john-mcdonnell.html)

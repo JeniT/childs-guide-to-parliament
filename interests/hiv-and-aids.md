@@ -14,4 +14,4 @@ title: "Hiv And Aids"
 ### Who is interested in Hiv And Aids?
 
 
-* [Simon Kirby](../members/simon-kirby.html)
+* [Simon Kirby]({ site.baseurl }}members/simon-kirby.html)

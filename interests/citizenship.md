@@ -14,4 +14,4 @@ title: "Citizenship"
 ### Who is interested in Citizenship?
 
 
-* [Dr Hywel Francis](../members/dr-hywel-francis.html)
+* [Dr Hywel Francis]({ site.baseurl }}members/dr-hywel-francis.html)

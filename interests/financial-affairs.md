@@ -14,4 +14,4 @@ title: "Financial Affairs"
 ### Who is interested in Financial Affairs?
 
 
-* [Stephen Hammond](../members/stephen-hammond.html)
+* [Stephen Hammond]({ site.baseurl }}members/stephen-hammond.html)

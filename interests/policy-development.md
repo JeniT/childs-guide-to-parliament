@@ -14,4 +14,4 @@ title: "Policy Development"
 ### Who is interested in Policy Development?
 
 
-* [John Glen](../members/john-glen.html)
+* [John Glen]({ site.baseurl }}members/john-glen.html)

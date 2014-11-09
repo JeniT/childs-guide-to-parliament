@@ -14,4 +14,4 @@ title: "Small Nations"
 ### Who is interested in Small Nations?
 
 
-* [Andrew George](../members/andrew-george.html)
+* [Andrew George]({ site.baseurl }}members/andrew-george.html)

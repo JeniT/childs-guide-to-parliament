@@ -14,4 +14,4 @@ title: "Law And Order And Sentencing"
 ### Who is interested in Law And Order And Sentencing?
 
 
-* [Esther McVey](../members/esther-mcvey.html)
+* [Esther McVey]({ site.baseurl }}members/esther-mcvey.html)

@@ -14,4 +14,4 @@ title: "Education And Special Educational Needs"
 ### Who is interested in Education And Special Educational Needs?
 
 
-* [Mrs Sharon Hodgson](../members/mrs-sharon-hodgson.html)
+* [Mrs Sharon Hodgson]({ site.baseurl }}members/mrs-sharon-hodgson.html)

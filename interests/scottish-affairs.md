@@ -14,4 +14,4 @@ title: "Scottish Affairs"
 ### Who is interested in Scottish Affairs?
 
 
-* [John Robertson](../members/john-robertson.html)
+* [John Robertson]({ site.baseurl }}members/john-robertson.html)

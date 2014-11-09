@@ -14,5 +14,5 @@ title: "Urban Policy"
 ### Who is interested in Urban Policy?
 
 
-* [Hilary Benn](../members/hilary-benn.html)
-* [Keith Vaz](../members/keith-vaz.html)
+* [Hilary Benn]({ site.baseurl }}members/hilary-benn.html)
+* [Keith Vaz]({ site.baseurl }}members/keith-vaz.html)

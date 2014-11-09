@@ -14,13 +14,13 @@ title: "Constitutional Reform"
 ### Who is interested in Constitutional Reform?
 
 
-* [Mr Douglas Alexander](../members/mr-douglas-alexander.html)
-* [Mr William Bain](../members/mr-william-bain.html)
-* [John Bercow](../members/john-bercow.html)
-* [Mr Nick Clegg](../members/mr-nick-clegg.html)
-* [Paul Flynn](../members/paul-flynn.html)
-* [Tristram Hunt](../members/tristram-hunt.html)
-* [Austin Mitchell](../members/austin-mitchell.html)
-* [Ms Gisela Stuart](../members/ms-gisela-stuart.html)
-* [Mr Andrew Tyrie](../members/mr-andrew-tyrie.html)
-* [Sir George Young](../members/sir-george-young.html)
+* [Mr Douglas Alexander]({ site.baseurl }}members/mr-douglas-alexander.html)
+* [Mr William Bain]({ site.baseurl }}members/mr-william-bain.html)
+* [John Bercow]({ site.baseurl }}members/john-bercow.html)
+* [Mr Nick Clegg]({ site.baseurl }}members/mr-nick-clegg.html)
+* [Paul Flynn]({ site.baseurl }}members/paul-flynn.html)
+* [Tristram Hunt]({ site.baseurl }}members/tristram-hunt.html)
+* [Austin Mitchell]({ site.baseurl }}members/austin-mitchell.html)
+* [Ms Gisela Stuart]({ site.baseurl }}members/ms-gisela-stuart.html)
+* [Mr Andrew Tyrie]({ site.baseurl }}members/mr-andrew-tyrie.html)
+* [Sir George Young]({ site.baseurl }}members/sir-george-young.html)

@@ -14,7 +14,7 @@ title: "Information Technology"
 ### Who is interested in Information Technology?
 
 
-* [Robert Halfon](../members/robert-halfon.html)
-* [Sir Greg Knight](../members/sir-greg-knight.html)
-* [Dr Alasdair McDonnell](../members/dr-alasdair-mcdonnell.html)
-* [Mrs Theresa Villiers](../members/mrs-theresa-villiers.html)
+* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)
+* [Sir Greg Knight]({ site.baseurl }}members/sir-greg-knight.html)
+* [Dr Alasdair McDonnell]({ site.baseurl }}members/dr-alasdair-mcdonnell.html)
+* [Mrs Theresa Villiers]({ site.baseurl }}members/mrs-theresa-villiers.html)

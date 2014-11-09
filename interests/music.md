@@ -14,8 +14,8 @@ title: "Music"
 ### Who is interested in Music?
 
 
-* [Sir Greg Knight](../members/sir-greg-knight.html)
-* [Sir Alan Meale](../members/sir-alan-meale.html)
-* [John Robertson](../members/john-robertson.html)
-* [Mike Weatherley](../members/mike-weatherley.html)
-* [Mr John Whittingdale](../members/mr-john-whittingdale.html)
+* [Sir Greg Knight]({ site.baseurl }}members/sir-greg-knight.html)
+* [Sir Alan Meale]({ site.baseurl }}members/sir-alan-meale.html)
+* [John Robertson]({ site.baseurl }}members/john-robertson.html)
+* [Mike Weatherley]({ site.baseurl }}members/mike-weatherley.html)
+* [Mr John Whittingdale]({ site.baseurl }}members/mr-john-whittingdale.html)

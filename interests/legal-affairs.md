@@ -14,6 +14,6 @@ title: "Legal Affairs"
 ### Who is interested in Legal Affairs?
 
 
-* [Sir Tony Baldry](../members/sir-tony-baldry.html)
-* [Sir Menzies Campbell](../members/sir-menzies-campbell.html)
-* [Miss Anne McIntosh](../members/miss-anne-mcintosh.html)
+* [Sir Tony Baldry]({ site.baseurl }}members/sir-tony-baldry.html)
+* [Sir Menzies Campbell]({ site.baseurl }}members/sir-menzies-campbell.html)
+* [Miss Anne McIntosh]({ site.baseurl }}members/miss-anne-mcintosh.html)

@@ -14,4 +14,4 @@ title: "Campaign Strategy"
 ### Who is interested in Campaign Strategy?
 
 
-* [Chris Heaton-Harris](../members/chris-heaton-harris.html)
+* [Chris Heaton-Harris]({ site.baseurl }}members/chris-heaton-harris.html)

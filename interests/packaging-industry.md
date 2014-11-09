@@ -14,4 +14,4 @@ title: "Packaging Industry"
 ### Who is interested in Packaging Industry?
 
 
-* [Dan Rogerson](../members/dan-rogerson.html)
+* [Dan Rogerson]({ site.baseurl }}members/dan-rogerson.html)

@@ -14,4 +14,4 @@ title: "Whisky"
 ### Who is interested in Whisky?
 
 
-* [Angus Robertson](../members/angus-robertson.html)
+* [Angus Robertson]({ site.baseurl }}members/angus-robertson.html)

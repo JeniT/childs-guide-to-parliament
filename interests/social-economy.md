@@ -14,4 +14,4 @@ title: "Social Economy"
 ### Who is interested in Social Economy?
 
 
-* [Cathy Jamieson](../members/cathy-jamieson.html)
+* [Cathy Jamieson]({ site.baseurl }}members/cathy-jamieson.html)

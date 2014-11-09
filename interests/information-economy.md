@@ -14,4 +14,4 @@ title: "Information Economy"
 ### Who is interested in Information Economy?
 
 
-* [Chris Bryant](../members/chris-bryant.html)
+* [Chris Bryant]({ site.baseurl }}members/chris-bryant.html)

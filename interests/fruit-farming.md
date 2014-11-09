@@ -14,4 +14,4 @@ title: "Fruit Farming"
 ### Who is interested in Fruit Farming?
 
 
-* [Sir Hugh Robertson](../members/sir-hugh-robertson.html)
+* [Sir Hugh Robertson]({ site.baseurl }}members/sir-hugh-robertson.html)

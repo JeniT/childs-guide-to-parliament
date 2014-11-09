@@ -14,4 +14,4 @@ title: "Construction"
 ### Who is interested in Construction?
 
 
-* [Alison Seabeck](../members/alison-seabeck.html)
+* [Alison Seabeck]({ site.baseurl }}members/alison-seabeck.html)

@@ -14,4 +14,4 @@ title: "Industry/Business"
 ### Who is interested in Industry/Business?
 
 
-* [Mr Mike Weir](../members/mr-mike-weir.html)
+* [Mr Mike Weir]({ site.baseurl }}members/mr-mike-weir.html)

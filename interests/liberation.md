@@ -14,4 +14,4 @@ title: "Liberation"
 ### Who is interested in Liberation?
 
 
-* [Jeremy Corbyn](../members/jeremy-corbyn.html)
+* [Jeremy Corbyn]({ site.baseurl }}members/jeremy-corbyn.html)

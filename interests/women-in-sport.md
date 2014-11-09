@@ -14,4 +14,4 @@ title: "Women In Sport"
 ### Who is interested in Women In Sport?
 
 
-* [Barbara Keeley](../members/barbara-keeley.html)
+* [Barbara Keeley]({ site.baseurl }}members/barbara-keeley.html)

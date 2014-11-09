@@ -14,4 +14,4 @@ title: "Recreation"
 ### Who is interested in Recreation?
 
 
-* [Mr Roger Godsiff](../members/mr-roger-godsiff.html)
+* [Mr Roger Godsiff]({ site.baseurl }}members/mr-roger-godsiff.html)

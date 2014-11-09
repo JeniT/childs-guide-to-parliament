@@ -14,4 +14,4 @@ title: "Health And Poverty"
 ### Who is interested in Health And Poverty?
 
 
-* [Derek Twigg](../members/derek-twigg.html)
+* [Derek Twigg]({ site.baseurl }}members/derek-twigg.html)

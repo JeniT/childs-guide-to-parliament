@@ -14,5 +14,5 @@ title: "Internationalism"
 ### Who is interested in Internationalism?
 
 
-* [Dr Julian Huppert](../members/dr-julian-huppert.html)
-* [Ian Lavery](../members/ian-lavery.html)
+* [Dr Julian Huppert]({ site.baseurl }}members/dr-julian-huppert.html)
+* [Ian Lavery]({ site.baseurl }}members/ian-lavery.html)

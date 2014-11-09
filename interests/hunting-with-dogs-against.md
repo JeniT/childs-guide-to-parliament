@@ -14,4 +14,4 @@ title: "Hunting With Dogs (Against)"
 ### Who is interested in Hunting With Dogs (Against)?
 
 
-* [David Wright](../members/david-wright.html)
+* [David Wright]({ site.baseurl }}members/david-wright.html)

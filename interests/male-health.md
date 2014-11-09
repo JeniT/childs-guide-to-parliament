@@ -14,4 +14,4 @@ title: "Male Health"
 ### Who is interested in Male Health?
 
 
-* [Paul Uppal](../members/paul-uppal.html)
+* [Paul Uppal]({ site.baseurl }}members/paul-uppal.html)

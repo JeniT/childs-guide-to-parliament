@@ -14,5 +14,5 @@ title: "Diabetes"
 ### Who is interested in Diabetes?
 
 
-* [Mr Adrian Sanders](../members/mr-adrian-sanders.html)
-* [Keith Vaz](../members/keith-vaz.html)
+* [Mr Adrian Sanders]({ site.baseurl }}members/mr-adrian-sanders.html)
+* [Keith Vaz]({ site.baseurl }}members/keith-vaz.html)

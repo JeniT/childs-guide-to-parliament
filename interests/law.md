@@ -14,5 +14,5 @@ title: "Law"
 ### Who is interested in Law?
 
 
-* [Mr James Arbuthnot](../members/mr-james-arbuthnot.html)
-* [Ms Harriet Harman](../members/ms-harriet-harman.html)
+* [Mr James Arbuthnot]({ site.baseurl }}members/mr-james-arbuthnot.html)
+* [Ms Harriet Harman]({ site.baseurl }}members/ms-harriet-harman.html)

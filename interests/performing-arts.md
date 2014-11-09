@@ -14,4 +14,4 @@ title: "Performing Arts"
 ### Who is interested in Performing Arts?
 
 
-* [Sir Peter Luff](../members/sir-peter-luff.html)
+* [Sir Peter Luff]({ site.baseurl }}members/sir-peter-luff.html)

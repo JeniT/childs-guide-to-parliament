@@ -14,5 +14,5 @@ title: "Rural Communities"
 ### Who is interested in Rural Communities?
 
 
-* [Susan Elan Jones](../members/susan-elan-jones.html)
-* [Dr Sarah Wollaston](../members/dr-sarah-wollaston.html)
+* [Susan Elan Jones]({ site.baseurl }}members/susan-elan-jones.html)
+* [Dr Sarah Wollaston]({ site.baseurl }}members/dr-sarah-wollaston.html)

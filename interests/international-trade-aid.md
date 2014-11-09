@@ -14,4 +14,4 @@ title: "International Trade/Aid"
 ### Who is interested in International Trade/Aid?
 
 
-* [Kerry McCarthy](../members/kerry-mccarthy.html)
+* [Kerry McCarthy]({ site.baseurl }}members/kerry-mccarthy.html)

@@ -14,6 +14,6 @@ title: "Public Transport"
 ### Who is interested in Public Transport?
 
 
-* [Jane Ellison](../members/jane-ellison.html)
-* [Mrs Siân C. James](../members/mrs-sian-c-james.html)
-* [Greg Mulholland](../members/greg-mulholland.html)
+* [Jane Ellison]({ site.baseurl }}members/jane-ellison.html)
+* [Mrs Siân C. James]({ site.baseurl }}members/mrs-sian-c-james.html)
+* [Greg Mulholland]({ site.baseurl }}members/greg-mulholland.html)

@@ -14,4 +14,4 @@ title: "Government Efficiency"
 ### Who is interested in Government Efficiency?
 
 
-* [Mike Freer](../members/mike-freer.html)
+* [Mike Freer]({ site.baseurl }}members/mike-freer.html)

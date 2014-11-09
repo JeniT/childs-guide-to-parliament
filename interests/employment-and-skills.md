@@ -14,4 +14,4 @@ title: "Employment And Skills"
 ### Who is interested in Employment And Skills?
 
 
-* [Julie Elliott](../members/julie-elliott.html)
+* [Julie Elliott]({ site.baseurl }}members/julie-elliott.html)

@@ -14,4 +14,4 @@ title: "Debt Relief"
 ### Who is interested in Debt Relief?
 
 
-* [Sir William Cash](../members/sir-william-cash.html)
+* [Sir William Cash]({ site.baseurl }}members/sir-william-cash.html)

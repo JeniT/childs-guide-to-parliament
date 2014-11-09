@@ -14,4 +14,4 @@ title: "Charity Reform"
 ### Who is interested in Charity Reform?
 
 
-* [Mr Tim Yeo](../members/mr-tim-yeo.html)
+* [Mr Tim Yeo]({ site.baseurl }}members/mr-tim-yeo.html)

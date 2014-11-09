@@ -14,4 +14,4 @@ title: "Electronics Industry"
 ### Who is interested in Electronics Industry?
 
 
-* [Mr John Spellar](../members/mr-john-spellar.html)
+* [Mr John Spellar]({ site.baseurl }}members/mr-john-spellar.html)

@@ -14,5 +14,5 @@ title: "Chemical Industry"
 ### Who is interested in Chemical Industry?
 
 
-* [Tom Blenkinsop](../members/tom-blenkinsop.html)
-* [Ian Swales](../members/ian-swales.html)
+* [Tom Blenkinsop]({ site.baseurl }}members/tom-blenkinsop.html)
+* [Ian Swales]({ site.baseurl }}members/ian-swales.html)

@@ -14,4 +14,4 @@ title: "Planning And Regeneration"
 ### Who is interested in Planning And Regeneration?
 
 
-* [Roberta Blackman-Woods](../members/roberta-blackman-woods.html)
+* [Roberta Blackman-Woods]({ site.baseurl }}members/roberta-blackman-woods.html)

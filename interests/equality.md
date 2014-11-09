@@ -14,8 +14,8 @@ title: "Equality"
 ### Who is interested in Equality?
 
 
-* [Katy Clark](../members/katy-clark.html)
-* [Geraint Davies](../members/geraint-davies.html)
-* [Kate Green](../members/kate-green.html)
-* [Emily Thornberry](../members/emily-thornberry.html)
-* [Mr Chuka Umunna](../members/mr-chuka-umunna.html)
+* [Katy Clark]({ site.baseurl }}members/katy-clark.html)
+* [Geraint Davies]({ site.baseurl }}members/geraint-davies.html)
+* [Kate Green]({ site.baseurl }}members/kate-green.html)
+* [Emily Thornberry]({ site.baseurl }}members/emily-thornberry.html)
+* [Mr Chuka Umunna]({ site.baseurl }}members/mr-chuka-umunna.html)

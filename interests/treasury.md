@@ -14,10 +14,10 @@ title: "Treasury"
 ### Who is interested in Treasury?
 
 
-* [Geraint Davies](../members/geraint-davies.html)
-* [Michael Fallon](../members/michael-fallon.html)
-* [Richard Harrington](../members/richard-harrington.html)
-* [Mr David Ruffley](../members/mr-david-ruffley.html)
-* [Alec Shelbrooke](../members/alec-shelbrooke.html)
-* [John Thurso](../members/john-thurso.html)
-* [Bill Wiggin](../members/bill-wiggin.html)
+* [Geraint Davies]({ site.baseurl }}members/geraint-davies.html)
+* [Michael Fallon]({ site.baseurl }}members/michael-fallon.html)
+* [Richard Harrington]({ site.baseurl }}members/richard-harrington.html)
+* [Mr David Ruffley]({ site.baseurl }}members/mr-david-ruffley.html)
+* [Alec Shelbrooke]({ site.baseurl }}members/alec-shelbrooke.html)
+* [John Thurso]({ site.baseurl }}members/john-thurso.html)
+* [Bill Wiggin]({ site.baseurl }}members/bill-wiggin.html)

@@ -14,4 +14,4 @@ title: "Pro-Life Issues"
 ### Who is interested in Pro-Life Issues?
 
 
-* [Fiona Bruce](../members/fiona-bruce.html)
+* [Fiona Bruce]({ site.baseurl }}members/fiona-bruce.html)

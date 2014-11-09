@@ -14,5 +14,5 @@ title: "Inner Cities"
 ### Who is interested in Inner Cities?
 
 
-* [Sir Paul Beresford](../members/sir-paul-beresford.html)
-* [Margaret Hodge](../members/margaret-hodge.html)
+* [Sir Paul Beresford]({ site.baseurl }}members/sir-paul-beresford.html)
+* [Margaret Hodge]({ site.baseurl }}members/margaret-hodge.html)

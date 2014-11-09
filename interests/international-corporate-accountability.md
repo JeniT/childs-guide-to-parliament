@@ -14,4 +14,4 @@ title: "International Corporate Accountability"
 ### Who is interested in International Corporate Accountability?
 
 
-* [Lisa Nandy](../members/lisa-nandy.html)
+* [Lisa Nandy]({ site.baseurl }}members/lisa-nandy.html)

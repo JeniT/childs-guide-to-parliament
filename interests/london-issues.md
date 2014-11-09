@@ -14,4 +14,4 @@ title: "London Issues"
 ### Who is interested in London Issues?
 
 
-* [Angie Bray](../members/angie-bray.html)
+* [Angie Bray]({ site.baseurl }}members/angie-bray.html)

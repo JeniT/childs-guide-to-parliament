@@ -14,4 +14,4 @@ title: "Offshore Oil And Gas Industry"
 ### Who is interested in Offshore Oil And Gas Industry?
 
 
-* [Sir Robert Smith](../members/sir-robert-smith.html)
+* [Sir Robert Smith]({ site.baseurl }}members/sir-robert-smith.html)

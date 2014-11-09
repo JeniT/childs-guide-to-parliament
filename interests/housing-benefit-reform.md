@@ -14,4 +14,4 @@ title: "Housing Benefit Reform"
 ### Who is interested in Housing Benefit Reform?
 
 
-* [Bob Blackman](../members/bob-blackman.html)
+* [Bob Blackman]({ site.baseurl }}members/bob-blackman.html)

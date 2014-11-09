@@ -14,4 +14,4 @@ title: "Counter-Terrorism"
 ### Who is interested in Counter-Terrorism?
 
 
-* [Mark Pritchard](../members/mark-pritchard.html)
+* [Mark Pritchard]({ site.baseurl }}members/mark-pritchard.html)

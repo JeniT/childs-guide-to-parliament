@@ -14,7 +14,7 @@ title: "Welfare State"
 ### Who is interested in Welfare State?
 
 
-* [Mr William Bain](../members/mr-william-bain.html)
-* [Mr Russell Brown](../members/mr-russell-brown.html)
-* [Clive Efford](../members/clive-efford.html)
-* [Emma Reynolds](../members/emma-reynolds.html)
+* [Mr William Bain]({ site.baseurl }}members/mr-william-bain.html)
+* [Mr Russell Brown]({ site.baseurl }}members/mr-russell-brown.html)
+* [Clive Efford]({ site.baseurl }}members/clive-efford.html)
+* [Emma Reynolds]({ site.baseurl }}members/emma-reynolds.html)

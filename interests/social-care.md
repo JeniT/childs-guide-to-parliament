@@ -14,8 +14,8 @@ title: "Social Care"
 ### Who is interested in Social Care?
 
 
-* [Paul Burstow](../members/paul-burstow.html)
-* [Oliver Colvile](../members/oliver-colvile.html)
-* [Tim Farron](../members/tim-farron.html)
-* [Anne Marie Morris](../members/anne-marie-morris.html)
-* [Greg Mulholland](../members/greg-mulholland.html)
+* [Paul Burstow]({ site.baseurl }}members/paul-burstow.html)
+* [Oliver Colvile]({ site.baseurl }}members/oliver-colvile.html)
+* [Tim Farron]({ site.baseurl }}members/tim-farron.html)
+* [Anne Marie Morris]({ site.baseurl }}members/anne-marie-morris.html)
+* [Greg Mulholland]({ site.baseurl }}members/greg-mulholland.html)

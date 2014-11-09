@@ -14,6 +14,6 @@ title: "Crime And Policing"
 ### Who is interested in Crime And Policing?
 
 
-* [Mr Alan Campbell](../members/mr-alan-campbell.html)
-* [Mr Douglas Carswell](../members/mr-douglas-carswell.html)
-* [Tim Farron](../members/tim-farron.html)
+* [Mr Alan Campbell]({ site.baseurl }}members/mr-alan-campbell.html)
+* [Mr Douglas Carswell]({ site.baseurl }}members/mr-douglas-carswell.html)
+* [Tim Farron]({ site.baseurl }}members/tim-farron.html)

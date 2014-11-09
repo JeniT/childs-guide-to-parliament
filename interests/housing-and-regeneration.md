@@ -14,5 +14,5 @@ title: "Housing And Regeneration"
 ### Who is interested in Housing And Regeneration?
 
 
-* [James Brokenshire](../members/james-brokenshire.html)
-* [David Wright](../members/david-wright.html)
+* [James Brokenshire]({ site.baseurl }}members/james-brokenshire.html)
+* [David Wright]({ site.baseurl }}members/david-wright.html)

@@ -14,4 +14,4 @@ title: "Park Homes"
 ### Who is interested in Park Homes?
 
 
-* [Natascha Engel](../members/natascha-engel.html)
+* [Natascha Engel]({ site.baseurl }}members/natascha-engel.html)

@@ -14,7 +14,7 @@ title: "Social Exclusion"
 ### Who is interested in Social Exclusion?
 
 
-* [Jane Ellison](../members/jane-ellison.html)
-* [Andrew George](../members/andrew-george.html)
-* [David Heyes](../members/david-heyes.html)
-* [Mrs Siân C. James](../members/mrs-sian-c-james.html)
+* [Jane Ellison]({ site.baseurl }}members/jane-ellison.html)
+* [Andrew George]({ site.baseurl }}members/andrew-george.html)
+* [David Heyes]({ site.baseurl }}members/david-heyes.html)
+* [Mrs Siân C. James]({ site.baseurl }}members/mrs-sian-c-james.html)

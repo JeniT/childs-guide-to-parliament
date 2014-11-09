@@ -14,4 +14,4 @@ title: "Sustainable Development And Youth Issues"
 ### Who is interested in Sustainable Development And Youth Issues?
 
 
-* [Angus Robertson](../members/angus-robertson.html)
+* [Angus Robertson]({ site.baseurl }}members/angus-robertson.html)

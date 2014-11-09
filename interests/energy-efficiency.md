@@ -14,4 +14,4 @@ title: "Energy Efficiency"
 ### Who is interested in Energy Efficiency?
 
 
-* [Clive Efford](../members/clive-efford.html)
+* [Clive Efford]({ site.baseurl }}members/clive-efford.html)

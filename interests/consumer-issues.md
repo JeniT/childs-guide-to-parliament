@@ -14,6 +14,6 @@ title: "Consumer Issues"
 ### Who is interested in Consumer Issues?
 
 
-* [Sir Greg Knight](../members/sir-greg-knight.html)
-* [Mark Lazarowicz](../members/mark-lazarowicz.html)
-* [Mr Jim Murphy](../members/mr-jim-murphy.html)
+* [Sir Greg Knight]({ site.baseurl }}members/sir-greg-knight.html)
+* [Mark Lazarowicz]({ site.baseurl }}members/mark-lazarowicz.html)
+* [Mr Jim Murphy]({ site.baseurl }}members/mr-jim-murphy.html)

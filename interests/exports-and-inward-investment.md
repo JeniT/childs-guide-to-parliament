@@ -14,4 +14,4 @@ title: "Exports And Inward Investment"
 ### Who is interested in Exports And Inward Investment?
 
 
-* [Nick de Bois](../members/nick-de-bois.html)
+* [Nick de Bois]({ site.baseurl }}members/nick-de-bois.html)

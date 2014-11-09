@@ -14,4 +14,4 @@ title: "Community"
 ### Who is interested in Community?
 
 
-* [Mr Nick Hurd](../members/mr-nick-hurd.html)
+* [Mr Nick Hurd]({ site.baseurl }}members/mr-nick-hurd.html)

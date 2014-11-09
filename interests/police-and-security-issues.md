@@ -14,5 +14,5 @@ title: "Police And Security Issues"
 ### Who is interested in Police And Security Issues?
 
 
-* [Michael Fabricant](../members/michael-fabricant.html)
-* [Steve McCabe](../members/steve-mccabe.html)
+* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
+* [Steve McCabe]({ site.baseurl }}members/steve-mccabe.html)

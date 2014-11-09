@@ -14,10 +14,10 @@ title: "Electoral Reform"
 ### Who is interested in Electoral Reform?
 
 
-* [Hugh Bayley](../members/hugh-bayley.html)
-* [Richard Burden](../members/richard-burden.html)
-* [Alan Johnson](../members/alan-johnson.html)
-* [Austin Mitchell](../members/austin-mitchell.html)
-* [Gavin Shuker](../members/gavin-shuker.html)
-* [Sir Robert Smith](../members/sir-robert-smith.html)
-* [Stephen Twigg](../members/stephen-twigg.html)
+* [Hugh Bayley]({ site.baseurl }}members/hugh-bayley.html)
+* [Richard Burden]({ site.baseurl }}members/richard-burden.html)
+* [Alan Johnson]({ site.baseurl }}members/alan-johnson.html)
+* [Austin Mitchell]({ site.baseurl }}members/austin-mitchell.html)
+* [Gavin Shuker]({ site.baseurl }}members/gavin-shuker.html)
+* [Sir Robert Smith]({ site.baseurl }}members/sir-robert-smith.html)
+* [Stephen Twigg]({ site.baseurl }}members/stephen-twigg.html)

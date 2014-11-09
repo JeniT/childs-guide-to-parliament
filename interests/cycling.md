@@ -14,4 +14,4 @@ title: "Cycling"
 ### Who is interested in Cycling?
 
 
-* [Nia Griffith](../members/nia-griffith.html)
+* [Nia Griffith]({ site.baseurl }}members/nia-griffith.html)

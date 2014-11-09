@@ -14,4 +14,4 @@ title: "Cancer"
 ### Who is interested in Cancer?
 
 
-* [Mr John Baron](../members/mr-john-baron.html)
+* [Mr John Baron]({ site.baseurl }}members/mr-john-baron.html)

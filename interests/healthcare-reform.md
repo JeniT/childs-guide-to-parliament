@@ -14,4 +14,4 @@ title: "Healthcare Reform"
 ### Who is interested in Healthcare Reform?
 
 
-* [George Freeman](../members/george-freeman.html)
+* [George Freeman]({ site.baseurl }}members/george-freeman.html)

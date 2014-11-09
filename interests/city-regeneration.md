@@ -14,4 +14,4 @@ title: "City Regeneration"
 ### Who is interested in City Regeneration?
 
 
-* [Esther McVey](../members/esther-mcvey.html)
+* [Esther McVey]({ site.baseurl }}members/esther-mcvey.html)

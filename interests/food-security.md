@@ -14,4 +14,4 @@ title: "Food Security"
 ### Who is interested in Food Security?
 
 
-* [Laura Sandys](../members/laura-sandys.html)
+* [Laura Sandys]({ site.baseurl }}members/laura-sandys.html)

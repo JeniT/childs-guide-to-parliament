@@ -14,5 +14,5 @@ title: "Anti-Racism"
 ### Who is interested in Anti-Racism?
 
 
-* [Andrew George](../members/andrew-george.html)
-* [Fabian Hamilton](../members/fabian-hamilton.html)
+* [Andrew George]({ site.baseurl }}members/andrew-george.html)
+* [Fabian Hamilton]({ site.baseurl }}members/fabian-hamilton.html)

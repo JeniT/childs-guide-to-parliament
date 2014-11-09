@@ -14,4 +14,4 @@ title: "Homeland Security"
 ### Who is interested in Homeland Security?
 
 
-* [David T. C. Davies](../members/david-t-c-davies.html)
+* [David T. C. Davies]({ site.baseurl }}members/david-t-c-davies.html)

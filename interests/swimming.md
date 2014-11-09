@@ -14,4 +14,4 @@ title: "Swimming"
 ### Who is interested in Swimming?
 
 
-* [Charlotte Leslie](../members/charlotte-leslie.html)
+* [Charlotte Leslie]({ site.baseurl }}members/charlotte-leslie.html)

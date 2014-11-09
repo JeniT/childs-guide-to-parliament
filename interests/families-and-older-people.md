@@ -14,4 +14,4 @@ title: "Families And Older People"
 ### Who is interested in Families And Older People?
 
 
-* [Bridget Phillipson](../members/bridget-phillipson.html)
+* [Bridget Phillipson]({ site.baseurl }}members/bridget-phillipson.html)

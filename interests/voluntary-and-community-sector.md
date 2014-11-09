@@ -14,4 +14,4 @@ title: "Voluntary And Community Sector"
 ### Who is interested in Voluntary And Community Sector?
 
 
-* [Paul Blomfield](../members/paul-blomfield.html)
+* [Paul Blomfield]({ site.baseurl }}members/paul-blomfield.html)

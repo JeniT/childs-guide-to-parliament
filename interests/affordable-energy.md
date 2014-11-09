@@ -14,4 +14,4 @@ title: "Affordable Energy"
 ### Who is interested in Affordable Energy?
 
 
-* [Mrs Sharon Hodgson](../members/mrs-sharon-hodgson.html)
+* [Mrs Sharon Hodgson]({ site.baseurl }}members/mrs-sharon-hodgson.html)

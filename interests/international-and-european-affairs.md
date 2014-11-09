@@ -14,4 +14,4 @@ title: "International And European Affairs"
 ### Who is interested in International And European Affairs?
 
 
-* [Angus Robertson](../members/angus-robertson.html)
+* [Angus Robertson]({ site.baseurl }}members/angus-robertson.html)

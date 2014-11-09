@@ -14,4 +14,4 @@ title: "Energy And Climate Change"
 ### Who is interested in Energy And Climate Change?
 
 
-* [Greg Clark](../members/greg-clark.html)
+* [Greg Clark]({ site.baseurl }}members/greg-clark.html)

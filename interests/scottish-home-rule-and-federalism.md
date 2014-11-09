@@ -14,4 +14,4 @@ title: "Scottish Home Rule And Federalism"
 ### Who is interested in Scottish Home Rule And Federalism?
 
 
-* [Sir Malcolm Bruce](../members/sir-malcolm-bruce.html)
+* [Sir Malcolm Bruce]({ site.baseurl }}members/sir-malcolm-bruce.html)

@@ -14,9 +14,9 @@ title: "Science"
 ### Who is interested in Science?
 
 
-* [Bob Blackman](../members/bob-blackman.html)
-* [Nicola Blackwood](../members/nicola-blackwood.html)
-* [Graham Evans](../members/graham-evans.html)
-* [Dr Julian Huppert](../members/dr-julian-huppert.html)
-* [Dr Phillip Lee](../members/dr-phillip-lee.html)
-* [Esther McVey](../members/esther-mcvey.html)
+* [Bob Blackman]({ site.baseurl }}members/bob-blackman.html)
+* [Nicola Blackwood]({ site.baseurl }}members/nicola-blackwood.html)
+* [Graham Evans]({ site.baseurl }}members/graham-evans.html)
+* [Dr Julian Huppert]({ site.baseurl }}members/dr-julian-huppert.html)
+* [Dr Phillip Lee]({ site.baseurl }}members/dr-phillip-lee.html)
+* [Esther McVey]({ site.baseurl }}members/esther-mcvey.html)

@@ -14,4 +14,4 @@ title: "Poverty Reduction And International Development"
 ### Who is interested in Poverty Reduction And International Development?
 
 
-* [Mr Brooks Newmark](../members/mr-brooks-newmark.html)
+* [Mr Brooks Newmark]({ site.baseurl }}members/mr-brooks-newmark.html)

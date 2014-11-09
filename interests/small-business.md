@@ -14,13 +14,13 @@ title: "Small Business"
 ### Who is interested in Small Business?
 
 
-* [Caroline Dinenage](../members/caroline-dinenage.html)
-* [Rebecca Harris](../members/rebecca-harris.html)
-* [Simon Hart](../members/simon-hart.html)
-* [Jeremy Lefroy](../members/jeremy-lefroy.html)
-* [Karl McCartney](../members/karl-mccartney.html)
-* [Stephen Metcalfe](../members/stephen-metcalfe.html)
-* [David Morris](../members/david-morris.html)
-* [Mr David Nuttall](../members/mr-david-nuttall.html)
-* [Andrew Stephenson](../members/andrew-stephenson.html)
-* [Mike Weatherley](../members/mike-weatherley.html)
+* [Caroline Dinenage]({ site.baseurl }}members/caroline-dinenage.html)
+* [Rebecca Harris]({ site.baseurl }}members/rebecca-harris.html)
+* [Simon Hart]({ site.baseurl }}members/simon-hart.html)
+* [Jeremy Lefroy]({ site.baseurl }}members/jeremy-lefroy.html)
+* [Karl McCartney]({ site.baseurl }}members/karl-mccartney.html)
+* [Stephen Metcalfe]({ site.baseurl }}members/stephen-metcalfe.html)
+* [David Morris]({ site.baseurl }}members/david-morris.html)
+* [Mr David Nuttall]({ site.baseurl }}members/mr-david-nuttall.html)
+* [Andrew Stephenson]({ site.baseurl }}members/andrew-stephenson.html)
+* [Mike Weatherley]({ site.baseurl }}members/mike-weatherley.html)

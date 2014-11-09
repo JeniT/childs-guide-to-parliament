@@ -14,4 +14,4 @@ title: "Sustainable Development And Enterprise"
 ### Who is interested in Sustainable Development And Enterprise?
 
 
-* [Jeremy Lefroy](../members/jeremy-lefroy.html)
+* [Jeremy Lefroy]({ site.baseurl }}members/jeremy-lefroy.html)

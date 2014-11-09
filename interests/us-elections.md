@@ -14,4 +14,4 @@ title: "Us Elections"
 ### Who is interested in Us Elections?
 
 
-* [Mr Nigel Evans](../members/mr-nigel-evans.html)
+* [Mr Nigel Evans]({ site.baseurl }}members/mr-nigel-evans.html)

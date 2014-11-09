@@ -14,4 +14,4 @@ title: "Welsh Language"
 ### Who is interested in Welsh Language?
 
 
-* [Susan Elan Jones](../members/susan-elan-jones.html)
+* [Susan Elan Jones]({ site.baseurl }}members/susan-elan-jones.html)

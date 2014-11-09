@@ -14,4 +14,4 @@ title: "Oil Industry"
 ### Who is interested in Oil Industry?
 
 
-* [Sir Malcolm Bruce](../members/sir-malcolm-bruce.html)
+* [Sir Malcolm Bruce]({ site.baseurl }}members/sir-malcolm-bruce.html)

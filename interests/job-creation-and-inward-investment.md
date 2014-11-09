@@ -14,4 +14,4 @@ title: "Job Creation And Inward Investment"
 ### Who is interested in Job Creation And Inward Investment?
 
 
-* [Paul Maskey](../members/paul-maskey.html)
+* [Paul Maskey]({ site.baseurl }}members/paul-maskey.html)

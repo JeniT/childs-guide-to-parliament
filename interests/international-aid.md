@@ -14,4 +14,4 @@ title: "International Aid"
 ### Who is interested in International Aid?
 
 
-* [Mr Michael McCann](../members/mr-michael-mccann.html)
+* [Mr Michael McCann]({ site.baseurl }}members/mr-michael-mccann.html)

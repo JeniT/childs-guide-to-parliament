@@ -14,4 +14,4 @@ title: "Simpler Tax And Benefit System"
 ### Who is interested in Simpler Tax And Benefit System?
 
 
-* [Adam Afriyie](../members/adam-afriyie.html)
+* [Adam Afriyie]({ site.baseurl }}members/adam-afriyie.html)

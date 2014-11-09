@@ -14,4 +14,4 @@ title: "Mobile Technology"
 ### Who is interested in Mobile Technology?
 
 
-* [Robert Halfon](../members/robert-halfon.html)
+* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)

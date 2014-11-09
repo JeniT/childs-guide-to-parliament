@@ -14,5 +14,5 @@ title: "House Of Lords Reform"
 ### Who is interested in House Of Lords Reform?
 
 
-* [Graham Stringer](../members/graham-stringer.html)
-* [John Thurso](../members/john-thurso.html)
+* [Graham Stringer]({ site.baseurl }}members/graham-stringer.html)
+* [John Thurso]({ site.baseurl }}members/john-thurso.html)

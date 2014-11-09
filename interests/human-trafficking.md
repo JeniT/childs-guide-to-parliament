@@ -14,5 +14,5 @@ title: "Human Trafficking"
 ### Who is interested in Human Trafficking?
 
 
-* [Sir John Randall](../members/sir-john-randall.html)
-* [Mrs Caroline Spelman](../members/mrs-caroline-spelman.html)
+* [Sir John Randall]({ site.baseurl }}members/sir-john-randall.html)
+* [Mrs Caroline Spelman]({ site.baseurl }}members/mrs-caroline-spelman.html)

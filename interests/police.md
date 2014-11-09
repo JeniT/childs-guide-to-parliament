@@ -14,8 +14,8 @@ title: "Police"
 ### Who is interested in Police?
 
 
-* [Mrs Madeleine Moon](../members/mrs-madeleine-moon.html)
-* [Jessica Morden](../members/jessica-morden.html)
-* [Mr Jack Straw](../members/mr-jack-straw.html)
-* [David Tredinnick](../members/david-tredinnick.html)
-* [Mr Robin Walker](../members/mr-robin-walker.html)
+* [Mrs Madeleine Moon]({ site.baseurl }}members/mrs-madeleine-moon.html)
+* [Jessica Morden]({ site.baseurl }}members/jessica-morden.html)
+* [Mr Jack Straw]({ site.baseurl }}members/mr-jack-straw.html)
+* [David Tredinnick]({ site.baseurl }}members/david-tredinnick.html)
+* [Mr Robin Walker]({ site.baseurl }}members/mr-robin-walker.html)

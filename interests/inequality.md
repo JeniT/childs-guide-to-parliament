@@ -14,4 +14,4 @@ title: "Inequality"
 ### Who is interested in Inequality?
 
 
-* [Debbie Abrahams](../members/debbie-abrahams.html)
+* [Debbie Abrahams]({ site.baseurl }}members/debbie-abrahams.html)

@@ -14,6 +14,6 @@ title: "Criminal Justice System"
 ### Who is interested in Criminal Justice System?
 
 
-* [Gavin Barwell](../members/gavin-barwell.html)
-* [Mr David Burrowes](../members/mr-david-burrowes.html)
-* [Rehman Chishti](../members/rehman-chishti.html)
+* [Gavin Barwell]({ site.baseurl }}members/gavin-barwell.html)
+* [Mr David Burrowes]({ site.baseurl }}members/mr-david-burrowes.html)
+* [Rehman Chishti]({ site.baseurl }}members/rehman-chishti.html)

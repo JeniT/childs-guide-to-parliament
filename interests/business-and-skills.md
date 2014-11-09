@@ -14,4 +14,4 @@ title: "Business And Skills"
 ### Who is interested in Business And Skills?
 
 
-* [Mr Marcus Jones](../members/mr-marcus-jones.html)
+* [Mr Marcus Jones]({ site.baseurl }}members/mr-marcus-jones.html)

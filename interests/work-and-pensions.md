@@ -14,8 +14,8 @@ title: "Work And Pensions"
 ### Who is interested in Work And Pensions?
 
 
-* [David Heyes](../members/david-heyes.html)
-* [Mrs Siân C. James](../members/mrs-sian-c-james.html)
-* [Greg Mulholland](../members/greg-mulholland.html)
-* [John Robertson](../members/john-robertson.html)
-* [Chloe Smith](../members/chloe-smith.html)
+* [David Heyes]({ site.baseurl }}members/david-heyes.html)
+* [Mrs Siân C. James]({ site.baseurl }}members/mrs-sian-c-james.html)
+* [Greg Mulholland]({ site.baseurl }}members/greg-mulholland.html)
+* [John Robertson]({ site.baseurl }}members/john-robertson.html)
+* [Chloe Smith]({ site.baseurl }}members/chloe-smith.html)

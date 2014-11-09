@@ -14,5 +14,5 @@ title: "Public Expenditure"
 ### Who is interested in Public Expenditure?
 
 
-* [Mr Richard Bacon](../members/mr-richard-bacon.html)
-* [Bob Blackman](../members/bob-blackman.html)
+* [Mr Richard Bacon]({ site.baseurl }}members/mr-richard-bacon.html)
+* [Bob Blackman]({ site.baseurl }}members/bob-blackman.html)

@@ -14,4 +14,4 @@ title: "Archives"
 ### Who is interested in Archives?
 
 
-* [Dr Hywel Francis](../members/dr-hywel-francis.html)
+* [Dr Hywel Francis]({ site.baseurl }}members/dr-hywel-francis.html)

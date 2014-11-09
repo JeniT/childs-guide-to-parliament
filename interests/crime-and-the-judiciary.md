@@ -14,4 +14,4 @@ title: "Crime And The Judiciary"
 ### Who is interested in Crime And The Judiciary?
 
 
-* [Karl McCartney](../members/karl-mccartney.html)
+* [Karl McCartney]({ site.baseurl }}members/karl-mccartney.html)

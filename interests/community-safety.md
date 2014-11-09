@@ -14,4 +14,4 @@ title: "Community Safety"
 ### Who is interested in Community Safety?
 
 
-* [Paul Burstow](../members/paul-burstow.html)
+* [Paul Burstow]({ site.baseurl }}members/paul-burstow.html)

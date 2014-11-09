@@ -14,4 +14,4 @@ title: "Heritage Railways"
 ### Who is interested in Heritage Railways?
 
 
-* [Nicky Morgan](../members/nicky-morgan.html)
+* [Nicky Morgan]({ site.baseurl }}members/nicky-morgan.html)

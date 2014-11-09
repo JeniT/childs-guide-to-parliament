@@ -14,7 +14,7 @@ title: "Job Creation"
 ### Who is interested in Job Creation?
 
 
-* [Stewart Hosie](../members/stewart-hosie.html)
-* [Susan Elan Jones](../members/susan-elan-jones.html)
-* [Dr Alasdair McDonnell](../members/dr-alasdair-mcdonnell.html)
-* [Jim McGovern](../members/jim-mcgovern.html)
+* [Stewart Hosie]({ site.baseurl }}members/stewart-hosie.html)
+* [Susan Elan Jones]({ site.baseurl }}members/susan-elan-jones.html)
+* [Dr Alasdair McDonnell]({ site.baseurl }}members/dr-alasdair-mcdonnell.html)
+* [Jim McGovern]({ site.baseurl }}members/jim-mcgovern.html)

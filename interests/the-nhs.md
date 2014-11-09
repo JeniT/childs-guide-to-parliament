@@ -14,4 +14,4 @@ title: "The Nhs"
 ### Who is interested in The Nhs?
 
 
-* [Jeremy Corbyn](../members/jeremy-corbyn.html)
+* [Jeremy Corbyn]({ site.baseurl }}members/jeremy-corbyn.html)

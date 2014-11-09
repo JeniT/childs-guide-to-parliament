@@ -14,5 +14,5 @@ title: "Conservation"
 ### Who is interested in Conservation?
 
 
-* [Nic Dakin](../members/nic-dakin.html)
-* [Ian Murray](../members/ian-murray.html)
+* [Nic Dakin]({ site.baseurl }}members/nic-dakin.html)
+* [Ian Murray]({ site.baseurl }}members/ian-murray.html)

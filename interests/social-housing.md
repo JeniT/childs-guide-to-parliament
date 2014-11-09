@@ -14,4 +14,4 @@ title: "Social Housing"
 ### Who is interested in Social Housing?
 
 
-* [Clive Efford](../members/clive-efford.html)
+* [Clive Efford]({ site.baseurl }}members/clive-efford.html)

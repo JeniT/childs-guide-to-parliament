@@ -14,4 +14,4 @@ title: "Legal"
 ### Who is interested in Legal?
 
 
-* [Valerie Vaz](../members/valerie-vaz.html)
+* [Valerie Vaz]({ site.baseurl }}members/valerie-vaz.html)

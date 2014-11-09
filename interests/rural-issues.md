@@ -14,5 +14,5 @@ title: "Rural Issues"
 ### Who is interested in Rural Issues?
 
 
-* [John Howell](../members/john-howell.html)
-* [Dan Rogerson](../members/dan-rogerson.html)
+* [John Howell]({ site.baseurl }}members/john-howell.html)
+* [Dan Rogerson]({ site.baseurl }}members/dan-rogerson.html)

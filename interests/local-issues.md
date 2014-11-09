@@ -14,4 +14,4 @@ title: "Local Issues"
 ### Who is interested in Local Issues?
 
 
-* [Mr Alan Reid](../members/mr-alan-reid.html)
+* [Mr Alan Reid]({ site.baseurl }}members/mr-alan-reid.html)

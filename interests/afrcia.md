@@ -14,4 +14,4 @@ title: "Afrcia"
 ### Who is interested in Afrcia?
 
 
-* [Charlotte Leslie](../members/charlotte-leslie.html)
+* [Charlotte Leslie]({ site.baseurl }}members/charlotte-leslie.html)

@@ -14,4 +14,4 @@ title: "Apprenticeships And Youth Training"
 ### Who is interested in Apprenticeships And Youth Training?
 
 
-* [Guy Opperman](../members/guy-opperman.html)
+* [Guy Opperman]({ site.baseurl }}members/guy-opperman.html)

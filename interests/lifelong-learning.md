@@ -14,6 +14,6 @@ title: "Lifelong Learning"
 ### Who is interested in Lifelong Learning?
 
 
-* [Dr Hywel Francis](../members/dr-hywel-francis.html)
-* [Mr Dai Havard](../members/mr-dai-havard.html)
-* [Mr Gordon Marsden](../members/mr-gordon-marsden.html)
+* [Dr Hywel Francis]({ site.baseurl }}members/dr-hywel-francis.html)
+* [Mr Dai Havard]({ site.baseurl }}members/mr-dai-havard.html)
+* [Mr Gordon Marsden]({ site.baseurl }}members/mr-gordon-marsden.html)

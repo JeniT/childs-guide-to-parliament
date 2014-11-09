@@ -14,7 +14,7 @@ title: "Healthcare"
 ### Who is interested in Healthcare?
 
 
-* [Nick de Bois](../members/nick-de-bois.html)
-* [Graham Evans](../members/graham-evans.html)
-* [Dr Phillip Lee](../members/dr-phillip-lee.html)
-* [Penny Mordaunt](../members/penny-mordaunt.html)
+* [Nick de Bois]({ site.baseurl }}members/nick-de-bois.html)
+* [Graham Evans]({ site.baseurl }}members/graham-evans.html)
+* [Dr Phillip Lee]({ site.baseurl }}members/dr-phillip-lee.html)
+* [Penny Mordaunt]({ site.baseurl }}members/penny-mordaunt.html)

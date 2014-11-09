@@ -14,13 +14,13 @@ title: "Nhs"
 ### Who is interested in Nhs?
 
 
-* [Angie Bray](../members/angie-bray.html)
-* [Steve Brine](../members/steve-brine.html)
-* [Rehman Chishti](../members/rehman-chishti.html)
-* [Mr Jim Cunningham](../members/mr-jim-cunningham.html)
-* [Jim Dowd](../members/jim-dowd.html)
-* [Ms Angela Eagle](../members/ms-angela-eagle.html)
-* [Mr Jim Hood](../members/mr-jim-hood.html)
-* [Graeme Morrice](../members/graeme-morrice.html)
-* [Anne Marie Morris](../members/anne-marie-morris.html)
-* [Dr Sarah Wollaston](../members/dr-sarah-wollaston.html)
+* [Angie Bray]({ site.baseurl }}members/angie-bray.html)
+* [Steve Brine]({ site.baseurl }}members/steve-brine.html)
+* [Rehman Chishti]({ site.baseurl }}members/rehman-chishti.html)
+* [Mr Jim Cunningham]({ site.baseurl }}members/mr-jim-cunningham.html)
+* [Jim Dowd]({ site.baseurl }}members/jim-dowd.html)
+* [Ms Angela Eagle]({ site.baseurl }}members/ms-angela-eagle.html)
+* [Mr Jim Hood]({ site.baseurl }}members/mr-jim-hood.html)
+* [Graeme Morrice]({ site.baseurl }}members/graeme-morrice.html)
+* [Anne Marie Morris]({ site.baseurl }}members/anne-marie-morris.html)
+* [Dr Sarah Wollaston]({ site.baseurl }}members/dr-sarah-wollaston.html)

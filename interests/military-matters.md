@@ -14,4 +14,4 @@ title: "Military Matters"
 ### Who is interested in Military Matters?
 
 
-* [Karl McCartney](../members/karl-mccartney.html)
+* [Karl McCartney]({ site.baseurl }}members/karl-mccartney.html)

@@ -14,4 +14,4 @@ title: "Racism"
 ### Who is interested in Racism?
 
 
-* [Jim Fitzpatrick](../members/jim-fitzpatrick.html)
+* [Jim Fitzpatrick]({ site.baseurl }}members/jim-fitzpatrick.html)

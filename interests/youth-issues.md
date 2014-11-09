@@ -14,4 +14,4 @@ title: "Youth Issues"
 ### Who is interested in Youth Issues?
 
 
-* [John Glen](../members/john-glen.html)
+* [John Glen]({ site.baseurl }}members/john-glen.html)

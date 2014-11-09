@@ -14,4 +14,4 @@ title: "Irish Community"
 ### Who is interested in Irish Community?
 
 
-* [Mary Creagh](../members/mary-creagh.html)
+* [Mary Creagh]({ site.baseurl }}members/mary-creagh.html)

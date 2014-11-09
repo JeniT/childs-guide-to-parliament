@@ -14,4 +14,4 @@ title: "Tackling Poverty"
 ### Who is interested in Tackling Poverty?
 
 
-* [Kerry McCarthy](../members/kerry-mccarthy.html)
+* [Kerry McCarthy]({ site.baseurl }}members/kerry-mccarthy.html)

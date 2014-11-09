@@ -14,4 +14,4 @@ title: "Empolyment And Welfare To Work"
 ### Who is interested in Empolyment And Welfare To Work?
 
 
-* [Mr David Blunkett](../members/mr-david-blunkett.html)
+* [Mr David Blunkett]({ site.baseurl }}members/mr-david-blunkett.html)

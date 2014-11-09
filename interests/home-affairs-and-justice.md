@@ -14,4 +14,4 @@ title: "Home Affairs And Justice"
 ### Who is interested in Home Affairs And Justice?
 
 
-* [Mr Chuka Umunna](../members/mr-chuka-umunna.html)
+* [Mr Chuka Umunna]({ site.baseurl }}members/mr-chuka-umunna.html)

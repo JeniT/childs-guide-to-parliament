@@ -14,5 +14,5 @@ title: "Community Issues"
 ### Who is interested in Community Issues?
 
 
-* [Nia Griffith](../members/nia-griffith.html)
-* [Mr Lee Scott](../members/mr-lee-scott.html)
+* [Nia Griffith]({ site.baseurl }}members/nia-griffith.html)
+* [Mr Lee Scott]({ site.baseurl }}members/mr-lee-scott.html)

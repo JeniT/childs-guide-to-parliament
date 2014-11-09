@@ -14,7 +14,7 @@ title: "Community Empowerment"
 ### Who is interested in Community Empowerment?
 
 
-* [Richard Burden](../members/richard-burden.html)
-* [Margaret Curran](../members/margaret-curran.html)
-* [Dame  Tessa Jowell](../members/dame-tessa-jowell.html)
-* [Chris Williamson](../members/chris-williamson.html)
+* [Richard Burden]({ site.baseurl }}members/richard-burden.html)
+* [Margaret Curran]({ site.baseurl }}members/margaret-curran.html)
+* [Dame  Tessa Jowell]({ site.baseurl }}members/dame-tessa-jowell.html)
+* [Chris Williamson]({ site.baseurl }}members/chris-williamson.html)

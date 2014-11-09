@@ -14,4 +14,4 @@ title: "Commerce And Industry"
 ### Who is interested in Commerce And Industry?
 
 
-* [Mr John Hayes](../members/mr-john-hayes.html)
+* [Mr John Hayes]({ site.baseurl }}members/mr-john-hayes.html)

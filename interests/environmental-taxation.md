@@ -14,4 +14,4 @@ title: "Environmental Taxation"
 ### Who is interested in Environmental Taxation?
 
 
-* [Tim Loughton](../members/tim-loughton.html)
+* [Tim Loughton]({ site.baseurl }}members/tim-loughton.html)

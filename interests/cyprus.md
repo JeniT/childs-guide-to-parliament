@@ -14,4 +14,4 @@ title: "Cyprus"
 ### Who is interested in Cyprus?
 
 
-* [Mrs Theresa Villiers](../members/mrs-theresa-villiers.html)
+* [Mrs Theresa Villiers]({ site.baseurl }}members/mrs-theresa-villiers.html)

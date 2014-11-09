@@ -14,8 +14,8 @@ title: "Broadcasting"
 ### Who is interested in Broadcasting?
 
 
-* [Dame  Anne Begg](../members/dame-anne-begg.html)
-* [Chris Bryant](../members/chris-bryant.html)
-* [Sir Roger Gale](../members/sir-roger-gale.html)
-* [Mr Charles Kennedy](../members/mr-charles-kennedy.html)
-* [Jason McCartney](../members/jason-mccartney.html)
+* [Dame  Anne Begg]({ site.baseurl }}members/dame-anne-begg.html)
+* [Chris Bryant]({ site.baseurl }}members/chris-bryant.html)
+* [Sir Roger Gale]({ site.baseurl }}members/sir-roger-gale.html)
+* [Mr Charles Kennedy]({ site.baseurl }}members/mr-charles-kennedy.html)
+* [Jason McCartney]({ site.baseurl }}members/jason-mccartney.html)

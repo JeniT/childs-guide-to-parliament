@@ -14,4 +14,4 @@ title: "Legal Services"
 ### Who is interested in Legal Services?
 
 
-* [Keith Vaz](../members/keith-vaz.html)
+* [Keith Vaz]({ site.baseurl }}members/keith-vaz.html)

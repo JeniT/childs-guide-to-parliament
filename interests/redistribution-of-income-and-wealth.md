@@ -14,4 +14,4 @@ title: "Redistribution Of Income And Wealth"
 ### Who is interested in Redistribution Of Income And Wealth?
 
 
-* [Mr Michael Meacher](../members/mr-michael-meacher.html)
+* [Mr Michael Meacher]({ site.baseurl }}members/mr-michael-meacher.html)

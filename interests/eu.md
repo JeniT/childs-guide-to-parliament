@@ -14,4 +14,4 @@ title: "Eu"
 ### Who is interested in Eu?
 
 
-* [Lorraine Fullbrook](../members/lorraine-fullbrook.html)
+* [Lorraine Fullbrook]({ site.baseurl }}members/lorraine-fullbrook.html)

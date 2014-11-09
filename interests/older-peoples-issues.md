@@ -14,5 +14,5 @@ title: "Older People'S Issues"
 ### Who is interested in Older People'S Issues?
 
 
-* [Tracey Crouch](../members/tracey-crouch.html)
-* [Mrs Mary Glindon](../members/mrs-mary-glindon.html)
+* [Tracey Crouch]({ site.baseurl }}members/tracey-crouch.html)
+* [Mrs Mary Glindon]({ site.baseurl }}members/mrs-mary-glindon.html)

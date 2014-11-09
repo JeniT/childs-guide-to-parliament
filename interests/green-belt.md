@@ -14,4 +14,4 @@ title: "Green Belt"
 ### Who is interested in Green Belt?
 
 
-* [Robert Halfon](../members/robert-halfon.html)
+* [Robert Halfon]({ site.baseurl }}members/robert-halfon.html)

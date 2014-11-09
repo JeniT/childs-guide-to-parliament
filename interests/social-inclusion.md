@@ -14,6 +14,6 @@ title: "Social Inclusion"
 ### Who is interested in Social Inclusion?
 
 
-* [Dame  Anne Begg](../members/dame-anne-begg.html)
-* [Margaret Curran](../members/margaret-curran.html)
-* [Fiona O'Donnell](../members/fiona-odonnell.html)
+* [Dame  Anne Begg]({ site.baseurl }}members/dame-anne-begg.html)
+* [Margaret Curran]({ site.baseurl }}members/margaret-curran.html)
+* [Fiona O'Donnell]({ site.baseurl }}members/fiona-odonnell.html)

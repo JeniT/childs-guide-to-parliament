@@ -14,4 +14,4 @@ title: "Women In Enterprise"
 ### Who is interested in Women In Enterprise?
 
 
-* [Lorely Burt](../members/lorely-burt.html)
+* [Lorely Burt]({ site.baseurl }}members/lorely-burt.html)

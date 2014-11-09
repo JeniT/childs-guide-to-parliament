@@ -14,4 +14,4 @@ title: "Workers' Rights"
 ### Who is interested in Workers' Rights?
 
 
-* [Cathy Jamieson](../members/cathy-jamieson.html)
+* [Cathy Jamieson]({ site.baseurl }}members/cathy-jamieson.html)

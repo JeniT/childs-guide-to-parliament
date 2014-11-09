@@ -14,8 +14,8 @@ title: "Aerospace"
 ### Who is interested in Aerospace?
 
 
-* [Gordon Birtwistle](../members/gordon-birtwistle.html)
-* [Sir Alan Haselhurst](../members/sir-alan-haselhurst.html)
-* [Sir Gerald Howarth](../members/sir-gerald-howarth.html)
-* [Sir Nicholas Soames](../members/sir-nicholas-soames.html)
-* [Mark Tami](../members/mark-tami.html)
+* [Gordon Birtwistle]({ site.baseurl }}members/gordon-birtwistle.html)
+* [Sir Alan Haselhurst]({ site.baseurl }}members/sir-alan-haselhurst.html)
+* [Sir Gerald Howarth]({ site.baseurl }}members/sir-gerald-howarth.html)
+* [Sir Nicholas Soames]({ site.baseurl }}members/sir-nicholas-soames.html)
+* [Mark Tami]({ site.baseurl }}members/mark-tami.html)

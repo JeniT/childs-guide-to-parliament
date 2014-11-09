@@ -14,4 +14,4 @@ title: "Business Growth And Job Creation"
 ### Who is interested in Business Growth And Job Creation?
 
 
-* [Mr David Ward](../members/mr-david-ward.html)
+* [Mr David Ward]({ site.baseurl }}members/mr-david-ward.html)

@@ -14,4 +14,4 @@ title: "Health Issues"
 ### Who is interested in Health Issues?
 
 
-* [Mark Garnier](../members/mark-garnier.html)
+* [Mark Garnier]({ site.baseurl }}members/mark-garnier.html)

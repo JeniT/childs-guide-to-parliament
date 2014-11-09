@@ -14,4 +14,4 @@ title: "Highlands And Islands Issues"
 ### Who is interested in Highlands And Islands Issues?
 
 
-* [Danny Alexander](../members/danny-alexander.html)
+* [Danny Alexander]({ site.baseurl }}members/danny-alexander.html)

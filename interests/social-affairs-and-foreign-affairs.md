@@ -14,4 +14,4 @@ title: "Social Affairs And Foreign Affairs"
 ### Who is interested in Social Affairs And Foreign Affairs?
 
 
-* [Jim Sheridan](../members/jim-sheridan.html)
+* [Jim Sheridan]({ site.baseurl }}members/jim-sheridan.html)

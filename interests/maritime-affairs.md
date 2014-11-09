@@ -14,4 +14,4 @@ title: "Maritime Affairs"
 ### Who is interested in Maritime Affairs?
 
 
-* [David Morris](../members/david-morris.html)
+* [David Morris]({ site.baseurl }}members/david-morris.html)

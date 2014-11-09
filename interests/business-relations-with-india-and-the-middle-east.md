@@ -14,4 +14,4 @@ title: "Business Relations With India And The Middle East"
 ### Who is interested in Business Relations With India And The Middle East?
 
 
-* [Paul Uppal](../members/paul-uppal.html)
+* [Paul Uppal]({ site.baseurl }}members/paul-uppal.html)

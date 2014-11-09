@@ -14,4 +14,4 @@ title: "Local Banking"
 ### Who is interested in Local Banking?
 
 
-* [Guy Opperman](../members/guy-opperman.html)
+* [Guy Opperman]({ site.baseurl }}members/guy-opperman.html)

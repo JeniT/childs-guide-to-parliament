@@ -14,7 +14,7 @@ title: "Training"
 ### Who is interested in Training?
 
 
-* [Charles Hendry](../members/charles-hendry.html)
-* [John Mann](../members/john-mann.html)
-* [Sir James Paice](../members/sir-james-paice.html)
-* [Mr Dave Watts](../members/mr-dave-watts.html)
+* [Charles Hendry]({ site.baseurl }}members/charles-hendry.html)
+* [John Mann]({ site.baseurl }}members/john-mann.html)
+* [Sir James Paice]({ site.baseurl }}members/sir-james-paice.html)
+* [Mr Dave Watts]({ site.baseurl }}members/mr-dave-watts.html)

@@ -14,7 +14,7 @@ title: "Energy Policy"
 ### Who is interested in Energy Policy?
 
 
-* [Mr Russell Brown](../members/mr-russell-brown.html)
-* [Tom Greatrex](../members/tom-greatrex.html)
-* [Mr Michael McCann](../members/mr-michael-mccann.html)
-* [Mr Tim Yeo](../members/mr-tim-yeo.html)
+* [Mr Russell Brown]({ site.baseurl }}members/mr-russell-brown.html)
+* [Tom Greatrex]({ site.baseurl }}members/tom-greatrex.html)
+* [Mr Michael McCann]({ site.baseurl }}members/mr-michael-mccann.html)
+* [Mr Tim Yeo]({ site.baseurl }}members/mr-tim-yeo.html)

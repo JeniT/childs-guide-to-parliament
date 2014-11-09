@@ -14,4 +14,4 @@ title: "Health And Safety"
 ### Who is interested in Health And Safety?
 
 
-* [Mr Russell Brown](../members/mr-russell-brown.html)
+* [Mr Russell Brown]({ site.baseurl }}members/mr-russell-brown.html)

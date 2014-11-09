@@ -14,4 +14,4 @@ title: "Motor Industry"
 ### Who is interested in Motor Industry?
 
 
-* [Mr John Spellar](../members/mr-john-spellar.html)
+* [Mr John Spellar]({ site.baseurl }}members/mr-john-spellar.html)

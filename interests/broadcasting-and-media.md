@@ -14,4 +14,4 @@ title: "Broadcasting And Media"
 ### Who is interested in Broadcasting And Media?
 
 
-* [Michael Fabricant](../members/michael-fabricant.html)
+* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)

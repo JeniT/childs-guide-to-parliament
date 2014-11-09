@@ -14,6 +14,6 @@ title: "Race Relations"
 ### Who is interested in Race Relations?
 
 
-* [Mr Peter Lilley](../members/mr-peter-lilley.html)
-* [Sir Andrew Stunell](../members/sir-andrew-stunell.html)
-* [Keith Vaz](../members/keith-vaz.html)
+* [Mr Peter Lilley]({ site.baseurl }}members/mr-peter-lilley.html)
+* [Sir Andrew Stunell]({ site.baseurl }}members/sir-andrew-stunell.html)
+* [Keith Vaz]({ site.baseurl }}members/keith-vaz.html)

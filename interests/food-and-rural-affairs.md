@@ -14,4 +14,4 @@ title: "Food And Rural Affairs"
 ### Who is interested in Food And Rural Affairs?
 
 
-* [Amber Rudd](../members/amber-rudd.html)
+* [Amber Rudd]({ site.baseurl }}members/amber-rudd.html)

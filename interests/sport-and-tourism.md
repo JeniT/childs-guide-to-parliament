@@ -14,4 +14,4 @@ title: "Sport And Tourism"
 ### Who is interested in Sport And Tourism?
 
 
-* [Mr Don Foster](../members/mr-don-foster.html)
+* [Mr Don Foster]({ site.baseurl }}members/mr-don-foster.html)

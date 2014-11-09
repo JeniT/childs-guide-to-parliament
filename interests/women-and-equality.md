@@ -14,4 +14,4 @@ title: "Women And Equality"
 ### Who is interested in Women And Equality?
 
 
-* [Bridget Phillipson](../members/bridget-phillipson.html)
+* [Bridget Phillipson]({ site.baseurl }}members/bridget-phillipson.html)

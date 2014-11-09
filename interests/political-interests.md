@@ -14,4 +14,4 @@ title: "Political Interests"
 ### Who is interested in Political Interests?
 
 
-* [Mr Ronnie Campbell](../members/mr-ronnie-campbell.html)
+* [Mr Ronnie Campbell]({ site.baseurl }}members/mr-ronnie-campbell.html)

@@ -14,4 +14,4 @@ title: "Broadcasting And Media&#58; Film"
 ### Who is interested in Broadcasting And Media&#58; Film?
 
 
-* [Mr John Whittingdale](../members/mr-john-whittingdale.html)
+* [Mr John Whittingdale]({ site.baseurl }}members/mr-john-whittingdale.html)

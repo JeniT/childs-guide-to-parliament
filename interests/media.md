@@ -14,13 +14,13 @@ title: "Media"
 ### Who is interested in Media?
 
 
-* [Steve Brine](../members/steve-brine.html)
-* [Andy Burnham](../members/andy-burnham.html)
-* [Sir William Cash](../members/sir-william-cash.html)
-* [Mr Don Foster](../members/mr-don-foster.html)
-* [Sir Roger Gale](../members/sir-roger-gale.html)
-* [Damian Green](../members/damian-green.html)
-* [Sir Gerald Howarth](../members/sir-gerald-howarth.html)
-* [Sir Alan Meale](../members/sir-alan-meale.html)
-* [Maria Miller](../members/maria-miller.html)
-* [Austin Mitchell](../members/austin-mitchell.html)
+* [Steve Brine]({ site.baseurl }}members/steve-brine.html)
+* [Andy Burnham]({ site.baseurl }}members/andy-burnham.html)
+* [Sir William Cash]({ site.baseurl }}members/sir-william-cash.html)
+* [Mr Don Foster]({ site.baseurl }}members/mr-don-foster.html)
+* [Sir Roger Gale]({ site.baseurl }}members/sir-roger-gale.html)
+* [Damian Green]({ site.baseurl }}members/damian-green.html)
+* [Sir Gerald Howarth]({ site.baseurl }}members/sir-gerald-howarth.html)
+* [Sir Alan Meale]({ site.baseurl }}members/sir-alan-meale.html)
+* [Maria Miller]({ site.baseurl }}members/maria-miller.html)
+* [Austin Mitchell]({ site.baseurl }}members/austin-mitchell.html)

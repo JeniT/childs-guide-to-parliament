@@ -14,5 +14,5 @@ title: "Racing"
 ### Who is interested in Racing?
 
 
-* [Matthew Hancock](../members/matthew-hancock.html)
-* [Sir Alan Meale](../members/sir-alan-meale.html)
+* [Matthew Hancock]({ site.baseurl }}members/matthew-hancock.html)
+* [Sir Alan Meale]({ site.baseurl }}members/sir-alan-meale.html)

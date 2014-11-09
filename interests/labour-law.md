@@ -14,4 +14,4 @@ title: "Labour Law"
 ### Who is interested in Labour Law?
 
 
-* [Jon Cruddas](../members/jon-cruddas.html)
+* [Jon Cruddas]({ site.baseurl }}members/jon-cruddas.html)

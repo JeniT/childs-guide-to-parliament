@@ -14,4 +14,4 @@ title: "Education Including Science And Technology"
 ### Who is interested in Education Including Science And Technology?
 
 
-* [Stephen McPartland](../members/stephen-mcpartland.html)
+* [Stephen McPartland]({ site.baseurl }}members/stephen-mcpartland.html)

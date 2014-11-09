@@ -14,4 +14,4 @@ title: "Popular Capitalism"
 ### Who is interested in Popular Capitalism?
 
 
-* [Mr John Redwood](../members/mr-john-redwood.html)
+* [Mr John Redwood]({ site.baseurl }}members/mr-john-redwood.html)

@@ -14,6 +14,6 @@ title: "Internet"
 ### Who is interested in Internet?
 
 
-* [Mr Edward Davey](../members/mr-edward-davey.html)
-* [Michael Fabricant](../members/michael-fabricant.html)
-* [Steve Webb](../members/steve-webb.html)
+* [Mr Edward Davey]({ site.baseurl }}members/mr-edward-davey.html)
+* [Michael Fabricant]({ site.baseurl }}members/michael-fabricant.html)
+* [Steve Webb]({ site.baseurl }}members/steve-webb.html)

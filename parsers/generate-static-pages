@@ -149,7 +149,7 @@ INTERESTS_LIST = ''
 
 for interest in INTERESTS_MAP.keys():
     INTERESTS_LIST = INTERESTS_LIST + '''
-* [''' + interest.encode('utf-8') + '](' + slugify(interest) + '.html)'
+* [''' + interest.encode('utf-8') + ']({{ site.baseurl }}interests/' + slugify(interest) + '.html)'
 
 INTERESTS_DATA = {
     'interests_list': INTERESTS_LIST
@@ -168,7 +168,7 @@ for interest, people in INTERESTS_MAP.iteritems():
 
     for person in people:
         interests_people_list = interests_people_list + '''
-* [''' + MEMBER_ALL_LIST[person]['display_name'] + '](../members/' + MEMBER_ALL_LIST[person]['slug'] + '.html)'
+* [''' + MEMBER_ALL_LIST[person]['display_name'] + ']({ site.baseurl }}members/' + MEMBER_ALL_LIST[person]['slug'] + '.html)'
 
     interest_data = {
         'slug': interest_slug,

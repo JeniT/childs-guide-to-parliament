@@ -14,4 +14,4 @@ title: "Car Industry"
 ### Who is interested in Car Industry?
 
 
-* [Mr Andrew Smith](../members/mr-andrew-smith.html)
+* [Mr Andrew Smith]({ site.baseurl }}members/mr-andrew-smith.html)

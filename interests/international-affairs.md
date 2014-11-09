@@ -14,12 +14,12 @@ title: "International Affairs"
 ### Who is interested in International Affairs?
 
 
-* [Neil Carmichael](../members/neil-carmichael.html)
-* [Mr Philip Dunne](../members/mr-philip-dunne.html)
-* [Mike Gapes](../members/mike-gapes.html)
-* [Mrs Cheryl Gillan](../members/mrs-cheryl-gillan.html)
-* [Mark Hunter](../members/mark-hunter.html)
-* [Sadiq Khan](../members/sadiq-khan.html)
-* [Mr Gordon Marsden](../members/mr-gordon-marsden.html)
-* [Mr Jim Murphy](../members/mr-jim-murphy.html)
-* [Mr Alan Reid](../members/mr-alan-reid.html)
+* [Neil Carmichael]({ site.baseurl }}members/neil-carmichael.html)
+* [Mr Philip Dunne]({ site.baseurl }}members/mr-philip-dunne.html)
+* [Mike Gapes]({ site.baseurl }}members/mike-gapes.html)
+* [Mrs Cheryl Gillan]({ site.baseurl }}members/mrs-cheryl-gillan.html)
+* [Mark Hunter]({ site.baseurl }}members/mark-hunter.html)
+* [Sadiq Khan]({ site.baseurl }}members/sadiq-khan.html)
+* [Mr Gordon Marsden]({ site.baseurl }}members/mr-gordon-marsden.html)
+* [Mr Jim Murphy]({ site.baseurl }}members/mr-jim-murphy.html)
+* [Mr Alan Reid]({ site.baseurl }}members/mr-alan-reid.html)

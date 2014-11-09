@@ -14,5 +14,5 @@ title: "Vocational Education"
 ### Who is interested in Vocational Education?
 
 
-* [Jackie Doyle-Price](../members/jackie-doyle-price.html)
-* [Justine Greening](../members/justine-greening.html)
+* [Jackie Doyle-Price]({ site.baseurl }}members/jackie-doyle-price.html)
+* [Justine Greening]({ site.baseurl }}members/justine-greening.html)

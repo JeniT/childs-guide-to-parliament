@@ -14,4 +14,4 @@ title: "Government Reform"
 ### Who is interested in Government Reform?
 
 
-* [Frank Dobson](../members/frank-dobson.html)
+* [Frank Dobson]({ site.baseurl }}members/frank-dobson.html)

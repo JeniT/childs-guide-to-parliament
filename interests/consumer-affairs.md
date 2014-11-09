@@ -14,4 +14,4 @@ title: "Consumer Affairs"
 ### Who is interested in Consumer Affairs?
 
 
-* [Nick Smith](../members/nick-smith.html)
+* [Nick Smith]({ site.baseurl }}members/nick-smith.html)

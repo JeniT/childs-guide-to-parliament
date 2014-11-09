@@ -14,4 +14,4 @@ title: "Health Services And Health Professions"
 ### Who is interested in Health Services And Health Professions?
 
 
-* [Andrew George](../members/andrew-george.html)
+* [Andrew George]({ site.baseurl }}members/andrew-george.html)

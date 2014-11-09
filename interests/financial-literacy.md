@@ -14,4 +14,4 @@ title: "Financial Literacy"
 ### Who is interested in Financial Literacy?
 
 
-* [Harriett Baldwin](../members/harriett-baldwin.html)
+* [Harriett Baldwin]({ site.baseurl }}members/harriett-baldwin.html)

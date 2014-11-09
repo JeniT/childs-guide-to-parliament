@@ -14,4 +14,4 @@ title: "Organ Donation"
 ### Who is interested in Organ Donation?
 
 
-* [Paul Uppal](../members/paul-uppal.html)
+* [Paul Uppal]({ site.baseurl }}members/paul-uppal.html)

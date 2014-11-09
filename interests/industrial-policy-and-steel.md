@@ -14,4 +14,4 @@ title: "Industrial Policy And Steel"
 ### Who is interested in Industrial Policy And Steel?
 
 
-* [Huw Irranca-Davies](../members/huw-irranca-davies.html)
+* [Huw Irranca-Davies]({ site.baseurl }}members/huw-irranca-davies.html)

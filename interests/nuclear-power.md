@@ -14,4 +14,4 @@ title: "Nuclear Power"
 ### Who is interested in Nuclear Power?
 
 
-* [David Mowat](../members/david-mowat.html)
+* [David Mowat]({ site.baseurl }}members/david-mowat.html)

@@ -14,4 +14,4 @@ title: "Anti-Common Market"
 ### Who is interested in Anti-Common Market?
 
 
-* [Mr Dennis Skinner](../members/mr-dennis-skinner.html)
+* [Mr Dennis Skinner]({ site.baseurl }}members/mr-dennis-skinner.html)

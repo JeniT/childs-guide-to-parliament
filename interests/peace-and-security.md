@@ -14,4 +14,4 @@ title: "Peace And Security"
 ### Who is interested in Peace And Security?
 
 
-* [Nicola Blackwood](../members/nicola-blackwood.html)
+* [Nicola Blackwood]({ site.baseurl }}members/nicola-blackwood.html)
