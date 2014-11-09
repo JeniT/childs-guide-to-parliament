@@ -149,7 +149,7 @@ INTERESTS_LIST = ''
 
 for interest in INTERESTS_MAP.keys():
     INTERESTS_LIST = INTERESTS_LIST + '''
-* [''' + interest.encode('utf-8') + ']({{ site.baseurl }}interests/' + slugify(interest) + '.html)'
+* [''' + interest.encode('utf-8') + ']({{ site.baseurl }}/interests/' + slugify(interest) + '.html)'
 
 INTERESTS_DATA = {
     'interests_list': INTERESTS_LIST
