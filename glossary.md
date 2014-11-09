@@ -15,7 +15,7 @@ title: Glossary
 
 **Minister** - an MP or Lord who also has a special job in Goverment, making important decisions about how the country is run.
 
-**Prime Minister** - the leader of the country. This is usually the person in charge of the Party with the most MPs in the House of Commons.
+**Prime Minister** - the leader of the country. This is usually the person in charge of the Party with the most MPs in the House of Commons. The current Prime Minister is David Cameron from the Conservative Party.
 
 **Hon** or **Honourable** - a title used by MPs to refer to each other. Instead of saying someone's name when in the House of Commons, an MP is referred to as "*the Honourable Member for ...*" then the name of their constituency.
 
@@ -33,15 +33,13 @@ title: Glossary
 
 ## Voting
 
-**Party** - a group of people who share the similar opinions. The aim of a Party is to win elections by getting lots of their members elected as MPs.
-
 **General Election** - a special election, held once every four or five years, when people can choose who they want to be their local MP
 
 ## Laws
 
 **Legislature** - a special name for a group of people, usually elected, who together can make new laws
 
-**Legislation** - the written laws that Parliament has made
+**Legislation** - the written laws that Parliament has made. You can find them on [www.legislation.gov.uk](www.legislation.gov.uk)
 
 **Bill** - a possible new law for discussion by MPs and Lords
  
@@ -53,9 +51,29 @@ title: Glossary
 
 **Amendment** - a proposal to change the wording of a Clause in a Bill.
 
-
 ## Law making
 
-Debate - 
+**Debate** - 
 
-Reading - 
+**Reading** - 
+
+## Politics
+
+**Party** - a group of people who share the similar opinions. The aim of a Party is to win elections by getting lots of their members elected as MPs.
+
+** Conservative Party**
+
+** Labour Party**
+
+** Liberal Democrats**
+
+** Scottish Nationalist Party**
+
+** Green Party **
+
+** United Kingdom Independence Party**
+
+
+
+
+
