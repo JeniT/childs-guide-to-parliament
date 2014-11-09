@@ -18,9 +18,9 @@ house: commons
         <h3>What is Simon Kirby interested in?</h3>
 
         
-<li><a href="../interests/business.html">Business</a></li>
-<li><a href="../interests/older-people.html">Older People</a></li>
-<li><a href="../interests/hiv-and-aids.html">Hiv And Aids</a></li>
+<li><a href="http://jenit.github.io/childs-guide-to-parliament/interests/business.html">Business</a></li>
+<li><a href="http://jenit.github.io/childs-guide-to-parliament/interests/older-people.html">Older People</a></li>
+<li><a href="http://jenit.github.io/childs-guide-to-parliament/interests/hiv-and-aids.html">Hiv And Aids</a></li>
 
     </div>
     <div class="col-md-4">
@@ -42,7 +42,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/brighton-kemptown.geojson')
+                        .loadURL('{{ site.baseurl }}/data/boundaries/brighton-kemptown.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {
@@ -51,7 +51,7 @@ house: commons
 
                 </script>
 
-                <p class="small"><a href="{{site.baseurl}}/glossary.html#constituency">What is a constituency?</a><p>
+                <p class="small"><a href="{{ site.baseurl }}/glossary.html#constituency">What is a constituency?</a><p>
             </div>
         </div>
 
@@ -62,7 +62,7 @@ house: commons
             <div class="panel-body">
                 <p>Simon Kirby is an MP in the <b>Conservative</b> party.</p>
 
-                <p class="small"><a href="{{site.baseurl}}/glossary.html#party">What is a party?</a><p>
+                <p class="small"><a href="{{ site.baseurl }}/glossary.html#party">What is a party?</a><p>
             </div>
         </div>
 
