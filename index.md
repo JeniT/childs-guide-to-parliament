@@ -9,7 +9,7 @@ title: Parliament
 
 There's lots of fun things here about the United Kingdom Parliament. You will find cool facts and figures, videos and tonnes of information about what Parliament does. 
 
-To help you, we've made a glossary explaining some of the weird words people in Parliament use. There's also a quiz to test your knowledge. Best of all you can **find out which MPs are most interested in kittens!** (actually you can find out about lots of areas of [interest](interests.html), we just care about kittens!).
+To help you, we've made a glossary explaining some of the weird words people in Parliament use. There's also a quiz to test your knowledge. Best of all you can **find out which MPs are most interested in kittens!** (actually you can find out about lots of areas of [interest](http://jenit.github.io/childs-guide-to-parliament/interests/), we just care about kittens!).
 
 ##What does Parliament do?
 
