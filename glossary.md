@@ -17,7 +17,9 @@ title: Glossary
 
 **Hon** or **Honourable** - a title used by MPs to refer to each other. Instead of saying someone's name when in the House of Commons, an MP is referred to as "*the Honourable Member for ...*" then the name of their constituency.
 
-**Rt Hon** or **Right Honourable** - a special title for some MPs who have become an important Minister in the Government 
+**Rt Hon** or **Right Honourable** - a special title for some MPs who have become an important Minister in the Government
+
+**Clerk** - people who work at the House of Commons or House of Lords. They organise everything, to help MPs and Lords to make new laws.
 
 ## Places
 
@@ -26,6 +28,18 @@ title: Glossary
 **Palace of Westminster** - the building by the River Thames where Parliament is based. It has two towers, the Victoria Tower and the Clock Tower, which is usually called *Big Ben*. 
 
 **Constituency** - [*con-stit-you-en-see*], the place where a local MP comes from. Each MP represents the people from a constituency, in Parliament.
+
+## Organisations
+
+**Government**
+
+**Parliament** - the name given to the House of Commons and the House of Lords, who together make new laws for the country.
+
+**House of Commons**
+
+**House of Lords**
+
+**European Union** - a group of countries who have agreed to work very closely together, to agree shared laws.
 
 ## Voting
 
@@ -61,17 +75,17 @@ title: Glossary
 
 **Party** - a group of people who share the similar opinions. The aim of a Party is to win elections by getting lots of their members elected as MPs.
 
-** Conservative Party**
+**Conservative Party** - the biggest Party in Parliament, with most MPs. The Conservative Party is currently in Government, which means they are making most of the important decisions for the country. David Cameron, the Prime Minister, leads the Conservative Party.
 
-** Labour Party**
+**Labour Party** - the second biggest Party in Parliament, currently the opposition. MPs and Lords from the Labour Party try to stop Bills proposed by the Government from becoming law.
 
-** Liberal Democrats**
+**Liberal Democrats** - the third largest Party. Since the last general election in 2010, MPs and Lords from the Liberal Democrats have been working with people from the Conservative Party, as part of the Coalition Goverment.
 
-** Scottish Nationalist Party**
+**Scottish Nationalist Party** - a Party that wants Scotland to be an independent country.
 
-** Green Party **
+**Green Party** - a Party that wants more policies that protect the environment.
 
-** United Kingdom Independence Party**
+**United Kingdom Independence Party** - a Party that wants the UK to leave the European Union.
 
 
 
