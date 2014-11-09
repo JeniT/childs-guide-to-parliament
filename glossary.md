@@ -3,8 +3,6 @@ layout: default
 title: Glossary
 ---
 
-# Glossary
-
 ## People
 
 **Member of Parliament** or **MP**. Someone elected by the people in a particular constituency to represent them in the [House of Commons](commons.html).
@@ -25,13 +23,13 @@ title: Glossary
 
 **Chamber** - the name for the special rooms used by MPs and Lords, when they are discussing new laws. The chamber for MPs is often called the *House of Commons* and the chamber for Lords is often called the *House of Lords*.
 
-**House** - 
-
 **Palace of Westminster** - the building by the River Thames where Parliament is based. It has two towers, the Victoria Tower and the Clock Tower, which is usually called *Big Ben*. 
 
-**Constituency** - [*con-stit-you-en-see*], the place where a local MP comes from
+**Constituency** - [*con-stit-you-en-see*], the place where a local MP comes from. Each MP represents the people from a constituency, in Parliament.
 
 ## Voting
+
+**Franchise** - a word meaning who has the right to vote at elections. All British people who are 18 years old or more can vote, except for people in prison.
 
 **General Election** - a special election, held once every four or five years, when people can choose who they want to be their local MP
 
@@ -41,7 +39,7 @@ title: Glossary
 
 **Legislation** - the written laws that Parliament has made. You can find them on [www.legislation.gov.uk](www.legislation.gov.uk)
 
-**Bill** - a possible new law for discussion by MPs and Lords
+**Bill** - a possible new law for discussion by MPs and Lords. Most Bills are written by lawyers who work for the Government. Some Bills are proposed by individual MPs. These are called *Private Members Bills*.
  
 **Act** - short for an Act of Parliament. This is a new law once it has been agreed by Parliament.
 
@@ -53,9 +51,11 @@ title: Glossary
 
 ## Law making
 
-**Debate** - 
+**Debate** - a discussion in Parliament about whether a proposed law is a good or a bad idea.
 
-**Reading** - 
+**Reading** - a special word used to describe a stage in the process of agreeing a new law.
+
+**Ping pong** - This is not the bat and ball game! It is the term used to describe the very final stage before a Bill becomes an Act, resolving any last differences of opinion between the House of Commons and the House of Lords.
 
 ## Politics
 
