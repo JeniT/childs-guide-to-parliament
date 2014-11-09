@@ -19,3 +19,8 @@ Parliment makes laws:
 
 Laws start of as Green papers, change to White papers, and, after discussion, from Bills to Laws.
 
+##Take the Parliament Quiz!
+
+<a href="http://scratch.mit.edu/projects/33363886/">
+	<img src="assets/images/parliquiz.jpg">
+</a>
