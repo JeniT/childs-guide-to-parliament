@@ -7,7 +7,7 @@ title: Glossary
 
 ## People
 
-MP - a Member of Parliament. Someone elected by the people in a particular constituency to represent them in the [House of Commons](commons.html).
+Member of Parliament or MP. Someone elected by the people in a particular constituency to represent them in the [House of Commons](commons.html).
 
 Lord - a member of the [House of Lords](lords.html). They are appointed rather than being elected by the people. Some judges and some Church of England Bishops are also members of the House of Lords.
 
