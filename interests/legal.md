@@ -14,4 +14,4 @@ title: "Legal"
 ### Who is interested in Legal?
 
 
-* [Valerie Vaz](members/valerie-vaz.html)
+* [Valerie Vaz](../members/valerie-vaz.html)

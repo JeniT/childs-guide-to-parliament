@@ -14,4 +14,4 @@ title: "Social Issues"
 ### Who is interested in Social Issues?
 
 
-* [Sammy Wilson](members/sammy-wilson.html)
+* [Sammy Wilson](../members/sammy-wilson.html)

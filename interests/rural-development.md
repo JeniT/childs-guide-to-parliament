@@ -14,6 +14,6 @@ title: "Rural Development"
 ### Who is interested in Rural Development?
 
 
-* [Guto Bebb](members/guto-bebb.html)
-* [Mrs Anne McGuire](members/mrs-anne-mcguire.html)
-* [Mr Alan Reid](members/mr-alan-reid.html)
+* [Guto Bebb](../members/guto-bebb.html)
+* [Mrs Anne McGuire](../members/mrs-anne-mcguire.html)
+* [Mr Alan Reid](../members/mr-alan-reid.html)

@@ -14,13 +14,13 @@ title: "Nhs"
 ### Who is interested in Nhs?
 
 
-* [Angie Bray](members/angie-bray.html)
-* [Steve Brine](members/steve-brine.html)
-* [Rehman Chishti](members/rehman-chishti.html)
-* [Mr Jim Cunningham](members/mr-jim-cunningham.html)
-* [Jim Dowd](members/jim-dowd.html)
-* [Ms Angela Eagle](members/ms-angela-eagle.html)
-* [Mr Jim Hood](members/mr-jim-hood.html)
-* [Graeme Morrice](members/graeme-morrice.html)
-* [Anne Marie Morris](members/anne-marie-morris.html)
-* [Dr Sarah Wollaston](members/dr-sarah-wollaston.html)
+* [Angie Bray](../members/angie-bray.html)
+* [Steve Brine](../members/steve-brine.html)
+* [Rehman Chishti](../members/rehman-chishti.html)
+* [Mr Jim Cunningham](../members/mr-jim-cunningham.html)
+* [Jim Dowd](../members/jim-dowd.html)
+* [Ms Angela Eagle](../members/ms-angela-eagle.html)
+* [Mr Jim Hood](../members/mr-jim-hood.html)
+* [Graeme Morrice](../members/graeme-morrice.html)
+* [Anne Marie Morris](../members/anne-marie-morris.html)
+* [Dr Sarah Wollaston](../members/dr-sarah-wollaston.html)

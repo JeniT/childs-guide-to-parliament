@@ -14,4 +14,4 @@ title: "Democracy And Accountibility"
 ### Who is interested in Democracy And Accountibility?
 
 
-* [Mr Michael Meacher](members/mr-michael-meacher.html)
+* [Mr Michael Meacher](../members/mr-michael-meacher.html)

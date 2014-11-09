@@ -14,4 +14,4 @@ title: "Economy And Enterprise"
 ### Who is interested in Economy And Enterprise?
 
 
-* [Michael Connarty](members/michael-connarty.html)
+* [Michael Connarty](../members/michael-connarty.html)

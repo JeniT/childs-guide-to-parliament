@@ -14,4 +14,4 @@ title: "Regeneration Of Seaside Towns"
 ### Who is interested in Regeneration Of Seaside Towns?
 
 
-* [Chris Ruane](members/chris-ruane.html)
+* [Chris Ruane](../members/chris-ruane.html)

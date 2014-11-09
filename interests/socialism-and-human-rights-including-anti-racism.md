@@ -14,4 +14,4 @@ title: "Socialism And Human Rights Including Anti Racism"
 ### Who is interested in Socialism And Human Rights Including Anti Racism?
 
 
-* [Jeremy Corbyn](members/jeremy-corbyn.html)
+* [Jeremy Corbyn](../members/jeremy-corbyn.html)

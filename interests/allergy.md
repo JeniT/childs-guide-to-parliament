@@ -14,4 +14,4 @@ title: "Allergy"
 ### Who is interested in Allergy?
 
 
-* [Jo Swinson](members/jo-swinson.html)
+* [Jo Swinson](../members/jo-swinson.html)

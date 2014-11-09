@@ -14,6 +14,6 @@ title: "Domestic Violence"
 ### Who is interested in Domestic Violence?
 
 
-* [Andrew George](members/andrew-george.html)
-* [Ms Harriet Harman](members/ms-harriet-harman.html)
-* [Tessa Munt](members/tessa-munt.html)
+* [Andrew George](../members/andrew-george.html)
+* [Ms Harriet Harman](../members/ms-harriet-harman.html)
+* [Tessa Munt](../members/tessa-munt.html)

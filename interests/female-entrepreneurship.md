@@ -14,4 +14,4 @@ title: "Female Entrepreneurship"
 ### Who is interested in Female Entrepreneurship?
 
 
-* [Seema Malhotra](members/seema-malhotra.html)
+* [Seema Malhotra](../members/seema-malhotra.html)

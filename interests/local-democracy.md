@@ -14,4 +14,4 @@ title: "Local Democracy"
 ### Who is interested in Local Democracy?
 
 
-* [Rory Stewart](members/rory-stewart.html)
+* [Rory Stewart](../members/rory-stewart.html)

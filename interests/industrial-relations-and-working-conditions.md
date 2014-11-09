@@ -14,4 +14,4 @@ title: "Industrial Relations And Working Conditions"
 ### Who is interested in Industrial Relations And Working Conditions?
 
 
-* [Mr Dai Havard](members/mr-dai-havard.html)
+* [Mr Dai Havard](../members/mr-dai-havard.html)

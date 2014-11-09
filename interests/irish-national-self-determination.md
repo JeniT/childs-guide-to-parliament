@@ -14,4 +14,4 @@ title: "Irish National Self-Determination"
 ### Who is interested in Irish National Self-Determination?
 
 
-* [Mr Pat Doherty](members/mr-pat-doherty.html)
+* [Mr Pat Doherty](../members/mr-pat-doherty.html)

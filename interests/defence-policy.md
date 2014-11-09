@@ -14,4 +14,4 @@ title: "Defence Policy"
 ### Who is interested in Defence Policy?
 
 
-* [Laura Sandys](members/laura-sandys.html)
+* [Laura Sandys](../members/laura-sandys.html)

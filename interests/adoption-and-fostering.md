@@ -14,4 +14,4 @@ title: "Adoption And Fostering"
 ### Who is interested in Adoption And Fostering?
 
 
-* [Mr Edward Timpson](members/mr-edward-timpson.html)
+* [Mr Edward Timpson](../members/mr-edward-timpson.html)

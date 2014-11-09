@@ -14,4 +14,4 @@ title: "Bioethics"
 ### Who is interested in Bioethics?
 
 
-* [George Freeman](members/george-freeman.html)
+* [George Freeman](../members/george-freeman.html)

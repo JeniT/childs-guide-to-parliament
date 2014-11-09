@@ -14,4 +14,4 @@ title: "Free Enterprise"
 ### Who is interested in Free Enterprise?
 
 
-* [Sajid Javid](members/sajid-javid.html)
+* [Sajid Javid](../members/sajid-javid.html)

@@ -14,4 +14,4 @@ title: "Welfare Of The Elderly And Disabled People"
 ### Who is interested in Welfare Of The Elderly And Disabled People?
 
 
-* [Mr John Hayes](members/mr-john-hayes.html)
+* [Mr John Hayes](../members/mr-john-hayes.html)

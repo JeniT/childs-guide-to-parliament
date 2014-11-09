@@ -14,8 +14,8 @@ title: "Women"
 ### Who is interested in Women?
 
 
-* [Nicola Blackwood](members/nicola-blackwood.html)
-* [Mrs Helen Grant](members/mrs-helen-grant.html)
-* [Ms Harriet Harman](members/ms-harriet-harman.html)
-* [Meg Munn](members/meg-munn.html)
-* [Dame Joan Ruddock](members/dame-joan-ruddock.html)
+* [Nicola Blackwood](../members/nicola-blackwood.html)
+* [Mrs Helen Grant](../members/mrs-helen-grant.html)
+* [Ms Harriet Harman](../members/ms-harriet-harman.html)
+* [Meg Munn](../members/meg-munn.html)
+* [Dame Joan Ruddock](../members/dame-joan-ruddock.html)

@@ -14,5 +14,5 @@ title: "Construction Industry"
 ### Who is interested in Construction Industry?
 
 
-* [Steve Rotheram](members/steve-rotheram.html)
-* [Mr John Spellar](members/mr-john-spellar.html)
+* [Steve Rotheram](../members/steve-rotheram.html)
+* [Mr John Spellar](../members/mr-john-spellar.html)

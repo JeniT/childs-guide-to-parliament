@@ -14,4 +14,4 @@ title: "Trade Policy"
 ### Who is interested in Trade Policy?
 
 
-* [Sir Malcolm Bruce](members/sir-malcolm-bruce.html)
+* [Sir Malcolm Bruce](../members/sir-malcolm-bruce.html)

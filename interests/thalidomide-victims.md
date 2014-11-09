@@ -14,4 +14,4 @@ title: "Thalidomide Victims"
 ### Who is interested in Thalidomide Victims?
 
 
-* [Alec Shelbrooke](members/alec-shelbrooke.html)
+* [Alec Shelbrooke](../members/alec-shelbrooke.html)

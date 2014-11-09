@@ -14,4 +14,4 @@ title: "Local Services"
 ### Who is interested in Local Services?
 
 
-* [Dan Rogerson](members/dan-rogerson.html)
+* [Dan Rogerson](../members/dan-rogerson.html)

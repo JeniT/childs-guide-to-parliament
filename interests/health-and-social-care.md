@@ -14,5 +14,5 @@ title: "Health And Social Care"
 ### Who is interested in Health And Social Care?
 
 
-* [Barbara Keeley](members/barbara-keeley.html)
-* [Anne Milton](members/anne-milton.html)
+* [Barbara Keeley](../members/barbara-keeley.html)
+* [Anne Milton](../members/anne-milton.html)

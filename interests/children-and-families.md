@@ -14,5 +14,5 @@ title: "Children And Families"
 ### Who is interested in Children And Families?
 
 
-* [Mrs Helen Grant](members/mrs-helen-grant.html)
-* [Tessa Munt](members/tessa-munt.html)
+* [Mrs Helen Grant](../members/mrs-helen-grant.html)
+* [Tessa Munt](../members/tessa-munt.html)

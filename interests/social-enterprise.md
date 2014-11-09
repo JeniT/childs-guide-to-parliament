@@ -14,4 +14,4 @@ title: "Social Enterprise"
 ### Who is interested in Social Enterprise?
 
 
-* [Harriett Baldwin](members/harriett-baldwin.html)
+* [Harriett Baldwin](../members/harriett-baldwin.html)

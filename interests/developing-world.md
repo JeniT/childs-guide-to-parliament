@@ -14,4 +14,4 @@ title: "Developing World"
 ### Who is interested in Developing World?
 
 
-* [Mr Gary Streeter](members/mr-gary-streeter.html)
+* [Mr Gary Streeter](../members/mr-gary-streeter.html)

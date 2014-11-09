@@ -14,4 +14,4 @@ title: "Housing Development"
 ### Who is interested in Housing Development?
 
 
-* [Greg Clark](members/greg-clark.html)
+* [Greg Clark](../members/greg-clark.html)

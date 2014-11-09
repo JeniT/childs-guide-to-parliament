@@ -14,4 +14,4 @@ title: "Parliamentary And Constitutional Affairs"
 ### Who is interested in Parliamentary And Constitutional Affairs?
 
 
-* [Sir Alan Beith](members/sir-alan-beith.html)
+* [Sir Alan Beith](../members/sir-alan-beith.html)

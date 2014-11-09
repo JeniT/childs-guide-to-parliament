@@ -14,4 +14,4 @@ title: "Equality Issues"
 ### Who is interested in Equality Issues?
 
 
-* [Fiona O'Donnell](members/fiona-odonnell.html)
+* [Fiona O'Donnell](../members/fiona-odonnell.html)

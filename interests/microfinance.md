@@ -14,5 +14,5 @@ title: "Microfinance"
 ### Who is interested in Microfinance?
 
 
-* [Annette Brooke](members/annette-brooke.html)
-* [Stephen Lloyd](members/stephen-lloyd.html)
+* [Annette Brooke](../members/annette-brooke.html)
+* [Stephen Lloyd](../members/stephen-lloyd.html)

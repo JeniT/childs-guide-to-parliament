@@ -14,4 +14,4 @@ title: "Legal Reform"
 ### Who is interested in Legal Reform?
 
 
-* [Austin Mitchell](members/austin-mitchell.html)
+* [Austin Mitchell](../members/austin-mitchell.html)

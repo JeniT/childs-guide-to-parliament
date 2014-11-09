@@ -14,5 +14,5 @@ title: "Church Affairs"
 ### Who is interested in Church Affairs?
 
 
-* [Alistair Burt](members/alistair-burt.html)
-* [Mr Frank Field](members/mr-frank-field.html)
+* [Alistair Burt](../members/alistair-burt.html)
+* [Mr Frank Field](../members/mr-frank-field.html)

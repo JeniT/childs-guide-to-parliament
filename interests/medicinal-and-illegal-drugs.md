@@ -14,4 +14,4 @@ title: "Medicinal And Illegal Drugs"
 ### Who is interested in Medicinal And Illegal Drugs?
 
 
-* [Paul Flynn](members/paul-flynn.html)
+* [Paul Flynn](../members/paul-flynn.html)

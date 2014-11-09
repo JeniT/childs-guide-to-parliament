@@ -14,6 +14,6 @@ title: "Criminal Justice"
 ### Who is interested in Criminal Justice?
 
 
-* [Mr Robert Buckland](members/mr-robert-buckland.html)
-* [Mr Alistair Carmichael](members/mr-alistair-carmichael.html)
-* [Jeremy Wright](members/jeremy-wright.html)
+* [Mr Robert Buckland](../members/mr-robert-buckland.html)
+* [Mr Alistair Carmichael](../members/mr-alistair-carmichael.html)
+* [Jeremy Wright](../members/jeremy-wright.html)

@@ -14,9 +14,9 @@ title: "Farming"
 ### Who is interested in Farming?
 
 
-* [George Eustice](members/george-eustice.html)
-* [Andrew Griffiths](members/andrew-griffiths.html)
-* [Mr Ian Liddell-Grainger](members/mr-ian-liddell-grainger.html)
-* [Mr Alan Reid](members/mr-alan-reid.html)
-* [Jim Shannon](members/jim-shannon.html)
-* [Mr Keith Simpson](members/mr-keith-simpson.html)
+* [George Eustice](../members/george-eustice.html)
+* [Andrew Griffiths](../members/andrew-griffiths.html)
+* [Mr Ian Liddell-Grainger](../members/mr-ian-liddell-grainger.html)
+* [Mr Alan Reid](../members/mr-alan-reid.html)
+* [Jim Shannon](../members/jim-shannon.html)
+* [Mr Keith Simpson](../members/mr-keith-simpson.html)

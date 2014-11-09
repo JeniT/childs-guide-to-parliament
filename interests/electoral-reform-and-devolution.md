@@ -14,4 +14,4 @@ title: "Electoral Reform And Devolution"
 ### Who is interested in Electoral Reform And Devolution?
 
 
-* [Mr Peter Hain](members/mr-peter-hain.html)
+* [Mr Peter Hain](../members/mr-peter-hain.html)

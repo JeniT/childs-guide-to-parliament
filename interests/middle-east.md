@@ -14,5 +14,5 @@ title: "Middle East"
 ### Who is interested in Middle East?
 
 
-* [Sir Alan Duncan](members/sir-alan-duncan.html)
-* [Sarah Teather](members/sarah-teather.html)
+* [Sir Alan Duncan](../members/sir-alan-duncan.html)
+* [Sarah Teather](../members/sarah-teather.html)

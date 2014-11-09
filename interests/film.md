@@ -14,4 +14,4 @@ title: "Film"
 ### Who is interested in Film?
 
 
-* [Mike Weatherley](members/mike-weatherley.html)
+* [Mike Weatherley](../members/mike-weatherley.html)

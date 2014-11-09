@@ -14,4 +14,4 @@ title: "Bovine Tb"
 ### Who is interested in Bovine Tb?
 
 
-* [Dr Sarah Wollaston](members/dr-sarah-wollaston.html)
+* [Dr Sarah Wollaston](../members/dr-sarah-wollaston.html)

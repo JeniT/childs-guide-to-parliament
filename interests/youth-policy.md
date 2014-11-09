@@ -14,6 +14,6 @@ title: "Youth Policy"
 ### Who is interested in Youth Policy?
 
 
-* [Mr Liam Byrne](members/mr-liam-byrne.html)
-* [Chris Heaton-Harris](members/chris-heaton-harris.html)
-* [Charles Hendry](members/charles-hendry.html)
+* [Mr Liam Byrne](../members/mr-liam-byrne.html)
+* [Chris Heaton-Harris](../members/chris-heaton-harris.html)
+* [Charles Hendry](../members/charles-hendry.html)

@@ -14,4 +14,4 @@ title: "Electoral Registration"
 ### Who is interested in Electoral Registration?
 
 
-* [Chris Ruane](members/chris-ruane.html)
+* [Chris Ruane](../members/chris-ruane.html)

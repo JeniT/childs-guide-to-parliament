@@ -14,4 +14,4 @@ title: "Manufacturing And Trade"
 ### Who is interested in Manufacturing And Trade?
 
 
-* [Ian Austin](members/ian-austin.html)
+* [Ian Austin](../members/ian-austin.html)

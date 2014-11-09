@@ -14,4 +14,4 @@ title: "Child Protection Policy"
 ### Who is interested in Child Protection Policy?
 
 
-* [Mr Adrian Bailey](members/mr-adrian-bailey.html)
+* [Mr Adrian Bailey](../members/mr-adrian-bailey.html)

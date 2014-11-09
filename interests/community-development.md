@@ -14,5 +14,5 @@ title: "Community Development"
 ### Who is interested in Community Development?
 
 
-* [Ann Coffey](members/ann-coffey.html)
-* [Sir Alan Haselhurst](members/sir-alan-haselhurst.html)
+* [Ann Coffey](../members/ann-coffey.html)
+* [Sir Alan Haselhurst](../members/sir-alan-haselhurst.html)

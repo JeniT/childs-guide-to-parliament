@@ -14,5 +14,5 @@ title: "Elderly"
 ### Who is interested in Elderly?
 
 
-* [John Pugh](members/john-pugh.html)
-* [Mr Alan Reid](members/mr-alan-reid.html)
+* [John Pugh](../members/john-pugh.html)
+* [Mr Alan Reid](../members/mr-alan-reid.html)

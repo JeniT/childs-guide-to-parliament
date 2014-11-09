@@ -14,5 +14,5 @@ title: "Intellectual Property"
 ### Who is interested in Intellectual Property?
 
 
-* [Mike Weatherley](members/mike-weatherley.html)
-* [Pete Wishart](members/pete-wishart.html)
+* [Mike Weatherley](../members/mike-weatherley.html)
+* [Pete Wishart](../members/pete-wishart.html)

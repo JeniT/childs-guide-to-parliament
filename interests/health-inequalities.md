@@ -14,4 +14,4 @@ title: "Health Inequalities"
 ### Who is interested in Health Inequalities?
 
 
-* [Julie Elliott](members/julie-elliott.html)
+* [Julie Elliott](../members/julie-elliott.html)

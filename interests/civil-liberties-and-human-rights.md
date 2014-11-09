@@ -14,4 +14,4 @@ title: "Civil Liberties And Human Rights"
 ### Who is interested in Civil Liberties And Human Rights?
 
 
-* [Nicola Blackwood](members/nicola-blackwood.html)
+* [Nicola Blackwood](../members/nicola-blackwood.html)

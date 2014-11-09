@@ -14,7 +14,7 @@ title: "Regional Development"
 ### Who is interested in Regional Development?
 
 
-* [Catherine McKinnell](members/catherine-mckinnell.html)
-* [Ms Margaret Ritchie](members/ms-margaret-ritchie.html)
-* [Phil Wilson](members/phil-wilson.html)
-* [David Wright](members/david-wright.html)
+* [Catherine McKinnell](../members/catherine-mckinnell.html)
+* [Ms Margaret Ritchie](../members/ms-margaret-ritchie.html)
+* [Phil Wilson](../members/phil-wilson.html)
+* [David Wright](../members/david-wright.html)

@@ -14,4 +14,4 @@ title: "Economy And Finance"
 ### Who is interested in Economy And Finance?
 
 
-* [Kwasi Kwarteng](members/kwasi-kwarteng.html)
+* [Kwasi Kwarteng](../members/kwasi-kwarteng.html)

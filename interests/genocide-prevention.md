@@ -14,4 +14,4 @@ title: "Genocide Prevention"
 ### Who is interested in Genocide Prevention?
 
 
-* [Mary Creagh](members/mary-creagh.html)
+* [Mary Creagh](../members/mary-creagh.html)

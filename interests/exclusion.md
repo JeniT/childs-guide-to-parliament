@@ -14,4 +14,4 @@ title: "Exclusion"
 ### Who is interested in Exclusion?
 
 
-* [Kate Green](members/kate-green.html)
+* [Kate Green](../members/kate-green.html)

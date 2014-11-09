@@ -14,5 +14,5 @@ title: "Steel Industry"
 ### Who is interested in Steel Industry?
 
 
-* [Jessica Morden](members/jessica-morden.html)
-* [Ian Swales](members/ian-swales.html)
+* [Jessica Morden](../members/jessica-morden.html)
+* [Ian Swales](../members/ian-swales.html)

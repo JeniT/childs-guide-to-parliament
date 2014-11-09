@@ -14,4 +14,4 @@ title: "Angling"
 ### Who is interested in Angling?
 
 
-* [George Hollingbery](members/george-hollingbery.html)
+* [George Hollingbery](../members/george-hollingbery.html)

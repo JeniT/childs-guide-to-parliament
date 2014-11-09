@@ -14,4 +14,4 @@ title: "Adult And Vocational Skills"
 ### Who is interested in Adult And Vocational Skills?
 
 
-* [Mr Gordon Marsden](members/mr-gordon-marsden.html)
+* [Mr Gordon Marsden](../members/mr-gordon-marsden.html)

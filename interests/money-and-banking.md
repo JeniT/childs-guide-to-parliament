@@ -14,4 +14,4 @@ title: "Money And Banking"
 ### Who is interested in Money And Banking?
 
 
-* [Steve Baker](members/steve-baker.html)
+* [Steve Baker](../members/steve-baker.html)

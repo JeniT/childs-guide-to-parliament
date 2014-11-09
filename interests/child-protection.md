@@ -14,5 +14,5 @@ title: "Child Protection"
 ### Who is interested in Child Protection?
 
 
-* [Debbie Abrahams](members/debbie-abrahams.html)
-* [Meg Munn](members/meg-munn.html)
+* [Debbie Abrahams](../members/debbie-abrahams.html)
+* [Meg Munn](../members/meg-munn.html)

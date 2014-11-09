@@ -14,6 +14,6 @@ title: "Security"
 ### Who is interested in Security?
 
 
-* [Mark Field](members/mark-field.html)
-* [Dr Julian Lewis](members/dr-julian-lewis.html)
-* [Mr Ben Wallace](members/mr-ben-wallace.html)
+* [Mark Field](../members/mark-field.html)
+* [Dr Julian Lewis](../members/dr-julian-lewis.html)
+* [Mr Ben Wallace](../members/mr-ben-wallace.html)

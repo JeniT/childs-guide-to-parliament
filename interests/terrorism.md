@@ -14,6 +14,6 @@ title: "Terrorism"
 ### Who is interested in Terrorism?
 
 
-* [Michael Gove](members/michael-gove.html)
-* [Robert Halfon](members/robert-halfon.html)
-* [Mr Khalid Mahmood](members/mr-khalid-mahmood.html)
+* [Michael Gove](../members/michael-gove.html)
+* [Robert Halfon](../members/robert-halfon.html)
+* [Mr Khalid Mahmood](../members/mr-khalid-mahmood.html)

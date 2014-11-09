@@ -14,4 +14,4 @@ title: "Suicide"
 ### Who is interested in Suicide?
 
 
-* [Mrs Madeleine Moon](members/mrs-madeleine-moon.html)
+* [Mrs Madeleine Moon](../members/mrs-madeleine-moon.html)

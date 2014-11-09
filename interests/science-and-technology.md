@@ -14,9 +14,9 @@ title: "Science And Technology"
 ### Who is interested in Science And Technology?
 
 
-* [Michael Fabricant](members/michael-fabricant.html)
-* [Stephen Metcalfe](members/stephen-metcalfe.html)
-* [Andrew Miller](members/andrew-miller.html)
-* [Stephen Mosley](members/stephen-mosley.html)
-* [Mr Edward Vaizey](members/mr-edward-vaizey.html)
-* [Valerie Vaz](members/valerie-vaz.html)
+* [Michael Fabricant](../members/michael-fabricant.html)
+* [Stephen Metcalfe](../members/stephen-metcalfe.html)
+* [Andrew Miller](../members/andrew-miller.html)
+* [Stephen Mosley](../members/stephen-mosley.html)
+* [Mr Edward Vaizey](../members/mr-edward-vaizey.html)
+* [Valerie Vaz](../members/valerie-vaz.html)

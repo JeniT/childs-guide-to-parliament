@@ -14,6 +14,6 @@ title: "Biotechnology"
 ### Who is interested in Biotechnology?
 
 
-* [George Freeman](members/george-freeman.html)
-* [Mr David Hamilton](members/mr-david-hamilton.html)
-* [Dr Alasdair McDonnell](members/dr-alasdair-mcdonnell.html)
+* [George Freeman](../members/george-freeman.html)
+* [Mr David Hamilton](../members/mr-david-hamilton.html)
+* [Dr Alasdair McDonnell](../members/dr-alasdair-mcdonnell.html)

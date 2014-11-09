@@ -14,4 +14,4 @@ title: "Hospices And Palliative Care"
 ### Who is interested in Hospices And Palliative Care?
 
 
-* [Fabian Hamilton](members/fabian-hamilton.html)
+* [Fabian Hamilton](../members/fabian-hamilton.html)

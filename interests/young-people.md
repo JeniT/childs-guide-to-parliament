@@ -14,7 +14,7 @@ title: "Young People"
 ### Who is interested in Young People?
 
 
-* [Julie Hilling](members/julie-hilling.html)
-* [Dame  Tessa Jowell](members/dame-tessa-jowell.html)
-* [Yasmin Qureshi](members/yasmin-qureshi.html)
-* [James Wharton](members/james-wharton.html)
+* [Julie Hilling](../members/julie-hilling.html)
+* [Dame  Tessa Jowell](../members/dame-tessa-jowell.html)
+* [Yasmin Qureshi](../members/yasmin-qureshi.html)
+* [James Wharton](../members/james-wharton.html)

@@ -14,4 +14,4 @@ title: "Charities"
 ### Who is interested in Charities?
 
 
-* [Stuart Andrew](members/stuart-andrew.html)
+* [Stuart Andrew](../members/stuart-andrew.html)

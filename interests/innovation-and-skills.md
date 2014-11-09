@@ -14,4 +14,4 @@ title: "Innovation And Skills"
 ### Who is interested in Innovation And Skills?
 
 
-* [Dan Jarvis](members/dan-jarvis.html)
+* [Dan Jarvis](../members/dan-jarvis.html)

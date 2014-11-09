@@ -14,4 +14,4 @@ title: "Funerals And Bereavement"
 ### Who is interested in Funerals And Bereavement?
 
 
-* [Lorely Burt](members/lorely-burt.html)
+* [Lorely Burt](../members/lorely-burt.html)

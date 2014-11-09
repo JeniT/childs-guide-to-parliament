@@ -168,7 +168,7 @@ for interest, people in INTERESTS_MAP.iteritems():
 
     for person in people:
         interests_people_list = interests_people_list + '''
-* [''' + MEMBER_ALL_LIST[person]['display_name'] + '](members/' + MEMBER_ALL_LIST[person]['slug'] + '.html)'
+* [''' + MEMBER_ALL_LIST[person]['display_name'] + '](../members/' + MEMBER_ALL_LIST[person]['slug'] + '.html)'
 
     interest_data = {
         'slug': interest_slug,

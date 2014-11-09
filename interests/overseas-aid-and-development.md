@@ -14,5 +14,5 @@ title: "Overseas Aid And Development"
 ### Who is interested in Overseas Aid And Development?
 
 
-* [Sir Tony Baldry](members/sir-tony-baldry.html)
-* [Glenda Jackson](members/glenda-jackson.html)
+* [Sir Tony Baldry](../members/sir-tony-baldry.html)
+* [Glenda Jackson](../members/glenda-jackson.html)

@@ -14,4 +14,4 @@ title: "New Technology"
 ### Who is interested in New Technology?
 
 
-* [Mr Geoffrey Robinson](members/mr-geoffrey-robinson.html)
+* [Mr Geoffrey Robinson](../members/mr-geoffrey-robinson.html)

@@ -14,4 +14,4 @@ title: "Agriculture And Fisheries"
 ### Who is interested in Agriculture And Fisheries?
 
 
-* [Dr Eilidh Whiteford](members/dr-eilidh-whiteford.html)
+* [Dr Eilidh Whiteford](../members/dr-eilidh-whiteford.html)

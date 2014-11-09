@@ -14,4 +14,4 @@ title: "Blacklisting"
 ### Who is interested in Blacklisting?
 
 
-* [Jim McGovern](members/jim-mcgovern.html)
+* [Jim McGovern](../members/jim-mcgovern.html)

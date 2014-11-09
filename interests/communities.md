@@ -14,4 +14,4 @@ title: "Communities"
 ### Who is interested in Communities?
 
 
-* [Stephen Gilbert](members/stephen-gilbert.html)
+* [Stephen Gilbert](../members/stephen-gilbert.html)

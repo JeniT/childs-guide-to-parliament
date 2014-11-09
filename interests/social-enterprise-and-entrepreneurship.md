@@ -14,4 +14,4 @@ title: "Social Enterprise And Entrepreneurship"
 ### Who is interested in Social Enterprise And Entrepreneurship?
 
 
-* [Mr Barry Sheerman](members/mr-barry-sheerman.html)
+* [Mr Barry Sheerman](../members/mr-barry-sheerman.html)

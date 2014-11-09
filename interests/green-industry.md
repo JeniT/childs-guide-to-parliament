@@ -14,4 +14,4 @@ title: "Green Industry"
 ### Who is interested in Green Industry?
 
 
-* [Ian Swales](members/ian-swales.html)
+* [Ian Swales](../members/ian-swales.html)

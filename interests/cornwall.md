@@ -14,4 +14,4 @@ title: "Cornwall"
 ### Who is interested in Cornwall?
 
 
-* [Andrew George](members/andrew-george.html)
+* [Andrew George](../members/andrew-george.html)

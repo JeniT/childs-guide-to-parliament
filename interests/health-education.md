@@ -14,4 +14,4 @@ title: "Health Education"
 ### Who is interested in Health Education?
 
 
-* [Sir George Young](members/sir-george-young.html)
+* [Sir George Young](../members/sir-george-young.html)

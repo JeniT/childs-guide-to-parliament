@@ -14,4 +14,4 @@ title: "Women'S Role In Public Life"
 ### Who is interested in Women'S Role In Public Life?
 
 
-* [Mrs Madeleine Moon](members/mrs-madeleine-moon.html)
+* [Mrs Madeleine Moon](../members/mrs-madeleine-moon.html)

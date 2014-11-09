@@ -14,5 +14,5 @@ title: "Coal Industry"
 ### Who is interested in Coal Industry?
 
 
-* [Yvette Cooper](members/yvette-cooper.html)
-* [John Cryer](members/john-cryer.html)
+* [Yvette Cooper](../members/yvette-cooper.html)
+* [John Cryer](../members/john-cryer.html)

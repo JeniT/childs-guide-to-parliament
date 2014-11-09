@@ -14,4 +14,4 @@ title: "Muscular Dystrophy"
 ### Who is interested in Muscular Dystrophy?
 
 
-* [Dan Rogerson](members/dan-rogerson.html)
+* [Dan Rogerson](../members/dan-rogerson.html)

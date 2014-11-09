@@ -14,4 +14,4 @@ title: "Social Structure"
 ### Who is interested in Social Structure?
 
 
-* [Nadine Dorries](members/nadine-dorries.html)
+* [Nadine Dorries](../members/nadine-dorries.html)

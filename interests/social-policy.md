@@ -14,12 +14,12 @@ title: "Social Policy"
 ### Who is interested in Social Policy?
 
 
-* [Mr Liam Byrne](members/mr-liam-byrne.html)
-* [Mary Creagh](members/mary-creagh.html)
-* [Mr Nigel Dodds](members/mr-nigel-dodds.html)
-* [Mr Iain Duncan Smith](members/mr-iain-duncan-smith.html)
-* [John Howell](members/john-howell.html)
-* [Mr Charles Kennedy](members/mr-charles-kennedy.html)
-* [Paul Maynard](members/paul-maynard.html)
-* [Mr Nick Raynsford](members/mr-nick-raynsford.html)
-* [Dr Eilidh Whiteford](members/dr-eilidh-whiteford.html)
+* [Mr Liam Byrne](../members/mr-liam-byrne.html)
+* [Mary Creagh](../members/mary-creagh.html)
+* [Mr Nigel Dodds](../members/mr-nigel-dodds.html)
+* [Mr Iain Duncan Smith](../members/mr-iain-duncan-smith.html)
+* [John Howell](../members/john-howell.html)
+* [Mr Charles Kennedy](../members/mr-charles-kennedy.html)
+* [Paul Maynard](../members/paul-maynard.html)
+* [Mr Nick Raynsford](../members/mr-nick-raynsford.html)
+* [Dr Eilidh Whiteford](../members/dr-eilidh-whiteford.html)

@@ -14,4 +14,4 @@ title: "Mutuality"
 ### Who is interested in Mutuality?
 
 
-* [Mr Andrew Love](members/mr-andrew-love.html)
+* [Mr Andrew Love](../members/mr-andrew-love.html)

@@ -14,4 +14,4 @@ title: "Jobs And Economy"
 ### Who is interested in Jobs And Economy?
 
 
-* [Bridget Phillipson](members/bridget-phillipson.html)
+* [Bridget Phillipson](../members/bridget-phillipson.html)

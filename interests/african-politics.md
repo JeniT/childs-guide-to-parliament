@@ -14,4 +14,4 @@ title: "African Politics"
 ### Who is interested in African Politics?
 
 
-* [James Duddridge](members/james-duddridge.html)
+* [James Duddridge](../members/james-duddridge.html)

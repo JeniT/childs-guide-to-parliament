@@ -14,4 +14,4 @@ title: "London"
 ### Who is interested in London?
 
 
-* [Mr David Evennett](members/mr-david-evennett.html)
+* [Mr David Evennett](../members/mr-david-evennett.html)

@@ -14,11 +14,11 @@ title: "Culture"
 ### Who is interested in Culture?
 
 
-* [Nigel Adams](members/nigel-adams.html)
-* [Alun Cairns](members/alun-cairns.html)
-* [Alex Cunningham](members/alex-cunningham.html)
-* [Mr Don Foster](members/mr-don-foster.html)
-* [Dan Jarvis](members/dan-jarvis.html)
-* [Mr Ivan Lewis](members/mr-ivan-lewis.html)
-* [Jonathan Lord](members/jonathan-lord.html)
-* [Mrs Linda Riordan](members/mrs-linda-riordan.html)
+* [Nigel Adams](../members/nigel-adams.html)
+* [Alun Cairns](../members/alun-cairns.html)
+* [Alex Cunningham](../members/alex-cunningham.html)
+* [Mr Don Foster](../members/mr-don-foster.html)
+* [Dan Jarvis](../members/dan-jarvis.html)
+* [Mr Ivan Lewis](../members/mr-ivan-lewis.html)
+* [Jonathan Lord](../members/jonathan-lord.html)
+* [Mrs Linda Riordan](../members/mrs-linda-riordan.html)

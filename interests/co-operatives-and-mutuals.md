@@ -14,4 +14,4 @@ title: "Co-Operatives And Mutuals"
 ### Who is interested in Co-Operatives And Mutuals?
 
 
-* [Mr Adrian Bailey](members/mr-adrian-bailey.html)
+* [Mr Adrian Bailey](../members/mr-adrian-bailey.html)

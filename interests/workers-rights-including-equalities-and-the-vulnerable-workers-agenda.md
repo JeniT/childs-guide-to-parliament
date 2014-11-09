@@ -14,4 +14,4 @@ title: "Workers' Rights (Including Equalities And The Vulnerable Workers' Agenda
 ### Who is interested in Workers' Rights (Including Equalities And The Vulnerable Workers' Agenda)?
 
 
-* [Jack Dromey](members/jack-dromey.html)
+* [Jack Dromey](../members/jack-dromey.html)

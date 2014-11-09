@@ -14,4 +14,4 @@ title: "International Development (Including Supply Chain Ethical Trading)"
 ### Who is interested in International Development (Including Supply Chain Ethical Trading)?
 
 
-* [Jack Dromey](members/jack-dromey.html)
+* [Jack Dromey](../members/jack-dromey.html)

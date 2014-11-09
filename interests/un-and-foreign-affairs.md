@@ -14,4 +14,4 @@ title: "Un And Foreign Affairs"
 ### Who is interested in Un And Foreign Affairs?
 
 
-* [Dr Julian Huppert](members/dr-julian-huppert.html)
+* [Dr Julian Huppert](../members/dr-julian-huppert.html)

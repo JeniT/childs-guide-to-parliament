@@ -14,4 +14,4 @@ title: "Countryside Issues"
 ### Who is interested in Countryside Issues?
 
 
-* [George Hollingbery](members/george-hollingbery.html)
+* [George Hollingbery](../members/george-hollingbery.html)

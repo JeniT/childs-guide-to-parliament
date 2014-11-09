@@ -14,13 +14,13 @@ title: "Public Services"
 ### Who is interested in Public Services?
 
 
-* [Mr David Anderson](members/mr-david-anderson.html)
-* [Tom Blenkinsop](members/tom-blenkinsop.html)
-* [Neil Carmichael](members/neil-carmichael.html)
-* [Jane Ellison](members/jane-ellison.html)
-* [Mrs Louise Ellman](members/mrs-louise-ellman.html)
-* [Nick Herbert](members/nick-herbert.html)
-* [Sadiq Khan](members/sadiq-khan.html)
-* [Jesse Norman](members/jesse-norman.html)
-* [Emma Reynolds](members/emma-reynolds.html)
-* [Chloe Smith](members/chloe-smith.html)
+* [Mr David Anderson](../members/mr-david-anderson.html)
+* [Tom Blenkinsop](../members/tom-blenkinsop.html)
+* [Neil Carmichael](../members/neil-carmichael.html)
+* [Jane Ellison](../members/jane-ellison.html)
+* [Mrs Louise Ellman](../members/mrs-louise-ellman.html)
+* [Nick Herbert](../members/nick-herbert.html)
+* [Sadiq Khan](../members/sadiq-khan.html)
+* [Jesse Norman](../members/jesse-norman.html)
+* [Emma Reynolds](../members/emma-reynolds.html)
+* [Chloe Smith](../members/chloe-smith.html)

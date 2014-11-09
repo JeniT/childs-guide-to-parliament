@@ -14,4 +14,4 @@ title: "Manufacturing Industry"
 ### Who is interested in Manufacturing Industry?
 
 
-* [John Woodcock](members/john-woodcock.html)
+* [John Woodcock](../members/john-woodcock.html)

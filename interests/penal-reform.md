@@ -14,4 +14,4 @@ title: "Penal Reform"
 ### Who is interested in Penal Reform?
 
 
-* [Mr Nick Hurd](members/mr-nick-hurd.html)
+* [Mr Nick Hurd](../members/mr-nick-hurd.html)

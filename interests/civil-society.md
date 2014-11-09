@@ -14,4 +14,4 @@ title: "Civil Society"
 ### Who is interested in Civil Society?
 
 
-* [George Freeman](members/george-freeman.html)
+* [George Freeman](../members/george-freeman.html)

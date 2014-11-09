@@ -14,4 +14,4 @@ title: "Local Economy"
 ### Who is interested in Local Economy?
 
 
-* [David Rutley](members/david-rutley.html)
+* [David Rutley](../members/david-rutley.html)

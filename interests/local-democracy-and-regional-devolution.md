@@ -14,4 +14,4 @@ title: "Local Democracy And Regional Devolution"
 ### Who is interested in Local Democracy And Regional Devolution?
 
 
-* [Sir Andrew Stunell](members/sir-andrew-stunell.html)
+* [Sir Andrew Stunell](../members/sir-andrew-stunell.html)

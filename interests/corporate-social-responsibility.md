@@ -14,4 +14,4 @@ title: "Corporate Social Responsibility"
 ### Who is interested in Corporate Social Responsibility?
 
 
-* [Michael Moore](members/michael-moore.html)
+* [Michael Moore](../members/michael-moore.html)

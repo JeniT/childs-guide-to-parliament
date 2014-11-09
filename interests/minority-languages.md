@@ -14,4 +14,4 @@ title: "Minority Languages"
 ### Who is interested in Minority Languages?
 
 
-* [Dan Rogerson](members/dan-rogerson.html)
+* [Dan Rogerson](../members/dan-rogerson.html)

@@ -14,4 +14,4 @@ title: "Euro (Against)"
 ### Who is interested in Euro (Against)?
 
 
-* [Mr Ian Davidson](members/mr-ian-davidson.html)
+* [Mr Ian Davidson](../members/mr-ian-davidson.html)

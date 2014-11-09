@@ -14,4 +14,4 @@ title: "Russia"
 ### Who is interested in Russia?
 
 
-* [Harriett Baldwin](members/harriett-baldwin.html)
+* [Harriett Baldwin](../members/harriett-baldwin.html)

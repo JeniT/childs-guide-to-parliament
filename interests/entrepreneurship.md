@@ -14,4 +14,4 @@ title: "Entrepreneurship"
 ### Who is interested in Entrepreneurship?
 
 
-* [George Hollingbery](members/george-hollingbery.html)
+* [George Hollingbery](../members/george-hollingbery.html)

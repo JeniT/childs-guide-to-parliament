@@ -14,4 +14,4 @@ title: "Financial Education"
 ### Who is interested in Financial Education?
 
 
-* [Justin Tomlinson](members/justin-tomlinson.html)
+* [Justin Tomlinson](../members/justin-tomlinson.html)

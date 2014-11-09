@@ -14,4 +14,4 @@ title: "Regeneration Policy"
 ### Who is interested in Regeneration Policy?
 
 
-* [Guto Bebb](members/guto-bebb.html)
+* [Guto Bebb](../members/guto-bebb.html)

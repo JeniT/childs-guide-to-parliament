@@ -14,4 +14,4 @@ title: "British Industry"
 ### Who is interested in British Industry?
 
 
-* [Mr Khalid Mahmood](members/mr-khalid-mahmood.html)
+* [Mr Khalid Mahmood](../members/mr-khalid-mahmood.html)

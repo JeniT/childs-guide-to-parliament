@@ -14,4 +14,4 @@ title: "Local And Regional Employment"
 ### Who is interested in Local And Regional Employment?
 
 
-* [Mr Gerry Sutcliffe](members/mr-gerry-sutcliffe.html)
+* [Mr Gerry Sutcliffe](../members/mr-gerry-sutcliffe.html)

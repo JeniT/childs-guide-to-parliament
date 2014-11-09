@@ -14,4 +14,4 @@ title: "Defence And Security"
 ### Who is interested in Defence And Security?
 
 
-* [Dan Jarvis](members/dan-jarvis.html)
+* [Dan Jarvis](../members/dan-jarvis.html)

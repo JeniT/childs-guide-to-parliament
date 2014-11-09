@@ -14,6 +14,6 @@ title: "Child Poverty"
 ### Who is interested in Child Poverty?
 
 
-* [Ms Karen Buck](members/ms-karen-buck.html)
-* [Mrs Sharon Hodgson](members/mrs-sharon-hodgson.html)
-* [Gavin Shuker](members/gavin-shuker.html)
+* [Ms Karen Buck](../members/ms-karen-buck.html)
+* [Mrs Sharon Hodgson](../members/mrs-sharon-hodgson.html)
+* [Gavin Shuker](../members/gavin-shuker.html)

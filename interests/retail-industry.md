@@ -14,4 +14,4 @@ title: "Retail Industry"
 ### Who is interested in Retail Industry?
 
 
-* [Mr Andrew Smith](members/mr-andrew-smith.html)
+* [Mr Andrew Smith](../members/mr-andrew-smith.html)

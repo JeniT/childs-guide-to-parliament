@@ -14,4 +14,4 @@ title: "Provision Facilities For The Young"
 ### Who is interested in Provision Facilities For The Young?
 
 
-* [Ms Margaret Ritchie](members/ms-margaret-ritchie.html)
+* [Ms Margaret Ritchie](../members/ms-margaret-ritchie.html)

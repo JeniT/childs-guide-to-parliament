@@ -14,4 +14,4 @@ title: "Free School Meals"
 ### Who is interested in Free School Meals?
 
 
-* [Mrs Sharon Hodgson](members/mrs-sharon-hodgson.html)
+* [Mrs Sharon Hodgson](../members/mrs-sharon-hodgson.html)

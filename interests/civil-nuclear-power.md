@@ -14,4 +14,4 @@ title: "Civil Nuclear Power"
 ### Who is interested in Civil Nuclear Power?
 
 
-* [John Woodcock](members/john-woodcock.html)
+* [John Woodcock](../members/john-woodcock.html)

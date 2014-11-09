@@ -14,4 +14,4 @@ title: "Economics And Social Policy"
 ### Who is interested in Economics And Social Policy?
 
 
-* [Mr Michael Meacher](members/mr-michael-meacher.html)
+* [Mr Michael Meacher](../members/mr-michael-meacher.html)

@@ -14,4 +14,4 @@ title: "Children In Care"
 ### Who is interested in Children In Care?
 
 
-* [Teresa Pearce](members/teresa-pearce.html)
+* [Teresa Pearce](../members/teresa-pearce.html)

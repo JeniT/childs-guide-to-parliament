@@ -14,4 +14,4 @@ title: "Animal Welfare (Anti-Hunting With Dogs)"
 ### Who is interested in Animal Welfare (Anti-Hunting With Dogs)?
 
 
-* [Mr Adrian Bailey](members/mr-adrian-bailey.html)
+* [Mr Adrian Bailey](../members/mr-adrian-bailey.html)

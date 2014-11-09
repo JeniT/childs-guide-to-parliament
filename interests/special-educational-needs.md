@@ -14,5 +14,5 @@ title: "Special Educational Needs"
 ### Who is interested in Special Educational Needs?
 
 
-* [John Bercow](members/john-bercow.html)
-* [Alun Cairns](members/alun-cairns.html)
+* [John Bercow](../members/john-bercow.html)
+* [Alun Cairns](../members/alun-cairns.html)

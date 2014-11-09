@@ -14,4 +14,4 @@ title: "Youth Work"
 ### Who is interested in Youth Work?
 
 
-* [Tim Farron](members/tim-farron.html)
+* [Tim Farron](../members/tim-farron.html)

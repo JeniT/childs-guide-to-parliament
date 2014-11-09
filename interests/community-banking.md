@@ -14,4 +14,4 @@ title: "Community Banking"
 ### Who is interested in Community Banking?
 
 
-* [Seema Malhotra](members/seema-malhotra.html)
+* [Seema Malhotra](../members/seema-malhotra.html)

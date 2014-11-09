@@ -14,13 +14,13 @@ title: "Children"
 ### Who is interested in Children?
 
 
-* [Ms Karen Buck](members/ms-karen-buck.html)
-* [Jenny Chapman](members/jenny-chapman.html)
-* [Ann Coffey](members/ann-coffey.html)
-* [Helen Goodman](members/helen-goodman.html)
-* [Cathy Jamieson](members/cathy-jamieson.html)
-* [Catherine McKinnell](members/catherine-mckinnell.html)
-* [Jessica Morden](members/jessica-morden.html)
-* [Lisa Nandy](members/lisa-nandy.html)
-* [Nick Smith](members/nick-smith.html)
-* [Craig Whittaker](members/craig-whittaker.html)
+* [Ms Karen Buck](../members/ms-karen-buck.html)
+* [Jenny Chapman](../members/jenny-chapman.html)
+* [Ann Coffey](../members/ann-coffey.html)
+* [Helen Goodman](../members/helen-goodman.html)
+* [Cathy Jamieson](../members/cathy-jamieson.html)
+* [Catherine McKinnell](../members/catherine-mckinnell.html)
+* [Jessica Morden](../members/jessica-morden.html)
+* [Lisa Nandy](../members/lisa-nandy.html)
+* [Nick Smith](../members/nick-smith.html)
+* [Craig Whittaker](../members/craig-whittaker.html)

@@ -14,4 +14,4 @@ title: "Disabilities"
 ### Who is interested in Disabilities?
 
 
-* [Sheila Gilmore](members/sheila-gilmore.html)
+* [Sheila Gilmore](../members/sheila-gilmore.html)

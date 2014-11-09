@@ -14,4 +14,4 @@ title: "Local And National Poverty"
 ### Who is interested in Local And National Poverty?
 
 
-* [Margaret Curran](members/margaret-curran.html)
+* [Margaret Curran](../members/margaret-curran.html)

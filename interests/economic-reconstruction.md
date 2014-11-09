@@ -14,4 +14,4 @@ title: "Economic Reconstruction"
 ### Who is interested in Economic Reconstruction?
 
 
-* [Dr Alasdair McDonnell](members/dr-alasdair-mcdonnell.html)
+* [Dr Alasdair McDonnell](../members/dr-alasdair-mcdonnell.html)

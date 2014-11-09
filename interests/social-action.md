@@ -14,4 +14,4 @@ title: "Social Action"
 ### Who is interested in Social Action?
 
 
-* [Robert Halfon](members/robert-halfon.html)
+* [Robert Halfon](../members/robert-halfon.html)

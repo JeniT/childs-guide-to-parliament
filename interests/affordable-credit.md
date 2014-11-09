@@ -14,4 +14,4 @@ title: "Affordable Credit"
 ### Who is interested in Affordable Credit?
 
 
-* [Damian Hinds](members/damian-hinds.html)
+* [Damian Hinds](../members/damian-hinds.html)
