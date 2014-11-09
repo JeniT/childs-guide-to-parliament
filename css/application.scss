@@ -72,6 +72,10 @@ iframe.pull-right {
 	overflow: hidden;
 }
 
+.jumbotron {
+	margin-top: $line-height-computed;
+}
+
 .label {
 	background-color: $gray;
 
