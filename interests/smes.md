@@ -14,4 +14,4 @@ title: "Smes"
 ### Who is interested in Smes?
 
 
-* [Anne Marie Morris](/members/anne-marie-morris.html)
+* [Anne Marie Morris](members/anne-marie-morris.html)

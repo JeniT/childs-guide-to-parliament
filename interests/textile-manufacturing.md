@@ -14,4 +14,4 @@ title: "Textile Manufacturing"
 ### Who is interested in Textile Manufacturing?
 
 
-* [Mr David Ward](/members/mr-david-ward.html)
+* [Mr David Ward](members/mr-david-ward.html)

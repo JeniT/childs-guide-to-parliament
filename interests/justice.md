@@ -14,11 +14,11 @@ title: "Justice"
 ### Who is interested in Justice?
 
 
-* [Steve Brine](/members/steve-brine.html)
-* [Michael Ellis](/members/michael-ellis.html)
-* [Mrs Helen Grant](/members/mrs-helen-grant.html)
-* [Kate Green](/members/kate-green.html)
-* [Seema Malhotra](/members/seema-malhotra.html)
-* [Ian Paisley](/members/ian-paisley.html)
-* [Claire Perry](/members/claire-perry.html)
-* [Mrs Linda Riordan](/members/mrs-linda-riordan.html)
+* [Steve Brine](members/steve-brine.html)
+* [Michael Ellis](members/michael-ellis.html)
+* [Mrs Helen Grant](members/mrs-helen-grant.html)
+* [Kate Green](members/kate-green.html)
+* [Seema Malhotra](members/seema-malhotra.html)
+* [Ian Paisley](members/ian-paisley.html)
+* [Claire Perry](members/claire-perry.html)
+* [Mrs Linda Riordan](members/mrs-linda-riordan.html)

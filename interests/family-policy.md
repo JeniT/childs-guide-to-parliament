@@ -14,5 +14,5 @@ title: "Family Policy"
 ### Who is interested in Family Policy?
 
 
-* [Mr David Burrowes](/members/mr-david-burrowes.html)
-* [John Hemming](/members/john-hemming.html)
+* [Mr David Burrowes](members/mr-david-burrowes.html)
+* [John Hemming](members/john-hemming.html)

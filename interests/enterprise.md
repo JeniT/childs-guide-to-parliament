@@ -14,7 +14,7 @@ title: "Enterprise"
 ### Who is interested in Enterprise?
 
 
-* [Steve Baker](/members/steve-baker.html)
-* [Mr Gregory Campbell](/members/mr-gregory-campbell.html)
-* [Damian Collins](/members/damian-collins.html)
-* [Michael Fabricant](/members/michael-fabricant.html)
+* [Steve Baker](members/steve-baker.html)
+* [Mr Gregory Campbell](members/mr-gregory-campbell.html)
+* [Damian Collins](members/damian-collins.html)
+* [Michael Fabricant](members/michael-fabricant.html)

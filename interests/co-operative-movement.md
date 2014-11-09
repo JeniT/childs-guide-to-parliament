@@ -14,5 +14,5 @@ title: "Co-Operative Movement"
 ### Who is interested in Co-Operative Movement?
 
 
-* [Mr Ian Davidson](/members/mr-ian-davidson.html)
-* [Cathy Jamieson](/members/cathy-jamieson.html)
+* [Mr Ian Davidson](members/mr-ian-davidson.html)
+* [Cathy Jamieson](members/cathy-jamieson.html)

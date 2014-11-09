@@ -14,4 +14,4 @@ title: "Treasury (Regeneration)"
 ### Who is interested in Treasury (Regeneration)?
 
 
-* [Mr David Lammy](/members/mr-david-lammy.html)
+* [Mr David Lammy](members/mr-david-lammy.html)

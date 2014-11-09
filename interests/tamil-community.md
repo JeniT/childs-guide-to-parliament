@@ -14,4 +14,4 @@ title: "Tamil Community"
 ### Who is interested in Tamil Community?
 
 
-* [Mr Lee Scott](/members/mr-lee-scott.html)
+* [Mr Lee Scott](members/mr-lee-scott.html)

@@ -14,5 +14,5 @@ title: "Tax Reform"
 ### Who is interested in Tax Reform?
 
 
-* [Ben Gummer](/members/ben-gummer.html)
-* [Teresa Pearce](/members/teresa-pearce.html)
+* [Ben Gummer](members/ben-gummer.html)
+* [Teresa Pearce](members/teresa-pearce.html)

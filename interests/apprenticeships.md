@@ -14,9 +14,9 @@ title: "Apprenticeships"
 ### Who is interested in Apprenticeships?
 
 
-* [Gordon Birtwistle](/members/gordon-birtwistle.html)
-* [Fiona Bruce](/members/fiona-bruce.html)
-* [Robert Halfon](/members/robert-halfon.html)
-* [Richard Harrington](/members/richard-harrington.html)
-* [Stephen Lloyd](/members/stephen-lloyd.html)
-* [Steve Rotheram](/members/steve-rotheram.html)
+* [Gordon Birtwistle](members/gordon-birtwistle.html)
+* [Fiona Bruce](members/fiona-bruce.html)
+* [Robert Halfon](members/robert-halfon.html)
+* [Richard Harrington](members/richard-harrington.html)
+* [Stephen Lloyd](members/stephen-lloyd.html)
+* [Steve Rotheram](members/steve-rotheram.html)

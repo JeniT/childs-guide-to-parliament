@@ -14,5 +14,5 @@ title: "Education And Skills"
 ### Who is interested in Education And Skills?
 
 
-* [Andrew Gwynne](/members/andrew-gwynne.html)
-* [Rebecca Harris](/members/rebecca-harris.html)
+* [Andrew Gwynne](members/andrew-gwynne.html)
+* [Rebecca Harris](members/rebecca-harris.html)

@@ -14,4 +14,4 @@ title: "International Relations"
 ### Who is interested in International Relations?
 
 
-* [Damian Collins](/members/damian-collins.html)
+* [Damian Collins](members/damian-collins.html)

@@ -14,9 +14,9 @@ title: "Families"
 ### Who is interested in Families?
 
 
-* [Mr Julian Brazier](/members/mr-julian-brazier.html)
-* [Jenny Chapman](/members/jenny-chapman.html)
-* [Mr Frank Doran](/members/mr-frank-doran.html)
-* [Sir Edward Leigh](/members/sir-edward-leigh.html)
-* [Andrew Selous](/members/andrew-selous.html)
-* [Dame  Angela Watkinson](/members/dame-angela-watkinson.html)
+* [Mr Julian Brazier](members/mr-julian-brazier.html)
+* [Jenny Chapman](members/jenny-chapman.html)
+* [Mr Frank Doran](members/mr-frank-doran.html)
+* [Sir Edward Leigh](members/sir-edward-leigh.html)
+* [Andrew Selous](members/andrew-selous.html)
+* [Dame  Angela Watkinson](members/dame-angela-watkinson.html)

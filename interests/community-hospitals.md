@@ -14,4 +14,4 @@ title: "Community Hospitals"
 ### Who is interested in Community Hospitals?
 
 
-* [Mr Graham Stuart](/members/mr-graham-stuart.html)
+* [Mr Graham Stuart](members/mr-graham-stuart.html)

@@ -14,4 +14,4 @@ title: "People Of Islington"
 ### Who is interested in People Of Islington?
 
 
-* [Jeremy Corbyn](/members/jeremy-corbyn.html)
+* [Jeremy Corbyn](members/jeremy-corbyn.html)

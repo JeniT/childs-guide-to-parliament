@@ -14,4 +14,4 @@ title: "Veteran Service Personnel"
 ### Who is interested in Veteran Service Personnel?
 
 
-* [Bob Stewart](/members/bob-stewart.html)
+* [Bob Stewart](members/bob-stewart.html)

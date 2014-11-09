@@ -14,4 +14,4 @@ title: "Third Sector"
 ### Who is interested in Third Sector?
 
 
-* [Yvonne Fovargue](/members/yvonne-fovargue.html)
+* [Yvonne Fovargue](members/yvonne-fovargue.html)

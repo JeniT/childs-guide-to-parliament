@@ -14,4 +14,4 @@ title: "Olympics"
 ### Who is interested in Olympics?
 
 
-* [Sir Hugh Robertson](/members/sir-hugh-robertson.html)
+* [Sir Hugh Robertson](members/sir-hugh-robertson.html)

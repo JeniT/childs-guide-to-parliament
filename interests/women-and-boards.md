@@ -14,4 +14,4 @@ title: "Women And Boards"
 ### Who is interested in Women And Boards?
 
 
-* [Seema Malhotra](/members/seema-malhotra.html)
+* [Seema Malhotra](members/seema-malhotra.html)

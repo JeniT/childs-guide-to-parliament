@@ -14,4 +14,4 @@ title: "Family"
 ### Who is interested in Family?
 
 
-* [Mr Edward Timpson](/members/mr-edward-timpson.html)
+* [Mr Edward Timpson](members/mr-edward-timpson.html)

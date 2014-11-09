@@ -14,6 +14,6 @@ title: "Older People"
 ### Who is interested in Older People?
 
 
-* [Simon Kirby](/members/simon-kirby.html)
-* [Dr Daniel Poulter](/members/dr-daniel-poulter.html)
-* [Mr Graham Stuart](/members/mr-graham-stuart.html)
+* [Simon Kirby](members/simon-kirby.html)
+* [Dr Daniel Poulter](members/dr-daniel-poulter.html)
+* [Mr Graham Stuart](members/mr-graham-stuart.html)

@@ -14,4 +14,4 @@ title: "Science Policy"
 ### Who is interested in Science Policy?
 
 
-* [Graham Stringer](/members/graham-stringer.html)
+* [Graham Stringer](members/graham-stringer.html)

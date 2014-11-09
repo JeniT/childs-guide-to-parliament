@@ -14,11 +14,11 @@ title: "Social Justice"
 ### Who is interested in Social Justice?
 
 
-* [Jonathan Edwards](/members/jonathan-edwards.html)
-* [Mr Peter Hain](/members/mr-peter-hain.html)
-* [Huw Irranca-Davies](/members/huw-irranca-davies.html)
-* [Sadiq Khan](/members/sadiq-khan.html)
-* [Ian Murray](/members/ian-murray.html)
-* [Mr Owen Paterson](/members/mr-owen-paterson.html)
-* [Mel Stride](/members/mel-stride.html)
-* [Ian Swales](/members/ian-swales.html)
+* [Jonathan Edwards](members/jonathan-edwards.html)
+* [Mr Peter Hain](members/mr-peter-hain.html)
+* [Huw Irranca-Davies](members/huw-irranca-davies.html)
+* [Sadiq Khan](members/sadiq-khan.html)
+* [Ian Murray](members/ian-murray.html)
+* [Mr Owen Paterson](members/mr-owen-paterson.html)
+* [Mel Stride](members/mel-stride.html)
+* [Ian Swales](members/ian-swales.html)

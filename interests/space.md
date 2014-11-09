@@ -14,6 +14,6 @@ title: "Space"
 ### Who is interested in Space?
 
 
-* [Mr Nigel Evans](/members/mr-nigel-evans.html)
-* [Mrs Cheryl Gillan](/members/mrs-cheryl-gillan.html)
-* [Penny Mordaunt](/members/penny-mordaunt.html)
+* [Mr Nigel Evans](members/mr-nigel-evans.html)
+* [Mrs Cheryl Gillan](members/mrs-cheryl-gillan.html)
+* [Penny Mordaunt](members/penny-mordaunt.html)

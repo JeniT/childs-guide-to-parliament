@@ -14,4 +14,4 @@ title: "Kurdish Issues"
 ### Who is interested in Kurdish Issues?
 
 
-* [Hywel Williams](/members/hywel-williams.html)
+* [Hywel Williams](members/hywel-williams.html)

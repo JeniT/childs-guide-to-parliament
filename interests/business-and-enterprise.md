@@ -14,7 +14,7 @@ title: "Business And Enterprise"
 ### Who is interested in Business And Enterprise?
 
 
-* [Adam Afriyie](/members/adam-afriyie.html)
-* [Andrew Bridgen](/members/andrew-bridgen.html)
-* [Mrs Helen Grant](/members/mrs-helen-grant.html)
-* [Richard Harrington](/members/richard-harrington.html)
+* [Adam Afriyie](members/adam-afriyie.html)
+* [Andrew Bridgen](members/andrew-bridgen.html)
+* [Mrs Helen Grant](members/mrs-helen-grant.html)
+* [Richard Harrington](members/richard-harrington.html)

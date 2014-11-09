@@ -14,4 +14,4 @@ title: "Global Tb"
 ### Who is interested in Global Tb?
 
 
-* [Andrew George](/members/andrew-george.html)
+* [Andrew George](members/andrew-george.html)

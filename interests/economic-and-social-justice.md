@@ -14,4 +14,4 @@ title: "Economic And Social Justice"
 ### Who is interested in Economic And Social Justice?
 
 
-* [Katy Clark](/members/katy-clark.html)
+* [Katy Clark](members/katy-clark.html)

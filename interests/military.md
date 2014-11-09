@@ -14,4 +14,4 @@ title: "Military"
 ### Who is interested in Military?
 
 
-* [Jason McCartney](/members/jason-mccartney.html)
+* [Jason McCartney](members/jason-mccartney.html)

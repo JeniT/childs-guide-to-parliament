@@ -14,4 +14,4 @@ title: "Uk Software Industry"
 ### Who is interested in Uk Software Industry?
 
 
-* [Bridget Phillipson](/members/bridget-phillipson.html)
+* [Bridget Phillipson](members/bridget-phillipson.html)

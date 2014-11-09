@@ -14,4 +14,4 @@ title: "Justice Issues"
 ### Who is interested in Justice Issues?
 
 
-* [Mr Ben Wallace](/members/mr-ben-wallace.html)
+* [Mr Ben Wallace](members/mr-ben-wallace.html)

@@ -14,6 +14,6 @@ title: "Scotland"
 ### Who is interested in Scotland?
 
 
-* [Mr Gordon Brown](/members/mr-gordon-brown.html)
-* [Mr Charles Kennedy](/members/mr-charles-kennedy.html)
-* [Anas Sarwar](/members/anas-sarwar.html)
+* [Mr Gordon Brown](members/mr-gordon-brown.html)
+* [Mr Charles Kennedy](members/mr-charles-kennedy.html)
+* [Anas Sarwar](members/anas-sarwar.html)

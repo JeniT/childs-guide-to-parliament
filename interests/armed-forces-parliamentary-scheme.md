@@ -14,4 +14,4 @@ title: "Armed Forces Parliamentary Scheme"
 ### Who is interested in Armed Forces Parliamentary Scheme?
 
 
-* [Jim Shannon](/members/jim-shannon.html)
+* [Jim Shannon](members/jim-shannon.html)

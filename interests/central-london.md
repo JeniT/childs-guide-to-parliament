@@ -14,4 +14,4 @@ title: "Central London"
 ### Who is interested in Central London?
 
 
-* [Frank Dobson](/members/frank-dobson.html)
+* [Frank Dobson](members/frank-dobson.html)

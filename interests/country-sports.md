@@ -14,4 +14,4 @@ title: "Country Sports"
 ### Who is interested in Country Sports?
 
 
-* [Jim Shannon](/members/jim-shannon.html)
+* [Jim Shannon](members/jim-shannon.html)

@@ -14,6 +14,6 @@ title: "Political Engagement"
 ### Who is interested in Political Engagement?
 
 
-* [Dame  Tessa Jowell](/members/dame-tessa-jowell.html)
-* [Gavin Shuker](/members/gavin-shuker.html)
-* [Jo Swinson](/members/jo-swinson.html)
+* [Dame  Tessa Jowell](members/dame-tessa-jowell.html)
+* [Gavin Shuker](members/gavin-shuker.html)
+* [Jo Swinson](members/jo-swinson.html)

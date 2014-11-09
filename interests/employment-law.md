@@ -14,5 +14,5 @@ title: "Employment Law"
 ### Who is interested in Employment Law?
 
 
-* [Tom Blenkinsop](/members/tom-blenkinsop.html)
-* [Yvonne Fovargue](/members/yvonne-fovargue.html)
+* [Tom Blenkinsop](members/tom-blenkinsop.html)
+* [Yvonne Fovargue](members/yvonne-fovargue.html)

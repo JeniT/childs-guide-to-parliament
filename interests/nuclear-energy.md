@@ -14,5 +14,5 @@ title: "Nuclear Energy"
 ### Who is interested in Nuclear Energy?
 
 
-* [David Morris](/members/david-morris.html)
-* [John Robertson](/members/john-robertson.html)
+* [David Morris](members/david-morris.html)
+* [John Robertson](members/john-robertson.html)

@@ -14,8 +14,8 @@ title: "The Economy"
 ### Who is interested in The Economy?
 
 
-* [Mr David Gauke](/members/mr-david-gauke.html)
-* [Nick Herbert](/members/nick-herbert.html)
-* [Mr Andrew Love](/members/mr-andrew-love.html)
-* [Priti Patel](/members/priti-patel.html)
-* [Mr Charles Walker](/members/mr-charles-walker.html)
+* [Mr David Gauke](members/mr-david-gauke.html)
+* [Nick Herbert](members/nick-herbert.html)
+* [Mr Andrew Love](members/mr-andrew-love.html)
+* [Priti Patel](members/priti-patel.html)
+* [Mr Charles Walker](members/mr-charles-walker.html)

@@ -14,7 +14,7 @@ title: "Fishing"
 ### Who is interested in Fishing?
 
 
-* [Peter Aldous](/members/peter-aldous.html)
-* [Mr Alan Campbell](/members/mr-alan-campbell.html)
-* [Angus Robertson](/members/angus-robertson.html)
-* [Jim Shannon](/members/jim-shannon.html)
+* [Peter Aldous](members/peter-aldous.html)
+* [Mr Alan Campbell](members/mr-alan-campbell.html)
+* [Angus Robertson](members/angus-robertson.html)
+* [Jim Shannon](members/jim-shannon.html)

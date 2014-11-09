@@ -14,4 +14,4 @@ title: "Redistribution Of Wealth"
 ### Who is interested in Redistribution Of Wealth?
 
 
-* [Frank Dobson](/members/frank-dobson.html)
+* [Frank Dobson](members/frank-dobson.html)

@@ -14,9 +14,9 @@ title: "Economic Development"
 ### Who is interested in Economic Development?
 
 
-* [Mr Gregory Campbell](/members/mr-gregory-campbell.html)
-* [Andrew George](/members/andrew-george.html)
-* [Stewart Hosie](/members/stewart-hosie.html)
-* [Albert Owen](/members/albert-owen.html)
-* [Nick Smith](/members/nick-smith.html)
-* [Roger Williams](/members/roger-williams.html)
+* [Mr Gregory Campbell](members/mr-gregory-campbell.html)
+* [Andrew George](members/andrew-george.html)
+* [Stewart Hosie](members/stewart-hosie.html)
+* [Albert Owen](members/albert-owen.html)
+* [Nick Smith](members/nick-smith.html)
+* [Roger Williams](members/roger-williams.html)

@@ -14,4 +14,4 @@ title: "Poverty Alleviation"
 ### Who is interested in Poverty Alleviation?
 
 
-* [Charlie Elphicke](/members/charlie-elphicke.html)
+* [Charlie Elphicke](members/charlie-elphicke.html)

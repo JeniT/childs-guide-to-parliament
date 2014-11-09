@@ -14,6 +14,6 @@ title: "Trade Unions"
 ### Who is interested in Trade Unions?
 
 
-* [Hilary Benn](/members/hilary-benn.html)
-* [Mr Ian Davidson](/members/mr-ian-davidson.html)
-* [John Healey](/members/john-healey.html)
+* [Hilary Benn](members/hilary-benn.html)
+* [Mr Ian Davidson](members/mr-ian-davidson.html)
+* [John Healey](members/john-healey.html)

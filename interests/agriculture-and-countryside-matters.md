@@ -14,4 +14,4 @@ title: "Agriculture And Countryside Matters"
 ### Who is interested in Agriculture And Countryside Matters?
 
 
-* [Sir Nicholas Soames](/members/sir-nicholas-soames.html)
+* [Sir Nicholas Soames](members/sir-nicholas-soames.html)

@@ -14,5 +14,5 @@ title: "Drugs"
 ### Who is interested in Drugs?
 
 
-* [Mr Liam Byrne](/members/mr-liam-byrne.html)
-* [John Mann](/members/john-mann.html)
+* [Mr Liam Byrne](members/mr-liam-byrne.html)
+* [John Mann](members/john-mann.html)

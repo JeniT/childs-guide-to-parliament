@@ -14,4 +14,4 @@ title: "Environmental Policy Including Renewable Energy"
 ### Who is interested in Environmental Policy Including Renewable Energy?
 
 
-* [Mr Peter Hain](/members/mr-peter-hain.html)
+* [Mr Peter Hain](members/mr-peter-hain.html)

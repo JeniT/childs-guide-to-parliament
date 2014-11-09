@@ -14,4 +14,4 @@ title: "Economic And Industrial Affairs"
 ### Who is interested in Economic And Industrial Affairs?
 
 
-* [Mark Hendrick](/members/mark-hendrick.html)
+* [Mark Hendrick](members/mark-hendrick.html)

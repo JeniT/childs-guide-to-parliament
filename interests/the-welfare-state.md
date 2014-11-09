@@ -14,4 +14,4 @@ title: "The Welfare State"
 ### Who is interested in The Welfare State?
 
 
-* [Jeremy Corbyn](/members/jeremy-corbyn.html)
+* [Jeremy Corbyn](members/jeremy-corbyn.html)

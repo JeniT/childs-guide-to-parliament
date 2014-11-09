@@ -14,4 +14,4 @@ title: "Political Campaigning"
 ### Who is interested in Political Campaigning?
 
 
-* [Nick Smith](/members/nick-smith.html)
+* [Nick Smith](members/nick-smith.html)

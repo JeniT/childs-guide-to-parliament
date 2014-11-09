@@ -14,4 +14,4 @@ title: "Debt & Personal Finance"
 ### Who is interested in Debt & Personal Finance?
 
 
-* [Nic Dakin](/members/nic-dakin.html)
+* [Nic Dakin](members/nic-dakin.html)

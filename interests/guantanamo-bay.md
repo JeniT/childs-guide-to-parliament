@@ -14,4 +14,4 @@ title: "Guantanamo Bay"
 ### Who is interested in Guantanamo Bay?
 
 
-* [Sarah Teather](/members/sarah-teather.html)
+* [Sarah Teather](members/sarah-teather.html)

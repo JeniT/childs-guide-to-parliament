@@ -14,4 +14,4 @@ title: "Planning And Development"
 ### Who is interested in Planning And Development?
 
 
-* [Steve Brine](/members/steve-brine.html)
+* [Steve Brine](members/steve-brine.html)

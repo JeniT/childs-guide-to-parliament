@@ -14,5 +14,5 @@ title: "Waste Management"
 ### Who is interested in Waste Management?
 
 
-* [Clive Efford](/members/clive-efford.html)
-* [Sir James Paice](/members/sir-james-paice.html)
+* [Clive Efford](members/clive-efford.html)
+* [Sir James Paice](members/sir-james-paice.html)

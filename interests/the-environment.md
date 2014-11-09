@@ -14,6 +14,6 @@ title: "The Environment"
 ### Who is interested in The Environment?
 
 
-* [Jeremy Corbyn](/members/jeremy-corbyn.html)
-* [Kerry McCarthy](/members/kerry-mccarthy.html)
-* [Tessa Munt](/members/tessa-munt.html)
+* [Jeremy Corbyn](members/jeremy-corbyn.html)
+* [Kerry McCarthy](members/kerry-mccarthy.html)
+* [Tessa Munt](members/tessa-munt.html)

@@ -14,5 +14,5 @@ title: "Universities"
 ### Who is interested in Universities?
 
 
-* [Nicola Blackwood](/members/nicola-blackwood.html)
-* [Paul Blomfield](/members/paul-blomfield.html)
+* [Nicola Blackwood](members/nicola-blackwood.html)
+* [Paul Blomfield](members/paul-blomfield.html)

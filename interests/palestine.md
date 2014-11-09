@@ -14,4 +14,4 @@ title: "Palestine"
 ### Who is interested in Palestine?
 
 
-* [Mr David Ward](/members/mr-david-ward.html)
+* [Mr David Ward](members/mr-david-ward.html)

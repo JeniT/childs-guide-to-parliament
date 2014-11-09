@@ -14,4 +14,4 @@ title: "Living Wage"
 ### Who is interested in Living Wage?
 
 
-* [Guy Opperman](/members/guy-opperman.html)
+* [Guy Opperman](members/guy-opperman.html)

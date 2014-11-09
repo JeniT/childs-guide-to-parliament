@@ -14,5 +14,5 @@ title: "Democratic Reform"
 ### Who is interested in Democratic Reform?
 
 
-* [Zac Goldsmith](/members/zac-goldsmith.html)
-* [Margaret Hodge](/members/margaret-hodge.html)
+* [Zac Goldsmith](members/zac-goldsmith.html)
+* [Margaret Hodge](members/margaret-hodge.html)

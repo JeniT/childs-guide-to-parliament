@@ -14,4 +14,4 @@ title: "Financial Services And Banking Reform"
 ### Who is interested in Financial Services And Banking Reform?
 
 
-* [John Thurso](/members/john-thurso.html)
+* [John Thurso](members/john-thurso.html)

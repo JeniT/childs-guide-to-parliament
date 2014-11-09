@@ -14,4 +14,4 @@ title: "North/South Divide"
 ### Who is interested in North/South Divide?
 
 
-* [Mrs Sharon Hodgson](/members/mrs-sharon-hodgson.html)
+* [Mrs Sharon Hodgson](members/mrs-sharon-hodgson.html)

@@ -14,4 +14,4 @@ title: "Sure Start"
 ### Who is interested in Sure Start?
 
 
-* [Tom Blenkinsop](/members/tom-blenkinsop.html)
+* [Tom Blenkinsop](members/tom-blenkinsop.html)

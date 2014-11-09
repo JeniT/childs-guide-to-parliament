@@ -14,4 +14,4 @@ title: "Satellite Technology"
 ### Who is interested in Satellite Technology?
 
 
-* [Stephen McPartland](/members/stephen-mcpartland.html)
+* [Stephen McPartland](members/stephen-mcpartland.html)

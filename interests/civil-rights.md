@@ -14,4 +14,4 @@ title: "Civil Rights"
 ### Who is interested in Civil Rights?
 
 
-* [Stephen Williams](/members/stephen-williams.html)
+* [Stephen Williams](members/stephen-williams.html)

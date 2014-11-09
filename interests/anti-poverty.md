@@ -14,5 +14,5 @@ title: "Anti-Poverty"
 ### Who is interested in Anti-Poverty?
 
 
-* [Cathy Jamieson](/members/cathy-jamieson.html)
-* [Chris Ruane](/members/chris-ruane.html)
+* [Cathy Jamieson](members/cathy-jamieson.html)
+* [Chris Ruane](members/chris-ruane.html)

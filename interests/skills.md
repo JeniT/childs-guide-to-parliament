@@ -14,4 +14,4 @@ title: "Skills"
 ### Who is interested in Skills?
 
 
-* [Emma Reynolds](/members/emma-reynolds.html)
+* [Emma Reynolds](members/emma-reynolds.html)

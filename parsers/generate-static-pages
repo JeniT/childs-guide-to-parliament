@@ -12,7 +12,7 @@ from slugify import slugify
 from string import Template
 
 # The URL we're going to get the data from
-SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/House=Commons%7CIsEligible=true/Committees|BiographyEntries/'
+SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/IsEligible=true/Committees|BiographyEntries/'
 
 # Where we store a copy of the file locally
 SOURCE_FILE_DESTINATION = '../_source/members.xml'
@@ -43,15 +43,6 @@ def parse_gender(gender):
         'F': 'female',
     }.get(gender, 'unknown')
 
-def get_colour(party):
-    return {
-        'Conservative': '#333399',
-        'Labour': '#cc0000',
-        'Labour (Co-op)': '#cc0000',
-        'Liberal Democrat': '#f1cc0a',
-        'Green': '#99cc33'
-    }.get(party, '#999999')
-
 TEMPLATE_MEMBER_FILE = open('../_templates/member.html', 'r')
 TEMPLATE_MEMBER = Template(TEMPLATE_MEMBER_FILE.read())
 TEMPLATE_MEMBER_FILE.close()
@@ -64,10 +55,8 @@ TEMPLATE_INTERESTS_FILE = open('../_templates/interests.md', 'r')
 TEMPLATE_INTERESTS = Template(TEMPLATE_INTERESTS_FILE.read())
 TEMPLATE_INTERESTS_FILE.close()
 
-MEMBER_MAP = {}
 INTERESTS_MAP = {}
-MEMBER_SLUG_MAP = {}
-MEMBER_ALL_LIST = []
+MEMBER_ALL_LIST = {}
 
 for member in MEMBERS:
 
@@ -95,6 +84,7 @@ for member in MEMBERS:
             })
 
     member_interests = []
+    member_interests_list = ''
 
     for biography_entry in member.find('BiographyEntries'):
         if biography_entry.attrib['Category_Id'] == '1':
@@ -103,6 +93,8 @@ for member in MEMBERS:
                 interest_clean_name = interest.strip().title()
                 if interest_clean_name != '':
                     member_interests.append(interest_clean_name)
+                    member_interests_list = member_interests_list + '''
+<li><a href="interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
                     if not interest_clean_name in INTERESTS_MAP:
                         INTERESTS_MAP[interest_clean_name] = []
                     INTERESTS_MAP[interest_clean_name].append(member_id)
@@ -112,34 +104,16 @@ for member in MEMBERS:
         'id': member_id,
         'display_name': member.find('DisplayAs').text,
         'party_name': member.find('Party').text,
-        'party_colour': get_colour(member.find('Party').text),
+        'party_slug': slugify(member.find('Party').text),
         'interests': member_interests,
-        'constituency_name': member.find('MemberFrom').text
+        'interests_list': member_interests_list,
+        'constituency_name': member.find('MemberFrom').text,
+        'constituency_slug': slugify(member.find('MemberFrom').text),
+        'house_name': member.find('House').text,
+        'house_slug': slugify(member.find('House').text)
     }
 
-    person_interests_list = ''
-
-    for interest in member_interests:
-        person_interests_list = person_interests_list + '''
-<li><a href="/interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
-
-    member_template_data = {
-        'slug': member_slug,
-        'display_name': member.find('DisplayAs').text,
-        'party_name': member.find('Party').text,
-        'party_colour': get_colour(member.find('Party').text),
-        'interests_list': person_interests_list,
-        'constituency_name': member.find('MemberFrom').text
-    }
-
-    MEMBER_MAP[member_id] = member_data
-    MEMBER_SLUG_MAP[member_slug] = member_id
-    MEMBER_ALL_LIST.append({'name': member.find('DisplayAs').text})
-
-    # Write this member's data
-
-    with open(MEMBER_DATA_FOLDER + '/' + member_id + '.json', 'w') as output_file:
-        output_file.write(json.dumps(member_data, indent=4))
+    MEMBER_ALL_LIST[member_id] = member_data
 
     # Make sure there's a more data file, and spit out their page file.
 
@@ -147,22 +121,22 @@ for member in MEMBERS:
         open(MEMBER_MORE_FOLDER + '/' + member_slug + '.html', 'a').close()
 
     with open(MEMBER_PAGE_FOLDER + '/' + member_slug + '.html', 'w') as output_file:
-        output_file.write(TEMPLATE_MEMBER.substitute(member_template_data).encode('utf8'))
+        output_file.write(TEMPLATE_MEMBER.substitute(member_data).encode('utf8'))
 
 # Spit out the interests file!
 
-interests_list = ''
+INTERESTS_LIST = ''
 
 for interest in INTERESTS_MAP.keys():
-    interests_list = interests_list + '''
+    INTERESTS_LIST = INTERESTS_LIST + '''
 * [''' + interest.encode('utf-8') + '](/interests/' + slugify(interest) + '.html)'
 
-interests_data = {
-    'interests_list': interests_list
+INTERESTS_DATA = {
+    'interests_list': INTERESTS_LIST
 }
 
 with open(INTERESTS_PAGE_FOLDER + '/index.md', 'w') as output_file:
-    output_file.write(TEMPLATE_INTERESTS.substitute(interests_data))
+    output_file.write(TEMPLATE_INTERESTS.substitute(INTERESTS_DATA))
 
 # Spit out individual interest files!
 
@@ -174,7 +148,7 @@ for interest, people in INTERESTS_MAP.iteritems():
 
     for person in people:
         interests_people_list = interests_people_list + '''
-* [''' + MEMBER_MAP[person]['display_name'] + '](/members/' + MEMBER_MAP[person]['slug'] + '.html)'
+* [''' + MEMBER_ALL_LIST[person]['display_name'] + '](members/' + MEMBER_ALL_LIST[person]['slug'] + '.html)'
 
     interest_data = {
         'slug': interest_slug,
@@ -188,15 +162,12 @@ for interest, people in INTERESTS_MAP.iteritems():
     with open(INTERESTS_PAGE_FOLDER + '/' + interest_slug + '.md', 'w') as output_file:
         output_file.write(TEMPLATE_INTEREST.substitute(interest_data).encode('utf8'))
 
-# Write out the data maps in case we need to look things up
+# Spit out the interests map
 
 with open(INTERESTS_DATA_FOLDER + '/map.json', 'w') as output_file:
     output_file.write(json.dumps(INTERESTS_MAP, indent=4))
 
-with open(MEMBER_DATA_FOLDER + '/map.json', 'w') as output_file:
-    output_file.write(json.dumps(MEMBER_SLUG_MAP, indent=4))
-
-# Spit out the files for visualisation
+# Spit out the all members file
 
 with open(MEMBER_DATA_FOLDER + '/all.json', 'w') as output_file:
     output_file.write(json.dumps(MEMBER_ALL_LIST, indent=4))

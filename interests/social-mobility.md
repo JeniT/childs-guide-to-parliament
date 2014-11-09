@@ -14,12 +14,12 @@ title: "Social Mobility"
 ### Who is interested in Social Mobility?
 
 
-* [Adam Afriyie](/members/adam-afriyie.html)
-* [Mr Aidan Burley](/members/mr-aidan-burley.html)
-* [Damian Collins](/members/damian-collins.html)
-* [Mrs Helen Grant](/members/mrs-helen-grant.html)
-* [Damian Hinds](/members/damian-hinds.html)
-* [Mr Marcus Jones](/members/mr-marcus-jones.html)
-* [Jack Lopresti](/members/jack-lopresti.html)
-* [Esther McVey](/members/esther-mcvey.html)
-* [Eric Ollerenshaw](/members/eric-ollerenshaw.html)
+* [Adam Afriyie](members/adam-afriyie.html)
+* [Mr Aidan Burley](members/mr-aidan-burley.html)
+* [Damian Collins](members/damian-collins.html)
+* [Mrs Helen Grant](members/mrs-helen-grant.html)
+* [Damian Hinds](members/damian-hinds.html)
+* [Mr Marcus Jones](members/mr-marcus-jones.html)
+* [Jack Lopresti](members/jack-lopresti.html)
+* [Esther McVey](members/esther-mcvey.html)
+* [Eric Ollerenshaw](members/eric-ollerenshaw.html)

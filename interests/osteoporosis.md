@@ -14,4 +14,4 @@ title: "Osteoporosis"
 ### Who is interested in Osteoporosis?
 
 
-* [Lorely Burt](/members/lorely-burt.html)
+* [Lorely Burt](members/lorely-burt.html)

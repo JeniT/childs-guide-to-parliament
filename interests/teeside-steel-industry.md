@@ -14,4 +14,4 @@ title: "Teeside Steel Industry"
 ### Who is interested in Teeside Steel Industry?
 
 
-* [Tom Blenkinsop](/members/tom-blenkinsop.html)
+* [Tom Blenkinsop](members/tom-blenkinsop.html)

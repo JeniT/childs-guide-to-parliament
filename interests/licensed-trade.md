@@ -14,4 +14,4 @@ title: "Licensed Trade"
 ### Who is interested in Licensed Trade?
 
 
-* [Sir Roger Gale](/members/sir-roger-gale.html)
+* [Sir Roger Gale](members/sir-roger-gale.html)

@@ -14,4 +14,4 @@ title: "Low Pay"
 ### Who is interested in Low Pay?
 
 
-* [Lisa Nandy](/members/lisa-nandy.html)
+* [Lisa Nandy](members/lisa-nandy.html)

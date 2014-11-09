@@ -14,4 +14,4 @@ title: "Libraries"
 ### Who is interested in Libraries?
 
 
-* [Lyn Brown](/members/lyn-brown.html)
+* [Lyn Brown](members/lyn-brown.html)

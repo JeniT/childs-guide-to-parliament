@@ -14,4 +14,4 @@ title: "Mindfulness"
 ### Who is interested in Mindfulness?
 
 
-* [Chris Ruane](/members/chris-ruane.html)
+* [Chris Ruane](members/chris-ruane.html)

@@ -14,4 +14,4 @@ title: "Veterans Affairs"
 ### Who is interested in Veterans Affairs?
 
 
-* [Mr Gordon Marsden](/members/mr-gordon-marsden.html)
+* [Mr Gordon Marsden](members/mr-gordon-marsden.html)

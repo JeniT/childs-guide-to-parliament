@@ -14,6 +14,6 @@ title: "Armed Forces"
 ### Who is interested in Armed Forces?
 
 
-* [Andrew Bridgen](/members/andrew-bridgen.html)
-* [Mr Jeremy Browne](/members/mr-jeremy-browne.html)
-* [John Glen](/members/john-glen.html)
+* [Andrew Bridgen](members/andrew-bridgen.html)
+* [Mr Jeremy Browne](members/mr-jeremy-browne.html)
+* [John Glen](members/john-glen.html)

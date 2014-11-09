@@ -14,6 +14,6 @@ title: "Development"
 ### Who is interested in Development?
 
 
-* [Vince Cable](/members/vince-cable.html)
-* [Mr Mark Prisk](/members/mr-mark-prisk.html)
-* [Justin Tomlinson](/members/justin-tomlinson.html)
+* [Vince Cable](members/vince-cable.html)
+* [Mr Mark Prisk](members/mr-mark-prisk.html)
+* [Justin Tomlinson](members/justin-tomlinson.html)

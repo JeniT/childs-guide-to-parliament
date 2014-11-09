@@ -14,4 +14,4 @@ title: "Rural Interests"
 ### Who is interested in Rural Interests?
 
 
-* [Mark Garnier](/members/mark-garnier.html)
+* [Mark Garnier](members/mark-garnier.html)

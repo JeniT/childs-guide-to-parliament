@@ -14,9 +14,9 @@ title: "Higher Education"
 ### Who is interested in Higher Education?
 
 
-* [Tom Blenkinsop](/members/tom-blenkinsop.html)
-* [Eric Joyce](/members/eric-joyce.html)
-* [Ann McKechin](/members/ann-mckechin.html)
-* [Nicky Morgan](/members/nicky-morgan.html)
-* [Greg Mulholland](/members/greg-mulholland.html)
-* [Dr Alan Whitehead](/members/dr-alan-whitehead.html)
+* [Tom Blenkinsop](members/tom-blenkinsop.html)
+* [Eric Joyce](members/eric-joyce.html)
+* [Ann McKechin](members/ann-mckechin.html)
+* [Nicky Morgan](members/nicky-morgan.html)
+* [Greg Mulholland](members/greg-mulholland.html)
+* [Dr Alan Whitehead](members/dr-alan-whitehead.html)

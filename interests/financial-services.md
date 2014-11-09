@@ -14,8 +14,8 @@ title: "Financial Services"
 ### Who is interested in Financial Services?
 
 
-* [Greg Clark](/members/greg-clark.html)
-* [Jackie Doyle-Price](/members/jackie-doyle-price.html)
-* [Mr Philip Dunne](/members/mr-philip-dunne.html)
-* [Mark Field](/members/mark-field.html)
-* [Mrs Theresa Villiers](/members/mrs-theresa-villiers.html)
+* [Greg Clark](members/greg-clark.html)
+* [Jackie Doyle-Price](members/jackie-doyle-price.html)
+* [Mr Philip Dunne](members/mr-philip-dunne.html)
+* [Mark Field](members/mark-field.html)
+* [Mrs Theresa Villiers](members/mrs-theresa-villiers.html)

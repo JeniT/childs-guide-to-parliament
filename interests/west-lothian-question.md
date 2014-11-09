@@ -14,4 +14,4 @@ title: "West Lothian Question"
 ### Who is interested in West Lothian Question?
 
 
-* [Harriett Baldwin](/members/harriett-baldwin.html)
+* [Harriett Baldwin](members/harriett-baldwin.html)

@@ -14,4 +14,4 @@ title: "Euro"
 ### Who is interested in Euro?
 
 
-* [Mr John Redwood](/members/mr-john-redwood.html)
+* [Mr John Redwood](members/mr-john-redwood.html)

@@ -14,4 +14,4 @@ title: "Personal Debt"
 ### Who is interested in Personal Debt?
 
 
-* [Lorely Burt](/members/lorely-burt.html)
+* [Lorely Burt](members/lorely-burt.html)

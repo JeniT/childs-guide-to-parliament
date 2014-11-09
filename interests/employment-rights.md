@@ -14,7 +14,7 @@ title: "Employment Rights"
 ### Who is interested in Employment Rights?
 
 
-* [Lilian Greenwood](/members/lilian-greenwood.html)
-* [Diana Johnson](/members/diana-johnson.html)
-* [Jim McGovern](/members/jim-mcgovern.html)
-* [Jim Sheridan](/members/jim-sheridan.html)
+* [Lilian Greenwood](members/lilian-greenwood.html)
+* [Diana Johnson](members/diana-johnson.html)
+* [Jim McGovern](members/jim-mcgovern.html)
+* [Jim Sheridan](members/jim-sheridan.html)

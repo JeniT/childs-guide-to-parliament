@@ -14,6 +14,6 @@ title: "Community Cohesion"
 ### Who is interested in Community Cohesion?
 
 
-* [Jon Cruddas](/members/jon-cruddas.html)
-* [Robert Halfon](/members/robert-halfon.html)
-* [Mr David Ward](/members/mr-david-ward.html)
+* [Jon Cruddas](members/jon-cruddas.html)
+* [Robert Halfon](members/robert-halfon.html)
+* [Mr David Ward](members/mr-david-ward.html)

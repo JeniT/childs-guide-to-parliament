@@ -14,8 +14,8 @@ title: "Further Education"
 ### Who is interested in Further Education?
 
 
-* [Tom Blenkinsop](/members/tom-blenkinsop.html)
-* [John Cryer](/members/john-cryer.html)
-* [Stephen Lloyd](/members/stephen-lloyd.html)
-* [Steve Rotheram](/members/steve-rotheram.html)
-* [Mr Barry Sheerman](/members/mr-barry-sheerman.html)
+* [Tom Blenkinsop](members/tom-blenkinsop.html)
+* [John Cryer](members/john-cryer.html)
+* [Stephen Lloyd](members/stephen-lloyd.html)
+* [Steve Rotheram](members/steve-rotheram.html)
+* [Mr Barry Sheerman](members/mr-barry-sheerman.html)

@@ -14,5 +14,5 @@ title: "Communications"
 ### Who is interested in Communications?
 
 
-* [Bob Blackman](/members/bob-blackman.html)
-* [John Robertson](/members/john-robertson.html)
+* [Bob Blackman](members/bob-blackman.html)
+* [John Robertson](members/john-robertson.html)

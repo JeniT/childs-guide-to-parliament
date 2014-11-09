@@ -14,5 +14,5 @@ title: "Dementia"
 ### Who is interested in Dementia?
 
 
-* [Tracey Crouch](/members/tracey-crouch.html)
-* [Mike Freer](/members/mike-freer.html)
+* [Tracey Crouch](members/tracey-crouch.html)
+* [Mike Freer](members/mike-freer.html)

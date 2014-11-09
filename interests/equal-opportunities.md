@@ -14,6 +14,6 @@ title: "Equal Opportunities"
 ### Who is interested in Equal Opportunities?
 
 
-* [Yvette Cooper](/members/yvette-cooper.html)
-* [Ian Murray](/members/ian-murray.html)
-* [Dame Dawn Primarolo](/members/dame-dawn-primarolo.html)
+* [Yvette Cooper](members/yvette-cooper.html)
+* [Ian Murray](members/ian-murray.html)
+* [Dame Dawn Primarolo](members/dame-dawn-primarolo.html)

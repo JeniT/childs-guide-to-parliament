@@ -14,4 +14,4 @@ title: "Architecture"
 ### Who is interested in Architecture?
 
 
-* [Mr Edward Vaizey](/members/mr-edward-vaizey.html)
+* [Mr Edward Vaizey](members/mr-edward-vaizey.html)

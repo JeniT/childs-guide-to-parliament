@@ -14,6 +14,6 @@ title: "Commerce"
 ### Who is interested in Commerce?
 
 
-* [Mark Lancaster](/members/mark-lancaster.html)
-* [David Mundell](/members/david-mundell.html)
-* [Sir Richard Ottaway](/members/sir-richard-ottaway.html)
+* [Mark Lancaster](members/mark-lancaster.html)
+* [David Mundell](members/david-mundell.html)
+* [Sir Richard Ottaway](members/sir-richard-ottaway.html)

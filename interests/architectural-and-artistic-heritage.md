@@ -14,4 +14,4 @@ title: "Architectural And Artistic Heritage"
 ### Who is interested in Architectural And Artistic Heritage?
 
 
-* [Sir Alan Beith](/members/sir-alan-beith.html)
+* [Sir Alan Beith](members/sir-alan-beith.html)

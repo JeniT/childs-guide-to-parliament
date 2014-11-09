@@ -14,12 +14,12 @@ title: "Social Affairs"
 ### Who is interested in Social Affairs?
 
 
-* [Richard Benyon](/members/richard-benyon.html)
-* [Alistair Burt](/members/alistair-burt.html)
-* [Charles Hendry](/members/charles-hendry.html)
-* [Simon Hughes](/members/simon-hughes.html)
-* [Norman Lamb](/members/norman-lamb.html)
-* [Mr Gordon Marsden](/members/mr-gordon-marsden.html)
-* [Meg Munn](/members/meg-munn.html)
-* [Steve Webb](/members/steve-webb.html)
-* [Hywel Williams](/members/hywel-williams.html)
+* [Richard Benyon](members/richard-benyon.html)
+* [Alistair Burt](members/alistair-burt.html)
+* [Charles Hendry](members/charles-hendry.html)
+* [Simon Hughes](members/simon-hughes.html)
+* [Norman Lamb](members/norman-lamb.html)
+* [Mr Gordon Marsden](members/mr-gordon-marsden.html)
+* [Meg Munn](members/meg-munn.html)
+* [Steve Webb](members/steve-webb.html)
+* [Hywel Williams](members/hywel-williams.html)

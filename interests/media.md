@@ -14,13 +14,13 @@ title: "Media"
 ### Who is interested in Media?
 
 
-* [Steve Brine](/members/steve-brine.html)
-* [Andy Burnham](/members/andy-burnham.html)
-* [Sir William Cash](/members/sir-william-cash.html)
-* [Mr Don Foster](/members/mr-don-foster.html)
-* [Sir Roger Gale](/members/sir-roger-gale.html)
-* [Damian Green](/members/damian-green.html)
-* [Sir Gerald Howarth](/members/sir-gerald-howarth.html)
-* [Sir Alan Meale](/members/sir-alan-meale.html)
-* [Maria Miller](/members/maria-miller.html)
-* [Austin Mitchell](/members/austin-mitchell.html)
+* [Steve Brine](members/steve-brine.html)
+* [Andy Burnham](members/andy-burnham.html)
+* [Sir William Cash](members/sir-william-cash.html)
+* [Mr Don Foster](members/mr-don-foster.html)
+* [Sir Roger Gale](members/sir-roger-gale.html)
+* [Damian Green](members/damian-green.html)
+* [Sir Gerald Howarth](members/sir-gerald-howarth.html)
+* [Sir Alan Meale](members/sir-alan-meale.html)
+* [Maria Miller](members/maria-miller.html)
+* [Austin Mitchell](members/austin-mitchell.html)

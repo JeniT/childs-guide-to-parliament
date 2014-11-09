@@ -14,4 +14,4 @@ title: "Economics Of Small States"
 ### Who is interested in Economics Of Small States?
 
 
-* [Mr Angus Brendan MacNeil](/members/mr-angus-brendan-macneil.html)
+* [Mr Angus Brendan MacNeil](members/mr-angus-brendan-macneil.html)

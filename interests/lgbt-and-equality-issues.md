@@ -14,4 +14,4 @@ title: "Lgbt And Equality Issues"
 ### Who is interested in Lgbt And Equality Issues?
 
 
-* [John Bercow](/members/john-bercow.html)
+* [John Bercow](members/john-bercow.html)

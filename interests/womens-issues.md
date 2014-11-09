@@ -14,5 +14,5 @@ title: "Women'S Issues"
 ### Who is interested in Women'S Issues?
 
 
-* [Margaret Curran](/members/margaret-curran.html)
-* [Mr Brooks Newmark](/members/mr-brooks-newmark.html)
+* [Margaret Curran](members/margaret-curran.html)
+* [Mr Brooks Newmark](members/mr-brooks-newmark.html)

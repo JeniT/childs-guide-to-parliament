@@ -14,4 +14,4 @@ title: "Coal"
 ### Who is interested in Coal?
 
 
-* [Dr Hywel Francis](/members/dr-hywel-francis.html)
+* [Dr Hywel Francis](members/dr-hywel-francis.html)

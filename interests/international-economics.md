@@ -14,4 +14,4 @@ title: "International Economics"
 ### Who is interested in International Economics?
 
 
-* [Sir Alan Duncan](/members/sir-alan-duncan.html)
+* [Sir Alan Duncan](members/sir-alan-duncan.html)

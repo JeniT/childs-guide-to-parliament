@@ -14,6 +14,6 @@ title: "Social Services"
 ### Who is interested in Social Services?
 
 
-* [Ms Harriet Harman](/members/ms-harriet-harman.html)
-* [Mr Eric Pickles](/members/mr-eric-pickles.html)
-* [Mr Andrew Turner](/members/mr-andrew-turner.html)
+* [Ms Harriet Harman](members/ms-harriet-harman.html)
+* [Mr Eric Pickles](members/mr-eric-pickles.html)
+* [Mr Andrew Turner](members/mr-andrew-turner.html)
