@@ -109,6 +109,7 @@ for member in MEMBERS:
     member_data = {
         'slug': member_slug,
         'id': member_id,
+        'gender': parse_gender(member.find('Gender').text),
         'display_name': member.find('DisplayAs').text,
         'party_name': member.find('Party').text,
         'party_slug': slugify(member.find('Party').text),
