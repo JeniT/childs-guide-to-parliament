@@ -15,30 +15,30 @@ A2
 Q3 - Who is the current Prime Minister?
 
 A3
-- David Cameron
 - Gordon Brown
 - Barack Obama
+- David Cameron
 
 Q4 - What is a Bill?
 
 A4
-- a proposed new law being discussed by MPs and Lords
 - money to be paid by the people in tax
+- a proposed new law being discussed by MPs and Lords
 - a law once it has been made or passed by Parliament
 
 Q5 - Which Party has the most MPs in the House of Commons?
 
 A5
 - Conservative Party
-- Labour Party
 - Liberal Democrats
+- Labour Party
 
 Q6 - What is a female member of the House of Lords called?
 
 A6
 - Lady
-- Baroness
 - Princess
+- Baroness
 
 
 
