@@ -11,13 +11,14 @@ var memberParty = function ( mp ) {
 	return "<span class='label' style='background-color: " + mp.party_colour + ";'>" + mp.party_name + "</span>";
 };
 
+var searchHouse = $('#hansardSearchHouse').val();
+
 $('#hansardSearchForm').submit(
 	function( event ) {
 		var searchText = $('#hansardSearchText').val();
-		var searchHouse = $('#hansardSearchHouse').val();
 		var $searchResults = $('#hansardSearchResults');
 		var $mpResults = $('#hansardMPs');
-		var mpsOrLords = searchHouse === 'Commons' ? 'MPs' : 'Lords';
+		var mpsOrLords = searchHouse === 'commons' ? 'MPs' : 'Lords';
 		var searchUrl = searchBaseUrl + "&house=" + searchHouse + "&SearchTerm=" + searchText;
 
 		$searchResults.html("<h4>Debates about " + searchText + "</h4>");
@@ -113,21 +114,24 @@ $('#hansardSearchForm').submit(
 );
 
 $(document).ready(function () {
+
 	$.getJSON('data/members/all.json', function (data) {
 		var mpDatas = [];
 		$.each(data, function (key, val) {
-			mpDatas.push(val);
+			if (val.house_slug === searchHouse) {
+				mpDatas.push(val);
+			}
 		});
 
 		d3.select("#memberViz").selectAll("div")
 		    .data(mpDatas)
-		  .enter().append("p")
+		  .enter().append("span")
 		    .html(function(d) { 
 		    	var img = '';
 		    	if (d.house_slug === 'commons') {
-		    		img = 'male_mp';
+		    		img = d.gender + '_mp';
 		    	} else {
-		    		img = 'lord';
+		    		img = d.gender === 'male' ? 'lord' : 'baroness';
 		    	}
 		    	return "<img height='32px' src='assets/images/" + img + "/" + img + ".png'>"; 
 		    });
