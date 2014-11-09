@@ -40,7 +40,5 @@ A6
 - Baroness
 - Princess
 
-Q7 - 
-
 
 
