@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/oldham-east-and-saddleworth.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/oldham-east-and-saddleworth.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

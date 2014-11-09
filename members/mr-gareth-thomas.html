@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/harrow-west.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/harrow-west.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

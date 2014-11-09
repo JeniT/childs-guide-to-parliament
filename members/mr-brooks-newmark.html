@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/braintree.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/braintree.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

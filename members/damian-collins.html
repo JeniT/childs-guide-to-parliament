@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/folkestone-and-hythe.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/folkestone-and-hythe.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

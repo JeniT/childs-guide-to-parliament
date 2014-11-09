@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/salford-and-eccles.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/salford-and-eccles.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

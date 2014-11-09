@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/ealing-central-and-acton.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/ealing-central-and-acton.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/monmouth.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/monmouth.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

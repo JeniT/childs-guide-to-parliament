@@ -40,7 +40,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/na-h-eileanan-an-iar.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/na-h-eileanan-an-iar.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -49,7 +49,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/east-worthing-and-shoreham.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/east-worthing-and-shoreham.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

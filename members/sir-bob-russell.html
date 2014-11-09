@@ -47,7 +47,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/colchester.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/colchester.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -48,7 +48,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/edinburgh-north-and-leith.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/edinburgh-north-and-leith.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

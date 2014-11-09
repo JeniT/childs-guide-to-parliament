@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/great-yarmouth.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/great-yarmouth.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -42,7 +42,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/sittingbourne-and-sheppey.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/sittingbourne-and-sheppey.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

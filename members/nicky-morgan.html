@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/loughborough.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/loughborough.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/gillingham-and-rainham.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/gillingham-and-rainham.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

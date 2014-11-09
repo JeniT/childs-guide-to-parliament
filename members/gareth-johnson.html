@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/dartford.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/dartford.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

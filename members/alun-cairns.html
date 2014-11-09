@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/vale-of-glamorgan.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/vale-of-glamorgan.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

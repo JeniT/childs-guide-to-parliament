@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/chesterfield.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/chesterfield.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

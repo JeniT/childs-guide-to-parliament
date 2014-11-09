@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/barnsley-central.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/barnsley-central.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

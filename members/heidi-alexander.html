@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/lewisham-east.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/lewisham-east.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

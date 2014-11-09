@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/bracknell.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/bracknell.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

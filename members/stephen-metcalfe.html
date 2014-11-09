@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/south-basildon-and-east-thurrock.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/south-basildon-and-east-thurrock.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

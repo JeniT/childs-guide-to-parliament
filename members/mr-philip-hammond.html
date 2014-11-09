@@ -48,7 +48,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/runnymede-and-weybridge.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/runnymede-and-weybridge.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -47,7 +47,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/glasgow-north-west.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/glasgow-north-west.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/dundee-east.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/dundee-east.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

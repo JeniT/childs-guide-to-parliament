@@ -39,7 +39,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/south-staffordshire.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/south-staffordshire.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

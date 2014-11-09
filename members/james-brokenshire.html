@@ -42,7 +42,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/old-bexley-and-sidcup.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/old-bexley-and-sidcup.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

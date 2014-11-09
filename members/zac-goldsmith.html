@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/richmond-park.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/richmond-park.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

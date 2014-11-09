@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/stretford-and-urmston.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/stretford-and-urmston.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

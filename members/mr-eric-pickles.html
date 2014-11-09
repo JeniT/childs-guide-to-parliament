@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/brentwood-and-ongar.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/brentwood-and-ongar.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

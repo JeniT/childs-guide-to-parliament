@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/sutton-and-cheam.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/sutton-and-cheam.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

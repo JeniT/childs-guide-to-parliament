@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/hartlepool.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/hartlepool.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

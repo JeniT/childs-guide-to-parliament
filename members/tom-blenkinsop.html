@@ -52,7 +52,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/middlesbrough-south-and-east-cleveland.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/middlesbrough-south-and-east-cleveland.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

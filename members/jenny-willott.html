@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/cardiff-central.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/cardiff-central.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

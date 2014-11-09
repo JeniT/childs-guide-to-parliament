@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/inverness-nairn-badenoch-and-strathspey.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/inverness-nairn-badenoch-and-strathspey.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/ayr-carrick-and-cumnock.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/ayr-carrick-and-cumnock.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

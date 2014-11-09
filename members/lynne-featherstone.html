@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/hornsey-and-wood-green.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/hornsey-and-wood-green.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

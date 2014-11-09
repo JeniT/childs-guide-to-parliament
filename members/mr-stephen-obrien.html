@@ -51,7 +51,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/eddisbury.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/eddisbury.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

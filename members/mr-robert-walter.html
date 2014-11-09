@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/north-dorset.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/north-dorset.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

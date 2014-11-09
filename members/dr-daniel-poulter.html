@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/central-suffolk-and-north-ipswich.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/central-suffolk-and-north-ipswich.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

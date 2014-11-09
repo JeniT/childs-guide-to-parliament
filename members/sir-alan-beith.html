@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/berwick-upon-tweed.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/berwick-upon-tweed.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

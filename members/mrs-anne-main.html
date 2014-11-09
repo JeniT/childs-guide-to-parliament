@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/st-albans.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/st-albans.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

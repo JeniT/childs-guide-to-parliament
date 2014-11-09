@@ -42,7 +42,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/mole-valley.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/mole-valley.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

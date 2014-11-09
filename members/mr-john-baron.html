@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/basildon-and-billericay.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/basildon-and-billericay.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

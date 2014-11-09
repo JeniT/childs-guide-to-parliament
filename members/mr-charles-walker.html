@@ -43,7 +43,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/broxbourne.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/broxbourne.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

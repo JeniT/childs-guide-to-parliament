@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/holborn-and-st-pancras.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/holborn-and-st-pancras.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

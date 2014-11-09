@@ -48,7 +48,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/lewisham-west-and-penge.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/lewisham-west-and-penge.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

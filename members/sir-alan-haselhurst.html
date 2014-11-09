@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/saffron-walden.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/saffron-walden.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/romford.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/romford.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

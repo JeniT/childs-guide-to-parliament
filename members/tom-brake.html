@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/carshalton-and-wallington.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/carshalton-and-wallington.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

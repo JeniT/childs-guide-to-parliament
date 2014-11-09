@@ -41,7 +41,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/morley-and-outwood.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/morley-and-outwood.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

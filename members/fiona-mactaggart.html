@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/slough.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/slough.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

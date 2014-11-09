@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/wirral-south.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/wirral-south.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

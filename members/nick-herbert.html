@@ -42,7 +42,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/arundel-and-south-downs.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/arundel-and-south-downs.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

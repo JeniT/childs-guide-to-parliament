@@ -39,7 +39,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/dunfermline-and-west-fife.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/dunfermline-and-west-fife.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

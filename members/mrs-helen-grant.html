@@ -47,7 +47,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/maidstone-and-the-weald.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/maidstone-and-the-weald.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

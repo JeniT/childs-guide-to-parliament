@@ -42,7 +42,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/cheltenham.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/cheltenham.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

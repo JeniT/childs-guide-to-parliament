@@ -45,7 +45,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/brent-north.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/brent-north.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

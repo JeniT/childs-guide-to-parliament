@@ -47,7 +47,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/hornchurch-and-upminster.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/hornchurch-and-upminster.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

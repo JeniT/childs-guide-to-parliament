@@ -44,7 +44,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/birmingham-hall-green.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/birmingham-hall-green.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

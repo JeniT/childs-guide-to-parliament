@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/kilmarnock-and-loudoun.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/kilmarnock-and-loudoun.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {

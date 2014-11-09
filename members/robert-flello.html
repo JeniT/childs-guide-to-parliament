@@ -46,7 +46,7 @@ house: commons
                     });
 
                     var featureLayer = L.mapbox.featureLayer()
-                        .loadURL('{{site.baseurl}}/data/boundaries/stoke-on-trent-south.json')
+                        .loadURL('{{site.baseurl}}/data/boundaries/stoke-on-trent-south.geojson')
                         .addTo(map);
 
                     featureLayer.on('ready', function() {
