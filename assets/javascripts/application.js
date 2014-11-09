@@ -111,3 +111,26 @@ $('#hansardSearchForm').submit(
 		event.preventDefault();
 	}
 );
+
+$(document).ready(function () {
+	$.getJSON('data/members/all.json', function (data) {
+		var mpDatas = [];
+		$.each(data, function (key, val) {
+			mpDatas.push(val);
+		});
+
+		d3.select("#memberViz").selectAll("div")
+		    .data(mpDatas)
+		  .enter().append("p")
+		    .html(function(d) { 
+		    	var img = '';
+		    	if (d.house_slug === 'commons') {
+		    		img = 'male_mp';
+		    	} else {
+		    		img = 'lord';
+		    	}
+		    	return "<img height='32px' src='assets/images/" + img + "/" + img + ".png'>"; 
+		    });
+	});
+});
+

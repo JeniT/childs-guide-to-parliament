@@ -17,6 +17,26 @@ $font-size-base: 16px;
 
 @import "bootstrap";
 
+.conservative-bg {
+	background-color: $partyColourConservative;
+}
+
+.labour-bg, .labour-co-op-bg {
+	background-color: $partyColourLabour;
+}
+
+.liberal-democrat-bg {
+	background-color: $partyColourLibDem;
+}
+
+.green-bg {
+	background-color: $partyColourGreen;
+}
+
+.other-bg {
+	background-color: $gray;
+}
+
 .header {
 	padding-top: 25px;
 }
