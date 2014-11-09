@@ -40,6 +40,12 @@ def parse_gender(gender):
         'F': 'female',
     }.get(gender, 'unknown')
 
+def gender_article(gender):
+    return {
+        'M': 'he is',
+        'F': 'she is',
+    }.get(gender, 'they are')
+
 TEMPLATE_COMMONS_FILE = open('../_templates/member-commons.html', 'r')
 TEMPLATE_COMMONS = Template(TEMPLATE_COMMONS_FILE.read())
 TEMPLATE_COMMONS_FILE.close()
@@ -67,7 +73,8 @@ MEMBER_ALL_LIST = {}
 
 for member in MEMBERS:
 
-    member_slug = slugify(member.find('DisplayAs').text)
+    member_display_name = member.find('DisplayAs').text
+    member_slug = slugify(member_display_name)
     member_id = member.attrib['Member_Id']
 
     member_committees = []
@@ -91,7 +98,6 @@ for member in MEMBERS:
             })
 
     member_interests = []
-    member_interests_list = ''
 
     for biography_entry in member.find('BiographyEntries'):
         if biography_entry.attrib['Category_Id'] == '1':
@@ -100,17 +106,23 @@ for member in MEMBERS:
                 interest_clean_name = interest.strip().title()
                 if interest_clean_name != '':
                     member_interests.append(interest_clean_name)
-                    member_interests_list = member_interests_list + '''
-<li><a href="interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
                     if not interest_clean_name in INTERESTS_MAP:
                         INTERESTS_MAP[interest_clean_name] = []
                     INTERESTS_MAP[interest_clean_name].append(member_id)
+
+    if len(member_interests) > 0:
+        member_interests_list = ''
+        for interest in member_interests:
+            member_interests_list = member_interests_list + '''
+<li><a href="../interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
+    else:
+        member_interests_list = '<p>' + member_display_name + ' hasn\'t said ' + gender_article(member.find('Gender').text) + ' interested in anything! Why not <a href="http://www.writetothem.com">write to them</a> and ask?</p>'
 
     member_data = {
         'slug': member_slug,
         'id': member_id,
         'gender': parse_gender(member.find('Gender').text),
-        'display_name': member.find('DisplayAs').text,
+        'display_name': member_display_name,
         'party_name': member.find('Party').text,
         'party_slug': slugify(member.find('Party').text),
         'interests': member_interests,
@@ -137,7 +149,7 @@ INTERESTS_LIST = ''
 
 for interest in INTERESTS_MAP.keys():
     INTERESTS_LIST = INTERESTS_LIST + '''
-* [''' + interest.encode('utf-8') + '](/interests/' + slugify(interest) + '.html)'
+* [''' + interest.encode('utf-8') + '](' + slugify(interest) + '.html)'
 
 INTERESTS_DATA = {
     'interests_list': INTERESTS_LIST
