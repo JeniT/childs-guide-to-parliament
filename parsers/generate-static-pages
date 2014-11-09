@@ -114,7 +114,7 @@ for member in MEMBERS:
         member_interests_list = ''
         for interest in member_interests:
             member_interests_list = member_interests_list + '''
-<li><a href="../interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
+<li><a href="/interests/''' + slugify(interest) + '.html">' + interest + '</a></li>'
     else:
         member_interests_list = '<p>' + member_display_name + ' hasn\'t said ' + gender_article(member.find('Gender').text) + ' interested in anything! Why not <a href="http://www.writetothem.com">write to them</a> and ask?</p>'
 
