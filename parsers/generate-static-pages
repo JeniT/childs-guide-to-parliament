@@ -11,9 +11,6 @@ from datetime import datetime
 from slugify import slugify
 from string import Template
 
-# The URL we're going to get the data from
-SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/IsEligible=true/Committees|BiographyEntries/'
-
 # Where we store a copy of the file locally
 SOURCE_FILE_DESTINATION = '../_source/members.xml'
 
@@ -43,9 +40,19 @@ def parse_gender(gender):
         'F': 'female',
     }.get(gender, 'unknown')
 
-TEMPLATE_MEMBER_FILE = open('../_templates/member.html', 'r')
-TEMPLATE_MEMBER = Template(TEMPLATE_MEMBER_FILE.read())
-TEMPLATE_MEMBER_FILE.close()
+TEMPLATE_COMMONS_FILE = open('../_templates/member-commons.html', 'r')
+TEMPLATE_COMMONS = Template(TEMPLATE_COMMONS_FILE.read())
+TEMPLATE_COMMONS_FILE.close()
+
+TEMPLATE_LORDS_FILE = open('../_templates/member-lords.html', 'r')
+TEMPLATE_LORDS = Template(TEMPLATE_LORDS_FILE.read())
+TEMPLATE_LORDS_FILE.close()
+
+def member_template(house):
+    return {
+        'commons': TEMPLATE_COMMONS,
+        'lords': TEMPLATE_LORDS,
+    }[house]
 
 TEMPLATE_INTEREST_FILE = open('../_templates/interest.md', 'r')
 TEMPLATE_INTEREST = Template(TEMPLATE_INTEREST_FILE.read())
@@ -102,6 +109,7 @@ for member in MEMBERS:
     member_data = {
         'slug': member_slug,
         'id': member_id,
+        'gender': parse_gender(member.find('Gender').text),
         'display_name': member.find('DisplayAs').text,
         'party_name': member.find('Party').text,
         'party_slug': slugify(member.find('Party').text),
@@ -121,7 +129,7 @@ for member in MEMBERS:
         open(MEMBER_MORE_FOLDER + '/' + member_slug + '.html', 'a').close()
 
     with open(MEMBER_PAGE_FOLDER + '/' + member_slug + '.html', 'w') as output_file:
-        output_file.write(TEMPLATE_MEMBER.substitute(member_data).encode('utf8'))
+        output_file.write(member_template(slugify(member.find('House').text)).substitute(member_data).encode('utf8'))
 
 # Spit out the interests file!
 

@@ -5,7 +5,7 @@
 import urllib2
 
 # The URL we're going to get the data from
-SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/House=Commons%7CIsEligible=true/Committees|BiographyEntries/'
+SOURCE_URL = 'http://data.parliament.uk/membersdataplatform/services/mnis/members/query/IsEligible=true/Committees|BiographyEntries/'
 
 # Where we store a copy of the file locally
 SOURCE_FILE_DESTINATION = '../_source/members.xml'

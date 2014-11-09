@@ -1,7 +1,7 @@
 ---
 layout: house
 title: The House of Commons
-house: Commons
+house: commons
 ---
 
 <iframe class="pull-right" width="560" height="315" src="//www.youtube.com/embed/dS_SLF92e5A" frameborder="0" allowfullscreen></iframe>

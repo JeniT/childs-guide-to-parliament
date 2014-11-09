@@ -1,7 +1,7 @@
 ---
 layout: house
 title: The House of Lords
-house: Lords
+house: lords
 ---
 
 <iframe class="pull-right" width="560" height="315" src="//www.youtube.com/embed/-U0LhurGWOc" frameborder="0" allowfullscreen></iframe>
