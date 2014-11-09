@@ -25,3 +25,12 @@ A4
 - a proposed new law being discussed by MPs and Lords
 - money to be paid by the people in tax
 - a law once it has been made or passed by Parliament
+- 
+
+Q5 - Which Party has the most MPs in the House of Commons?
+
+A5
+- Conservative Party
+- Labour Party
+- Liberal Democrats
+
