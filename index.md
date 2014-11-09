@@ -5,9 +5,9 @@ title: Parliament
 
 <iframe class="pull-right" width="560" height="315" src="//www.youtube.com/embed/RAMbIz3Y2JA?list=PL03FFE1F0B34AA057" frameborder="0" allowfullscreen></iframe>
 
-##Welcome
+##Welcome!
 
-The child's guide to Parliament provides information for children about the United Kingdom Parliament. You will find fun facts and figures, videos and information about what Parliament does. There is a glossary that explains complicated words, and a quiz to test your knowledge. There is also a tool for searching MPs interests.
+There's lots of fun things here about the United Kingdom Parliament. You will find lots of cool facts and figures, videos and information about what Parliament does. There is help, with a glossary explaining some of the weird words, and a quiz to test your knowledge. There is also a tool, where you can find out which MPs are most interested in kittens! (actually you can search any area of interest, we just care about kittens!).
 
 ##What does Parliament do?
 
