@@ -44,7 +44,9 @@ house: commons
                         .loadURL('{{site.baseurl}}/data/boundaries/ayr-carrick-and-cumnock.json')
                         .addTo(map);
 
-                    map.fitBounds(featureLayer.getBounds());
+                    featureLayer.on('ready', function() {
+                        map.fitBounds(featureLayer.getBounds());
+                    });
 
                 </script>
 

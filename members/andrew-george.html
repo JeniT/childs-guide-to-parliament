@@ -59,7 +59,9 @@ house: commons
                         .loadURL('{{site.baseurl}}/data/boundaries/st-ives.json')
                         .addTo(map);
 
-                    map.fitBounds(featureLayer.getBounds());
+                    featureLayer.on('ready', function() {
+                        map.fitBounds(featureLayer.getBounds());
+                    });
 
                 </script>
 

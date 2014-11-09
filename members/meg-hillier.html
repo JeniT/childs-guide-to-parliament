@@ -42,7 +42,9 @@ house: commons
                         .loadURL('{{site.baseurl}}/data/boundaries/hackney-south-and-shoreditch.json')
                         .addTo(map);
 
-                    map.fitBounds(featureLayer.getBounds());
+                    featureLayer.on('ready', function() {
+                        map.fitBounds(featureLayer.getBounds());
+                    });
 
                 </script>
 

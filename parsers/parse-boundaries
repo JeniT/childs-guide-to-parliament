@@ -22,6 +22,6 @@ for constituency in BOUNDARY_JSON['features']:
     constituency_slug = slugify(constituency['properties']['PCON13NM'])
 
     with open(BOUNDARY_DATA_FOLDER + '/' + constituency_slug + '.json', 'w') as output_file:
-        output_file.write(json.dumps(constituency['geometry'], indent=4))
+        output_file.write(json.dumps(constituency, indent=4))
 
 print 'Hooray, all done!'

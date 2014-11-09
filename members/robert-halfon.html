@@ -55,7 +55,9 @@ house: commons
                         .loadURL('{{site.baseurl}}/data/boundaries/harlow.json')
                         .addTo(map);
 
-                    map.fitBounds(featureLayer.getBounds());
+                    featureLayer.on('ready', function() {
+                        map.fitBounds(featureLayer.getBounds());
+                    });
 
                 </script>
 
